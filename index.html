@@ -1157,7 +1157,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://upload.wikimedia.org/wikipedia/commons/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/800px-Steve_Jobs_Headshot_2010-CROP.jpg" alt="Steve Jobs" loading="lazy">
+    <img src="images/141_Steve_Jobs.jpg" alt="Steve Jobs" loading="lazy">
     <div class="label">Steve Jobs</div>
     <div class="overlay">
       <div class="cat">Tech Bro Culture</div>
@@ -1598,8 +1598,8 @@
       <div class="src"><a href="https://commons.wikimedia.org/wiki/File:Demis_Hassabis,_2024_Nobel_Prize_Laureate_in_Chemistry_(cropped).jpg" target="_blank">Wikimedia Commons</a></div>
     </div>
   </div>
-  <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Dario_Amodei_TechCrunch_Disrupt_2023.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dario_Amodei_TechCrunch_Disrupt_2023.jpg/960px-Dario_Amodei_TechCrunch_Disrupt_2023.jpg" alt="Dario Amodei" loading="lazy">
+  <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg">
+    <img src="images/142_Dario_Amodei.jpg" alt="Dario Amodei" loading="lazy">
     <div class="label">Dario Amodei — Anthropic</div>
     <div class="overlay">
       <div class="cat">AI Researchers</div>
@@ -1802,14 +1802,24 @@
 
 <footer>Beautiful Photos of AI · May 2026 · All images link to original sources</footer>
 
-<script>
-document.querySelectorAll('.tile[data-href]').forEach(t => {
-  t.addEventListener('click', e => {
-    if (e.target.closest('a')) return;
-    window.open(t.dataset.href, '_blank');
-  });
-});
+<!-- Modal -->
+<div class="modal-overlay" id="modal">
+  <div class="modal-close" id="modalClose">&times;</div>
+  <div class="modal-nav modal-prev" id="modalPrev">&#8249;</div>
+  <div class="modal-nav modal-next" id="modalNext">&#8250;</div>
+  <div class="modal-content" id="modalContent">
+    <img id="modalImg" src="" alt="">
+    <div class="modal-info">
+      <div class="modal-cat" id="modalCat"></div>
+      <h3 id="modalTitle"></h3>
+      <div class="modal-sub" id="modalSub"></div>
+      <div class="modal-desc" id="modalDesc"></div>
+      <div class="modal-source" id="modalSource"></div>
+    </div>
+  </div>
+</div>
 
+<script>
 // Modal / Lightbox
 (function(){
   const modal = document.getElementById('modal');
@@ -1890,22 +1900,5 @@ document.querySelectorAll('.tile[data-href]').forEach(t => {
 })();
 
 </script>
-
-<!-- Modal -->
-<div class="modal-overlay" id="modal">
-  <div class="modal-close" id="modalClose">&times;</div>
-  <div class="modal-nav modal-prev" id="modalPrev">&#8249;</div>
-  <div class="modal-nav modal-next" id="modalNext">&#8250;</div>
-  <div class="modal-content" id="modalContent">
-    <img id="modalImg" src="" alt="">
-    <div class="modal-info">
-      <div class="modal-cat" id="modalCat"></div>
-      <h3 id="modalTitle"></h3>
-      <div class="modal-sub" id="modalSub"></div>
-      <div class="modal-desc" id="modalDesc"></div>
-      <div class="modal-source" id="modalSource"></div>
-    </div>
-  </div>
-</div>
 </body>
 </html>
