@@ -52,13 +52,15 @@
     letter-spacing: 0.08em; color: #2383e2; margin-bottom: 2px;
   }
   .tile {
-    position: relative; overflow: hidden; background: #fff;
+    position: relative; overflow: hidden; background: var(--placeholder-bg, #e8e5e0);
     cursor: pointer; break-inside: avoid;
     margin-bottom: 8px; border-radius: 12px;
     display: block; text-decoration: none;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 0 0 1px rgba(0,0,0,0.04);
     transition: box-shadow 0.2s ease, transform 0.2s ease;
+    min-height: 140px;
   }
+  .tile.img-loaded { background: #fff; min-height: 0; }
   .tile:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12), 0 0 0 1px rgba(0,0,0,0.06); transform: translateY(-2px); }
   .tile img {
     width: 100%; height: auto; display: block;
@@ -2621,13 +2623,30 @@
   });
 })();
 
+// Placeholder colors — muted palette that looks nice while images load
+(function() {
+  var colors = [
+    '#c4b5a0','#a8b5c2','#b0c4b1','#c2a8b0','#a0b5c4',
+    '#b5c2a8','#c4a0a8','#b1b0c4','#a8c2b5','#c2b1a0',
+    '#9bb0c4','#c4b09b','#b09bc4','#9bc4b0','#c49bb0'
+  ];
+  document.querySelectorAll('.tile').forEach(function(tile, i) {
+    tile.style.setProperty('--placeholder-bg', colors[i % colors.length]);
+  });
+})();
+
 // Fade-in images as they load (top-down, no layout shift)
 document.querySelectorAll('.tile img').forEach(function(img) {
-  if (img.complete && img.naturalWidth > 0) {
+  var tile = img.closest('.tile');
+  function onLoaded() {
     img.classList.add('loaded');
+    if (tile) tile.classList.add('img-loaded');
+  }
+  if (img.complete && img.naturalWidth > 0) {
+    onLoaded();
   } else {
-    img.addEventListener('load', function() { img.classList.add('loaded'); });
-    img.addEventListener('error', function() { img.classList.add('loaded'); });
+    img.addEventListener('load', onLoaded);
+    img.addEventListener('error', onLoaded);
   }
 });
 
