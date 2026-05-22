@@ -96,6 +96,132 @@
     .tile { margin-bottom: 2px; border-radius: 4px; }
     .hero h1 { font-size: 1.4rem; }
   }
+
+  /* Modal / Lightbox */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: rgba(0,0,0,0.92);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    cursor: zoom-out;
+  }
+  .modal-overlay.active { display: flex; }
+
+  .modal-content {
+    position: relative;
+    max-width: 90vw;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: default;
+  }
+
+  .modal-content img {
+    max-width: 90vw;
+    max-height: 75vh;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  }
+
+  .modal-info {
+    margin-top: 16px;
+    text-align: center;
+    max-width: 700px;
+    color: #fff;
+  }
+
+  .modal-info .modal-cat {
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #76b900;
+    margin-bottom: 4px;
+  }
+
+  .modal-info h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0 0 4px;
+    color: #fff;
+  }
+
+  .modal-info .modal-sub {
+    font-size: 0.75rem;
+    color: #aaa;
+    margin-bottom: 6px;
+  }
+
+  .modal-info .modal-desc {
+    font-size: 0.8rem;
+    color: #ccc;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+
+  .modal-info .modal-source a {
+    color: #76b900;
+    text-decoration: none;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+  .modal-info .modal-source a:hover { text-decoration: underline; }
+
+  .modal-close {
+    position: fixed;
+    top: 16px;
+    right: 20px;
+    color: #fff;
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 10001;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.1);
+    transition: background 0.2s;
+  }
+  .modal-close:hover { background: rgba(255,255,255,0.2); }
+
+  .modal-nav {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 2.5rem;
+    cursor: pointer;
+    z-index: 10001;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.08);
+    transition: background 0.2s;
+    user-select: none;
+  }
+  .modal-nav:hover { background: rgba(255,255,255,0.2); }
+  .modal-prev { left: 16px; }
+  .modal-next { right: 16px; }
+
+  @media (max-width: 600px) {
+    .modal-content img { max-height: 60vh; }
+    .modal-info h3 { font-size: 0.95rem; }
+    .modal-nav { width: 36px; height: 36px; font-size: 1.8rem; }
+  }
+
 </style>
 </head>
 <body>
@@ -126,7 +252,7 @@
 <!-- CHIPS -->
 <span id="chips"></span>
   <div class="tile" data-href="https://nvidianews.nvidia.com/file?fid=62390815b3aed32959670e57">
-    <img src="https://iprsoftwaremedia.com/219/files/20222/62390815b3aed32959670e57_nvidia-hopper-architecture-h100-die/nvidia-hopper-architecture-h100-die_49fd9ed5-1ea4-4582-abc9-9e9a0506daad-prv.jpg" alt="H100 Die Shot" loading="lazy">
+    <img src="images/000_nvidia-hopper-architecture-h100-die_49fd9ed5-1ea4-4582-abc9-.jpg" alt="H100 Die Shot" loading="lazy">
     <div class="label">NVIDIA H100 Die Shot</div>
     <div class="overlay">
       <div class="cat">Chips</div>
@@ -136,7 +262,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://nvidianews.nvidia.com/file?fid=65522f033d633283db5a5cde">
-    <img src="https://iprsoftwaremedia.com/219/files/202310/65522f033d633283db5a5cde_nvidia-hgx-h200/nvidia-hgx-h200_dcd4e3bf-a064-4fb6-9b5f-561a684e7ffb-prv.jpg" alt="HGX H200" loading="lazy">
+    <img src="images/001_nvidia-hgx-h200_dcd4e3bf-a064-4fb6-9b5f-561a684e7ffb-prv.jpg" alt="HGX H200" loading="lazy">
     <div class="label">NVIDIA HGX H200</div>
     <div class="overlay">
       <div class="cat">Chips</div>
@@ -146,7 +272,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/">
-    <img src="https://blogs.nvidia.com/wp-content/uploads/2025/10/tsmc-flag-1280x680-3.jpg" alt="Blackwell Wafer" loading="lazy">
+    <img src="images/002_tsmc-flag-1280x680-3.jpg" alt="Blackwell Wafer" loading="lazy">
     <div class="label">First Blackwell Wafer Made in the USA</div>
     <div class="overlay">
       <div class="cat">Chips</div>
@@ -156,7 +282,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.peteradamsphoto.com/cerebras-wafer-scale-engine-wse-2/">
-    <img src="https://cdn.peteradamsphoto.com/wp-content/uploads/2021/08/27141249/J2048.IEEE_Cerebras.Cerebras4961.web_-scaled.jpg" alt="Cerebras WSE-2" loading="lazy">
+    <img src="images/003_J2048.IEEE_Cerebras.Cerebras4961.web_-scaled.jpg" alt="Cerebras WSE-2" loading="lazy">
     <div class="label">Cerebras WSE-2</div>
     <div class="overlay">
       <div class="cat">Chips</div>
@@ -166,7 +292,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive">
-    <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/eighth-generation_TPU.max-2000x2000.jpg" alt="Google TPU v8" loading="lazy">
+    <img src="images/004_eighth-generation_TPU.max-2000x2000.jpg" alt="Google TPU v8" loading="lazy">
     <div class="label">Google TPU v8</div>
     <div class="overlay">
       <div class="cat">Chips</div>
@@ -176,7 +302,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://eecue.com/p/looking-through-a-silicon-wafer-at-chabot-space-center.html">
-    <img src="https://eecue.com/img/1280/e379e8b66e.jpg" alt="Silicon Wafer" loading="lazy">
+    <img src="images/005_e379e8b66e.jpg" alt="Silicon Wafer" loading="lazy">
     <div class="label">Silicon Wafer Close-Up</div>
     <div class="overlay">
       <div class="cat">Chips</div>
@@ -189,7 +315,7 @@
 <!-- FABS & MACHINES -->
 <span id="fabs"></span>
   <div class="tile" data-href="https://www.asml.com/en/products/euv-lithography-systems/twinscan-exe-5000">
-    <img src="https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/products/euv-lithography-systems/exe5000.jpg?h=880&iar=0&w=1920" alt="ASML EUV" loading="lazy">
+    <img src="images/006_exe5000.jpg" alt="ASML EUV" loading="lazy">
     <div class="label">ASML EUV Lithography Machine</div>
     <div class="overlay">
       <div class="cat">Fabs</div>
@@ -199,7 +325,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.gettyimages.com/photos/tsmc-clean-room">
-    <img src="https://s.hdnux.com/photos/01/63/41/45/30284145/3/rawImage.jpg" alt="Clean Room" loading="lazy">
+    <img src="images/007_rawImage.jpg" alt="Clean Room" loading="lazy">
     <div class="label">Semiconductor Clean Room</div>
     <div class="overlay">
       <div class="cat">Fabs</div>
@@ -209,7 +335,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://foto.wuestenigel.com/techniker-in-reinraum-arbeiten-an-halbleiteranlage/">
-    <img src="https://foto.wuestenigel.com/photos/full/techniker-in-reinraum-arbeiten-an-halbleiteranlage.jpg" alt="Fab Cleanroom" loading="lazy">
+    <img src="images/008_techniker-in-reinraum-arbeiten-an-halbleiteranlage.jpg" alt="Fab Cleanroom" loading="lazy">
     <div class="label">Fab Cleanroom Workers</div>
     <div class="overlay">
       <div class="cat">Fabs</div>
@@ -222,7 +348,7 @@
 <!-- DATA CENTERS -->
 <span id="dc"></span>
   <div class="tile" data-href="https://www.google.com/about/datacenters/gallery/">
-    <img src="https://www.gstatic.com/marketing-cms/assets/images/c9/3e/5234a37f4e8984759d30c434cc1e/new-albany-data-center-campus-fiber-optics.jpg" alt="Google Data Center" loading="lazy">
+    <img src="images/009_new-albany-data-center-campus-fiber-optics.jpg" alt="Google Data Center" loading="lazy">
     <div class="label">Google — Fiber Optics</div>
     <div class="overlay">
       <div class="cat">Data Centers</div>
@@ -232,7 +358,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://nvidianews.nvidia.com/file?fid=670e888c3d6332a54e481554">
-    <img src="https://iprsoftwaremedia.com/219/files/20249/670e888c3d6332a54e481554_NVIDIA%20GB200%20NVL72%20Rack%20Press%20Graphic/NVIDIA%20GB200%20NVL72%20Rack%20Press%20Graphic_89a989fb-ea15-4424-819c-75ae68e6e053-prv.png" alt="GB200 NVL72" loading="lazy">
+    <img src="images/010_NVIDIA_20GB200_20NVL72_20Rack_20Press_20Graphic_89a989fb-ea1.png" alt="GB200 NVL72" loading="lazy">
     <div class="label">NVIDIA GB200 NVL72 Rack</div>
     <div class="overlay">
       <div class="cat">Data Centers</div>
@@ -242,7 +368,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.dallasnews.com/business/energy/2025/09/23/inside-stargate-ais-massive-texas-data-center-campus-with-5-more-sites-announced/">
-    <img src="https://s.hdnux.com/photos/01/62/30/55/29985608/3/rawImage.jpg" alt="Stargate" loading="lazy">
+    <img src="images/011_rawImage.jpg" alt="Stargate" loading="lazy">
     <div class="label">Stargate AI — Abilene, TX</div>
     <div class="overlay">
       <div class="cat">Data Centers</div>
@@ -252,7 +378,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/">
-    <img src="https://news.microsoft.com/wp-content/uploads/prod/2018/05/Natick_Deployment_59-1920x1080.jpg" alt="Project Natick" loading="lazy">
+    <img src="images/012_Natick_Deployment_59-1920x1080.jpg" alt="Project Natick" loading="lazy">
     <div class="label">Microsoft Underwater DC</div>
     <div class="overlay">
       <div class="cat">Data Centers</div>
@@ -262,7 +388,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://slate.com/culture/2012/12/google-data-centers-what-the-internet-really-looks-like.html">
-    <img src="https://compote.slate.com/images/a004d44c-1c3f-4c6e-8396-add94390a5ea.jpg?width=1560" alt="Google Server Pipes" loading="lazy">
+    <img src="images/013_a004d44c-1c3f-4c6e-8396-add94390a5ea.jpg" alt="Google Server Pipes" loading="lazy">
     <div class="label">Google — Colorful Pipes</div>
     <div class="overlay">
       <div class="cat">Data Centers</div>
@@ -272,7 +398,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=XZmGGAbHqa0">
-    <img src="https://i.ytimg.com/vi/XZmGGAbHqa0/sddefault.jpg" alt="Inside Google DC" loading="lazy">
+    <img src="images/014_sddefault.jpg" alt="Inside Google DC" loading="lazy">
     <div class="label">Inside a Google DC</div>
     <div class="overlay">
       <div class="cat">Data Centers</div>
@@ -282,7 +408,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.popphoto.com/story/inspiration/601541/">
-    <img src="https://www.popphoto.com/uploads/2019/01/17/6HNKDTFHUBOLH7S4VB64TU7PQU.jpeg?auto=webp" alt="Google DC Photo" loading="lazy">
+    <img src="images/015_6HNKDTFHUBOLH7S4VB64TU7PQU.jpeg" alt="Google DC Photo" loading="lazy">
     <div class="label">Google — Server Aisle</div>
     <div class="overlay">
       <div class="cat">Data Centers</div>
@@ -295,7 +421,7 @@
 <!-- ROBOTS -->
 <span id="robots"></span>
   <div class="tile" data-href="https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing">
-    <img src="https://bostondynamics.com/wp-content/uploads/2025/08/atlas-tri-blog.jpg" alt="Atlas" loading="lazy">
+    <img src="images/016_atlas-tri-blog.jpg" alt="Atlas" loading="lazy">
     <div class="label">Boston Dynamics Atlas</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -305,7 +431,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://bostondynamics.com/blog/atlas-leaps-bounds-and-backflips/">
-    <img src="https://bostondynamics.com/wp-content/uploads/2023/04/jump-closer-v3-final.png" alt="Atlas Backflip" loading="lazy">
+    <img src="images/017_jump-closer-v3-final.png" alt="Atlas Backflip" loading="lazy">
     <div class="label">Atlas — Mid-Backflip</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -315,7 +441,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://bostondynamics.com/case-studies/">
-    <img src="https://bostondynamics.com/wp-content/uploads/2023/11/spot-rescue.jpg" alt="Spot Rescue" loading="lazy">
+    <img src="images/018_spot-rescue.jpg" alt="Spot Rescue" loading="lazy">
     <div class="label">Spot — Search & Rescue</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -325,7 +451,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Optimus_(robot)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ambassador_Burns_speaks_to_a_woman_in_front_of_a_robot.jpg/330px-Ambassador_Burns_speaks_to_a_woman_in_front_of_a_robot.jpg" alt="Tesla Optimus" loading="lazy">
+    <img src="images/019_330px-Ambassador_Burns_speaks_to_a_woman_in_front_of_a_robot.jpg" alt="Tesla Optimus" loading="lazy">
     <div class="label">Tesla Optimus</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -335,7 +461,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.hansonrobotics.com/sophia">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sophia_%28robot%29_2.jpg/960px-Sophia_%28robot%29_2.jpg" alt="Sophia" loading="lazy">
+    <img src="images/020_960px-Sophia__28robot_29_2.jpg" alt="Sophia" loading="lazy">
     <div class="label">Sophia</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -345,7 +471,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.therobotreport.com/figure-02-humanoid-robot-ready-work/">
-    <img src="https://www.therobotreport.com/wp-content/uploads/2024/08/figure02-front-featured.jpg" alt="Figure 02" loading="lazy">
+    <img src="images/021_figure02-front-featured.jpg" alt="Figure 02" loading="lazy">
     <div class="label">Figure 02</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -355,7 +481,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.aboutamazon.com/news/devices/meet-astro-a-home-robot-unlike-any-other">
-    <img src="https://assets.aboutamazon.com/dims4/default/6de3f28/2147483647/strip/true/crop/1800x900+0+150/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F7e%2Fcb%2Fe6779b40478da582397f6b5990ce%2Fastro-invite.jpg" alt="Amazon Astro" loading="lazy">
+    <img src="images/022_.jpg" alt="Amazon Astro" loading="lazy">
     <div class="label">Amazon Astro</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -365,7 +491,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=tF4DML7FIWk">
-    <img src="https://i.ytimg.com/vi/tF4DML7FIWk/sddefault.jpg" alt="Atlas Parkour" loading="lazy">
+    <img src="images/023_sddefault.jpg" alt="Atlas Parkour" loading="lazy">
     <div class="label">Atlas — Parkour</div>
     <div class="overlay">
       <div class="cat">Robots</div>
@@ -378,7 +504,7 @@
 <!-- AUTONOMOUS -->
 <span id="auto"></span>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Waymo_Jaguar_I-Pace_in_San_Francisco.jpg/1280px-Waymo_Jaguar_I-Pace_in_San_Francisco.jpg" alt="Waymo SF" loading="lazy">
+    <img src="images/024_1280px-Waymo_Jaguar_I-Pace_in_San_Francisco.jpg" alt="Waymo SF" loading="lazy">
     <div class="label">Waymo — San Francisco</div>
     <div class="overlay">
       <div class="cat">Autonomous</div>
@@ -388,7 +514,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg/1280px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg" alt="Waymo Downtown" loading="lazy">
+    <img src="images/025_1280px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg" alt="Waymo Downtown" loading="lazy">
     <div class="label">Waymo Downtown SF</div>
     <div class="overlay">
       <div class="cat">Autonomous</div>
@@ -398,7 +524,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.cbsnews.com/sanfrancisco/news/cruise-driverless-car-crash-fire-truck-sf/">
-    <img src="https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/18/bd7d1a21-c2b3-46b8-ae3e-e18340f5ae30/thumbnail/1200x630/b313e2ecfa01e490c84607aebbfdff31/capture.jpg" alt="Cruise Crash" loading="lazy">
+    <img src="images/026_capture.jpg" alt="Cruise Crash" loading="lazy">
     <div class="label">Cruise Robotaxi Crash</div>
     <div class="overlay">
       <div class="cat">Autonomous</div>
@@ -412,7 +538,7 @@
 <!-- CONSUMER -->
 <span id="consumer"></span>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Elon_Musk_and_the_Neuralink_Future.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Elon_Musk_and_the_Neuralink_Future.jpg/960px-Elon_Musk_and_the_Neuralink_Future.jpg" alt="Neuralink" loading="lazy">
+    <img src="images/027_960px-Elon_Musk_and_the_Neuralink_Future.jpg" alt="Neuralink" loading="lazy">
     <div class="label">Musk + Neuralink</div>
     <div class="overlay">
       <div class="cat">Consumer Hardware</div>
@@ -422,7 +548,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://theverge.com/2024/5/2/24147399/take-a-look-inside-the-rabbit-r1-and-the-humane-ai-pin">
-    <img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/rabbit-r1-4.jpg?w=1200" alt="Rabbit R1" loading="lazy">
+    <img src="images/028_rabbit-r1-4.jpg" alt="Rabbit R1" loading="lazy">
     <div class="label">Rabbit R1</div>
     <div class="overlay">
       <div class="cat">Consumer Hardware</div>
@@ -432,7 +558,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://liliputing.com/humane-ai-pin-review-roundup-the-future-isnt-here-yet/">
-    <img src="https://liliputing.com/wp-content/uploads/2024/04/ai-pin_01.jpg" alt="Humane AI Pin" loading="lazy">
+    <img src="images/029_ai-pin_01.jpg" alt="Humane AI Pin" loading="lazy">
     <div class="label">Humane AI Pin</div>
     <div class="overlay">
       <div class="cat">Consumer Hardware</div>
@@ -442,7 +568,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://knowyourmeme.com/memes/apple-vision-pro-in-public">
-    <img src="https://i.kym-cdn.com/entries/icons/original/000/048/283/vision-pro-public.jpg" alt="Vision Pro in Public" loading="lazy">
+    <img src="images/030_vision-pro-public.jpg" alt="Vision Pro in Public" loading="lazy">
     <div class="label">Vision Pro in Public</div>
     <div class="overlay">
       <div class="cat">Consumer Hardware</div>
@@ -456,7 +582,7 @@
 <!-- SUPERCOMPUTERS -->
 <span id="super"></span>
   <div class="tile" data-href="https://www.llnl.gov/article/52336/llnl-dedicates-el-capitan-ushering-new-era-supercomputing-national-security">
-    <img src="https://contenthub.llnl.gov/sites/contenthub/files/styles/scaled_425h/public/2024-11/El%20Capitan_Full_00354_3%20%281%29.jpg" alt="El Capitan" loading="lazy">
+    <img src="images/031_El_20Capitan_Full_00354_3_20_281_29.jpg" alt="El Capitan" loading="lazy">
     <div class="label">El Capitan Supercomputer</div>
     <div class="overlay">
       <div class="cat">Supercomputers</div>
@@ -469,7 +595,7 @@
 <!-- HISTORY -->
 <span id="history"></span>
   <div class="tile" data-href="https://spectrum.ieee.org/dartmouth-ai-workshop">
-    <img src="https://spectrum.ieee.org/media-library/historical-photo-of-seven-smiling-men-sitting-on-a-lawn-in-front-of-a-tree-and-a.jpg?id=25588780&width=1200&height=900" alt="Dartmouth 1956" loading="lazy">
+    <img src="images/032_historical-photo-of-seven-smiling-men-sitting-on-a-lawn-in-f.jpg" alt="Dartmouth 1956" loading="lazy">
     <div class="label">Dartmouth Workshop (1956)</div>
     <div class="overlay">
       <div class="cat">Historical AI</div>
@@ -479,7 +605,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/ENIAC">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg" alt="ENIAC" loading="lazy">
+    <img src="images/033_Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328.jpg" alt="ENIAC" loading="lazy">
     <div class="label">ENIAC (1946)</div>
     <div class="overlay">
       <div class="cat">Historical AI</div>
@@ -489,7 +615,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.ibm.com/history/deep-blue">
-    <img src="https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/arc/cf/ul/g/27/82/deep-blue-10.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" alt="Deep Blue" loading="lazy">
+    <img src="images/034_cq5dam.web.1280.1280.jpeg" alt="Deep Blue" loading="lazy">
     <div class="label">IBM Deep Blue</div>
     <div class="overlay">
       <div class="cat">Historical AI</div>
@@ -499,7 +625,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.computerhistory.org/chess/stl-430b9bbcaadb4/">
-    <img src="https://images.computerhistory.org/chess/kasparov.game-4-deep-blue-vs-kasparov.new-york.1997.102645304.newborn.jpg?w=600" alt="Kasparov vs Deep Blue" loading="lazy">
+    <img src="images/035_kasparov.game-4-deep-blue-vs-kasparov.new-york.1997.10264530.jpg" alt="Kasparov vs Deep Blue" loading="lazy">
     <div class="label">Kasparov vs Deep Blue (1997)</div>
     <div class="overlay">
       <div class="cat">Historical AI</div>
@@ -509,7 +635,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://blog.google/innovation-and-ai/products/alphagos-ultimate-challenge/">
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGo_hero.width-1300.jpg" alt="AlphaGo" loading="lazy">
+    <img src="images/036_AlphaGo_hero.width-1300.jpg" alt="AlphaGo" loading="lazy">
     <div class="label">AlphaGo vs. Lee Sedol</div>
     <div class="overlay">
       <div class="cat">Historical AI</div>
@@ -519,7 +645,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-reminisces-about-the-time-jensen-huang-donated-a-dgx-1-to-openai">
-    <img src="https://cdn.mos.cms.futurecdn.net/fF8MnnBPSqmN8xEHeggAqU.jpg" alt="DGX-1 Delivery" loading="lazy">
+    <img src="images/037_fF8MnnBPSqmN8xEHeggAqU.jpg" alt="DGX-1 Delivery" loading="lazy">
     <div class="label">Jensen Delivers DGX-1 to OpenAI</div>
     <div class="overlay">
       <div class="cat">Historical AI</div>
@@ -529,7 +655,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://openai.com/index/introducing-openai/">
-    <img src="https://images.ctfassets.net/kftzwdyauwt9/f50c5b2c-8838-4905-7e24fd3f5db0/0e1903326a0e4e5e937dc1f39f6adb6a/introducing-openai.png?w=1600&h=900&fit=fill" alt="OpenAI Founding" loading="lazy">
+    <img src="images/038_introducing-openai.png" alt="OpenAI Founding" loading="lazy">
     <div class="label">OpenAI Founding Team (2015)</div>
     <div class="overlay">
       <div class="cat">Historical AI</div>
@@ -542,7 +668,7 @@
 <!-- HQ -->
 <span id="hq"></span>
   <div class="tile" data-href="https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters">
-    <img src="https://iprsoftwaremedia.com/219/files/albumcovers/5e1b4666-d7b4-459b-a66a-55af0c1c4de6_thmb.jpg" alt="NVIDIA HQ" loading="lazy">
+    <img src="images/039_5e1b4666-d7b4-459b-a66a-55af0c1c4de6_thmb.jpg" alt="NVIDIA HQ" loading="lazy">
     <div class="label">NVIDIA Voyager — Santa Clara</div>
     <div class="overlay">
       <div class="cat">AI HQ</div>
@@ -555,7 +681,7 @@
 <!-- JENSEN -->
 <span id="jensen"></span>
   <div class="tile" data-href="https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing">
-    <img src="https://wimg.mk.co.kr/news/cms/202406/07/news-p.v1.20240607.db4713290c7b494d9b2e014202147444_P1.jpeg" alt="Jensen signing" loading="lazy">
+    <img src="images/040_news-p.v1.20240607.db4713290c7b494d9b2e014202147444_P1.jpeg" alt="Jensen signing" loading="lazy">
     <div class="label">Jensen Signing a Fan</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -566,7 +692,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://time.com/7341061/jensen-huang-time-person-year-interview/">
-    <img src="https://web.archive.org/web/20251211150545im_/https://api.time.com/wp-content/uploads/2025/12/ArchitectsCover-web-01.jpg" alt="TIME Magazine Cover" loading="lazy">
+    <img src="images/041_ArchitectsCover-web-01.jpg" alt="TIME Magazine Cover" loading="lazy">
     <div class="label">TIME Magazine Cover</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -577,7 +703,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://time.com/7341061/jensen-huang-time-person-year-interview/">
-    <img src="https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt5b745ae6bbe536f5/6998cc5993610c0b40c303f9/time-AI-Jensen-Huang-homepage-social.jpg?branch=production" alt="TIME Person of the Year" loading="lazy">
+    <img src="images/042_time-AI-Jensen-Huang-homepage-social.jpg" alt="TIME Person of the Year" loading="lazy">
     <div class="label">TIME Person of the Year</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -587,7 +713,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://blogs.nvidia.com/blog/gtc-2024-keynote/">
-    <img src="https://blogs.nvidia.com/wp-content/uploads/2024/03/keynote-gtc-2024.jpg" alt="Jensen GTC 2024" loading="lazy">
+    <img src="images/043_keynote-gtc-2024.jpg" alt="Jensen GTC 2024" loading="lazy">
     <div class="label">Jensen — GTC 2024 Keynote</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -598,7 +724,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://nvidianews.nvidia.com/file?fid=69bc34ff3d63323e0abb5698">
-    <img src="https://iprsoftwaremedia.com/219/files/20262/69bc34ff3d63323e0abb5698_jhh-inference/jhh-inference_f1b4d64a-3d5b-48b4-9687-c8e50ca7a88a-prv.jpg" alt="GTC 2026" loading="lazy">
+    <img src="images/044_jhh-inference_f1b4d64a-3d5b-48b4-9687-c8e50ca7a88a-prv.jpg" alt="GTC 2026" loading="lazy">
     <div class="label">Jensen at GTC 2026</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -608,7 +734,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://economictimes.indiatimes.com/tech/artificial-intelligence/jensen-huang-ai-visionary-in-a-leather-jacket/articleshow/122797090.cms">
-    <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-52102,resizemode-75,msid-122797090/tech/artificial-intelligence/jensen-huang-ai-visionary-in-a-leather-jacket.jpg" alt="Leather Jacket" loading="lazy">
+    <img src="images/045_jensen-huang-ai-visionary-in-a-leather-jacket.jpg" alt="Leather Jacket" loading="lazy">
     <div class="label">The Leather Jacket</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -618,7 +744,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.bbc.com/news/articles/cq55ek28z98o">
-    <img src="https://ichef.bbci.co.uk/news/1024/branded_news/a9d1/live/380cec00-2496-11ef-baa7-25d483663b8e.jpg" alt="Jensanity" loading="lazy">
+    <img src="images/046_380cec00-2496-11ef-baa7-25d483663b8e.jpg" alt="Jensanity" loading="lazy">
     <div class="label">"Jensanity" — Computex Fans</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -629,7 +755,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.aol.com/jensen-huang-made-very-jensen-134026068.html">
-    <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202405/66377fc8819e5-nvidia-ceo-jensen-huang-on-his-humble-beginnings-063329644-16x9.jpg" alt="Jensen Humble Beginnings" loading="lazy">
+    <img src="images/047_66377fc8819e5-nvidia-ceo-jensen-huang-on-his-humble-beginnin.jpg" alt="Jensen Humble Beginnings" loading="lazy">
     <div class="label">Jensen — Humble Beginnings</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -639,7 +765,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://wimg.mk.co.kr/news/cms/202403/19/news-p.v1.20240319.5faa936deaeb4c4a94de944844c9b25f_P1.png">
-    <img src="https://wimg.mk.co.kr/news/cms/202403/19/news-p.v1.20240319.5faa936deaeb4c4a94de944844c9b25f_P1.png" alt="GTC Crowd" loading="lazy">
+    <img src="images/048_news-p.v1.20240319.5faa936deaeb4c4a94de944844c9b25f_P1.png" alt="GTC Crowd" loading="lazy">
     <div class="label">GTC 2024 — Arena Crowd</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -650,7 +776,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://sentinel.ht/2026/02/nvidia-ceo-jensen-huang-hosts-taiwan-dinner/">
-    <img src="https://sentinel.ht/wp-content/uploads/2026/02/Reuters-Nvidia-CEO-Jensen-Huang-Hosts-Taiwan-Tech-Leaders-Dinner-Focusing-Chip-Supply.jpg" alt="Jensen Taiwan Dinner" loading="lazy">
+    <img src="images/049_Reuters-Nvidia-CEO-Jensen-Huang-Hosts-Taiwan-Tech-Leaders-Di.jpg" alt="Jensen Taiwan Dinner" loading="lazy">
     <div class="label">Jensen Hosts Taiwan Dinner</div>
     <div class="overlay">
       <div class="cat">Jensen Huang</div>
@@ -664,7 +790,7 @@
 <!-- PEOPLE -->
 <span id="people"></span>
   <div class="tile" data-href="https://www.bbc.com/news/articles/c9rg5jg0e5go">
-    <img src="https://ichef.bbci.co.uk/news/1024/branded_news/2715/production/_129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg" alt="Sam Altman Fired" loading="lazy">
+    <img src="images/050__129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg" alt="Sam Altman Fired" loading="lazy">
     <div class="label">Sam Altman — Fired & Rehired</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -675,7 +801,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.yahoo.com/news/sam-altman-testifies-before-congress-113000691.html">
-    <img src="https://s.yimg.com/os/en/aol_the_independent_us_877/5d2d0f5ea33000e8fba64389eb15c380" alt="Altman Senate" loading="lazy">
+    <img src="images/051_5d2d0f5ea33000e8fba64389eb15c380.jpg" alt="Altman Senate" loading="lazy">
     <div class="label">Altman Testifies Before Senate</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -686,7 +812,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=U9mJuUkhUzk">
-    <img src="https://i.ytimg.com/vi/U9mJuUkhUzk/maxresdefault.jpg" alt="OpenAI DevDay" loading="lazy">
+    <img src="images/052_maxresdefault.jpg" alt="OpenAI DevDay" loading="lazy">
     <div class="label">OpenAI DevDay 2023</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -697,7 +823,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped).jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_%28cropped%29.jpg/1280px-Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_%28cropped%29.jpg" alt="Sam Altman" loading="lazy">
+    <img src="images/053_1280px-Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3__28cropped_.jpg" alt="Sam Altman" loading="lazy">
     <div class="label">Sam Altman</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -708,7 +834,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.utoronto.ca/news/geoffrey-hinton-wins-nobel-prize">
-    <img src="https://www.utoronto.ca/sites/default/files/2024-10/UofT93090_2023-06-28-Hinton%40Collision%20web%20lead%20cropped_0.jpg" alt="Geoffrey Hinton" loading="lazy">
+    <img src="images/054_UofT93090_2023-06-28-Hinton_40Collision_20web_20lead_20cropp.jpg" alt="Geoffrey Hinton" loading="lazy">
     <div class="label">Geoffrey Hinton</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -719,7 +845,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.technologyreview.com/2023/05/02/1072528/geoffrey-hinton-google-why-he-quit/">
-    <img src="https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515040-thumb.jpeg?resize=1200,600" alt="Hinton Warning" loading="lazy">
+    <img src="images/055_eyevine01515040-thumb.jpeg" alt="Hinton Warning" loading="lazy">
     <div class="label">Hinton — "Scared of AI"</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -730,7 +856,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.cnn.com/2023/05/01/tech/hinton-tapper-wozniak-ai/index.html">
-    <img src="https://media.cnn.com/api/v1/images/stellar/prod/230501094028-geoffrey-hinton-file-restricted-090519.jpg?c=16x9&q=w_800,c_fill" alt="Hinton Worried" loading="lazy">
+    <img src="images/056_230501094028-geoffrey-hinton-file-restricted-090519.jpg" alt="Hinton Worried" loading="lazy">
     <div class="label">Hinton — AI Pioneer Worried</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -740,7 +866,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.nobelprize.org/prizes/physics/2024/hinton/photo-gallery/">
-    <img src="https://www.nobelprize.org/uploads/2024/10/fig_fy_24_4x3-1024x768.jpg" alt="Hinton Nobel" loading="lazy">
+    <img src="images/057_fig_fy_24_4x3-1024x768.jpg" alt="Hinton Nobel" loading="lazy">
     <div class="label">Hinton — Nobel Prize</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -751,7 +877,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.bbc.com/news/articles/czrm0p2mxvyo">
-    <img src="https://ichef.bbci.co.uk/news/1024/branded_news/7b6e/live/0d693380-8726-11ef-a051-09ae2fe6d4ad.jpg" alt="Demis Hassabis" loading="lazy">
+    <img src="images/058_0d693380-8726-11ef-a051-09ae2fe6d4ad.jpg" alt="Demis Hassabis" loading="lazy">
     <div class="label">Demis Hassabis</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -762,7 +888,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://blog.biocomm.ai/2024/12/ilya-sutskever-at-neurips-2024/">
-    <img src="https://blog.biocomm.ai/wp-content/uploads/2024/12/Ilya-at-NeurIPS24.png" alt="Ilya NeurIPS" loading="lazy">
+    <img src="images/059_Ilya-at-NeurIPS24.png" alt="Ilya NeurIPS" loading="lazy">
     <div class="label">Ilya Sutskever — NeurIPS 2024</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -773,7 +899,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Ilya_Sutskever_and_Sam_Altman_in_TAU_(cropped).jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Ilya_Sutskever_and_Sam_Altman_in_TAU_%28cropped%29.jpg" alt="Ilya Sutskever" loading="lazy">
+    <img src="images/060_Ilya_Sutskever_and_Sam_Altman_in_TAU__28cropped_29.jpg" alt="Ilya Sutskever" loading="lazy">
     <div class="label">Ilya Sutskever</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -784,7 +910,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures">
-    <img src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fbada01990f86f5afa850cc23a0259fec091f929_2880x1620.jpg?quality=89&w=800" alt="Fei-Fei Li" loading="lazy">
+    <img src="images/061_fbada01990f86f5afa850cc23a0259fec091f929_2880x1620.jpg" alt="Fei-Fei Li" loading="lazy">
     <div class="label">Fei-Fei Li — TED Talk</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -795,7 +921,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Yann_LeCun">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yann_LeCun_at_the_University_of_Minnesota.jpg/330px-Yann_LeCun_at_the_University_of_Minnesota.jpg" alt="Yann LeCun" loading="lazy">
+    <img src="images/062_330px-Yann_LeCun_at_the_University_of_Minnesota.jpg" alt="Yann LeCun" loading="lazy">
     <div class="label">Yann LeCun</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -806,7 +932,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=ypSay3Ehxow">
-    <img src="https://i.ytimg.com/vi/ypSay3Ehxow/maxresdefault.jpg" alt="Lisa Su" loading="lazy">
+    <img src="images/063_maxresdefault.jpg" alt="Lisa Su" loading="lazy">
     <div class="label">Lisa Su — CES 2026</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -817,7 +943,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.darioamodei.com/">
-    <img src="https://cdn.prod.website-files.com/67e201a6a390d00a0ca1cbf3/67f729215dd36a3c9d52b79d_index-card.png" alt="Dario Amodei" loading="lazy">
+    <img src="images/064_67f729215dd36a3c9d52b79d_index-card.png" alt="Dario Amodei" loading="lazy">
     <div class="label">Dario Amodei</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -828,7 +954,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=ugvHCXCOmm4">
-    <img src="https://i.ytimg.com/vi/ugvHCXCOmm4/sddefault.jpg" alt="Dario Lex Fridman" loading="lazy">
+    <img src="images/065_sddefault.jpg" alt="Dario Lex Fridman" loading="lazy">
     <div class="label">Dario — Lex Fridman Podcast</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -838,7 +964,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Andrew_Ng">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg" alt="Andrew Ng" loading="lazy">
+    <img src="images/066_Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg" alt="Andrew Ng" loading="lazy">
     <div class="label">Andrew Ng</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -849,7 +975,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=LCEmiRjPEtQ">
-    <img src="https://i.ytimg.com/vi/LCEmiRjPEtQ/sddefault.jpg" alt="Andrej Karpathy" loading="lazy">
+    <img src="images/067_sddefault.jpg" alt="Andrej Karpathy" loading="lazy">
     <div class="label">Andrej Karpathy</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -860,7 +986,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.google.com/io/">
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png" alt="Sundar Pichai" loading="lazy">
+    <img src="images/068_SundarKeynote_tempsocial.width-1300.png" alt="Sundar Pichai" loading="lazy">
     <div class="label">Sundar Pichai — Google I/O</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -871,7 +997,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=ceV3RsG946s">
-    <img src="https://i.ytimg.com/vi/ceV3RsG946s/sddefault.jpg" alt="Satya Nadella" loading="lazy">
+    <img src="images/069_sddefault.jpg" alt="Satya Nadella" loading="lazy">
     <div class="label">Satya Nadella — MS Build</div>
     <div class="overlay">
       <div class="cat">AI Personalities</div>
@@ -885,7 +1011,7 @@
 <!-- VIRAL -->
 <span id="viral"></span>
   <div class="tile" data-href="https://www.instagram.com/zuck/">
-    <img src="https://ocdn.eu/pulscms-transforms/1/8b9ktkuTURBXy9iNTZhMzMyMi0xYjYwLTRkNTUtOWM2Yi0yNzAxZDRiOWNhZTYuanBlZ5GTBc0EsM0Cdg" alt="Zuckerberg gold chain" loading="lazy">
+    <img src="images/070_8b9ktkuTURBXy9iNTZhMzMyMi0xYjYwLTRkNTUtOWM2Yi0yNzAxZDRiOWNhZ.jpg" alt="Zuckerberg gold chain" loading="lazy">
     <div class="label">Zuck — Gold Chain Era</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -896,7 +1022,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.npr.org/2023/06/05/1180189647/mark-zuckerberg-bjj-jiu-jitsu">
-    <img src="https://media.npr.org/assets/img/2023/06/05/jeff1_wide-cedd36669ed13f8b527a0e9bddfcf51f7966304d.jpg?s=1400&c=85&f=jpeg" alt="Zuck BJJ" loading="lazy">
+    <img src="images/071_jeff1_wide-cedd36669ed13f8b527a0e9bddfcf51f7966304d.jpg" alt="Zuck BJJ" loading="lazy">
     <div class="label">Zuck — Jiu Jitsu Match</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -907,7 +1033,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.muscleandfitness.com/athletes-celebrities/mark-zuckerberg-merab-dvalishvili-octagon/">
-    <img src="https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2026/01/Mark-Zuckerberg-squares-up-against-former-UFC-fighter-Merab-Dvalishvili.jpg?w=1100" alt="Zuck MMA" loading="lazy">
+    <img src="images/072_Mark-Zuckerberg-squares-up-against-former-UFC-fighter-Merab-.jpg" alt="Zuck MMA" loading="lazy">
     <div class="label">Zuck vs. UFC Fighter</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -918,7 +1044,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.latestly.com/socially/social-viral/mark-zuckerberg-celebrates-4th-of-july-waving-american-flag-while-wakeboarding-video-goes-viral-2624073.html">
-    <img src="https://st1.latestly.com/wp-content/uploads/2021/07/18-784x441.jpg" alt="Zuck Surfing" loading="lazy">
+    <img src="images/073_18-784x441.jpg" alt="Zuck Surfing" loading="lazy">
     <div class="label">Zuck — July 4th Surfing</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -929,7 +1055,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://knowyourmeme.com/memes/elon-musk-smoking-weed">
-    <img src="https://i.kym-cdn.com/entries/icons/original/000/027/100/_103330503_musk3.jpg" alt="Elon smoking" loading="lazy">
+    <img src="images/074__103330503_musk3.jpg" alt="Elon smoking" loading="lazy">
     <div class="label">Elon — Joe Rogan Podcast</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -940,7 +1066,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.cnn.com/2022/10/26/tech/elon-musk-twitter-sink/index.html">
-    <img src="https://media.cnn.com/api/v1/images/stellar/prod/221026151430-elon-musk-entering-twitter-hq-1026-screenshot.jpg?c=16x9&q=w_800,c_fill" alt="Elon Sink" loading="lazy">
+    <img src="images/075_221026151430-elon-musk-entering-twitter-hq-1026-screenshot.j.jpg" alt="Elon Sink" loading="lazy">
     <div class="label">Elon — "Let That Sink In"</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -951,7 +1077,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.bbc.com/news/technology-50468014">
-    <img src="https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25EB/production/_109870790_mediaitem109870789.jpg" alt="Cybertruck Window" loading="lazy">
+    <img src="images/076__109870790_mediaitem109870789.jpg" alt="Cybertruck Window" loading="lazy">
     <div class="label">Cybertruck — Broken Window</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -962,7 +1088,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=fP5YdyjTfG0">
-    <img src="https://i.ytimg.com/vi/fP5YdyjTfG0/sddefault.jpg" alt="Altman Senate" loading="lazy">
+    <img src="images/077_sddefault.jpg" alt="Altman Senate" loading="lazy">
     <div class="label">Altman — Senate Hearing</div>
     <div class="overlay">
       <div class="cat">Viral Moments</div>
@@ -976,7 +1102,7 @@
 <!-- TECHBRODRIP / TECH BRO CULTURE -->
 <span id="culture"></span>
   <div class="tile" data-href="https://x.com/TechBroDrip/status/1587482853654155264">
-    <img src="https://pbs.twimg.com/media/FgffPaLVEAAJQ83?format=jpg&name=large" alt="Peter Thiel Chess" loading="lazy">
+    <img src="images/078_FgffPaLVEAAJQ83.jpg" alt="Peter Thiel Chess" loading="lazy">
     <div class="label">Thiel Plays PayPal Staff at Chess</div>
     <div class="overlay">
       <div class="cat">Tech Bro Culture</div>
@@ -987,7 +1113,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://x.com/TechBroDrip/status/1776709986900746689">
-    <img src="https://pbs.twimg.com/media/GKgkUNlawAAwzrD?format=jpg&name=large" alt="Jensen delivers DGX to OpenAI" loading="lazy">
+    <img src="images/079_GKgkUNlawAAwzrD.jpg" alt="Jensen delivers DGX to OpenAI" loading="lazy">
     <div class="label">Jensen Delivers DGX to OpenAI</div>
     <div class="overlay">
       <div class="cat">Tech Bro Culture</div>
@@ -998,7 +1124,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://x.com/TechBroDrip/status/1586076107928764416">
-    <img src="https://pbs.twimg.com/media/FgLfzOPVUAA1lLL?format=jpg&name=large" alt="Ligma Johnson Twitter Prank" loading="lazy">
+    <img src="images/080_FgLfzOPVUAA1lLL.jpg" alt="Ligma Johnson Twitter Prank" loading="lazy">
     <div class="label">Rahul Ligma Twitter Prank</div>
     <div class="overlay">
       <div class="cat">Tech Bro Culture</div>
@@ -1009,7 +1135,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://x.com/TechBroDrip/status/1764061043414945994">
-    <img src="https://pbs.twimg.com/media/GHs0KwKaYAALobO?format=jpg&name=large" alt="Zuckerberg and Gates" loading="lazy">
+    <img src="images/081_GHs0KwKaYAALobO.jpg" alt="Zuckerberg and Gates" loading="lazy">
     <div class="label">Zuck & Bill Gates</div>
     <div class="overlay">
       <div class="cat">Tech Bro Culture</div>
@@ -1020,7 +1146,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://x.com/TechBroDrip/status/1774176765516779695">
-    <img src="https://pbs.twimg.com/media/GI9o7kNbYAA-rXy?format=jpg&name=large" alt="Tim Cook Sundar Pichai" loading="lazy">
+    <img src="images/082_GI9o7kNbYAA-rXy.jpg" alt="Tim Cook Sundar Pichai" loading="lazy">
     <div class="label">Tim Cook & Sundar Pichai</div>
     <div class="overlay">
       <div class="cat">Tech Bro Culture</div>
@@ -1043,7 +1169,7 @@
   </div>
 
   <div class="tile" data-href="https://liberationnews.org/paypal-mafia/">
-    <img src="https://liberationnews.org/wp-content/uploads/2025/03/Paypal-Mafia.png" alt="PayPal Mafia" loading="lazy">
+    <img src="images/084_Paypal-Mafia.png" alt="PayPal Mafia" loading="lazy">
     <div class="label">The PayPal Mafia</div>
     <div class="overlay">
       <div class="cat">Founding Teams</div>
@@ -1054,7 +1180,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.computerhistory.org/revolution/personal-computers/17/300/1052">
-    <img src="https://images.computerhistory.org/revonline/images/102665181-03-01.jpg?w=600" alt="Jobs and Wozniak 1976" loading="lazy">
+    <img src="images/085_102665181-03-01.jpg" alt="Jobs and Wozniak 1976" loading="lazy">
     <div class="label">Jobs & Wozniak — Apple I (1976)</div>
     <div class="overlay">
       <div class="cat">Founding Teams</div>
@@ -1065,7 +1191,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://blog.google/products-and-platforms/products/maps/inside-googles-original-garage-1998-style/">
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Garage__wide_shot_2.width-1300.png" alt="Google Garage" loading="lazy">
+    <img src="images/086_Garage__wide_shot_2.width-1300.png" alt="Google Garage" loading="lazy">
     <div class="label">Google's Original Garage (1998)</div>
     <div class="overlay">
       <div class="cat">Founding Teams</div>
@@ -1076,7 +1202,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.seroundtable.com/photos/google-larry-page-sergey-brin-garage-20058.html">
-    <img src="https://s3.amazonaws.com/images.seroundtable.com/Larry-Sergey-1999-1427456038.jpg" alt="Page and Brin 1999" loading="lazy">
+    <img src="images/087_Larry-Sergey-1999-1427456038.jpg" alt="Page and Brin 1999" loading="lazy">
     <div class="label">Larry & Sergey in the Garage</div>
     <div class="overlay">
       <div class="cat">Founding Teams</div>
@@ -1087,7 +1213,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.thecrimson.com/article/2005/2/24/business-casual-a-year-ago-mark/">
-    <img src="https://media.thecrimson.com/photos/2005/02/24/124452_1197689.jpg" alt="Facebook founding team" loading="lazy">
+    <img src="images/088_124452_1197689.jpg" alt="Facebook founding team" loading="lazy">
     <div class="label">Zuck & Team — Palo Alto (2004)</div>
     <div class="overlay">
       <div class="cat">Founding Teams</div>
@@ -1098,7 +1224,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://americanhistory.si.edu/collections/object/nmah_1318733">
-    <img src="https://ids.si.edu/ids/deliveryService?id=NMAH-AHB2017q017681&max=800" alt="Original Microsoft Staff" loading="lazy">
+    <img src="images/089_deliveryService.jpg" alt="Original Microsoft Staff" loading="lazy">
     <div class="label">Microsoft Staff (1978)</div>
     <div class="overlay">
       <div class="cat">Founding Teams</div>
@@ -1109,7 +1235,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Traitorous_Eight">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/66/The_Traitorous_Eight.jpg" alt="Traitorous Eight" loading="lazy">
+    <img src="images/090_The_Traitorous_Eight.jpg" alt="Traitorous Eight" loading="lazy">
     <div class="label">The Traitorous Eight (1957)</div>
     <div class="overlay">
       <div class="cat">Founding Teams</div>
@@ -1120,7 +1246,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Alan_Turing_(1912-1954)_in_1936_at_Princeton_University.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Alan_Turing_%281912-1954%29_in_1936_at_Princeton_University.jpg" alt="Alan Turing" loading="lazy">
+    <img src="images/091_Alan_Turing__281912-1954_29_in_1936_at_Princeton_University..jpg" alt="Alan Turing" loading="lazy">
     <div class="label">Alan Turing (1936)</div>
     <div class="overlay">
       <div class="cat">Computing Pioneers</div>
@@ -1131,7 +1257,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Commodore_Grace_M._Hopper,_USN_(covered).jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/960px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg" alt="Grace Hopper" loading="lazy">
+    <img src="images/092_960px-Commodore_Grace_M._Hopper_2C_USN__28covered_29.jpg" alt="Grace Hopper" loading="lazy">
     <div class="label">Commodore Grace Hopper</div>
     <div class="overlay">
       <div class="cat">Computing Pioneers</div>
@@ -1142,7 +1268,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Margaret_Hamilton_-_restoration.jpg/960px-Margaret_Hamilton_-_restoration.jpg" alt="Margaret Hamilton" loading="lazy">
+    <img src="images/093_960px-Margaret_Hamilton_-_restoration.jpg" alt="Margaret Hamilton" loading="lazy">
     <div class="label">Margaret Hamilton + Apollo Code</div>
     <div class="overlay">
       <div class="cat">Computing Pioneers</div>
@@ -1153,7 +1279,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:ClaudeShannon_MFO3807.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg" alt="Claude Shannon" loading="lazy">
+    <img src="images/094_ClaudeShannon_MFO3807.jpg" alt="Claude Shannon" loading="lazy">
     <div class="label">Claude Shannon</div>
     <div class="overlay">
       <div class="cat">Computing Pioneers</div>
@@ -1164,7 +1290,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Ken_Thompson_and_Dennis_Ritchie--1973.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ken_Thompson_and_Dennis_Ritchie--1973.jpg" alt="Thompson and Ritchie" loading="lazy">
+    <img src="images/095_Ken_Thompson_and_Dennis_Ritchie--1973.jpg" alt="Thompson and Ritchie" loading="lazy">
     <div class="label">Thompson & Ritchie — Unix (1973)</div>
     <div class="overlay">
       <div class="cat">Computing Pioneers</div>
@@ -1175,7 +1301,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=XxbJw8PrIkc">
-    <img src="https://i.ytimg.com/vi/XxbJw8PrIkc/sddefault.jpg" alt="Ballmer Developers" loading="lazy">
+    <img src="images/096_sddefault.jpg" alt="Ballmer Developers" loading="lazy">
     <div class="label">Ballmer — DEVELOPERS!</div>
     <div class="overlay">
       <div class="cat">Candid Moments</div>
@@ -1186,7 +1312,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=KxaCOHT0pmI">
-    <img src="https://i.ytimg.com/vi/KxaCOHT0pmI/hqdefault.jpg" alt="Gates jumping chair" loading="lazy">
+    <img src="images/097_hqdefault.jpg" alt="Gates jumping chair" loading="lazy">
     <div class="label">Bill Gates Jumping a Chair</div>
     <div class="overlay">
       <div class="cat">Candid Moments</div>
@@ -1197,7 +1323,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.wired.com/2012/06/torvalds-nvidia-linux/">
-    <img src="https://media.wired.com/photos/5932e10252d99d6b984e0a19/191:100/w_1280,c_limit/Screen-shot-2012-06-18-at-10.32.45-AM.png" alt="Torvalds middle finger" loading="lazy">
+    <img src="images/098_Screen-shot-2012-06-18-at-10.32.45-AM.png" alt="Torvalds middle finger" loading="lazy">
     <div class="label">Linus Torvalds vs. NVIDIA</div>
     <div class="overlay">
       <div class="cat">Candid Moments</div>
@@ -1208,7 +1334,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.cnn.com/videos/business/2020/01/07/elon-musk-tesla-dancing-shanghai-orig.cnn-business">
-    <img src="https://media.cnn.com/api/v1/images/stellar/prod/200107115637-elon-musk-dancing-shanghai.jpg?q=x_0,y_0,h_1080,w_1919,c_fill/w_800" alt="Musk dancing" loading="lazy">
+    <img src="images/099_w_800.jpg" alt="Musk dancing" loading="lazy">
     <div class="label">Elon Musk Dancing — Shanghai</div>
     <div class="overlay">
       <div class="cat">Candid Moments</div>
@@ -1219,7 +1345,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Steve_Jobs_and_Bill_Gates_(522695099).jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Steve_Jobs_and_Bill_Gates_%28522695099%29.jpg/1280px-Steve_Jobs_and_Bill_Gates_%28522695099%29.jpg" alt="Jobs and Gates" loading="lazy">
+    <img src="images/100_1280px-Steve_Jobs_and_Bill_Gates__28522695099_29.jpg" alt="Jobs and Gates" loading="lazy">
     <div class="label">Jobs & Gates Together</div>
     <div class="overlay">
       <div class="cat">Crossovers</div>
@@ -1230,7 +1356,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.edge.org/3rd_culture/thaler_sendhil08/pages/sm-em-jb.html">
-    <img src="https://www.edge.org/3rd_culture/thaler_sendhil08/images800/sm.em.jb.jpg" alt="Musk and Bezos" loading="lazy">
+    <img src="images/101_sm.em.jb.jpg" alt="Musk and Bezos" loading="lazy">
     <div class="label">Elon Musk & Jeff Bezos (2008)</div>
     <div class="overlay">
       <div class="cat">Crossovers</div>
@@ -1241,7 +1367,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Zuckerberg_meets_Obama.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zuckerberg_meets_Obama.jpg/1280px-Zuckerberg_meets_Obama.jpg" alt="Tech leaders Obama dinner" loading="lazy">
+    <img src="images/102_1280px-Zuckerberg_meets_Obama.jpg" alt="Tech leaders Obama dinner" loading="lazy">
     <div class="label">Silicon Valley Meets the White House</div>
     <div class="overlay">
       <div class="cat">Crossovers</div>
@@ -1252,7 +1378,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.pbs.org/newshour/politics/trump-will-host-top-tech-ceos-except-musk-at-a-white-house-dinner">
-    <img src="https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T233827Z_133888725_RC2BLGAKCYMO_RTRMADP_3_USA-TRUMP-1024x642.jpg" alt="Trump tech CEO dinner" loading="lazy">
+    <img src="images/103_2025-09-04T233827Z_133888725_RC2BLGAKCYMO_RTRMADP_3_USA-TRUM.jpg" alt="Trump tech CEO dinner" loading="lazy">
     <div class="label">Trump + Tech CEOs (2025)</div>
     <div class="overlay">
       <div class="cat">Crossovers</div>
@@ -1263,7 +1389,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://arstechnica.com/gadgets/2007/01/apple-announces-the-iphone-at-macworld/">
-    <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/06/Screen-Shot-2017-06-22-at-1.15.44-PM.png" alt="Jobs iPhone 2007" loading="lazy">
+    <img src="images/104_Screen-Shot-2017-06-22-at-1.15.44-PM.png" alt="Jobs iPhone 2007" loading="lazy">
     <div class="label">Steve Jobs Unveils the iPhone</div>
     <div class="overlay">
       <div class="cat">Product Launches</div>
@@ -1274,7 +1400,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.upi.com/News_Photos/view/upi/30c15bb46bfe191c989972d1ae4bb2c1/">
-    <img src="https://cdnph.upi.com/pv/upi/30c15bb46bfe191c989972d1ae4bb2c1/JOBS-STEVE-ABCD-FILES.jpg" alt="Jobs Macintosh 1984" loading="lazy">
+    <img src="images/105_JOBS-STEVE-ABCD-FILES.jpg" alt="Jobs Macintosh 1984" loading="lazy">
     <div class="label">Steve Jobs — Macintosh (1984)</div>
     <div class="overlay">
       <div class="cat">Product Launches</div>
@@ -1285,7 +1411,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://blogs.nvidia.com/blog/computex-2024-jensen-huang/">
-    <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20245/665c8e553d6332e7f58faa97_computex-keynote-jensen-gb200-grace-blackwell-superchip/computex-keynote-jensen-gb200-grace-blackwell-superchip_2f917e73-2f5a-409c-b676-07ba30d9ed2f-prv.jpg" alt="Jensen GB200" loading="lazy">
+    <img src="images/106_computex-keynote-jensen-gb200-grace-blackwell-superchip_2f91.jpg" alt="Jensen GB200" loading="lazy">
     <div class="label">Jensen Holds GB200 Superchip</div>
     <div class="overlay">
       <div class="cat">Product Launches</div>
@@ -1296,7 +1422,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Palmer_Luckey_wearing_Oculus_Rift_DK1_at_SVVR_2014.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palmer_Luckey_wearing_Oculus_Rift_DK1_at_SVVR_2014.jpg/960px-Palmer_Luckey_wearing_Oculus_Rift_DK1_at_SVVR_2014.jpg" alt="Palmer Luckey Oculus" loading="lazy">
+    <img src="images/107_960px-Palmer_Luckey_wearing_Oculus_Rift_DK1_at_SVVR_2014.jpg" alt="Palmer Luckey Oculus" loading="lazy">
     <div class="label">Palmer Luckey — Oculus Rift</div>
     <div class="overlay">
       <div class="cat">Product Launches</div>
@@ -1307,7 +1433,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://electrek.co/2016/07/19/tesla-roadster-debut-10-years-ago-gallery/">
-    <img src="https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/07/0h8e7202-e1468940208370.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Tesla Roadster 2006" loading="lazy">
+    <img src="images/108_0h8e7202-e1468940208370.jpg" alt="Tesla Roadster 2006" loading="lazy">
     <div class="label">Tesla Roadster Debut (2006)</div>
     <div class="overlay">
       <div class="cat">Product Launches</div>
@@ -1318,7 +1444,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Morris_Chang">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Morris_Chang_1951_MIT_yearbook_portrait.jpg/250px-Morris_Chang_1951_MIT_yearbook_portrait.jpg" alt="Morris Chang MIT" loading="lazy">
+    <img src="images/109_250px-Morris_Chang_1951_MIT_yearbook_portrait.jpg" alt="Morris Chang MIT" loading="lazy">
     <div class="label">Morris Chang — MIT (1951)</div>
     <div class="overlay">
       <div class="cat">International</div>
@@ -1329,7 +1455,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Masayoshi_Son">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Masayoshi_Son_%28P066533-522034%2C_cropped%29.jpg" alt="Masayoshi Son" loading="lazy">
+    <img src="images/110_Masayoshi_Son__28P066533-522034_2C_cropped_29.jpg" alt="Masayoshi Son" loading="lazy">
     <div class="label">Masayoshi Son — SoftBank</div>
     <div class="overlay">
       <div class="cat">International</div>
@@ -1340,7 +1466,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Niklas_Zennstr%C3%B6m">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Niklas_Zennstrom_TC_2016.jpg/1280px-Niklas_Zennstrom_TC_2016.jpg" alt="Niklas Zennström" loading="lazy">
+    <img src="images/111_1280px-Niklas_Zennstrom_TC_2016.jpg" alt="Niklas Zennström" loading="lazy">
     <div class="label">Niklas Zennström — Skype</div>
     <div class="overlay">
       <div class="cat">International</div>
@@ -1351,7 +1477,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Elizabeth_Holmes">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Elizabeth_Holmes_2014_cropped.jpg" alt="Elizabeth Holmes" loading="lazy">
+    <img src="images/112_Elizabeth_Holmes_2014_cropped.jpg" alt="Elizabeth Holmes" loading="lazy">
     <div class="label">Elizabeth Holmes — Theranos</div>
     <div class="overlay">
       <div class="cat">Infamous</div>
@@ -1362,7 +1488,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Sam_Bankman-Fried">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sam_Bankman-Fried_%28cropped%29.png" alt="Sam Bankman-Fried" loading="lazy">
+    <img src="images/113_Sam_Bankman-Fried__28cropped_29.png" alt="Sam Bankman-Fried" loading="lazy">
     <div class="label">Sam Bankman-Fried — FTX</div>
     <div class="overlay">
       <div class="cat">Infamous</div>
@@ -1373,7 +1499,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=6ValJMOpt7s">
-    <img src="https://img.youtube.com/vi/6ValJMOpt7s/maxresdefault.jpg" alt="Zuckerberg Senate hearing" loading="lazy">
+    <img src="images/114_maxresdefault.jpg" alt="Zuckerberg Senate hearing" loading="lazy">
     <div class="label">Zuck Testifies — Senate (2018)</div>
     <div class="overlay">
       <div class="cat">Infamous</div>
@@ -1384,7 +1510,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.youtube.com/watch?v=0m07O_zgd-M">
-    <img src="https://img.youtube.com/vi/0m07O_zgd-M/maxresdefault.jpg" alt="Shou Chew TikTok" loading="lazy">
+    <img src="images/115_maxresdefault.jpg" alt="Shou Chew TikTok" loading="lazy">
     <div class="label">TikTok CEO — Congress (2023)</div>
     <div class="overlay">
       <div class="cat">Infamous</div>
@@ -1451,7 +1577,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Andrej_Karpathy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Andrej_Karpathy%2C_OpenAI.png" alt="Andrej Karpathy" loading="lazy">
+    <img src="images/121_Andrej_Karpathy_2C_OpenAI.png" alt="Andrej Karpathy" loading="lazy">
     <div class="label">Andrej Karpathy — OpenAI</div>
     <div class="overlay">
       <div class="cat">AI Researchers</div>
@@ -1485,7 +1611,7 @@
   </div>
 
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:George_Hotz.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/George_Hotz.jpg/500px-George_Hotz.jpg" alt="George Hotz" loading="lazy">
+    <img src="images/124_500px-George_Hotz.jpg" alt="George Hotz" loading="lazy">
     <div class="label">geohot — iPhone Jailbreak Era</div>
     <div class="overlay">
       <div class="cat">Hackers</div>
@@ -1496,7 +1622,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/">
-    <img src="https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/img/hotz_social.jpg" alt="Hotz Bloomberg" loading="lazy">
+    <img src="images/125_hotz_social.jpg" alt="Hotz Bloomberg" loading="lazy">
     <div class="label">geohot — Bloomberg Feature</div>
     <div class="overlay">
       <div class="cat">Hackers</div>
@@ -1507,7 +1633,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.idownloadblog.com/2015/12/16/george-hotz-self-driving-car/">
-    <img src="https://media.idownloadblog.com/wp-content/uploads/2015/12/George-Hots-Bloomberg-Businessweek-image-002.jpg" alt="Hotz garage setup" loading="lazy">
+    <img src="images/126_George-Hots-Bloomberg-Businessweek-image-002.jpg" alt="Hotz garage setup" loading="lazy">
     <div class="label">geohot's DIY Self-Driving Garage</div>
     <div class="overlay">
       <div class="cat">Hackers</div>
@@ -1518,7 +1644,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:George_Hotz_speaks_onstage_during_TechCrunch_Disrupt_SF_2016_01.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/George_Hotz_speaks_onstage_during_TechCrunch_Disrupt_SF_2016_01.jpg/1280px-George_Hotz_speaks_onstage_during_TechCrunch_Disrupt_SF_2016_01.jpg" alt="Hotz TechCrunch" loading="lazy">
+    <img src="images/127_1280px-George_Hotz_speaks_onstage_during_TechCrunch_Disrupt_.jpg" alt="Hotz TechCrunch" loading="lazy">
     <div class="label">geohot at TechCrunch Disrupt</div>
     <div class="overlay">
       <div class="cat">Hackers</div>
@@ -1529,7 +1655,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.theverge.com/2016/6/6/11866868/comma-ai-george-hotz-interview-self-driving-cars">
-    <img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13085367/mzelenko_230516_1078_0037.0.0.1465230009.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200" alt="Hotz The Verge" loading="lazy">
+    <img src="images/128_mzelenko_230516_1078_0037.0.0.1465230009.jpg" alt="Hotz The Verge" loading="lazy">
     <div class="label">geohot — The Verge Interview</div>
     <div class="overlay">
       <div class="cat">Hackers</div>
@@ -1540,7 +1666,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg" alt="Gates Allen Lakeside 1970" loading="lazy">
+    <img src="images/129_Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg" alt="Gates Allen Lakeside 1970" loading="lazy">
     <div class="label">Gates & Allen — Lakeside School (1970)</div>
     <div class="overlay">
       <div class="cat">Young Founders</div>
@@ -1562,7 +1688,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Google_page_brin.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Google_page_brin.jpg" alt="Page Brin" loading="lazy">
+    <img src="images/131_Google_page_brin.jpg" alt="Page Brin" loading="lazy">
     <div class="label">Larry Page & Sergey Brin</div>
     <div class="overlay">
       <div class="cat">Young Founders</div>
@@ -1574,7 +1700,7 @@
   </div>
 
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Lisa_Su">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/SXSW-2024-alih-OB7A0861-Lisa_Su_%28cropped_2%29.jpg" alt="Lisa Su" loading="lazy">
+    <img src="images/132_SXSW-2024-alih-OB7A0861-Lisa_Su__28cropped_2_29.jpg" alt="Lisa Su" loading="lazy">
     <div class="label">Lisa Su — AMD CEO</div>
     <div class="overlay">
       <div class="cat">Women in Tech</div>
@@ -1607,7 +1733,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Whitney_Wolfe_Herd">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2830647055838%29.jpg" alt="Whitney Wolfe Herd" loading="lazy">
+    <img src="images/135_TechCrunch_Disrupt_San_Francisco_2018_-_day_2__2830647055838.jpg" alt="Whitney Wolfe Herd" loading="lazy">
     <div class="label">Whitney Wolfe Herd — Bumble</div>
     <div class="overlay">
       <div class="cat">Women in Tech</div>
@@ -1618,7 +1744,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://en.wikipedia.org/wiki/Gwynne_Shotwell">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Gwynne_Shotwell_at_2018_Commercial_Crew_announcement.jpg" alt="Gwynne Shotwell" loading="lazy">
+    <img src="images/136_Gwynne_Shotwell_at_2018_Commercial_Crew_announcement.jpg" alt="Gwynne Shotwell" loading="lazy">
     <div class="label">Gwynne Shotwell — SpaceX</div>
     <div class="overlay">
       <div class="cat">Women in Tech</div>
@@ -1643,7 +1769,7 @@
 <!-- BONUS -->
 <span id="bonus"></span>
   <div class="tile" data-href="https://www.flickr.com/photos/spacex/51369631902/sizes/k">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Full_Stack_starship.jpg/960px-Full_Stack_starship.jpg" alt="Starship" loading="lazy">
+    <img src="images/138_960px-Full_Stack_starship.jpg" alt="Starship" loading="lazy">
     <div class="label">SpaceX Starship</div>
     <div class="overlay">
       <div class="cat">Bonus</div>
@@ -1653,7 +1779,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:SpaceX_Starship_ignition_during_IFT-5.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SpaceX_Starship_ignition_during_IFT-5.jpg/1280px-SpaceX_Starship_ignition_during_IFT-5.jpg" alt="Starship IFT-5" loading="lazy">
+    <img src="images/139_1280px-SpaceX_Starship_ignition_during_IFT-5.jpg" alt="Starship IFT-5" loading="lazy">
     <div class="label">Starship IFT-5 Launch</div>
     <div class="overlay">
       <div class="cat">Bonus</div>
@@ -1663,7 +1789,7 @@
     </div>
   </div>
   <div class="tile" data-href="https://www.dvidshub.net/image/9289965/marine-corps-attack-drone-team-demonstrates-lethal-fpv-drone-capabilities-senior-marine-leaders">
-    <img src="https://www.armytimes.com/resizer/v2/UCDGJGHJYZCDTMCS2XC7CIO6M4.jpg?width=1200&auth=26eb214ac328edbe82177432ba3448493a8c30bc53e5a852c6d34b0c9dccf310" alt="FPV Drone" loading="lazy">
+    <img src="images/140_UCDGJGHJYZCDTMCS2XC7CIO6M4.jpg" alt="FPV Drone" loading="lazy">
     <div class="label">Military FPV Drones</div>
     <div class="overlay">
       <div class="cat">Bonus</div>
@@ -1683,6 +1809,103 @@ document.querySelectorAll('.tile[data-href]').forEach(t => {
     window.open(t.dataset.href, '_blank');
   });
 });
+
+// Modal / Lightbox
+(function(){
+  const modal = document.getElementById('modal');
+  const modalImg = document.getElementById('modalImg');
+  const modalCat = document.getElementById('modalCat');
+  const modalTitle = document.getElementById('modalTitle');
+  const modalSub = document.getElementById('modalSub');
+  const modalDesc = document.getElementById('modalDesc');
+  const modalSource = document.getElementById('modalSource');
+  const tiles = Array.from(document.querySelectorAll('.tile'));
+  let currentIndex = -1;
+
+  function openModal(index) {
+    if (index < 0 || index >= tiles.length) return;
+    currentIndex = index;
+    const tile = tiles[index];
+    const img = tile.querySelector('img');
+    const cat = tile.querySelector('.cat');
+    const h3 = tile.querySelector('h3');
+    const sub = tile.querySelector('.sub');
+    const desc = tile.querySelector('.desc');
+    const src = tile.querySelector('.src');
+    const href = tile.dataset.href;
+
+    modalImg.src = img.src;
+    modalImg.alt = img.alt;
+    modalCat.textContent = cat ? cat.textContent : '';
+    modalTitle.textContent = h3 ? h3.textContent : '';
+    modalSub.textContent = sub ? sub.textContent : '';
+    modalDesc.textContent = desc ? desc.textContent : '';
+
+    if (href) {
+      const srcName = src ? src.textContent : 'Source';
+      modalSource.innerHTML = '<a href="' + href + '" target="_blank">' + srcName + ' \u2197</a>';
+    } else {
+      modalSource.innerHTML = '';
+    }
+
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    modal.classList.remove('active');
+    document.body.style.overflow = '';
+    currentIndex = -1;
+  }
+
+  function navigate(dir) {
+    if (currentIndex < 0) return;
+    let next = currentIndex + dir;
+    if (next < 0) next = tiles.length - 1;
+    if (next >= tiles.length) next = 0;
+    openModal(next);
+  }
+
+  tiles.forEach(function(tile, i) {
+    tile.style.cursor = 'pointer';
+    tile.addEventListener('click', function(e) {
+      e.preventDefault();
+      openModal(i);
+    });
+  });
+
+  document.getElementById('modalClose').addEventListener('click', closeModal);
+  document.getElementById('modalPrev').addEventListener('click', function(e) { e.stopPropagation(); navigate(-1); });
+  document.getElementById('modalNext').addEventListener('click', function(e) { e.stopPropagation(); navigate(1); });
+  modal.addEventListener('click', function(e) {
+    if (e.target === modal) closeModal();
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (!modal.classList.contains('active')) return;
+    if (e.key === 'Escape') closeModal();
+    if (e.key === 'ArrowLeft') navigate(-1);
+    if (e.key === 'ArrowRight') navigate(1);
+  });
+})();
+
 </script>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modal">
+  <div class="modal-close" id="modalClose">&times;</div>
+  <div class="modal-nav modal-prev" id="modalPrev">&#8249;</div>
+  <div class="modal-nav modal-next" id="modalNext">&#8250;</div>
+  <div class="modal-content" id="modalContent">
+    <img id="modalImg" src="" alt="">
+    <div class="modal-info">
+      <div class="modal-cat" id="modalCat"></div>
+      <h3 id="modalTitle"></h3>
+      <div class="modal-sub" id="modalSub"></div>
+      <div class="modal-desc" id="modalDesc"></div>
+      <div class="modal-source" id="modalSource"></div>
+    </div>
+  </div>
+</div>
 </body>
 </html>
