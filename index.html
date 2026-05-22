@@ -1802,6 +1802,23 @@
 
 <footer>Beautiful Photos of AI · May 2026 · All images link to original sources</footer>
 
+<!-- Modal -->
+<div class="modal-overlay" id="modal">
+  <div class="modal-close" id="modalClose">&times;</div>
+  <div class="modal-nav modal-prev" id="modalPrev">&#8249;</div>
+  <div class="modal-nav modal-next" id="modalNext">&#8250;</div>
+  <div class="modal-content" id="modalContent">
+    <img id="modalImg" src="" alt="">
+    <div class="modal-info">
+      <div class="modal-cat" id="modalCat"></div>
+      <h3 id="modalTitle"></h3>
+      <div class="modal-sub" id="modalSub"></div>
+      <div class="modal-desc" id="modalDesc"></div>
+      <div class="modal-source" id="modalSource"></div>
+    </div>
+  </div>
+</div>
+
 <script>
 document.querySelectorAll('.tile[data-href]').forEach(t => {
   t.addEventListener('click', e => {
@@ -1890,22 +1907,5 @@ document.querySelectorAll('.tile[data-href]').forEach(t => {
 })();
 
 </script>
-
-<!-- Modal -->
-<div class="modal-overlay" id="modal">
-  <div class="modal-close" id="modalClose">&times;</div>
-  <div class="modal-nav modal-prev" id="modalPrev">&#8249;</div>
-  <div class="modal-nav modal-next" id="modalNext">&#8250;</div>
-  <div class="modal-content" id="modalContent">
-    <img id="modalImg" src="" alt="">
-    <div class="modal-info">
-      <div class="modal-cat" id="modalCat"></div>
-      <h3 id="modalTitle"></h3>
-      <div class="modal-sub" id="modalSub"></div>
-      <div class="modal-desc" id="modalDesc"></div>
-      <div class="modal-source" id="modalSource"></div>
-    </div>
-  </div>
-</div>
 </body>
 </html>
