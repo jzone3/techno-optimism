@@ -15,132 +15,86 @@
   }
   .hero {
     text-align: center;
-    padding: 40px 20px 30px;
+    padding: 30px 20px 20px;
     background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);
     border-bottom: 1px solid #1a1a1a;
   }
   .hero h1 {
-    font-size: 2.5rem;
-    font-weight: 700;
-    letter-spacing: -0.03em;
-    margin-bottom: 8px;
+    font-size: 2rem; font-weight: 700; letter-spacing: -0.03em;
+    margin-bottom: 6px;
     background: linear-gradient(135deg, #fff, #888);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   }
-  .hero p { font-size: 0.9rem; color: #666; max-width: 600px; margin: 0 auto 8px; font-weight: 300; }
-  .hero .inspired { font-size: 0.75rem; color: #444; }
+  .hero p { font-size: 0.8rem; color: #666; max-width: 600px; margin: 0 auto 6px; font-weight: 300; }
+  .hero .inspired { font-size: 0.7rem; color: #444; }
   .hero .inspired a { color: #76b900; text-decoration: none; }
   nav {
     position: sticky; top: 0; z-index: 100;
-    background: rgba(10,10,10,0.92); backdrop-filter: blur(20px);
+    background: rgba(10,10,10,0.95); backdrop-filter: blur(20px);
     border-bottom: 1px solid #1a1a1a;
-    padding: 8px 12px; overflow-x: auto; white-space: nowrap; text-align: center;
+    padding: 6px 8px; overflow-x: auto; white-space: nowrap; text-align: center;
   }
   nav a {
     display: inline-block; color: #777; text-decoration: none;
-    font-size: 0.7rem; font-weight: 500; text-transform: uppercase;
-    letter-spacing: 0.06em; padding: 4px 10px; border-radius: 12px;
+    font-size: 0.65rem; font-weight: 500; text-transform: uppercase;
+    letter-spacing: 0.06em; padding: 3px 8px; border-radius: 10px;
     transition: all 0.2s; margin: 0 1px;
   }
   nav a:hover { color: #fff; background: #1a1a1a; }
-  .section-label {
-    max-width: 1800px; margin: 0 auto;
-    padding: 24px 12px 8px;
-    font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
-    letter-spacing: 0.1em; color: #76b900;
-    border-top: 1px solid #1a1a1a;
-  }
-  .section-label:first-of-type { border-top: none; }
 
-  /* Dense masonry grid */
-  .grid {
-    max-width: 1800px; margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 4px;
-    padding: 4px 4px;
+  /* Pinterest masonry */
+  .masonry {
+    column-count: 6; column-gap: 3px;
+    padding: 3px; width: 100%;
   }
-  .grid.wide-items {
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  .tile .overlay .cat {
+    font-size: 0.55rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.08em; color: #76b900; margin-bottom: 2px;
   }
-
-  /* Each image tile */
   .tile {
-    position: relative;
-    overflow: hidden;
-    background: #111;
-    cursor: pointer;
-    aspect-ratio: 4/3;
-    display: block;
-    text-decoration: none;
+    position: relative; overflow: hidden; background: #111;
+    cursor: pointer; break-inside: avoid;
+    margin-bottom: 3px; border-radius: 6px;
+    display: block; text-decoration: none;
   }
-  .tile.portrait { aspect-ratio: 3/4; }
-  .tile.wide { aspect-ratio: 16/9; grid-column: span 2; }
-  .tile.square { aspect-ratio: 1; }
-
   .tile img {
-    position: absolute; inset: 0;
-    width: 100%; height: 100%;
-    object-fit: cover;
-    transition: transform 0.4s ease;
-    display: block;
+    width: 100%; height: auto; display: block;
+    transition: transform 0.4s ease, filter 0.4s ease;
   }
-  .tile:hover img { transform: scale(1.05); }
-
-  /* Hover overlay */
+  .tile:hover img { transform: scale(1.04); filter: brightness(0.7); }
   .tile .overlay {
     position: absolute; inset: 0;
-    background: linear-gradient(0deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.3) 40%, transparent 60%);
-    display: none;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 12px;
-    pointer-events: none;
-    z-index: 3;
-    color: #fff;
+    background: linear-gradient(0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 35%, transparent 55%);
+    opacity: 0; display: flex; flex-direction: column;
+    justify-content: flex-end; padding: 10px;
+    pointer-events: none; z-index: 3; color: #fff;
+    transition: opacity 0.3s;
   }
-  .tile:hover .overlay { display: flex; }
+  .tile:hover .overlay { opacity: 1; }
   .tile:hover .label { opacity: 0; }
-  .tile .overlay h3 {
-    font-size: 0.85rem; font-weight: 600; color: #fff;
-    margin-bottom: 2px; line-height: 1.2;
-  }
-  .tile .overlay .sub {
-    font-size: 0.7rem; color: #76b900; font-weight: 500;
-    margin-bottom: 4px;
-  }
+  .tile .overlay h3 { font-size: 0.8rem; font-weight: 600; margin-bottom: 2px; line-height: 1.2; }
+  .tile .overlay .sub { font-size: 0.65rem; color: #76b900; font-weight: 500; margin-bottom: 3px; }
   .tile .overlay .desc {
-    font-size: 0.7rem; color: #bbb; line-height: 1.4;
+    font-size: 0.65rem; color: #bbb; line-height: 1.3;
     display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
   }
-  .tile .overlay .src {
-    font-size: 0.6rem; color: #666; margin-top: 4px;
-  }
-  .tile .overlay .src a { color: #76b900; text-decoration: none; }
-
-  /* Persistent label on tile (visible without hover) */
+  .tile .overlay .src { font-size: 0.55rem; color: #555; margin-top: 3px; }
+  .tile .overlay .src a { color: #76b900; text-decoration: none; pointer-events: auto; }
   .tile .label {
     position: absolute; bottom: 0; left: 0; right: 0;
-    padding: 6px 8px;
-    background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, transparent 100%);
-    font-size: 0.7rem; font-weight: 500; color: #fff;
-    pointer-events: none;
-    transition: opacity 0.3s;
-    z-index: 2;
+    padding: 5px 7px;
+    background: linear-gradient(0deg, rgba(0,0,0,0.75) 0%, transparent 100%);
+    font-size: 0.65rem; font-weight: 500; color: #fff;
+    pointer-events: none; transition: opacity 0.3s; z-index: 2;
   }
-  .tile:hover .label { opacity: 0; }
-
-  footer {
-    text-align: center; padding: 30px 20px;
-    color: #333; font-size: 0.7rem;
-    border-top: 1px solid #1a1a1a;
-  }
-
-  @media (max-width: 700px) {
-    .hero h1 { font-size: 1.6rem; }
-    .grid { grid-template-columns: repeat(2, 1fr); }
-    .tile.wide { grid-column: span 2; }
+  footer { text-align: center; padding: 20px; color: #333; font-size: 0.65rem; border-top: 1px solid #1a1a1a; }
+  @media (max-width: 1400px) { .masonry { column-count: 5; } }
+  @media (max-width: 1100px) { .masonry { column-count: 4; } }
+  @media (max-width: 800px) { .masonry { column-count: 3; } }
+  @media (max-width: 550px) {
+    .masonry { column-count: 2; column-gap: 2px; padding: 2px; }
+    .tile { margin-bottom: 2px; border-radius: 4px; }
+    .hero h1 { font-size: 1.4rem; }
   }
 </style>
 </head>
@@ -159,22 +113,23 @@
   <a href="#robots">Robots</a>
   <a href="#auto">Autonomous</a>
   <a href="#consumer">Consumer</a>
-  <a href="#super">Supercomputers</a>
   <a href="#history">History</a>
-  <a href="#hq">HQ</a>
   <a href="#jensen">Jensen</a>
   <a href="#people">People</a>
-  <a href="#viral">Viral Moments</a>
+  <a href="#viral">Viral</a>
+  <a href="#culture">@TechBroDrip</a>
   <a href="#bonus">Bonus</a>
 </nav>
 
+<div class="masonry">
+
 <!-- CHIPS -->
-<div class="section-label" id="chips">Chips & Semiconductors</div>
-<div class="grid">
+<span id="chips"></span>
   <div class="tile" data-href="https://nvidianews.nvidia.com/file?fid=62390815b3aed32959670e57">
     <img src="https://iprsoftwaremedia.com/219/files/20222/62390815b3aed32959670e57_nvidia-hopper-architecture-h100-die/nvidia-hopper-architecture-h100-die_49fd9ed5-1ea4-4582-abc9-9e9a0506daad-prv.jpg" alt="H100 Die Shot" loading="lazy">
     <div class="label">NVIDIA H100 Die Shot</div>
     <div class="overlay">
+      <div class="cat">Chips</div>
       <h3>NVIDIA H100 Die Shot</h3>
       <div class="desc">80 billion transistors. The Hopper architecture die — emerald-green macro beauty.</div>
       <div class="src"><a href="https://nvidianews.nvidia.com/" target="_blank">NVIDIA Newsroom</a></div>
@@ -184,15 +139,17 @@
     <img src="https://iprsoftwaremedia.com/219/files/202310/65522f033d633283db5a5cde_nvidia-hgx-h200/nvidia-hgx-h200_dcd4e3bf-a064-4fb6-9b5f-561a684e7ffb-prv.jpg" alt="HGX H200" loading="lazy">
     <div class="label">NVIDIA HGX H200</div>
     <div class="overlay">
+      <div class="cat">Chips</div>
       <h3>NVIDIA HGX H200 Board</h3>
       <div class="desc">8 GPUs connected via NVLink on a single board. A slab of compute power.</div>
       <div class="src"><a href="https://nvidianews.nvidia.com/" target="_blank">NVIDIA Newsroom</a></div>
     </div>
   </div>
-  <div class="tile wide" data-href="https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/">
+  <div class="tile" data-href="https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/">
     <img src="https://blogs.nvidia.com/wp-content/uploads/2025/10/tsmc-flag-1280x680-3.jpg" alt="Blackwell Wafer" loading="lazy">
     <div class="label">First Blackwell Wafer Made in the USA</div>
     <div class="overlay">
+      <div class="cat">Chips</div>
       <h3>First Blackwell Wafer Made in the USA</h3>
       <div class="desc">NVIDIA and TSMC celebrating the first Blackwell wafer produced on American soil.</div>
       <div class="src"><a href="https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/" target="_blank">NVIDIA Blog</a></div>
@@ -202,6 +159,7 @@
     <img src="https://cdn.peteradamsphoto.com/wp-content/uploads/2021/08/27141249/J2048.IEEE_Cerebras.Cerebras4961.web_-scaled.jpg" alt="Cerebras WSE-2" loading="lazy">
     <div class="label">Cerebras WSE-2</div>
     <div class="overlay">
+      <div class="cat">Chips</div>
       <h3>Cerebras WSE-2 — Largest Chip Ever</h3>
       <div class="desc">2.6 trillion transistors. The entire wafer IS the chip. Dinner-plate-sized iridescent silicon.</div>
       <div class="src"><a href="https://www.peteradamsphoto.com/cerebras-wafer-scale-engine-wse-2/" target="_blank">Peter Adams Photography</a></div>
@@ -211,6 +169,7 @@
     <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/eighth-generation_TPU.max-2000x2000.jpg" alt="Google TPU v8" loading="lazy">
     <div class="label">Google TPU v8</div>
     <div class="overlay">
+      <div class="cat">Chips</div>
       <h3>Google TPU v8</h3>
       <div class="desc">Custom AI accelerators — the brains behind Search, YouTube, and Gemini.</div>
       <div class="src"><a href="https://cloud.google.com/blog/" target="_blank">Google Cloud Blog</a></div>
@@ -220,20 +179,20 @@
     <img src="https://eecue.com/img/1280/e379e8b66e.jpg" alt="Silicon Wafer" loading="lazy">
     <div class="label">Silicon Wafer Close-Up</div>
     <div class="overlay">
+      <div class="cat">Chips</div>
       <h3>Looking Through a Silicon Wafer</h3>
       <div class="desc">Iridescent rainbow colors of a real silicon wafer. The raw material of the AI revolution.</div>
       <div class="src"><a href="https://eecue.com/" target="_blank">Dave Bullock / eecue</a></div>
     </div>
   </div>
-</div>
 
 <!-- FABS & MACHINES -->
-<div class="section-label" id="fabs">The Machines That Make the Chips</div>
-<div class="grid">
-  <div class="tile wide" data-href="https://www.asml.com/en/products/euv-lithography-systems/twinscan-exe-5000">
+<span id="fabs"></span>
+  <div class="tile" data-href="https://www.asml.com/en/products/euv-lithography-systems/twinscan-exe-5000">
     <img src="https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/products/euv-lithography-systems/exe5000.jpg?h=880&iar=0&w=1920" alt="ASML EUV" loading="lazy">
     <div class="label">ASML EUV Lithography Machine</div>
     <div class="overlay">
+      <div class="cat">Fabs</div>
       <h3>ASML EUV Lithography Machine</h3>
       <div class="desc">The most complex machine ever built. Extreme ultraviolet light etches patterns smaller than a virus onto silicon.</div>
       <div class="src"><a href="https://www.asml.com/" target="_blank">ASML</a></div>
@@ -243,6 +202,7 @@
     <img src="https://s.hdnux.com/photos/01/63/41/45/30284145/3/rawImage.jpg" alt="Clean Room" loading="lazy">
     <div class="label">Semiconductor Clean Room</div>
     <div class="overlay">
+      <div class="cat">Fabs</div>
       <h3>TSMC Fabs & Clean Rooms</h3>
       <div class="desc">Workers in bunny suits, ultraclean environments, robotic wafer handlers — the cathedrals of silicon.</div>
       <div class="src"><a href="https://www.gettyimages.com/photos/tsmc" target="_blank">Times Union</a></div>
@@ -252,20 +212,20 @@
     <img src="https://foto.wuestenigel.com/photos/full/techniker-in-reinraum-arbeiten-an-halbleiteranlage.jpg" alt="Fab Cleanroom" loading="lazy">
     <div class="label">Fab Cleanroom Workers</div>
     <div class="overlay">
+      <div class="cat">Fabs</div>
       <h3>Semiconductor Fab Workers</h3>
       <div class="desc">Technicians in yellow-lit cleanroom working on semiconductor manufacturing equipment.</div>
       <div class="src"><a href="https://foto.wuestenigel.com/" target="_blank">Wuestenigel</a></div>
     </div>
   </div>
-</div>
 
 <!-- DATA CENTERS -->
-<div class="section-label" id="dc">Data Centers — Cathedrals of Compute</div>
-<div class="grid">
-  <div class="tile wide" data-href="https://www.google.com/about/datacenters/gallery/">
+<span id="dc"></span>
+  <div class="tile" data-href="https://www.google.com/about/datacenters/gallery/">
     <img src="https://www.gstatic.com/marketing-cms/assets/images/c9/3e/5234a37f4e8984759d30c434cc1e/new-albany-data-center-campus-fiber-optics.jpg" alt="Google Data Center" loading="lazy">
     <div class="label">Google — Fiber Optics</div>
     <div class="overlay">
+      <div class="cat">Data Centers</div>
       <h3>Google Data Center — Fiber Optics</h3>
       <div class="desc">Rainbow fiber optic cables weaving through a Google data center ceiling. Infrastructure as art.</div>
       <div class="src"><a href="https://www.google.com/about/datacenters/gallery/" target="_blank">Google Data Centers</a></div>
@@ -275,6 +235,7 @@
     <img src="https://iprsoftwaremedia.com/219/files/20249/670e888c3d6332a54e481554_NVIDIA%20GB200%20NVL72%20Rack%20Press%20Graphic/NVIDIA%20GB200%20NVL72%20Rack%20Press%20Graphic_89a989fb-ea15-4424-819c-75ae68e6e053-prv.png" alt="GB200 NVL72" loading="lazy">
     <div class="label">NVIDIA GB200 NVL72 Rack</div>
     <div class="overlay">
+      <div class="cat">Data Centers</div>
       <h3>NVIDIA GB200 NVL72 Rack</h3>
       <div class="desc">36 Grace CPUs and 72 Blackwell GPUs in a single liquid-cooled rack.</div>
       <div class="src"><a href="https://www.nvidia.com/" target="_blank">NVIDIA</a></div>
@@ -284,6 +245,7 @@
     <img src="https://s.hdnux.com/photos/01/62/30/55/29985608/3/rawImage.jpg" alt="Stargate" loading="lazy">
     <div class="label">Stargate AI — Abilene, TX</div>
     <div class="overlay">
+      <div class="cat">Data Centers</div>
       <h3>Stargate AI Data Center</h3>
       <div class="desc">The massive $500B OpenAI/SoftBank Stargate campus — 1,100 acres of AI infrastructure in Texas.</div>
       <div class="src"><a href="https://www.dallasnews.com/" target="_blank">Dallas Morning News</a></div>
@@ -293,6 +255,7 @@
     <img src="https://news.microsoft.com/wp-content/uploads/prod/2018/05/Natick_Deployment_59-1920x1080.jpg" alt="Project Natick" loading="lazy">
     <div class="label">Microsoft Underwater DC</div>
     <div class="overlay">
+      <div class="cat">Data Centers</div>
       <h3>Project Natick — Underwater Data Center</h3>
       <div class="desc">Microsoft sank a data center to the ocean floor off Scotland. Sealed, cooled by the sea.</div>
       <div class="src"><a href="https://news.microsoft.com/" target="_blank">Microsoft News</a></div>
@@ -302,6 +265,7 @@
     <img src="https://compote.slate.com/images/a004d44c-1c3f-4c6e-8396-add94390a5ea.jpg?width=1560" alt="Google Server Pipes" loading="lazy">
     <div class="label">Google — Colorful Pipes</div>
     <div class="overlay">
+      <div class="cat">Data Centers</div>
       <h3>Google Data Center — Cooling Pipes</h3>
       <div class="desc">Color-coded cooling pipes inside a Google data center. What the internet actually looks like.</div>
       <div class="src"><a href="https://slate.com/" target="_blank">Slate / Connie Zhou</a></div>
@@ -311,6 +275,7 @@
     <img src="https://i.ytimg.com/vi/XZmGGAbHqa0/sddefault.jpg" alt="Inside Google DC" loading="lazy">
     <div class="label">Inside a Google DC</div>
     <div class="overlay">
+      <div class="cat">Data Centers</div>
       <h3>Inside a Google Data Center</h3>
       <div class="desc">Server racks stretching to infinity. Blue LED lights, cable management perfection.</div>
       <div class="src"><a href="https://www.youtube.com/" target="_blank">Google / YouTube</a></div>
@@ -320,20 +285,20 @@
     <img src="https://www.popphoto.com/uploads/2019/01/17/6HNKDTFHUBOLH7S4VB64TU7PQU.jpeg?auto=webp" alt="Google DC Photo" loading="lazy">
     <div class="label">Google — Server Aisle</div>
     <div class="overlay">
+      <div class="cat">Data Centers</div>
       <h3>Google Data Center — Server Aisle</h3>
       <div class="desc">Professional photography of Google's server rows. Shot by Connie Zhou for Google.</div>
       <div class="src"><a href="https://www.popphoto.com/" target="_blank">Popular Photography</a></div>
     </div>
   </div>
-</div>
 
 <!-- ROBOTS -->
-<div class="section-label" id="robots">Robots & Humanoids</div>
-<div class="grid">
+<span id="robots"></span>
   <div class="tile" data-href="https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing">
     <img src="https://bostondynamics.com/wp-content/uploads/2025/08/atlas-tri-blog.jpg" alt="Atlas" loading="lazy">
     <div class="label">Boston Dynamics Atlas</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Boston Dynamics Atlas</h3>
       <div class="desc">The most acrobatic robot on Earth. Backflips, parkour, warehouse work.</div>
       <div class="src"><a href="https://bostondynamics.com/" target="_blank">Boston Dynamics</a></div>
@@ -343,6 +308,7 @@
     <img src="https://bostondynamics.com/wp-content/uploads/2023/04/jump-closer-v3-final.png" alt="Atlas Backflip" loading="lazy">
     <div class="label">Atlas — Mid-Backflip</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Atlas Backflip</h3>
       <div class="desc">Frozen mid-air during a backflip. The moment robots became athletes.</div>
       <div class="src"><a href="https://bostondynamics.com/" target="_blank">Boston Dynamics</a></div>
@@ -352,6 +318,7 @@
     <img src="https://bostondynamics.com/wp-content/uploads/2023/11/spot-rescue.jpg" alt="Spot Rescue" loading="lazy">
     <div class="label">Spot — Search & Rescue</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Spot Robot in the Field</h3>
       <div class="desc">Boston Dynamics' robot dog deployed in real-world rescue operations.</div>
       <div class="src"><a href="https://bostondynamics.com/" target="_blank">Boston Dynamics</a></div>
@@ -361,6 +328,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ambassador_Burns_speaks_to_a_woman_in_front_of_a_robot.jpg/330px-Ambassador_Burns_speaks_to_a_woman_in_front_of_a_robot.jpg" alt="Tesla Optimus" loading="lazy">
     <div class="label">Tesla Optimus</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Tesla Optimus</h3>
       <div class="desc">Elon's vision of a general-purpose humanoid robot. Walking, folding laundry, sorting objects.</div>
       <div class="src"><a href="https://en.wikipedia.org/wiki/Optimus_(robot)" target="_blank">Wikipedia</a></div>
@@ -370,6 +338,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sophia_%28robot%29_2.jpg/960px-Sophia_%28robot%29_2.jpg" alt="Sophia" loading="lazy">
     <div class="label">Sophia</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Sophia by Hanson Robotics</h3>
       <div class="desc">The world's most famous social humanoid robot. Expressive face, uncanny valley aesthetics.</div>
       <div class="src"><a href="https://www.hansonrobotics.com/sophia" target="_blank">Hanson Robotics</a></div>
@@ -379,6 +348,7 @@
     <img src="https://www.therobotreport.com/wp-content/uploads/2024/08/figure02-front-featured.jpg" alt="Figure 02" loading="lazy">
     <div class="label">Figure 02</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Figure 02</h3>
       <div class="desc">Figure AI's next-gen humanoid. Ready for real work in warehouses and factories.</div>
       <div class="src"><a href="https://www.therobotreport.com/" target="_blank">The Robot Report</a></div>
@@ -388,6 +358,7 @@
     <img src="https://assets.aboutamazon.com/dims4/default/6de3f28/2147483647/strip/true/crop/1800x900+0+150/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F7e%2Fcb%2Fe6779b40478da582397f6b5990ce%2Fastro-invite.jpg" alt="Amazon Astro" loading="lazy">
     <div class="label">Amazon Astro</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Amazon Astro</h3>
       <div class="desc">The cute home robot — Wall-E meets Alexa. Patrolling your house autonomously.</div>
       <div class="src"><a href="https://www.aboutamazon.com/" target="_blank">About Amazon</a></div>
@@ -397,20 +368,20 @@
     <img src="https://i.ytimg.com/vi/tF4DML7FIWk/sddefault.jpg" alt="Atlas Parkour" loading="lazy">
     <div class="label">Atlas — Parkour</div>
     <div class="overlay">
+      <div class="cat">Robots</div>
       <h3>Atlas Partners in Parkour</h3>
       <div class="desc">Two Atlas robots doing synchronized parkour. Running, jumping, climbing — better than most humans.</div>
       <div class="src"><a href="https://www.youtube.com/" target="_blank">Boston Dynamics / YouTube</a></div>
     </div>
   </div>
-</div>
 
 <!-- AUTONOMOUS -->
-<div class="section-label" id="auto">Autonomous Vehicles</div>
-<div class="grid">
-  <div class="tile wide" data-href="https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco.jpg">
+<span id="auto"></span>
+  <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco.jpg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Waymo_Jaguar_I-Pace_in_San_Francisco.jpg/1280px-Waymo_Jaguar_I-Pace_in_San_Francisco.jpg" alt="Waymo SF" loading="lazy">
     <div class="label">Waymo — San Francisco</div>
     <div class="overlay">
+      <div class="cat">Autonomous</div>
       <h3>Waymo Jaguar I-PACE — San Francisco</h3>
       <div class="desc">LiDAR dome spinning, sensors watching, zero human drivers. The future is already here.</div>
       <div class="src"><a href="https://commons.wikimedia.org/" target="_blank">Wikimedia Commons</a></div>
@@ -420,6 +391,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg/1280px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg" alt="Waymo Downtown" loading="lazy">
     <div class="label">Waymo Downtown SF</div>
     <div class="overlay">
+      <div class="cat">Autonomous</div>
       <h3>Waymo Downtown San Francisco</h3>
       <div class="desc">Self-driving taxis are a daily reality in San Francisco.</div>
       <div class="src"><a href="https://commons.wikimedia.org/" target="_blank">Wikimedia — dllu</a></div>
@@ -429,21 +401,21 @@
     <img src="https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/18/bd7d1a21-c2b3-46b8-ae3e-e18340f5ae30/thumbnail/1200x630/b313e2ecfa01e490c84607aebbfdff31/capture.jpg" alt="Cruise Crash" loading="lazy">
     <div class="label">Cruise Robotaxi Crash</div>
     <div class="overlay">
+      <div class="cat">Autonomous</div>
       <h3>Cruise Robotaxi Crashes into Fire Truck</h3>
       <div class="sub">San Francisco, 2023</div>
       <div class="desc">The incident that ended Cruise's robotaxi program. Autonomous vehicle reality check.</div>
       <div class="src"><a href="https://www.cbsnews.com/" target="_blank">CBS News</a></div>
     </div>
   </div>
-</div>
 
 <!-- CONSUMER -->
-<div class="section-label" id="consumer">Consumer AI Hardware</div>
-<div class="grid">
+<span id="consumer"></span>
   <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Elon_Musk_and_the_Neuralink_Future.jpg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Elon_Musk_and_the_Neuralink_Future.jpg/960px-Elon_Musk_and_the_Neuralink_Future.jpg" alt="Neuralink" loading="lazy">
     <div class="label">Musk + Neuralink</div>
     <div class="overlay">
+      <div class="cat">Consumer Hardware</div>
       <h3>Elon Musk with Neuralink Chip</h3>
       <div class="desc">Holding the coin-sized brain-computer interface. The ultimate merger of AI and biology.</div>
       <div class="src"><a href="https://commons.wikimedia.org/" target="_blank">Wikimedia</a></div>
@@ -453,6 +425,7 @@
     <img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/rabbit-r1-4.jpg?w=1200" alt="Rabbit R1" loading="lazy">
     <div class="label">Rabbit R1</div>
     <div class="overlay">
+      <div class="cat">Consumer Hardware</div>
       <h3>Rabbit R1</h3>
       <div class="desc">Bright orange pocket-sized AI device by Teenage Engineering. Beautifully designed hardware.</div>
       <div class="src"><a href="https://www.theverge.com/" target="_blank">The Verge</a></div>
@@ -462,6 +435,7 @@
     <img src="https://liliputing.com/wp-content/uploads/2024/04/ai-pin_01.jpg" alt="Humane AI Pin" loading="lazy">
     <div class="label">Humane AI Pin</div>
     <div class="overlay">
+      <div class="cat">Consumer Hardware</div>
       <h3>Humane AI Pin</h3>
       <div class="desc">The $699 screen-free wearable that projects onto your palm. Bold, ambitious, controversial.</div>
       <div class="src"><a href="https://liliputing.com/" target="_blank">Liliputing</a></div>
@@ -471,35 +445,34 @@
     <img src="https://i.kym-cdn.com/entries/icons/original/000/048/283/vision-pro-public.jpg" alt="Vision Pro in Public" loading="lazy">
     <div class="label">Vision Pro in Public</div>
     <div class="overlay">
+      <div class="cat">Consumer Hardware</div>
       <h3>Apple Vision Pro in Public</h3>
       <div class="sub">Viral Meme, 2024</div>
       <div class="desc">People wearing $3,500 headsets on the NYC subway, driving cars, walking down the street. Peak tech.</div>
       <div class="src"><a href="https://knowyourmeme.com/" target="_blank">Know Your Meme</a></div>
     </div>
   </div>
-</div>
 
 <!-- SUPERCOMPUTERS -->
-<div class="section-label" id="super">Supercomputers</div>
-<div class="grid">
+<span id="super"></span>
   <div class="tile" data-href="https://www.llnl.gov/article/52336/llnl-dedicates-el-capitan-ushering-new-era-supercomputing-national-security">
     <img src="https://contenthub.llnl.gov/sites/contenthub/files/styles/scaled_425h/public/2024-11/El%20Capitan_Full_00354_3%20%281%29.jpg" alt="El Capitan" loading="lazy">
     <div class="label">El Capitan Supercomputer</div>
     <div class="overlay">
+      <div class="cat">Supercomputers</div>
       <h3>El Capitan — World's Fastest</h3>
       <div class="desc">Lawrence Livermore's exascale beast. Towering black cabinets processing national security workloads.</div>
       <div class="src"><a href="https://www.llnl.gov/" target="_blank">LLNL</a></div>
     </div>
   </div>
-</div>
 
 <!-- HISTORY -->
-<div class="section-label" id="history">Historical AI — The Origin Story</div>
-<div class="grid">
-  <div class="tile wide" data-href="https://spectrum.ieee.org/dartmouth-ai-workshop">
+<span id="history"></span>
+  <div class="tile" data-href="https://spectrum.ieee.org/dartmouth-ai-workshop">
     <img src="https://spectrum.ieee.org/media-library/historical-photo-of-seven-smiling-men-sitting-on-a-lawn-in-front-of-a-tree-and-a.jpg?id=25588780&width=1200&height=900" alt="Dartmouth 1956" loading="lazy">
     <div class="label">Dartmouth Workshop (1956)</div>
     <div class="overlay">
+      <div class="cat">Historical AI</div>
       <h3>Dartmouth Workshop (1956)</h3>
       <div class="desc">Where AI was born. McCarthy, Minsky, Shannon and others coined "Artificial Intelligence" here.</div>
       <div class="src"><a href="https://spectrum.ieee.org/dartmouth-ai-workshop" target="_blank">IEEE Spectrum</a></div>
@@ -509,6 +482,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg" alt="ENIAC" loading="lazy">
     <div class="label">ENIAC (1946)</div>
     <div class="overlay">
+      <div class="cat">Historical AI</div>
       <h3>ENIAC (1946)</h3>
       <div class="desc">Glen Beck and Betty Snyder programming the first general-purpose electronic computer.</div>
       <div class="src"><a href="https://en.wikipedia.org/wiki/ENIAC" target="_blank">U.S. Army / Wikimedia</a></div>
@@ -518,6 +492,7 @@
     <img src="https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/arc/cf/ul/g/27/82/deep-blue-10.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" alt="Deep Blue" loading="lazy">
     <div class="label">IBM Deep Blue</div>
     <div class="overlay">
+      <div class="cat">Historical AI</div>
       <h3>IBM Deep Blue</h3>
       <div class="desc">The chess computer that beat Kasparov in 1997. AI went from theory to spectacle.</div>
       <div class="src"><a href="https://www.ibm.com/history/deep-blue" target="_blank">IBM</a></div>
@@ -527,6 +502,7 @@
     <img src="https://images.computerhistory.org/chess/kasparov.game-4-deep-blue-vs-kasparov.new-york.1997.102645304.newborn.jpg?w=600" alt="Kasparov vs Deep Blue" loading="lazy">
     <div class="label">Kasparov vs Deep Blue (1997)</div>
     <div class="overlay">
+      <div class="cat">Historical AI</div>
       <h3>Kasparov vs Deep Blue</h3>
       <div class="desc">Garry Kasparov during Game 4 of the rematch. The human champion vs. the machine.</div>
       <div class="src"><a href="https://www.computerhistory.org/" target="_blank">Computer History Museum</a></div>
@@ -536,6 +512,7 @@
     <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGo_hero.width-1300.jpg" alt="AlphaGo" loading="lazy">
     <div class="label">AlphaGo vs. Lee Sedol</div>
     <div class="overlay">
+      <div class="cat">Historical AI</div>
       <h3>AlphaGo vs. Lee Sedol (2016)</h3>
       <div class="desc">DeepMind's AlphaGo defeats the legendary Go master. Watched by 200 million people.</div>
       <div class="src"><a href="https://blog.google/" target="_blank">Google Blog</a></div>
@@ -545,53 +522,54 @@
     <img src="https://cdn.mos.cms.futurecdn.net/fF8MnnBPSqmN8xEHeggAqU.jpg" alt="DGX-1 Delivery" loading="lazy">
     <div class="label">Jensen Delivers DGX-1 to OpenAI</div>
     <div class="overlay">
+      <div class="cat">Historical AI</div>
       <h3>Jensen Delivers DGX-1 to OpenAI (2016)</h3>
       <div class="desc">Jensen Huang personally delivering the first NVIDIA DGX-1 to OpenAI's San Francisco office.</div>
       <div class="src"><a href="https://www.tomshardware.com/" target="_blank">Tom's Hardware</a></div>
     </div>
   </div>
-  <div class="tile wide" data-href="https://openai.com/index/introducing-openai/">
+  <div class="tile" data-href="https://openai.com/index/introducing-openai/">
     <img src="https://images.ctfassets.net/kftzwdyauwt9/f50c5b2c-8838-4905-7e24fd3f5db0/0e1903326a0e4e5e937dc1f39f6adb6a/introducing-openai.png?w=1600&h=900&fit=fill" alt="OpenAI Founding" loading="lazy">
     <div class="label">OpenAI Founding Team (2015)</div>
     <div class="overlay">
+      <div class="cat">Historical AI</div>
       <h3>OpenAI Founding Team (2015)</h3>
       <div class="desc">The original team: Musk, Altman, Brockman, Sutskever and others. The nonprofit that changed the world.</div>
       <div class="src"><a href="https://openai.com/" target="_blank">OpenAI</a></div>
     </div>
   </div>
-</div>
 
 <!-- HQ -->
-<div class="section-label" id="hq">AI Company HQ</div>
-<div class="grid">
-  <div class="tile wide" data-href="https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters">
+<span id="hq"></span>
+  <div class="tile" data-href="https://nvidianews.nvidia.com/multimedia/santa-clara-headquarters">
     <img src="https://iprsoftwaremedia.com/219/files/albumcovers/5e1b4666-d7b4-459b-a66a-55af0c1c4de6_thmb.jpg" alt="NVIDIA HQ" loading="lazy">
     <div class="label">NVIDIA Voyager — Santa Clara</div>
     <div class="overlay">
+      <div class="cat">AI HQ</div>
       <h3>NVIDIA Voyager & Endeavor</h3>
       <div class="desc">Spaceship-shaped buildings designed by Gensler. Triangular lattice exterior.</div>
       <div class="src"><a href="https://nvidianews.nvidia.com/" target="_blank">NVIDIA Newsroom</a></div>
     </div>
   </div>
-</div>
 
 <!-- JENSEN -->
-<div class="section-label" id="jensen">Jensen Huang — "The Taylor Swift of Tech"</div>
-<div class="grid">
+<span id="jensen"></span>
   <div class="tile" data-href="https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing">
     <img src="https://wimg.mk.co.kr/news/cms/202406/07/news-p.v1.20240607.db4713290c7b494d9b2e014202147444_P1.jpeg" alt="Jensen signing" loading="lazy">
     <div class="label">Jensen Signing a Fan</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>Jensen Signing a Fan's Chest</h3>
       <div class="sub">Computex 2024</div>
       <div class="desc">The viral moment. CEO of a $3T chip company, treated like a rockstar.</div>
       <div class="src"><a href="https://www.theverge.com/" target="_blank">The Verge / MK News</a></div>
     </div>
   </div>
-  <div class="tile portrait" data-href="https://time.com/7341061/jensen-huang-time-person-year-interview/">
+  <div class="tile" data-href="https://time.com/7341061/jensen-huang-time-person-year-interview/">
     <img src="https://web.archive.org/web/20251211150545im_/https://api.time.com/wp-content/uploads/2025/12/ArchitectsCover-web-01.jpg" alt="TIME Magazine Cover" loading="lazy">
     <div class="label">TIME Magazine Cover</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>TIME "Architects of AI" Cover</h3>
       <div class="sub">Dec 2025 · Person of the Year</div>
       <div class="desc">Jensen Huang center-stage on the TIME Magazine cover. Leather jacket and all.</div>
@@ -602,6 +580,7 @@
     <img src="https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt5b745ae6bbe536f5/6998cc5993610c0b40c303f9/time-AI-Jensen-Huang-homepage-social.jpg?branch=production" alt="TIME Person of the Year" loading="lazy">
     <div class="label">TIME Person of the Year</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>TIME Person of the Year</h3>
       <div class="desc">The man who made GPUs the most important technology on Earth.</div>
       <div class="src"><a href="https://time.com/" target="_blank">TIME</a></div>
@@ -611,6 +590,7 @@
     <img src="https://blogs.nvidia.com/wp-content/uploads/2024/03/keynote-gtc-2024.jpg" alt="Jensen GTC 2024" loading="lazy">
     <div class="label">Jensen — GTC 2024 Keynote</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>GTC 2024 — Blackwell Unveiling</h3>
       <div class="sub">March 2024 · San Jose</div>
       <div class="desc">Jensen unveiling the Blackwell GPU architecture to a packed arena. The most-watched GPU keynote ever.</div>
@@ -621,6 +601,7 @@
     <img src="https://iprsoftwaremedia.com/219/files/20262/69bc34ff3d63323e0abb5698_jhh-inference/jhh-inference_f1b4d64a-3d5b-48b4-9687-c8e50ca7a88a-prv.jpg" alt="GTC 2026" loading="lazy">
     <div class="label">Jensen at GTC 2026</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>Jensen at GTC 2026 Keynote</h3>
       <div class="desc">On stage, leather jacket gleaming, unveiling the next generation.</div>
       <div class="src"><a href="https://nvidianews.nvidia.com/" target="_blank">NVIDIA Newsroom</a></div>
@@ -630,6 +611,7 @@
     <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-52102,resizemode-75,msid-122797090/tech/artificial-intelligence/jensen-huang-ai-visionary-in-a-leather-jacket.jpg" alt="Leather Jacket" loading="lazy">
     <div class="label">The Leather Jacket</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>The Leather Jacket</h3>
       <div class="desc">It's not just clothing, it's a brand. As iconic as Jobs' black turtleneck.</div>
       <div class="src"><a href="https://economictimes.indiatimes.com/" target="_blank">Economic Times</a></div>
@@ -639,6 +621,7 @@
     <img src="https://ichef.bbci.co.uk/news/1024/branded_news/a9d1/live/380cec00-2496-11ef-baa7-25d483663b8e.jpg" alt="Jensanity" loading="lazy">
     <div class="label">"Jensanity" — Computex Fans</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>"Jensanity" — Fans Mobbing Jensen</h3>
       <div class="sub">Computex 2024 · Taipei</div>
       <div class="desc">Fans lining up for hours. Night market crowds, selfie requests. First tech CEO as genuine rockstar.</div>
@@ -649,6 +632,7 @@
     <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202405/66377fc8819e5-nvidia-ceo-jensen-huang-on-his-humble-beginnings-063329644-16x9.jpg" alt="Jensen Humble Beginnings" loading="lazy">
     <div class="label">Jensen — Humble Beginnings</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>Jensen — Dishes & Humble Beginnings</h3>
       <div class="desc">"Nobody does dishes better than I do." From busboy at Denny's to CEO of the world's most valuable company.</div>
       <div class="src"><a href="https://www.businesstoday.in/" target="_blank">Business Today</a></div>
@@ -658,6 +642,7 @@
     <img src="https://wimg.mk.co.kr/news/cms/202403/19/news-p.v1.20240319.5faa936deaeb4c4a94de944844c9b25f_P1.png" alt="GTC Crowd" loading="lazy">
     <div class="label">GTC 2024 — Arena Crowd</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>"Not a Concert Hall, a Developer Event"</h3>
       <div class="sub">GTC 2024 · San Jose</div>
       <div class="desc">11,000 people in a packed arena to watch a CEO talk about GPUs. "This is not a concert."</div>
@@ -668,21 +653,21 @@
     <img src="https://sentinel.ht/wp-content/uploads/2026/02/Reuters-Nvidia-CEO-Jensen-Huang-Hosts-Taiwan-Tech-Leaders-Dinner-Focusing-Chip-Supply.jpg" alt="Jensen Taiwan Dinner" loading="lazy">
     <div class="label">Jensen Hosts Taiwan Dinner</div>
     <div class="overlay">
+      <div class="cat">Jensen Huang</div>
       <h3>Jensen Hosts Taiwan Tech Dinner</h3>
       <div class="sub">Taiwan, 2026</div>
       <div class="desc">NVIDIA CEO hosting Taiwan tech leaders over dinner. Chip diplomacy over food.</div>
       <div class="src"><a href="https://sentinel.ht/" target="_blank">Reuters / Sentinel</a></div>
     </div>
   </div>
-</div>
 
 <!-- PEOPLE -->
-<div class="section-label" id="people">AI Personalities & Iconic Moments</div>
-<div class="grid">
+<span id="people"></span>
   <div class="tile" data-href="https://www.bbc.com/news/articles/c9rg5jg0e5go">
     <img src="https://ichef.bbci.co.uk/news/1024/branded_news/2715/production/_129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg" alt="Sam Altman Fired" loading="lazy">
     <div class="label">Sam Altman — Fired & Rehired</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Sam Altman Ousted from OpenAI</h3>
       <div class="sub">November 2023 · The Coup</div>
       <div class="desc">Fired by the board, 700 employees threatened to quit, rehired 5 days later. The most dramatic week in tech.</div>
@@ -693,6 +678,7 @@
     <img src="https://s.yimg.com/os/en/aol_the_independent_us_877/5d2d0f5ea33000e8fba64389eb15c380" alt="Altman Senate" loading="lazy">
     <div class="label">Altman Testifies Before Senate</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Sam Altman Testifies Before U.S. Senate</h3>
       <div class="sub">May 2023 · Capitol Hill</div>
       <div class="desc">"If this technology goes wrong, it can go quite wrong." The CEO of ChatGPT asking Congress to regulate him.</div>
@@ -703,16 +689,18 @@
     <img src="https://i.ytimg.com/vi/U9mJuUkhUzk/maxresdefault.jpg" alt="OpenAI DevDay" loading="lazy">
     <div class="label">OpenAI DevDay 2023</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Sam Altman — OpenAI DevDay Keynote</h3>
       <div class="sub">November 2023 · San Francisco</div>
       <div class="desc">Announcing GPT-4 Turbo and custom GPTs to a sold-out audience. Days before the firing.</div>
       <div class="src"><a href="https://www.youtube.com/" target="_blank">OpenAI / YouTube</a></div>
     </div>
   </div>
-  <div class="tile square" data-href="https://commons.wikimedia.org/wiki/File:Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped).jpg">
+  <div class="tile" data-href="https://commons.wikimedia.org/wiki/File:Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped).jpg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_%28cropped%29.jpg/1280px-Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_%28cropped%29.jpg" alt="Sam Altman" loading="lazy">
     <div class="label">Sam Altman</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Sam Altman</h3>
       <div class="sub">CEO, OpenAI</div>
       <div class="desc">Released ChatGPT and changed the world overnight. Polo shirt, calm demeanor, world-historic consequences.</div>
@@ -723,6 +711,7 @@
     <img src="https://www.utoronto.ca/sites/default/files/2024-10/UofT93090_2023-06-28-Hinton%40Collision%20web%20lead%20cropped_0.jpg" alt="Geoffrey Hinton" loading="lazy">
     <div class="label">Geoffrey Hinton</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Geoffrey Hinton</h3>
       <div class="sub">Nobel Prize in Physics, 2024</div>
       <div class="desc">"The Godfather of AI." Built neural networks, then left Google to warn the world.</div>
@@ -733,6 +722,7 @@
     <img src="https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515040-thumb.jpeg?resize=1200,600" alt="Hinton Warning" loading="lazy">
     <div class="label">Hinton — "Scared of AI"</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Hinton Quits Google to Warn About AI</h3>
       <div class="sub">May 2023</div>
       <div class="desc">"I'm scared of the tech I helped build." The Godfather of AI regretting his life's work.</div>
@@ -743,6 +733,7 @@
     <img src="https://media.cnn.com/api/v1/images/stellar/prod/230501094028-geoffrey-hinton-file-restricted-090519.jpg?c=16x9&q=w_800,c_fill" alt="Hinton Worried" loading="lazy">
     <div class="label">Hinton — AI Pioneer Worried</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Hinton — The Weight of AI</h3>
       <div class="desc">The inventor of backpropagation, looking worried about what he unleashed.</div>
       <div class="src"><a href="https://www.cnn.com/" target="_blank">CNN</a></div>
@@ -752,6 +743,7 @@
     <img src="https://www.nobelprize.org/uploads/2024/10/fig_fy_24_4x3-1024x768.jpg" alt="Hinton Nobel" loading="lazy">
     <div class="label">Hinton — Nobel Prize</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Geoffrey Hinton — Nobel Prize Ceremony</h3>
       <div class="sub">Stockholm, December 2024</div>
       <div class="desc">Receiving the Nobel Prize in Physics for foundational work on artificial neural networks.</div>
@@ -762,6 +754,7 @@
     <img src="https://ichef.bbci.co.uk/news/1024/branded_news/7b6e/live/0d693380-8726-11ef-a051-09ae2fe6d4ad.jpg" alt="Demis Hassabis" loading="lazy">
     <div class="label">Demis Hassabis</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Demis Hassabis</h3>
       <div class="sub">Nobel Prize in Chemistry, 2024 · CEO, DeepMind</div>
       <div class="desc">AlphaFold, AlphaGo. Changed biology and computing forever.</div>
@@ -772,6 +765,7 @@
     <img src="https://blog.biocomm.ai/wp-content/uploads/2024/12/Ilya-at-NeurIPS24.png" alt="Ilya NeurIPS" loading="lazy">
     <div class="label">Ilya Sutskever — NeurIPS 2024</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Ilya Sutskever at NeurIPS 2024</h3>
       <div class="sub">December 2024 · Vancouver</div>
       <div class="desc">"I'm not going to tell you what I saw." The most mysterious talk in AI history. Standing room only.</div>
@@ -782,6 +776,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Ilya_Sutskever_and_Sam_Altman_in_TAU_%28cropped%29.jpg" alt="Ilya Sutskever" loading="lazy">
     <div class="label">Ilya Sutskever</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Ilya Sutskever</h3>
       <div class="sub">Co-founder, OpenAI & SSI</div>
       <div class="desc">The quiet genius behind OpenAI's breakthroughs. Left to start Safe Superintelligence Inc.</div>
@@ -792,6 +787,7 @@
     <img src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fbada01990f86f5afa850cc23a0259fec091f929_2880x1620.jpg?quality=89&w=800" alt="Fei-Fei Li" loading="lazy">
     <div class="label">Fei-Fei Li — TED Talk</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Fei-Fei Li</h3>
       <div class="sub">Stanford · Creator of ImageNet</div>
       <div class="desc">Built ImageNet — the dataset that launched the deep learning revolution.</div>
@@ -802,6 +798,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yann_LeCun_at_the_University_of_Minnesota.jpg/330px-Yann_LeCun_at_the_University_of_Minnesota.jpg" alt="Yann LeCun" loading="lazy">
     <div class="label">Yann LeCun</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Yann LeCun</h3>
       <div class="sub">Chief AI Scientist, Meta · Turing Award</div>
       <div class="desc">Inventor of convolutional neural networks. Most prolific AI researcher on social media.</div>
@@ -812,6 +809,7 @@
     <img src="https://i.ytimg.com/vi/ypSay3Ehxow/maxresdefault.jpg" alt="Lisa Su" loading="lazy">
     <div class="label">Lisa Su — CES 2026</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Lisa Su</h3>
       <div class="sub">CEO, AMD · Jensen's Cousin</div>
       <div class="desc">Saved AMD from near-bankruptcy. Jensen's actual cousin leading the chip rival.</div>
@@ -822,6 +820,7 @@
     <img src="https://cdn.prod.website-files.com/67e201a6a390d00a0ca1cbf3/67f729215dd36a3c9d52b79d_index-card.png" alt="Dario Amodei" loading="lazy">
     <div class="label">Dario Amodei</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Dario Amodei</h3>
       <div class="sub">CEO, Anthropic</div>
       <div class="desc">Left OpenAI to build Anthropic and Claude. AI safety into the foundation.</div>
@@ -832,6 +831,7 @@
     <img src="https://i.ytimg.com/vi/ugvHCXCOmm4/sddefault.jpg" alt="Dario Lex Fridman" loading="lazy">
     <div class="label">Dario — Lex Fridman Podcast</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Dario Amodei on Lex Fridman</h3>
       <div class="desc">Deep discussion on AGI, safety, and the future of AI. The most serious man in Silicon Valley.</div>
       <div class="src"><a href="https://www.youtube.com/" target="_blank">Lex Fridman Podcast</a></div>
@@ -841,6 +841,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg" alt="Andrew Ng" loading="lazy">
     <div class="label">Andrew Ng</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Andrew Ng</h3>
       <div class="sub">Stanford · DeepLearning.AI · Coursera</div>
       <div class="desc">Taught millions to code neural networks. Made AI education accessible to the world.</div>
@@ -851,6 +852,7 @@
     <img src="https://i.ytimg.com/vi/LCEmiRjPEtQ/sddefault.jpg" alt="Andrej Karpathy" loading="lazy">
     <div class="label">Andrej Karpathy</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Andrej Karpathy</h3>
       <div class="sub">Former Tesla AI · OpenAI · YouTube Educator</div>
       <div class="desc">"Software is changing again." The guy who taught both Tesla's Autopilot and YouTube how neural nets work.</div>
@@ -861,6 +863,7 @@
     <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote_tempsocial.width-1300.png" alt="Sundar Pichai" loading="lazy">
     <div class="label">Sundar Pichai — Google I/O</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Sundar Pichai — Google I/O 2026</h3>
       <div class="sub">Google I/O Keynote</div>
       <div class="desc">Announcing Gemini and Google's AI future. "AI is the most profound technology we're working on."</div>
@@ -871,21 +874,21 @@
     <img src="https://i.ytimg.com/vi/ceV3RsG946s/sddefault.jpg" alt="Satya Nadella" loading="lazy">
     <div class="label">Satya Nadella — MS Build</div>
     <div class="overlay">
+      <div class="cat">AI Personalities</div>
       <h3>Satya Nadella — Microsoft Build 2025</h3>
       <div class="sub">Microsoft Build Keynote</div>
       <div class="desc">Bet $13B on OpenAI and made Microsoft the AI platform company. Copilot everywhere.</div>
       <div class="src"><a href="https://www.youtube.com/" target="_blank">Microsoft / YouTube</a></div>
     </div>
   </div>
-</div>
 
 <!-- VIRAL -->
-<div class="section-label" id="viral">Viral Moments & Culture</div>
-<div class="grid">
+<span id="viral"></span>
   <div class="tile" data-href="https://www.instagram.com/zuck/">
     <img src="https://ocdn.eu/pulscms-transforms/1/8b9ktkuTURBXy9iNTZhMzMyMi0xYjYwLTRkNTUtOWM2Yi0yNzAxZDRiOWNhZTYuanBlZ5GTBc0EsM0Cdg" alt="Zuckerberg gold chain" loading="lazy">
     <div class="label">Zuck — Gold Chain Era</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Mark Zuckerberg</h3>
       <div class="sub">CEO, Meta · Gold Chain Era</div>
       <div class="desc">Gold chain from T-Pain, curly hair, open-source Llama. The most unlikely transformation in tech.</div>
@@ -896,6 +899,7 @@
     <img src="https://media.npr.org/assets/img/2023/06/05/jeff1_wide-cedd36669ed13f8b527a0e9bddfcf51f7966304d.jpg?s=1400&c=85&f=jpeg" alt="Zuck BJJ" loading="lazy">
     <div class="label">Zuck — Jiu Jitsu Match</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Zuckerberg Doing Jiu Jitsu</h3>
       <div class="sub">2023 · Competition</div>
       <div class="desc">The billionaire CEO getting tapped out on the mat. From hoodies to gis.</div>
@@ -906,6 +910,7 @@
     <img src="https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2026/01/Mark-Zuckerberg-squares-up-against-former-UFC-fighter-Merab-Dvalishvili.jpg?w=1100" alt="Zuck MMA" loading="lazy">
     <div class="label">Zuck vs. UFC Fighter</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Zuckerberg Spars with UFC Champion</h3>
       <div class="sub">2026 · Octagon Training</div>
       <div class="desc">Mark Zuckerberg squares off against former UFC bantamweight champion Merab Dvalishvili. Tech bro goes full fighter.</div>
@@ -916,6 +921,7 @@
     <img src="https://st1.latestly.com/wp-content/uploads/2021/07/18-784x441.jpg" alt="Zuck Surfing" loading="lazy">
     <div class="label">Zuck — July 4th Surfing</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Zuckerberg Surfing with American Flag</h3>
       <div class="sub">July 4th · Lake Tahoe</div>
       <div class="desc">Hydrofoiling with an American flag on Independence Day. The most memed tech CEO photo of 2021.</div>
@@ -926,6 +932,7 @@
     <img src="https://i.kym-cdn.com/entries/icons/original/000/027/100/_103330503_musk3.jpg" alt="Elon smoking" loading="lazy">
     <div class="label">Elon — Joe Rogan Podcast</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Elon Musk on Joe Rogan</h3>
       <div class="sub">September 2018</div>
       <div class="desc">The moment Elon smoked weed on a podcast. Tesla stock tanked. The meme lived forever.</div>
@@ -936,6 +943,7 @@
     <img src="https://media.cnn.com/api/v1/images/stellar/prod/221026151430-elon-musk-entering-twitter-hq-1026-screenshot.jpg?c=16x9&q=w_800,c_fill" alt="Elon Sink" loading="lazy">
     <div class="label">Elon — "Let That Sink In"</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Elon Carries Sink into Twitter HQ</h3>
       <div class="sub">October 2022 · San Francisco</div>
       <div class="desc">"Entering Twitter HQ — let that sink in." The $44 billion acquisition announced with a dad joke.</div>
@@ -946,6 +954,7 @@
     <img src="https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25EB/production/_109870790_mediaitem109870789.jpg" alt="Cybertruck Window" loading="lazy">
     <div class="label">Cybertruck — Broken Window</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Cybertruck "Armor Glass" Fail</h3>
       <div class="sub">November 2019 · Tesla Reveal</div>
       <div class="desc">"Oh my f***ing god." Franz threw the ball too hard. The shatterproof window shattered live on stage.</div>
@@ -956,21 +965,90 @@
     <img src="https://i.ytimg.com/vi/fP5YdyjTfG0/sddefault.jpg" alt="Altman Senate" loading="lazy">
     <div class="label">Altman — Senate Hearing</div>
     <div class="overlay">
+      <div class="cat">Viral Moments</div>
       <h3>Sam Altman Senate AI Hearing</h3>
       <div class="sub">May 2023 · Capitol Hill</div>
       <div class="desc">The OpenAI CEO telling Congress to regulate AI. Historic testimony on the future of intelligence.</div>
       <div class="src"><a href="https://www.youtube.com/" target="_blank">C-SPAN / YouTube</a></div>
     </div>
   </div>
-</div>
+
+<!-- TECHBRODRIP / TECH BRO CULTURE -->
+<span id="culture"></span>
+  <div class="tile" data-href="https://x.com/TechBroDrip/status/1587482853654155264">
+    <img src="https://pbs.twimg.com/media/FgffPaLVEAAJQ83?format=jpg&name=large" alt="Peter Thiel Chess" loading="lazy">
+    <div class="label">Thiel Plays PayPal Staff at Chess</div>
+    <div class="overlay">
+      <div class="cat">Tech Bro Culture</div>
+      <h3>Peter Thiel Playing PayPal Employees at Chess</h3>
+      <div class="sub">PayPal Era · Simultaneous Exhibition</div>
+      <div class="desc">Peter Thiel (wearing a crown) plays multiple PayPal employees at chess simultaneously — including David Sacks, Max Levchin, and Roelof Botha.</div>
+      <div class="src"><a href="https://x.com/TechBroDrip" target="_blank">@TechBroDrip</a></div>
+    </div>
+  </div>
+  <div class="tile" data-href="https://x.com/TechBroDrip/status/1776709986900746689">
+    <img src="https://pbs.twimg.com/media/GKgkUNlawAAwzrD?format=jpg&name=large" alt="Jensen delivers DGX to OpenAI" loading="lazy">
+    <div class="label">Jensen Delivers DGX to OpenAI</div>
+    <div class="overlay">
+      <div class="cat">Tech Bro Culture</div>
+      <h3>Jensen Hand-Delivers First DGX to OpenAI</h3>
+      <div class="sub">2016 · OpenAI Office</div>
+      <div class="desc">Jensen Huang personally delivering the first DGX GPU to Elon Musk and the OpenAI founding team. History in the making.</div>
+      <div class="src"><a href="https://x.com/TechBroDrip" target="_blank">@TechBroDrip</a></div>
+    </div>
+  </div>
+  <div class="tile" data-href="https://x.com/TechBroDrip/status/1586076107928764416">
+    <img src="https://pbs.twimg.com/media/FgLfzOPVUAA1lLL?format=jpg&name=large" alt="Ligma Johnson Twitter Prank" loading="lazy">
+    <div class="label">Rahul Ligma Twitter Prank</div>
+    <div class="overlay">
+      <div class="cat">Tech Bro Culture</div>
+      <h3>"Laid Off" Twitter Employees Prank</h3>
+      <div class="sub">October 2022 · Twitter HQ</div>
+      <div class="desc">Rahul Ligma and Daniel Johnson pretended to be fired Twitter employees outside HQ, fooling every major news outlet.</div>
+      <div class="src"><a href="https://x.com/TechBroDrip" target="_blank">@TechBroDrip</a></div>
+    </div>
+  </div>
+  <div class="tile" data-href="https://x.com/TechBroDrip/status/1764061043414945994">
+    <img src="https://pbs.twimg.com/media/GHs0KwKaYAALobO?format=jpg&name=large" alt="Zuckerberg and Gates" loading="lazy">
+    <div class="label">Zuck & Bill Gates</div>
+    <div class="overlay">
+      <div class="cat">Tech Bro Culture</div>
+      <h3>Mark Zuckerberg & Bill Gates Together</h3>
+      <div class="sub">Tech Titans</div>
+      <div class="desc">Two generations of tech visionaries. Old money meets new money.</div>
+      <div class="src"><a href="https://x.com/TechBroDrip" target="_blank">@TechBroDrip</a></div>
+    </div>
+  </div>
+  <div class="tile" data-href="https://x.com/TechBroDrip/status/1774176765516779695">
+    <img src="https://pbs.twimg.com/media/GI9o7kNbYAA-rXy?format=jpg&name=large" alt="Tim Cook Sundar Pichai" loading="lazy">
+    <div class="label">Tim Cook & Sundar Pichai</div>
+    <div class="overlay">
+      <div class="cat">Tech Bro Culture</div>
+      <h3>Tim Cook & Sundar Pichai</h3>
+      <div class="sub">Tech Leadership</div>
+      <div class="desc">Apple and Google's CEOs together. Controlling the phones in billions of pockets.</div>
+      <div class="src"><a href="https://x.com/TechBroDrip" target="_blank">@TechBroDrip</a></div>
+    </div>
+  </div>
+  <div class="tile" data-href="https://upload.wikimedia.org/wikipedia/commons/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/800px-Steve_Jobs_Headshot_2010-CROP.jpg" alt="Steve Jobs" loading="lazy">
+    <div class="label">Steve Jobs</div>
+    <div class="overlay">
+      <div class="cat">Tech Bro Culture</div>
+      <h3>Steve Jobs</h3>
+      <div class="sub">Apple Co-Founder · 1955–2011</div>
+      <div class="desc">The original tech visionary. Black turtleneck, reality distortion field, and all.</div>
+      <div class="src"><a href="https://commons.wikimedia.org/" target="_blank">Wikimedia Commons</a></div>
+    </div>
+  </div>
 
 <!-- BONUS -->
-<div class="section-label" id="bonus">Bonus: AI-Adjacent</div>
-<div class="grid">
-  <div class="tile wide" data-href="https://www.flickr.com/photos/spacex/51369631902/sizes/k">
+<span id="bonus"></span>
+  <div class="tile" data-href="https://www.flickr.com/photos/spacex/51369631902/sizes/k">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Full_Stack_starship.jpg/960px-Full_Stack_starship.jpg" alt="Starship" loading="lazy">
     <div class="label">SpaceX Starship</div>
     <div class="overlay">
+      <div class="cat">Bonus</div>
       <h3>SpaceX Starship</h3>
       <div class="desc">The largest rocket ever built. Stainless steel catching the Texas sun.</div>
       <div class="src"><a href="https://www.flickr.com/photos/spacex/" target="_blank">SpaceX / Flickr</a></div>
@@ -980,6 +1058,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SpaceX_Starship_ignition_during_IFT-5.jpg/1280px-SpaceX_Starship_ignition_during_IFT-5.jpg" alt="Starship IFT-5" loading="lazy">
     <div class="label">Starship IFT-5 Launch</div>
     <div class="overlay">
+      <div class="cat">Bonus</div>
       <h3>SpaceX Starship IFT-5</h3>
       <div class="desc">Dramatic ignition during Integrated Flight Test 5. Photo by Steve Jurvetson.</div>
       <div class="src"><a href="https://commons.wikimedia.org/" target="_blank">Wikimedia / CC BY 2.0</a></div>
@@ -989,6 +1068,7 @@
     <img src="https://www.armytimes.com/resizer/v2/UCDGJGHJYZCDTMCS2XC7CIO6M4.jpg?width=1200&auth=26eb214ac328edbe82177432ba3448493a8c30bc53e5a852c6d34b0c9dccf310" alt="FPV Drone" loading="lazy">
     <div class="label">Military FPV Drones</div>
     <div class="overlay">
+      <div class="cat">Bonus</div>
       <h3>Military FPV Drones</h3>
       <div class="desc">The new face of AI-assisted warfare — compact, autonomous, precise.</div>
       <div class="src"><a href="https://www.dvidshub.net/" target="_blank">DVIDS</a></div>
