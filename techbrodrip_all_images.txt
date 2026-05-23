@@ -262,3 +262,31 @@ https://x.com/TechBroDrip/status/1530944842662043649|Stephen Watt (7-foot-tall c
 https://x.com/TechBroDrip/status/1530619053202710530|Vitalik Buterin (co-founder of Ethereum)|https://pbs.twimg.com/media/FT3Z6mhXwAcQtMD?format=jpg&name=large
 https://x.com/TechBroDrip/status/1530208064871157760|Alex Karp (co-founder + CEO of Palantir)|https://pbs.twimg.com/media/FTxkH3nUcAA03Lh?format=jpg&name=large
 https://x.com/TechBroDrip/status/1529555470612332545|julian assange in 1995 facing multiple charges of hacking under the alias mendax|https://pbs.twimg.com/media/FToSM1lWAAYkJc_?format=png&name=large
+https://x.com/TechBroDrip/status/1697800169352556994|Steve Jobs (co-founder of Apple)|https://pbs.twimg.com/media/F4_MQNxaYAAs3S_?format=jpg&name=large
+https://x.com/TechBroDrip/status/1654247812618686464|Sundar Pichai (CEO of Google) and Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FvURVhzaAAAJ9mn?format=jpg&name=large
+https://x.com/TechBroDrip/status/1797998292275696081|Jensen Huang (co-founder and CEO of NVIDIA)|https://pbs.twimg.com/media/GPPF6vLa8AAAkev?format=jpg&name=large
+https://x.com/TechBroDrip/status/1797998292275696081|Jensen Huang (co-founder and CEO of NVIDIA)|https://pbs.twimg.com/media/GPPF6vLaoAEwlcw?format=jpg&name=large
+https://x.com/TechBroDrip/status/1587482853654155264|Peter Thiel (in crown), playing multiple Paypal employees at chess simultaneously — including David Sacks (the only winner), Max Levchin and Roelof Botha|https://pbs.twimg.com/media/FgffPaLVEAAJQ83?format=png&name=large
+https://x.com/TechBroDrip/status/1769748910979920126|Tim Cook (CEO of Apple) and Sundar Pichai (CEO of Google)|https://pbs.twimg.com/media/GI9o7kNbYAA-rXy?format=jpg&name=large
+https://x.com/TechBroDrip/status/1608471535274139648|Linus Torvalds (software engineer and creator of the Linux kernel)|https://pbs.twimg.com/media/FlJwVcJXoAMvWHW?format=jpg&name=large
+https://x.com/TechBroDrip/status/1586370087287521280|Rahul Ligma and Daniel Johnson (former Twitter engineers)|https://pbs.twimg.com/media/FgPrL-yUcAEY7Iz?format=jpg&name=large
+https://x.com/TechBroDrip/status/1724484969358356616|Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)|https://pbs.twimg.com/media/F-6Z8IBbEAA9Tn3?format=jpg&name=large
+https://x.com/TechBroDrip/status/1619025909708890112|Peter Thiel (legendary investor and co-founder of Paypal + Palantir) walking into Oxford Union|https://pbs.twimg.com/media/FnfvQbTaYAIDtX4?format=png&name=large
+https://x.com/TechBroDrip/status/1790526136482660697|Ilya Sutskever (co-founder and former Chief Scientist of OpenAI) with Alex Krizhevsky and Geoffrey Hinton|https://pbs.twimg.com/media/GNk5kL3aEAA6TVW?format=png&name=large
+https://x.com/TechBroDrip/status/1754885726372761740|Luke Farritor (Vesuvius Challenge winner and former SpaceX intern)|https://pbs.twimg.com/media/GFqbRFtbEAA5uZO?format=jpg&name=large
+https://x.com/TechBroDrip/status/1626271341132541952|Satya Nadella (CEO of Microsoft) with his mom and dad|https://pbs.twimg.com/media/FpGs3QHaQAELR16?format=jpg&name=large
+https://x.com/TechBroDrip/status/1585335263571505153|PayPal's founding team
+"Of the six people who started PayPal, four had built bombs in high school. Five were just 23 years old - or younger. Four of us had been born outside the US. Three had escaped here from communist countries."|https://pbs.twimg.com/media/FgA-BSFVUAAYqjI?format=png&name=large
+https://x.com/TechBroDrip/status/1764061043414945994|Mark Zuckerberg (co-founder of Meta) and Bill Gates (co-founder of Microsoft)|https://pbs.twimg.com/media/GHs0KwKaYAALobO?format=jpg&name=large
+https://x.com/TechBroDrip/status/1776709986900746689|Jensen Huang (co-founder + CEO of NVIDIA) hand delivering the first DGX GPU to Elon Musk and the rest of the OpenAI team (2016)|https://pbs.twimg.com/media/GKgkUNlawAAwzrD?format=jpg&name=large
+https://x.com/TechBroDrip/status/1546529594550890496|Bill Gates (co-founder of Microsoft) and Shaq|https://pbs.twimg.com/media/FXZgd83VQAErXWi?format=png&name=large
+https://x.com/TechBroDrip/status/1588233704325156864|Mark Zuckerberg (co-founder of Facebook/Meta)|https://pbs.twimg.com/media/FgqKIuRVsAEU_s1?format=png&name=large
+https://x.com/TechBroDrip/status/1576308352061095936|Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)|https://pbs.twimg.com/media/FeAsFyfUYAALEXi?format=jpg&name=large
+https://x.com/TechBroDrip/status/1624437336799956992|Andrej Karpathy (founding member of OpenAI and former director of AI at Tesla) taking a shot of Tesla tequila|https://pbs.twimg.com/media/FospJVZXwAAN5Vm?format=jpg&name=large
+https://x.com/TechBroDrip/status/1661054780352122880|Michael Mortiz (billionaire venture capitalist)|https://pbs.twimg.com/media/Fw0_d61aIAAy0_6?format=png&name=large
+https://x.com/TechBroDrip/status/1658527660908367872|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FwRGEhEaMAIQm0a?format=jpg&name=large
+https://x.com/TechBroDrip/status/1656338661087264768|David Holz (founder of Midjourney + Leap Motion)|https://pbs.twimg.com/media/Fvx_M-iagAE_tWH?format=jpg&name=large
+https://x.com/TechBroDrip/status/1655779058565931008|Albert Einstein (physicist + developer of the theory of relativity) and Robert Oppenheimer (physicist + father of the atomic bomb)|https://pbs.twimg.com/media/FvqCRpYaMAA5hpa?format=jpg&name=large
+https://x.com/TechBroDrip/status/1604198426358341632|Alex Karp (co-founder + CEO of Palantir)|https://pbs.twimg.com/media/FkNB9yJVQAAWuvm?format=jpg&name=large
+https://x.com/TechBroDrip/status/1568013936204873728|Justin Kan (co-founder of Twitch)|https://pbs.twimg.com/media/FcK0XNTaUAAcsD7?format=png&name=large
+https://x.com/TechBroDrip/status/1567548573360979970|John Carmack (legendary game dev + founder of Keen Technologies) and Elon Musk (SpaceX + Tesla)|https://pbs.twimg.com/media/FcENHixaQAAGXZ9?format=jpg&name=large
