@@ -1,292 +1,445 @@
-https://x.com/TechBroDrip/status/1992692622390129151|Demis Hassabis (co-founder and CEO of DeepMind)|https://pbs.twimg.com/media/G6d3XWyWgAATF7F?format=jpg&name=large
-https://x.com/TechBroDrip/status/1990476342304137239|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/G5-Xr2GbMAEECGe?format=jpg&name=large
-https://x.com/TechBroDrip/status/1989068359695233464|Larry Ellison (co-founder of Oracle)|https://pbs.twimg.com/media/G5qXCUFaEAA0g3S?format=jpg&name=large
-https://x.com/TechBroDrip/status/1988752271690330441|Alexander Grothendieck (mathematician)|https://pbs.twimg.com/media/G5l3VUfacAU_J-c?format=jpg&name=large
-https://x.com/TechBroDrip/status/1986912515704619202|Watson and Crick (discoverers of the double helix)|https://pbs.twimg.com/media/FbC2MvOUcAEEZJr?format=png&name=large
-https://x.com/TechBroDrip/status/1986525444255195399|Ted Kaczynski (mathematician and UC Berkeley professor turned anti-technology primitivist and domestic terrorist)|https://pbs.twimg.com/media/G5GNOTQaYAAzNF_?format=jpg&name=large
-https://x.com/TechBroDrip/status/1985779560152203575|Julian Assange (Wikileaks) facing multiple hacking charges under the alias Mendax in 1995|https://pbs.twimg.com/media/G47n_DWbQAAmp_8?format=jpg&name=large
-https://x.com/TechBroDrip/status/1985434912133169397|Palmer Luckey (founder of Anduril + Oculus)|https://pbs.twimg.com/media/G42uh-CbQAMgk1V?format=jpg&name=large
-https://x.com/TechBroDrip/status/1985421781747056811|Mira Murati (founder and CEO of Thinking Machines Lab + former CTO of OpenAI)|https://pbs.twimg.com/media/G42icHJaQAAm3mc?format=png&name=large
-https://x.com/TechBroDrip/status/1981418328196600144|Alexandr Wang (co-founder ScaleAI + Chief AI Officer at Meta)|https://pbs.twimg.com/media/G39pNZHWQAAiwIM?format=jpg&name=large
-https://x.com/TechBroDrip/status/1947379286203371865|Mark Zuckerberg (co-founder of Facebook/Meta)|https://pbs.twimg.com/media/FfiJGoNUAAAi3O8?format=jpg&name=large
-https://x.com/TechBroDrip/status/1940411463056949740|Alan Turing (mathematician, computer scientist and cryptographer known as one of the fathers of computer science and artificial intelligence)|https://pbs.twimg.com/media/Gu258MoXkAA8Otg?format=jpg&name=large
-https://x.com/TechBroDrip/status/1918448304880291997|Luke Farritor (DOGE member, Vesuvius Challenge winner, former SpaceX intern)|https://pbs.twimg.com/media/Gp-ykOfX0AAdyoF?format=jpg&name=large
-https://x.com/TechBroDrip/status/1914578341665128536|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/GpHy2tWb0AA-kqj?format=jpg&name=large
-https://x.com/TechBroDrip/status/1902398599264399617|Cyan Banister (legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)|https://pbs.twimg.com/media/GmatcWUaYAAMgFY?format=jpg&name=large
-https://x.com/TechBroDrip/status/1896264999171207197|Masayoshi Son (founder of SoftBank)|https://pbs.twimg.com/media/GlDi9yMaUAAkVHn?format=jpg&name=large
-https://x.com/TechBroDrip/status/1892305636626698675|Aman Sanger (co-founder of Cursor)|https://pbs.twimg.com/media/GkLR8HTbUAAMw8l?format=jpg&name=large
-https://x.com/TechBroDrip/status/1892083601191182360|Richard Stallman (godfather of the free software movement)|https://pbs.twimg.com/media/GkIIAdaWAAApmkt?format=jpg&name=large
-https://x.com/TechBroDrip/status/1881936986799591498|Ross Ulbricht (founder of Silk Road)|https://pbs.twimg.com/media/Gh37trFbUAAQsGI?format=jpg&name=large
-https://x.com/TechBroDrip/status/1879967504904384639|Jeff Bezos (founder of Amazon and Blue Origin)|https://pbs.twimg.com/media/Ghb8eo2acAI0iog?format=jpg&name=large
-https://x.com/TechBroDrip/status/1877974702318289108|Mark Zuckerberg (founder of Meta)|https://pbs.twimg.com/media/Gg_oCgUbQAAjEzy?format=jpg&name=large
-https://x.com/TechBroDrip/status/1877974702318289108|Mark Zuckerberg (founder of Meta)|https://pbs.twimg.com/media/Gg_oCgWaoAAf3i_?format=jpg&name=large
-https://x.com/TechBroDrip/status/1861895553959018706|Palmer Luckey (founder of Oculus, Anduril and ModRetro)|https://pbs.twimg.com/media/GdbIIjFasAAFi72?format=jpg&name=large
-https://x.com/TechBroDrip/status/1858923260035166587|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/Gcw42lmbcAEUYmM?format=jpg&name=large
-https://x.com/TechBroDrip/status/1857127292369281362|Brian Chesky (co-founder and CEO of Airbnb)|https://pbs.twimg.com/media/GcXXSxfacAAv2iR?format=png&name=large
-https://x.com/TechBroDrip/status/1856752428491968831|Hal Finney (cryptographer and recipient of the first Bitcoin transaction)|https://pbs.twimg.com/media/FYNDWhJUUAA_V7n?format=png&name=large
-https://x.com/TechBroDrip/status/1856392561042305310|Rahul Sonwalkar (founder of Julius AI)|https://pbs.twimg.com/media/GcM7MV-asAAccGv?format=png&name=large
-https://x.com/TechBroDrip/status/1856102359103090959|Vitalik Buterin (co-founder of Ethereum)|https://pbs.twimg.com/media/GWziqH5XcAAUbYj?format=jpg&name=large
-https://x.com/TechBroDrip/status/1856065782704419188|Gottfrid Svartholm (co-founder of Pirate Bay)|https://pbs.twimg.com/media/GcIR_iwasAAaQ_5?format=jpg&name=large
-https://x.com/TechBroDrip/status/1854256645758755270|Elon Musk (SpaceX + Tesla + X + xAI + Neuralink + OpenAI + Paypal)|https://pbs.twimg.com/media/Gbukk4dakAAJzSY?format=jpg&name=large
-https://x.com/TechBroDrip/status/1852830701474685363|David Deutsch (physicist and inventor of constructor theory, known as the father of quantum computing)|https://pbs.twimg.com/media/GbaTs9UbAAA3OYL?format=jpg&name=large
-https://x.com/TechBroDrip/status/1852111125292179665|Bryan Johnson (founder of Blueprint and Braintree/Venmo)|https://pbs.twimg.com/media/GbQFPdtWYAAnKD8?format=jpg&name=large
-https://x.com/TechBroDrip/status/1849950283822137666|John Carmack (founder of Keen Technologies, former CTO of Oculus VR and co-creator of DOOM)|https://pbs.twimg.com/media/GaxX-q_aAAE4VvH?format=jpg&name=large
-https://x.com/TechBroDrip/status/1848582868760494130|Mark Zuckerberg (co-founder and CEO of Meta)|https://pbs.twimg.com/media/Gad8UiLXoAE4rpW?format=jpg&name=large
-https://x.com/TechBroDrip/status/1844048118800941286|Brian Armstrong (co-founder and CEO of Coinbase) and his wife Angela|https://pbs.twimg.com/media/GZdf_NTaIAAxohq?format=jpg&name=large
-https://x.com/TechBroDrip/status/1843752919184851217|Terry Sejnowski (neuroscientist and computational biologist known for his pioneering work in AI and neural networks) and Geoffrey Hinton (Nobel Prize winning computer scientist known as the godfather of AI)|https://pbs.twimg.com/media/GZZShRRasAM2MRp?format=jpg&name=large
-https://x.com/TechBroDrip/status/1843342394147950728|Meredith Whittaker (President of the Signal Foundation)|https://pbs.twimg.com/media/GZTeIyJasAM6BXN?format=jpg&name=large
-https://x.com/TechBroDrip/status/1842429668080721954|Eliezer Yudkowsky (AI-alignment theorist) + Sam Altman (co-founder of OpenAI) + Grimes|https://pbs.twimg.com/media/FptRjtkaQAAgWXS?format=jpg&name=large
-https://x.com/TechBroDrip/status/1840795041037762879|Palmer Luckey (founder of Oculus, Anduril and ModRetro)|https://pbs.twimg.com/media/GYvRVV6bQAE3Ymu?format=jpg&name=large
-https://x.com/TechBroDrip/status/1840617399986671888|Palmer Luckey (founder of Oculus, Anduril and ModRetro)|https://pbs.twimg.com/media/GYsvxG0a4AAakoZ?format=jpg&name=large
-https://x.com/TechBroDrip/status/1839074906291712474|Mark Zuckerberg (co-founder and CEO of Meta)|https://pbs.twimg.com/media/GYW04MaaMAExKlW?format=jpg&name=large
-https://x.com/TechBroDrip/status/1825211180463571142|Carl Sagan (astronomer)|https://pbs.twimg.com/media/GVRz5O-aUAE2OwJ?format=jpg&name=large
-https://x.com/TechBroDrip/status/1820172648015626695|Mark Zuckerberg (co-founder and CEO of Meta)|https://pbs.twimg.com/media/GUKNYF1aYAAjA7p?format=jpg&name=large
-https://x.com/TechBroDrip/status/1816604925767635255|David Sacks and Snoop Dog at Sacks' Marie Antoinette themed birthday party (2012)|https://pbs.twimg.com/media/FTsplbIUYAUA7yw?format=png&name=large
-https://x.com/TechBroDrip/status/1810741849054924911|Steve Jobs (co-founder of Apple and NeXT)|https://pbs.twimg.com/media/GSEMHVeaUAAixWW?format=jpg&name=large
-https://x.com/TechBroDrip/status/1808635659206414546|Wernher von Braun (chief architect of the Apollo Saturn V rocket)|https://pbs.twimg.com/media/GRmQi-ObMAMobma?format=jpg&name=large
-https://x.com/TechBroDrip/status/1807783791001579567|Palmer Luckey (founder of Oculus, Anduril and ModRetro)|https://pbs.twimg.com/media/GRaJxs8bAAAnSfU?format=jpg&name=large
-https://x.com/TechBroDrip/status/1806790078049747293|Erwin Schrödinger (Physicist)|https://pbs.twimg.com/media/GRMAxzAboAEHLJT?format=jpg&name=large
-https://x.com/TechBroDrip/status/1806562933750812773|Elon Musk (SpaceX + Tesla + Neuralink + X)|https://pbs.twimg.com/media/GRIzaiFawAAKw1G?format=jpg&name=large
-https://x.com/TechBroDrip/status/1806375952047641029|Peter Thiel (legendary investor and co-founder of Paypal + Palantir)|https://pbs.twimg.com/media/GIZ9jUlaMAAOCNq?format=jpg&name=large
-https://x.com/TechBroDrip/status/1805654658264056003|Julian Assange (Wikileaks)|https://pbs.twimg.com/media/FlkxcQPaMAAFrbk?format=png&name=large
-https://x.com/TechBroDrip/status/1805338465644736984|Jack Parsons (rocket engineer, occultist and co-founder of NASA's Jet Propulsion Lab)|https://pbs.twimg.com/media/GQ3ZkmTbAAAhHwC?format=jpg&name=large
-https://x.com/TechBroDrip/status/1804208173815075026|Pavel Durov (founder of Telegram and VK) and the Crown Prince of Dubai|https://pbs.twimg.com/media/GQnVxXOakAQNA4s?format=jpg&name=large
-https://x.com/TechBroDrip/status/1803878394624643393|Robert Oppenheimer (physicist + father of the atomic bomb) and John von Neumann (mathematician, physicist, computer scientist)|https://pbs.twimg.com/media/GQip1x9akAAOEfd?format=jpg&name=large
-https://x.com/TechBroDrip/status/1801659641895784903|Stanisław Ulam (mathematician, nuclear physicist and computer scientist)|https://pbs.twimg.com/media/GQDH5TJaQAAuhip?format=jpg&name=large
-https://x.com/TechBroDrip/status/1799107065484656659|Ross Ulbricht (founder of Silk Road)|https://pbs.twimg.com/media/GPe2V11bwAA8OJy?format=jpg&name=large
-https://x.com/TechBroDrip/status/1793334013614346536|John von Neumann (mathematician, physicist, computer scientist), Richard Feynman (physicist) and Stanislaus Ulam (mathematician, physicist, computer scientist) at Los Alamos during the Manhattan Project|https://pbs.twimg.com/media/GOMzwQJaUAEfzRw?format=jpg&name=large
-https://x.com/TechBroDrip/status/1791204617550016740|Jim Simons (mathematician and billionaire founder of Renaissance Technologies)|https://pbs.twimg.com/media/GNujFMbaAAEveJi?format=jpg&name=large
-https://x.com/TechBroDrip/status/1790789230450643156|Demis Hassabis (co-founder and CEO of DeepMind)|https://pbs.twimg.com/media/GNopUELaQAM31_I?format=jpg&name=large
-https://x.com/TechBroDrip/status/1790467081626087844|Bill Gates (co-founder of Microsoft) and Mark Zuckerberg (co-founder of Meta)|https://pbs.twimg.com/media/GNkETIpbAAALdVX?format=jpg&name=large
-https://x.com/TechBroDrip/status/1789317692773781742|Jim Simons (mathematician and billionaire founder of Renaissance Technologies)|https://pbs.twimg.com/media/F6KtcIibEAAsLOM?format=jpg&name=large
-https://x.com/TechBroDrip/status/1781344212942041506|Mark Zuckerberg (co-founder of Meta)|https://pbs.twimg.com/media/GLibHtfbQAA2GZd?format=jpg&name=large
-https://x.com/TechBroDrip/status/1780979806420787528|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/GLdPsLGboAAMMdE?format=jpg&name=large
-https://x.com/TechBroDrip/status/1779026200024973361|Jeff Bezos (founder of Amazon and Blue Origin) with Lauren Sanchez at the White House|https://pbs.twimg.com/media/GLBe5hzaYAAntL9?format=jpg&name=large
-https://x.com/TechBroDrip/status/1778836444527964662|Javier Milei (anarcho-capitalist president of Argentina) and Elon Musk (SpaceX + OpenAI + Tesla + Neuralink + Paypal)|https://pbs.twimg.com/media/GK-yUDqbsAA1daN?format=jpg&name=large
-https://x.com/TechBroDrip/status/1773429383107391797|Demis Hassabis (co-founder and CEO of DeepMind) playing in the World Series of Poker|https://pbs.twimg.com/media/GJx8F0OakAMSvtG?format=jpg&name=large
-https://x.com/TechBroDrip/status/1771580760895402478|Ilya Sutzkever (co-founder and chief scientist of OpenAI)|https://pbs.twimg.com/media/GJXrT-tbUAAe2zi?format=jpg&name=large
-https://x.com/TechBroDrip/status/1765752298968637565|Mark Zuckerberg (co-founder of Meta)|https://pbs.twimg.com/media/GIE2W2WaoAAlFxh?format=jpg&name=large
-https://x.com/TechBroDrip/status/1763363490759414141|OpenAI’s Reasoning Team (2019)|https://pbs.twimg.com/media/GHi5v_wa0AAUtvN?format=jpg&name=large
-https://x.com/TechBroDrip/status/1762494379540001174|Mark Zuckerberg (founder of Meta)|https://pbs.twimg.com/media/GHWjTBPbwAEBT0S?format=jpg&name=large
-https://x.com/TechBroDrip/status/1753649197251977292|Jeff Bezos (Founder of Amazon and Blue Origin)|https://pbs.twimg.com/media/GFY2pnoa0AAbKBl?format=jpg&name=large
-https://x.com/TechBroDrip/status/1748253065755738362|Wernher von Braun (chief architect of the Apollo Saturn V rocket)|https://pbs.twimg.com/media/GEMK5Z1aEAElUXY?format=jpg&name=large
-https://x.com/TechBroDrip/status/1736803179390808281|Richard Stallman (godfather of the free software movement)|https://pbs.twimg.com/media/GBpdSXpbsAARMza?format=jpg&name=large
-https://x.com/TechBroDrip/status/1730459419291636060|Palmer Luckey (founder of Anduril + Oculus)|https://pbs.twimg.com/media/GAPTqwjaAAAvxxo?format=jpg&name=large
-https://x.com/TechBroDrip/status/1727158263563850173|CZ (founder and former CEO of Binance)|https://pbs.twimg.com/media/F_gZSJoa0AA2n12?format=jpg&name=large
-https://x.com/TechBroDrip/status/1724810809094885629|Jim Simons (mathematician and billionaire founder of Renaissance Technologies)|https://pbs.twimg.com/media/F-_CSMaaMAAa7ni?format=jpg&name=large
-https://x.com/TechBroDrip/status/1724093878087897162|Jeff Bezos (founder of Amazon and Blue Origin) and Lauren Sanchez|https://pbs.twimg.com/media/F-02PiuawAA_UMe?format=jpg&name=large
-https://x.com/TechBroDrip/status/1721655024219214002|Sam Altman (co-founder of OpenAI, former president of Y Combinator and co-founder of Loopt)|https://pbs.twimg.com/media/F-SMHtpbwAAG1iI?format=jpg&name=large
-https://x.com/TechBroDrip/status/1720461797382389840|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/F-BO4kwa4AArPZt?format=jpg&name=large
-https://x.com/TechBroDrip/status/1716433978603815291|Sam Bankman-Fried (founder of FTX)|https://pbs.twimg.com/media/F9H_midbsAAnJ6n?format=jpg&name=large
-https://x.com/TechBroDrip/status/1715846647018672255|@Walidaa100 This was him before his glow up|https://pbs.twimg.com/media/F8_pbcdXUAApXCR?format=jpg&name=large
-https://x.com/TechBroDrip/status/1715833147928281208|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/F8_dJoWb0AAPn1n?format=jpg&name=large
-https://x.com/TechBroDrip/status/1709622458398200012|Howard Hughes (eccentric billionaire engineer, aviator and business titan)|https://pbs.twimg.com/media/F7nMfzLasAA1km8?format=jpg&name=large
-https://x.com/TechBroDrip/status/1708894943283233143|John McAfee (founder of McAfee Antivirus) and his wife|https://pbs.twimg.com/media/F7c25M_bQAA0RMv?format=jpg&name=large
-https://x.com/TechBroDrip/status/1707830974367805857|Steve Jobs (co-founder of Apple)|https://pbs.twimg.com/media/F7NvJL0aIAATBh0?format=jpg&name=large
-https://x.com/TechBroDrip/status/1706743052315115698|Palmer Luckey (founder of Oculus + co-founder of Anduril) and his wife|https://pbs.twimg.com/media/F6-Q4_sbwAIROpc?format=jpg&name=large
-https://x.com/TechBroDrip/status/1706355056315077008|Founders of Sun Microsystems: Bill Joy, Andy Bechtolsheim, Scott McNealy and Vinod Khosla|https://pbs.twimg.com/media/F64whhEaEAADSqA?format=jpg&name=large
-https://x.com/TechBroDrip/status/1702105433853640774|Bill Gates (co-founder of Microsoft) and Snoop Dogg|https://pbs.twimg.com/media/F58XhoCaoAAx_LW?format=png&name=large
-https://x.com/TechBroDrip/status/1679659659769286657|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/F09ZjjAaAAA1PCh?format=jpg&name=large
-https://x.com/TechBroDrip/status/1666981796909809665|Sam Altman (co-founder of OpenAI) with Narendra Modi (Prime Minister of India)|https://pbs.twimg.com/media/FyJPG_paMAMluqr?format=jpg&name=large
-https://x.com/TechBroDrip/status/1664352050178846720|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/Fxj3XmJaAAEnVuo?format=jpg&name=large
-https://x.com/TechBroDrip/status/1662803714812391426|Jensen Huang (co-founder and CEO of NVIDIA)|https://pbs.twimg.com/media/FxN3Kh_X0AAcLTd?format=jpg&name=large
-https://x.com/TechBroDrip/status/1662138602112061446|Garry Tan (CEO of Y Combinator) volunteering as a photographer at Y Combinator's startup school in 2008 to get his foot in the door|https://pbs.twimg.com/media/FxEYNGZaIAA61e1?format=png&name=large
-https://x.com/TechBroDrip/status/1661785600394149888|Jensen Huang (co-founder and CEO of NVIDIA)|https://pbs.twimg.com/media/Fw_ZLRrakAAi_Uq?format=png&name=large
-https://x.com/TechBroDrip/status/1660133741631774720|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/Fwn61oAXoAcDCY8?format=jpg&name=large
-https://x.com/TechBroDrip/status/1657062932633772032|Chris Riesbeck (computer scientist and AI researcher) and Geoffrey Hinton (computer scientist known as one of the godfathers of AI)|https://pbs.twimg.com/media/Fv8R64iaEAETzsl?format=png&name=large
-https://x.com/TechBroDrip/status/1656699104049901568|David Deutsch (physicist and inventor of constructor theory, known as the father of quantum computing)|https://pbs.twimg.com/media/Fv3HDfJaMAAHVCl?format=jpg&name=large
-https://x.com/TechBroDrip/status/1655281399337975808|Mark Zuckerberg (founder and CEO of Meta)|https://pbs.twimg.com/media/Fvi9qJtaEAImurJ?format=jpg&name=large
-https://x.com/TechBroDrip/status/1655239284180553734|Jeff Bezos (founder of Amazon and Blue Origin) and Lauren Sanchez|https://pbs.twimg.com/media/FviXWtRaQAEtWPY?format=jpg&name=large
-https://x.com/TechBroDrip/status/1653459845507604480|Satya Nadella (CEO of Microsoft)|https://pbs.twimg.com/media/FvJE1vtacAAP1Z-?format=jpg&name=large
-https://x.com/TechBroDrip/status/1653124558399082497|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/FvEUBiQaAAA_EvM?format=jpg&name=large
-https://x.com/TechBroDrip/status/1651317706082373632|Aaron Ng (founder + CEO of Hyper Online)|https://pbs.twimg.com/media/FuqoZaKaMAQUpHh?format=jpg&name=large
-https://x.com/TechBroDrip/status/1650555637288534016|Jeff Bezos (founder of Amazon and Blue Origin) with Lauren Sanchez at Coachella|https://pbs.twimg.com/media/FufzJa4agAEdJGZ?format=png&name=large
-https://x.com/TechBroDrip/status/1641161524751499264|Marc Zuckerberg (Founder + CEO of Meta)|https://pbs.twimg.com/media/FsaTd6FaQAAn4Ou?format=png&name=large
-https://x.com/TechBroDrip/status/1639317145086746624|Claude Shannon (mathematician, electrical engineer, and cryptographer known as one of the fathers of information theory)|https://pbs.twimg.com/media/FsAGQQmagAA9O0Y?format=jpg&name=large
-https://x.com/TechBroDrip/status/1636776138658967553|Mira Murati (CTO of OpenAI) + Sam Altman (CEO of OpenAI) + Greg Brockman (President of OpenAI) + Ilya Sutskever (Chief Scientist of OpenAI)|https://pbs.twimg.com/media/Frb_OV8aUAEGuq7?format=jpg&name=large
-https://x.com/TechBroDrip/status/1635705174005256192|Elon Musk (SpaceX + Tesla + OpenAI + Neuralink + Paypal)|https://pbs.twimg.com/media/FrMxL5CaAAAqf-h?format=jpg&name=large
-https://x.com/TechBroDrip/status/1635376530594619393|Yann LeCun (Chief AI Scientist at Meta)|https://pbs.twimg.com/media/FrIGSXuaAAMVp6h?format=jpg&name=large
-https://x.com/TechBroDrip/status/1633174562736320513|Bryan Johnson (founder of Kernel + Blueprint + OS Fund + Braintree)|https://pbs.twimg.com/media/Fqozm2SaMAoPMfX?format=jpg&name=large
-https://x.com/TechBroDrip/status/1632805643638943744|Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)|https://pbs.twimg.com/media/FqjkE8caYAAm5bT?format=jpg&name=large
-https://x.com/TechBroDrip/status/1631350799384317953|Jim Simons (mathematician and billionaire founder of Renaissance Technologies)|https://pbs.twimg.com/media/FqO453EaQAAbtpe?format=jpg&name=large
-https://x.com/TechBroDrip/status/1628533510410752000|Alan Turing (mathematician, computer scientist and  cryptographer known as one of the fathers of computer science and artificial intelligence)|https://pbs.twimg.com/media/Fpm1temacAE5PbK?format=jpg&name=large
-https://x.com/TechBroDrip/status/1628194410159816704|Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)|https://pbs.twimg.com/media/FpiCL3JaEAAs0_m?format=jpg&name=large
-https://x.com/TechBroDrip/status/1626650893247725569|Ilya Sutzkever (co-founder and chief scientist of OpenAI)|https://pbs.twimg.com/media/FpMGXQOacAUmgrC?format=jpg&name=large
-https://x.com/TechBroDrip/status/1625003709402066944|Jensen Huang (co-founder and CEO of NVIDIA)|https://pbs.twimg.com/media/Fo0sQZKaIAA9buo?format=jpg&name=large
-https://x.com/TechBroDrip/status/1623358464746737672|Robert Goddard (creator of the first liquid-fueled rocket)|https://pbs.twimg.com/media/FodTnISakAA9Ary?format=jpg&name=large
-https://x.com/TechBroDrip/status/1623003710191464449|Aubrey Cottle aka Kirtaner (hacker, engineer and cofounder of the hacktivist group Anonymous)|https://pbs.twimg.com/media/FoYRRQMaAAAnmRV?format=jpg&name=large
-https://x.com/TechBroDrip/status/1621213566727770113|Blake Lemoine (former Google engineer who was fired after publicly claiming the company’s LaMDA chatbot was sentient)|https://pbs.twimg.com/media/Fn-1JSVaEAEtKkY?format=jpg&name=large
-https://x.com/TechBroDrip/status/1620633660184748032|Robert Oppenheimer (physicist, head of the Los Alamos Laboratory and father of the atomic bomb)|https://pbs.twimg.com/media/Fn2luSFacAUrqQp?format=jpg&name=large
-https://x.com/TechBroDrip/status/1619840530183237633|Jeff Bezos (founder of Amazon and Blue Origin) celebrating after going to space on his company’s first crewed rocket flight|https://pbs.twimg.com/media/FnrUX8FaQAEJLKf?format=jpg&name=large
-https://x.com/TechBroDrip/status/1617585770696675328|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FnLRl8VacAIQ0v5?format=png&name=large
-https://x.com/TechBroDrip/status/1617581015412928512|Frank Herbert (sci-fi author of Dune) on the set of David Lynch's Dune (1984) with the actor Kyle MacLachlan|https://pbs.twimg.com/media/FnLNT88acAE1xeh?format=jpg&name=large
-https://x.com/TechBroDrip/status/1615783751711338496|Ralph Mosher (engineer and designer of the Hardiman exoskeleton)|https://pbs.twimg.com/media/FmxqwVNakAASs6O?format=png&name=large
-https://x.com/TechBroDrip/status/1615416111356604416|Claude Shannon (mathematician, electrical engineer, and cryptographer known as one of the fathers of information theory)|https://pbs.twimg.com/media/FmscFFAaEAEi9u0?format=png&name=large
-https://x.com/TechBroDrip/status/1613962289463558144|Ray Kurzweil (engineer and futurist) and Stevie Wonder playing a synthesizer designed by Kurzweil|https://pbs.twimg.com/media/FmXyJPZaMAU6WCB?format=png&name=large
-https://x.com/TechBroDrip/status/1613699560249102337|Aaron Swartz (software developer and internet activist)|https://pbs.twimg.com/media/FmUCogzaAAU3N90?format=jpg&name=large
-https://x.com/TechBroDrip/status/1613550242888323072|Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)|https://pbs.twimg.com/media/FmR7ZGuaAAIlWtq?format=jpg&name=large
-https://x.com/TechBroDrip/status/1613222256867684353|Steve Wozniak (co-founder of Apple)|https://pbs.twimg.com/media/FmNRFzTaYAEJ5LW?format=png&name=large
-https://x.com/TechBroDrip/status/1612588369380544513|Sergey Brin and Larry Page (founders of Google)|https://pbs.twimg.com/media/FmEQkuVaMAIs_Ee?format=jpg&name=large
-https://x.com/TechBroDrip/status/1611416798003617793|Richard Stallman (godfather of the free software movement)|https://pbs.twimg.com/media/FlznB5sakAAtfg4?format=png&name=large
-https://x.com/TechBroDrip/status/1611109914356895747|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FlvPxxBaUAEPxNl?format=jpg&name=large
-https://x.com/TechBroDrip/status/1611057678838829058|Masayuki Uemura (engineer and lead architect of the Nintendo NES and SNES game consoles)|https://pbs.twimg.com/media/FlugWnBaMAIK07m?format=png&name=large
-https://x.com/TechBroDrip/status/1610726026736455680|John McAfee (founder of McAfee Antivirus) (yearbook photo circa 1962)|https://pbs.twimg.com/media/FlpyZmraEAAzVoY?format=png&name=large
-https://x.com/TechBroDrip/status/1609937097309265920|Emery Wells (founder of|https://pbs.twimg.com/media/FlelQWQXEAI06pN?format=jpg&name=large
-https://x.com/TechBroDrip/status/1609658774909771779|Robert Moog (inventor of the Moog Synthesizer, the first widely used tool for creating electronic music)|https://pbs.twimg.com/media/FlaoH4KX0AQQLFp?format=jpg&name=large
-https://x.com/TechBroDrip/status/1609203255074070532|Jeff Bezos (founder of Amazon and Blue Origin)|https://pbs.twimg.com/media/FlUJ0-fXgAAQAIt?format=jpg&name=large
-https://x.com/TechBroDrip/status/1608864584240369665|Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)|https://pbs.twimg.com/media/FlPVzx9X0AISxRj?format=jpg&name=large
-https://x.com/TechBroDrip/status/1607165388038541313|Sergey Brin (co-founder of Google)|https://pbs.twimg.com/media/Fk3MZrhWAAY23OS?format=jpg&name=large
-https://x.com/TechBroDrip/status/1606458415395790849|Sam Bankman-Fried (founder of FTX) on a flight to the USA from the Bahamas to face fraud charges|https://pbs.twimg.com/media/FktJadHUYAAGMwZ?format=jpg&name=large
-https://x.com/TechBroDrip/status/1606331152561606656|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FkrVgBoUEAI3APq?format=jpg&name=large
-https://x.com/TechBroDrip/status/1605980313275863041|Hal Finney (cryptographer and recipient of the first Bitcoin transaction)|https://pbs.twimg.com/media/FkmWjyYUAAAM-sq?format=jpg&name=large
-https://x.com/TechBroDrip/status/1605633547707944961|Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)|https://pbs.twimg.com/media/FkhbM8jUUAErZNQ?format=jpg&name=large
-https://x.com/TechBroDrip/status/1605258283060670464|Ross Ulbricht (founder of Silk Road)|https://pbs.twimg.com/media/FkcF5qXUEAMHtdq?format=jpg&name=large
-https://x.com/TechBroDrip/status/1603899328082325505|Tim Cook (CEO of Apple)|https://pbs.twimg.com/media/FkIx7zTVEAAv4bx?format=jpg&name=large
-https://x.com/TechBroDrip/status/1599807658139082754|Linus Torvalds (software engineer and creator of the Linux kernel)|https://pbs.twimg.com/media/FjOolj3UYAcW6Nf?format=jpg&name=large
-https://x.com/TechBroDrip/status/1592619392562761728|Elon Musk welcoming Rahul Ligma and Daniel Johnson (former Twitter engineers) back to Twitter HQ|https://pbs.twimg.com/media/FhoeeQYVQAABUU1?format=png&name=large
-https://x.com/TechBroDrip/status/1592615225232338944|Facebook co-founders Mark Zuckerberg, Dustin Moskovitz and Andrew McCollum with Sean Parker (co-founder of Napster)|https://pbs.twimg.com/media/FhobFMeUYAI8L6s?format=jpg&name=large
-https://x.com/TechBroDrip/status/1591537786255183873|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/FhZHLf7UUAAq5H9?format=jpg&name=large
-https://x.com/TechBroDrip/status/1590393405582217216|Palmer Luckey (founder of Oculus + co-founder of Anduril) and his wife|https://pbs.twimg.com/media/FhI2X2EVIAA_jOG?format=jpg&name=large
-https://x.com/TechBroDrip/status/1587863988943040512|William Gibson (prophetic scifi author of Neuromancer + The Peripheral)|https://pbs.twimg.com/media/Fgk54ckUYAAn_RE?format=jpg&name=large
-https://x.com/TechBroDrip/status/1587138491980206080|Dorian Nakamoto (physicist and engineer) when reporters stormed his house claiming he was bitcoin's creator|https://pbs.twimg.com/media/FgamDBFVsAACzLj?format=jpg&name=large
-https://x.com/TechBroDrip/status/1586856746357620736|Palmer Luckey (founder of Oculus and co-founder of Anduril) and his wife|https://pbs.twimg.com/media/FgWlzPtVQAEVki-?format=jpg&name=large
-https://x.com/TechBroDrip/status/1586076107928764416|Rahul Ligma and Daniel Johnson outside Twitter HQ|https://pbs.twimg.com/media/FgLfzOPVUAA1lLL?format=jpg&name=large
-https://x.com/TechBroDrip/status/1585499532573298688|Elon Musk (SpaceX + Tesla) at Twitter HQ|https://pbs.twimg.com/media/FgDTbCgVUAAwU8p?format=jpg&name=large
-https://x.com/TechBroDrip/status/1584955690778759170|Mark Zuckerberg (co-founder of Facebook/Meta)|https://pbs.twimg.com/media/Ff7kzPSVUAAjdoE?format=jpg&name=large
-https://x.com/TechBroDrip/status/1584615631088807936|Peter Thiel (legendary investor and co-founder of Paypal + Palantir)|https://pbs.twimg.com/media/Ff2vgdAUcAAZMd3?format=jpg&name=large
-https://x.com/TechBroDrip/status/1584588349670506496|Elon Musk (SpaceX + Tesla) at UPenn|https://pbs.twimg.com/media/Ff2WtJ5VIAA_-9A?format=jpg&name=large
-https://x.com/TechBroDrip/status/1583538233308155904|Jim Simons (mathematician and billionaire founder of Renaissance Technologies)|https://pbs.twimg.com/media/FfnboTxVQAI_e0F?format=png&name=large
-https://x.com/TechBroDrip/status/1583496123188056064|Elizabeth Holmes (founder of Theranos) and Joe Biden|https://pbs.twimg.com/media/Ffm1VO-UAAUSDPM?format=jpg&name=large
-https://x.com/TechBroDrip/status/1583174034564317185|Elon Musk (1994)|https://pbs.twimg.com/media/FfiQZLJVUAAzvQb?format=jpg&name=large
-https://x.com/TechBroDrip/status/1582770495643975694|Palmer Luckey (founder of Oculus and co-founder of Anduril)|https://pbs.twimg.com/media/FfchYFpUABcFVMm?format=jpg&name=large
-https://x.com/TechBroDrip/status/1582451721359413248|Jeff Bezos (founder of Amazon)|https://pbs.twimg.com/media/FfX_dFEVsAILX7O?format=jpg&name=large
-https://x.com/TechBroDrip/status/1581806542482903041|Jonny Ive (former Chief Design Officer at Apple) in high school|https://pbs.twimg.com/media/FfO0qoOXgAEK3xO?format=jpg&name=large
-https://x.com/TechBroDrip/status/1581366345937002496|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/FfIkThbWAAAOtfK?format=jpg&name=large
-https://x.com/TechBroDrip/status/1580967476652699665|Steve Jobs (co-founder of Apple) and John Sculley before Sculley organized the Apple coup d'état resulting in Jobs' resignation|https://pbs.twimg.com/media/FfC35n8VsAgo4JJ?format=jpg&name=large
-https://x.com/TechBroDrip/status/1580593740032274432|John McAfee (founder of McAfee Antivirus)|https://pbs.twimg.com/media/Fe9ln57VsAAwrsY?format=jpg&name=large
-https://x.com/TechBroDrip/status/1580272042191908864|Nikola Tesla (inventor and engineer)|https://pbs.twimg.com/media/Fe5Ae79VEAAO3uZ?format=png&name=large
-https://x.com/TechBroDrip/status/1579845342467481603|The “traitorous eight” who left Shockley Semiconductor to found Fairchild Semiconductor (1957)|https://pbs.twimg.com/media/Fey89yVVQAEW327?format=jpg&name=large
-https://x.com/TechBroDrip/status/1578750235165093888|Mark Zuckerberg (Facebook/Meta) and Kanye West|https://pbs.twimg.com/media/FejY-K3VUAMr13F?format=jpg&name=large
-https://x.com/TechBroDrip/status/1578426284824092682|Elon Musk + Grimes + Kim Kardashian + Kanye West + Travis Scott + Quavo + Saweetie|https://pbs.twimg.com/media/FeeyVwJUYAQaYmF?format=png&name=large
-https://x.com/TechBroDrip/status/1578061945483055104|Cyan Banister (legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)|https://pbs.twimg.com/media/FeZm-aaUYAQgIb9?format=png&name=large
-https://x.com/TechBroDrip/status/1577335791868444672|Tim May (cypherpunk and author of the Crypto Anarchist Manifesto) (1988)|https://pbs.twimg.com/media/FePSixlUAAUsG6K?format=jpg&name=large
-https://x.com/TechBroDrip/status/1576974572091363338|Cyberpunk Drip (1993)|https://pbs.twimg.com/media/FeKJ_C7UUAEWH1v?format=jpg&name=large
-https://x.com/TechBroDrip/status/1575919917693444096|Wernher von Braun (chief architect of the Apollo Saturn V rocket)|https://pbs.twimg.com/media/Fd7K0B-VsAAAwdM?format=jpg&name=large
-https://x.com/TechBroDrip/status/1575520530395910146|Elon Musk (SpaceX + Tesla) and Grimes|https://pbs.twimg.com/media/Fd1fkpOUAAI6Qmn?format=jpg&name=large
-https://x.com/TechBroDrip/status/1575161578986491925|Tim Cook (CEO of Apple) at Oktoberfest|https://pbs.twimg.com/media/FdwY_mXVUAQjMKK?format=png&name=large
-https://x.com/TechBroDrip/status/1574818350152134657|Steve Jobs and Steve Wozniak (co-founders of Apple)|https://pbs.twimg.com/media/Fdrgw1DUcAQ88qm?format=png&name=large
-https://x.com/TechBroDrip/status/1571886834946551808|Rivest, Shamir and Adleman (creators of RSA encryption)|https://pbs.twimg.com/media/FdB2vsKaAAIklpl?format=jpg&name=large
-https://x.com/TechBroDrip/status/1569438603046195201|Jeff Bezos (founder of Amazon)|https://pbs.twimg.com/media/FcfED_IaIAIUdXT?format=jpg&name=large
-https://x.com/TechBroDrip/status/1567923854240260097|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/FcJiYIhaIAImMIj?format=png&name=large
-https://x.com/TechBroDrip/status/1565711996279959553|“Jeflon Zuckergates”|https://pbs.twimg.com/media/FbqGwmxUYAELEAy?format=jpg&name=large
-https://x.com/TechBroDrip/status/1565355527093174272|Adam Neumann (Co-founder of WeWork and Flow) with Narendra Modi|https://pbs.twimg.com/media/FblCjlAUcAE71gu?format=jpg&name=large
-https://x.com/TechBroDrip/status/1565048258279264257|Steve Wozniak (co-founder of Apple)|https://pbs.twimg.com/media/FbgrGB5VUAAYhAN?format=png&name=large
-https://x.com/TechBroDrip/status/1564641772512284672|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/Fba5ZgDUUAAeLm0?format=jpg&name=large
-https://x.com/TechBroDrip/status/1564625844357795840|Elon Musk (SpaceX + Tesla) (2003)|https://pbs.twimg.com/media/Fbaq6YWVEAgysSN?format=jpg&name=large
-https://x.com/TechBroDrip/status/1564325944612884481|Vitalik Buterin (co-creator of Ethereum) and Roon (@tszzl) (notorious anonymous shitposter and AI researcher)|https://pbs.twimg.com/media/FbWZlJgaAAAJY3u?format=png&name=large
-https://x.com/TechBroDrip/status/1564279720929153024|Steve Jobs (co-founder of Apple)|https://pbs.twimg.com/media/FbVwHJfUYAESNs8?format=png&name=large
-https://x.com/TechBroDrip/status/1563277840870559744|Palmer Luckey (founder of Oculus VR and co-founder of Anduril Industries) with the president of Ukraine|https://pbs.twimg.com/media/FbHg6RYUIAE4V3O?format=jpg&name=large
-https://x.com/TechBroDrip/status/1563233254966042630|John McAfee (founder of McAfee Antivirus)|https://pbs.twimg.com/media/FbG4XBHUYAIrVak?format=jpg&name=large
-https://x.com/TechBroDrip/status/1562481405040287744|Marc Andreessen (co-founder of a16z and Mosaic, the world's first widely used web browser)|https://pbs.twimg.com/media/Fa8MjmmUUAcVvKO?format=jpg&name=large
-https://x.com/TechBroDrip/status/1562222358189944834|Adam Neumann (Co-founder of WeWork and Flow) and his wife Rebekah|https://pbs.twimg.com/media/Fa4g9FMVsAE0j5R?format=jpg&name=large
-https://x.com/TechBroDrip/status/1562148685172994048|Peiter Zatko aka "Mudge" (hacker + former head of security for Twitter + former head of cybersecurity research at DARPA) with Bill Clinton|https://pbs.twimg.com/media/Fa3dJ3ZUYAAkl1m?format=jpg&name=large
-https://x.com/TechBroDrip/status/1561764478454099973|Alex Karp (co-founder of Palantir)|https://pbs.twimg.com/media/FayAhB0UUAEZ2Gl?format=jpg&name=large
-https://x.com/TechBroDrip/status/1561504360223215616|Vitalik Buterin (co-creator of Ethereum)|https://pbs.twimg.com/media/FauT8L2UEAA3q7s?format=jpg&name=large
-https://x.com/TechBroDrip/status/1561043280401289216|Steve Jobs (co-founder of Apple)|https://pbs.twimg.com/media/Fanwlz6UEAU5WOR?format=jpg&name=large
-https://x.com/TechBroDrip/status/1560300025430753281|Margaret Hamilton (software developer for the Apollo space program)|https://pbs.twimg.com/media/FadMmj-UYAANZV9?format=png&name=large
-https://x.com/TechBroDrip/status/1559938670202744832|Mark Zuckerberg (Facebook/Meta)|https://pbs.twimg.com/media/FaYD88pVUAAeYqf?format=jpg&name=large
-https://x.com/TechBroDrip/status/1559538034130817024|Ben Horowitz (co-founder and GP of a16z) and his wife Felicia|https://pbs.twimg.com/media/FaSXk7tUIAEcnKL?format=jpg&name=large
-https://x.com/TechBroDrip/status/1559276677875716096|Adam Neumann (co-founder of WeWork and Flow)|https://pbs.twimg.com/media/FaOp394UsAE584-?format=jpg&name=large
-https://x.com/TechBroDrip/status/1559225820895358976|Bill Gates (Microsoft) and Warren Buffett|https://pbs.twimg.com/media/FaN7nqwVUAEp7kT?format=jpg&name=large
-https://x.com/TechBroDrip/status/1557797813655744513|Kanye West, Elon Musk, Travis Scott, and Quavo|https://pbs.twimg.com/media/FZ5o0H8UcAEN2X5?format=png&name=large
-https://x.com/TechBroDrip/status/1557766206983000064|John McAfee (founder of McAfee Antivirus)|https://pbs.twimg.com/media/FZ5MG8nUIAEsXod?format=jpg&name=large
-https://x.com/TechBroDrip/status/1557409582258933760|Elon Musk (SpaceX + Tesla) and Kanye West|https://pbs.twimg.com/media/FZ0HwowUYAEM-jT?format=png&name=large
-https://x.com/TechBroDrip/status/1557037701618024449|Jack Parsons (rocket engineer, occultist and co-founder of @NASAJPL)|https://pbs.twimg.com/media/FZu1iTAVsAARL6v?format=png&name=large
-https://x.com/TechBroDrip/status/1556680617097474048|Julian Assange (founder of Wikileaks)|https://pbs.twimg.com/media/FZpwxYoUIAs6lXC?format=jpg&name=large
-https://x.com/TechBroDrip/status/1556323419125317634|John Carmack (legendary programmer and co-creator of DOOM + Quake)|https://pbs.twimg.com/media/FZkr5KJXEAEc-0R?format=jpg&name=large
-https://x.com/TechBroDrip/status/1555924880478146562|Cliff Bleszinski aka CliffyB (game designer - Unreal and Gears of War)|https://pbs.twimg.com/media/FZfBblRWQAE3ZJW?format=jpg&name=large
-https://x.com/TechBroDrip/status/1555594215916199939|Vitalik Buterin (co-founder of Ethereum)|https://pbs.twimg.com/media/FZaUsZcWYAAW2Dr?format=jpg&name=large
-https://x.com/TechBroDrip/status/1554856274587594752|CZ (founder of Binance)|https://pbs.twimg.com/media/FZP1ioAUIAAHa--?format=jpg&name=large
-https://x.com/TechBroDrip/status/1554518176494260224|John Romero (co-creator of DOOM)|https://pbs.twimg.com/media/FZLCCq1VsAA5vuK?format=png&name=large
-https://x.com/TechBroDrip/status/1554130499441815553|Mark Zuckerberg (founder of Facebook), Snoop Dog and Sean Parker (founder of Napster)|https://pbs.twimg.com/media/FZFhc8MVsAUUeNU?format=jpg&name=large
-https://x.com/TechBroDrip/status/1553068494559666176|Ross Ulbricht (founder of Silk Road)|https://pbs.twimg.com/media/FY2bkDxVEAEJYn-?format=png&name=large
-https://x.com/TechBroDrip/status/1553062626522849281|Prafulla Chandra Ray (chemist and founder of India's first pharmaceutical company)|https://pbs.twimg.com/media/FY2WOndUEAAPEVw?format=jpg&name=large
-https://x.com/TechBroDrip/status/1552705790506479618|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/FYxRr9UUUAESntK?format=png&name=large
-https://x.com/TechBroDrip/status/1552354571963363328|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FYsSQXMagAA1rcI?format=jpg&name=large
-https://x.com/TechBroDrip/status/1551964022869594112|Albert Hofmann (chemist + the first person to synthesize LSD)|https://pbs.twimg.com/media/FYmvDJ8VEAUtj-y?format=jpg&name=large
-https://x.com/TechBroDrip/status/1551620962872729606|Elon Musk (SpaceX, Tesla) and Sergey Brin (co-founder of Google) partying together the day the Wall Street Journal claimed their relationship had ruptured because Elon slept with Sergey's wife|https://pbs.twimg.com/media/FYh3CrEUcAAqHBy?format=png&name=large
-https://x.com/TechBroDrip/status/1551610465960075264|Gottfrid Svartholm (co-founder of Pirate Bay)|https://pbs.twimg.com/media/FYhtfj1UsAE_jBQ?format=png&name=large
-https://x.com/TechBroDrip/status/1550548176892964864|Delian Asparouhov (co-founder of Varda and principal at Founders Fund) and Nadia Asparouhov (researcher) getting married at Hereticon|https://pbs.twimg.com/media/FYSnWSPVUAEf91q?format=png&name=large
-https://x.com/TechBroDrip/status/1550188917470556160|Vitalik Buterin (co-founder of Ethereum)|https://pbs.twimg.com/media/FYNgmrMUYAIe8qo?format=png&name=large
-https://x.com/TechBroDrip/status/1549798426325307392|Isambard Kingdom Brunel (revolutionary civil engineer and designer of the first propeller driven transatlantic steamship)|https://pbs.twimg.com/media/FYH9dH9UsAEDXCx?format=jpg&name=large
-https://x.com/TechBroDrip/status/1549436949714182146|Patri Friedman (software engineer and founder of the Seasteading Institute and Pronomos Capital)|https://pbs.twimg.com/media/FYC0savVUAAsbtP?format=jpg&name=large
-https://x.com/TechBroDrip/status/1547992562916474880|Sasha Shulgin (biochemist and psychedelic pioneer) while working at DOW Chemical|https://pbs.twimg.com/media/FXuTCCJUYAAb2mi?format=jpg&name=large
-https://x.com/TechBroDrip/status/1547619893977026560|The Paypal Mafia (2007)|https://pbs.twimg.com/media/FXpAFyPVsAAdJ0e?format=png&name=large
-https://x.com/TechBroDrip/status/1546893974203379713|John McAfee (founder of McAfee Antivirus)|https://pbs.twimg.com/media/FXer3tGUcAER1vR?format=png&name=large
-https://x.com/TechBroDrip/status/1545497675453255680|Richard Craib (founder + CEO of Numerai)|https://pbs.twimg.com/media/FXK18ZxVUAATX_K?format=png&name=large
-https://x.com/TechBroDrip/status/1544720428727296000|Wernher von Braun (godfather of rocketry)|https://pbs.twimg.com/media/FW_y_NNVQAAKx1X?format=png&name=large
-https://x.com/TechBroDrip/status/1543275220810706944|Jeff Bezos (founder of Amazon)|https://pbs.twimg.com/media/FWrQoiSUIAAYKw8?format=jpg&name=large
-https://x.com/TechBroDrip/status/1542998235823804416|Jack Parsons (rocket engineer, occultist and co-founder of @NASAJPL) and his wife Marjorie Cameron|https://pbs.twimg.com/media/FWnUt8FVsAECU0W?format=jpg&name=large
-https://x.com/TechBroDrip/status/1542531711547740165|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FWgsamlVsAAgImf?format=jpg&name=large
-https://x.com/TechBroDrip/status/1542527789793824769|Henry Ford (founder of Ford Motor Company)|https://pbs.twimg.com/media/FWgo2WdUEAIvlY1?format=jpg&name=large
-https://x.com/TechBroDrip/status/1542142790234144775|Whitfield Diffie (legendary cryptographer and co-creator of Diffie-Hellman key exchange)|https://pbs.twimg.com/media/FWbKsMkWAAEum6E?format=png&name=large
-https://x.com/TechBroDrip/status/1541820735500550144|John McAfee (founder of McAfee Antivirus)|https://pbs.twimg.com/media/FWWlyNRVEAAfI1F?format=png&name=large
-https://x.com/TechBroDrip/status/1541453678527143937|Hal Finney (cryptographer and recipient of the first Bitcoin transaction)|https://pbs.twimg.com/media/FWRX81xUcAAs45R?format=jpg&name=large
-https://x.com/TechBroDrip/status/1540788868428926982|Vitalik Buterin (co-founder of Ethereum) and his dad|https://pbs.twimg.com/media/FWH7TqLWYAANHGt?format=jpg&name=large
-https://x.com/TechBroDrip/status/1540374792116637696|Mark Zuckerberg (founder + CEO of Facebook/Meta)|https://pbs.twimg.com/media/FWCCtXCUEAEnS3K?format=jpg&name=large
-https://x.com/TechBroDrip/status/1540034226036170754|Steve Jobs (1981)|https://pbs.twimg.com/media/FV9M5eGVUAAq_Qz?format=png&name=large
-https://x.com/TechBroDrip/status/1540010683902726147|Howard Hughes (engineer/aviator/business titan)|https://pbs.twimg.com/media/FV83dwYUYAAfA7p?format=png&name=large
-https://x.com/TechBroDrip/status/1540008225642164226|Hackers (1995)|https://pbs.twimg.com/media/FV81UZrVsAAGHfc?format=jpg&name=large
-https://x.com/TechBroDrip/status/1539649460677971968|Richard Stallman (godfather of the free software movement)|https://pbs.twimg.com/media/FV3vBk_VUAYGCzj?format=jpg&name=large
-https://x.com/TechBroDrip/status/1539284342198767617|Steve Jobs showing off the Macintosh to Andy Warhol, Keith Haring and Sean Ono Lennon (1984)|https://pbs.twimg.com/media/FVyi815UcAALMfR?format=png&name=large
-https://x.com/TechBroDrip/status/1538927405930188800|Alex Karp (co-founder + CEO of Palantir)|https://pbs.twimg.com/media/FVteUZbUUAATlMS?format=png&name=large
-https://x.com/TechBroDrip/status/1538661265924452352|Size Chad (Arbitrum)|https://pbs.twimg.com/media/FVpsRFQUAAI5Fmh?format=jpg&name=large
-https://x.com/TechBroDrip/status/1537835551444717568|Bill Gates (co-founder of Microsoft)|https://pbs.twimg.com/media/FVd9SGbUcAEzCU1?format=png&name=large
-https://x.com/TechBroDrip/status/1537447935297789955|Joe Gebbia (co-founder of Airbnb) and Isabelle Boemeke|https://pbs.twimg.com/media/FVYcv5LUUAIX5yU?format=jpg&name=large
-https://x.com/TechBroDrip/status/1537102135761850369|Elon Musk (SpaceX + Tesla + Neuralink + Paypal)|https://pbs.twimg.com/media/FVTiPwbUAAA4Sr6?format=jpg&name=large
-https://x.com/TechBroDrip/status/1536759439448977408|Ben Horowitz (co-founder and GP of a16z) and his wife Felicia Horowitz|https://pbs.twimg.com/media/FVOqkGjVUAAfFde?format=png&name=large
-https://x.com/TechBroDrip/status/1536748755512217600|The Wright Brothers (inventors of the first motor-operated airplane)|https://pbs.twimg.com/media/FVOg2QnUYAA-RQg?format=png&name=large
-https://x.com/TechBroDrip/status/1536386413565882372|Justin Kan (co-founder of Twitch)|https://pbs.twimg.com/media/FVJW8wZUsAEFjsN?format=png&name=large
-https://x.com/TechBroDrip/status/1535315484433711104|Vitalik Buterin (co-founder of Ethereum)|https://pbs.twimg.com/media/FU6JS6yUsAAToMG?format=png&name=large
-https://x.com/TechBroDrip/status/1534911300748226561|Bill Gates (co-founder of Microsoft)|https://pbs.twimg.com/media/FU0ZsXnUcAAwx1y?format=jpg&name=large
-https://x.com/TechBroDrip/status/1534579589028073474|John Romero and John Carmack (creators of DOOM)|https://pbs.twimg.com/media/FUvsAKMUEAEO9Ig?format=png&name=large
-https://x.com/TechBroDrip/status/1534184620610113539|Craig Federighi (senior vice president of software engineering at Apple)|https://pbs.twimg.com/media/FUqExjhUYAAogn0?format=jpg&name=large
-https://x.com/TechBroDrip/status/1533839197416480769|Sean Parker (founder of Napster, first president of Facebook and former managing parter of Founders Fund) (2010)|https://pbs.twimg.com/media/FUlKnuZVsAE1As0?format=jpg&name=large
-https://x.com/TechBroDrip/status/1533125913151320065|Pavel Durov (founder of Telegram and VK)|https://pbs.twimg.com/media/FUbB5JOUAAIEL7E?format=jpg&name=large
-https://x.com/TechBroDrip/status/1532760656239218689|Alexis Ohanian (co-founder of Reddit)|https://pbs.twimg.com/media/FUV1sW5VEAAwT1U?format=png&name=large
-https://x.com/TechBroDrip/status/1532427130675507200|Palmer Luckey (founder of Oculus and Anduril) and his wife Nicole|https://pbs.twimg.com/media/FURGWoOUcAAPYpk?format=jpg&name=large
-https://x.com/TechBroDrip/status/1532375857578160128|Steve Wozniak (co-founder of Apple) and David Lee Roth (lead singer of Van Halen)|https://pbs.twimg.com/media/FUQXuKGUEAUIjCk?format=jpg&name=large
-https://x.com/TechBroDrip/status/1532031472625864704|John McAfee (founder of McAfee Antivirus)|https://pbs.twimg.com/media/FULegT_UYAAX6dS?format=jpg&name=large
-https://x.com/TechBroDrip/status/1531661614650257409|Jack Ma (co-founder of Alibaba)|https://pbs.twimg.com/media/FUGOE-1UAAEN2ds?format=jpg&name=large
-https://x.com/TechBroDrip/status/1530944842662043649|Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)|https://pbs.twimg.com/media/FT8COEfWIAAvweT?format=jpg&name=large
-https://x.com/TechBroDrip/status/1530619053202710530|Vitalik Buterin (co-founder of Ethereum)|https://pbs.twimg.com/media/FT3Z6mhXwAcQtMD?format=jpg&name=large
-https://x.com/TechBroDrip/status/1530208064871157760|Alex Karp (co-founder + CEO of Palantir)|https://pbs.twimg.com/media/FTxkH3nUcAA03Lh?format=jpg&name=large
-https://x.com/TechBroDrip/status/1529555470612332545|julian assange in 1995 facing multiple charges of hacking under the alias mendax|https://pbs.twimg.com/media/FToSM1lWAAYkJc_?format=png&name=large
-https://x.com/TechBroDrip/status/1697800169352556994|Steve Jobs (co-founder of Apple)|https://pbs.twimg.com/media/F4_MQNxaYAAs3S_?format=jpg&name=large
-https://x.com/TechBroDrip/status/1654247812618686464|Sundar Pichai (CEO of Google) and Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FvURVhzaAAAJ9mn?format=jpg&name=large
-https://x.com/TechBroDrip/status/1797998292275696081|Jensen Huang (co-founder and CEO of NVIDIA)|https://pbs.twimg.com/media/GPPF6vLa8AAAkev?format=jpg&name=large
-https://x.com/TechBroDrip/status/1797998292275696081|Jensen Huang (co-founder and CEO of NVIDIA)|https://pbs.twimg.com/media/GPPF6vLaoAEwlcw?format=jpg&name=large
-https://x.com/TechBroDrip/status/1587482853654155264|Peter Thiel (in crown), playing multiple Paypal employees at chess simultaneously — including David Sacks (the only winner), Max Levchin and Roelof Botha|https://pbs.twimg.com/media/FgffPaLVEAAJQ83?format=png&name=large
-https://x.com/TechBroDrip/status/1769748910979920126|Tim Cook (CEO of Apple) and Sundar Pichai (CEO of Google)|https://pbs.twimg.com/media/GI9o7kNbYAA-rXy?format=jpg&name=large
-https://x.com/TechBroDrip/status/1608471535274139648|Linus Torvalds (software engineer and creator of the Linux kernel)|https://pbs.twimg.com/media/FlJwVcJXoAMvWHW?format=jpg&name=large
-https://x.com/TechBroDrip/status/1586370087287521280|Rahul Ligma and Daniel Johnson (former Twitter engineers)|https://pbs.twimg.com/media/FgPrL-yUcAEY7Iz?format=jpg&name=large
-https://x.com/TechBroDrip/status/1724484969358356616|Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)|https://pbs.twimg.com/media/F-6Z8IBbEAA9Tn3?format=jpg&name=large
-https://x.com/TechBroDrip/status/1619025909708890112|Peter Thiel (legendary investor and co-founder of Paypal + Palantir) walking into Oxford Union|https://pbs.twimg.com/media/FnfvQbTaYAIDtX4?format=png&name=large
-https://x.com/TechBroDrip/status/1790526136482660697|Ilya Sutskever (co-founder and former Chief Scientist of OpenAI) with Alex Krizhevsky and Geoffrey Hinton|https://pbs.twimg.com/media/GNk5kL3aEAA6TVW?format=png&name=large
-https://x.com/TechBroDrip/status/1754885726372761740|Luke Farritor (Vesuvius Challenge winner and former SpaceX intern)|https://pbs.twimg.com/media/GFqbRFtbEAA5uZO?format=jpg&name=large
-https://x.com/TechBroDrip/status/1626271341132541952|Satya Nadella (CEO of Microsoft) with his mom and dad|https://pbs.twimg.com/media/FpGs3QHaQAELR16?format=jpg&name=large
-https://x.com/TechBroDrip/status/1585335263571505153|PayPal's founding team
-"Of the six people who started PayPal, four had built bombs in high school. Five were just 23 years old - or younger. Four of us had been born outside the US. Three had escaped here from communist countries."|https://pbs.twimg.com/media/FgA-BSFVUAAYqjI?format=png&name=large
-https://x.com/TechBroDrip/status/1764061043414945994|Mark Zuckerberg (co-founder of Meta) and Bill Gates (co-founder of Microsoft)|https://pbs.twimg.com/media/GHs0KwKaYAALobO?format=jpg&name=large
-https://x.com/TechBroDrip/status/1776709986900746689|Jensen Huang (co-founder + CEO of NVIDIA) hand delivering the first DGX GPU to Elon Musk and the rest of the OpenAI team (2016)|https://pbs.twimg.com/media/GKgkUNlawAAwzrD?format=jpg&name=large
-https://x.com/TechBroDrip/status/1546529594550890496|Bill Gates (co-founder of Microsoft) and Shaq|https://pbs.twimg.com/media/FXZgd83VQAErXWi?format=png&name=large
-https://x.com/TechBroDrip/status/1588233704325156864|Mark Zuckerberg (co-founder of Facebook/Meta)|https://pbs.twimg.com/media/FgqKIuRVsAEU_s1?format=png&name=large
-https://x.com/TechBroDrip/status/1576308352061095936|Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)|https://pbs.twimg.com/media/FeAsFyfUYAALEXi?format=jpg&name=large
-https://x.com/TechBroDrip/status/1624437336799956992|Andrej Karpathy (founding member of OpenAI and former director of AI at Tesla) taking a shot of Tesla tequila|https://pbs.twimg.com/media/FospJVZXwAAN5Vm?format=jpg&name=large
-https://x.com/TechBroDrip/status/1661054780352122880|Michael Mortiz (billionaire venture capitalist)|https://pbs.twimg.com/media/Fw0_d61aIAAy0_6?format=png&name=large
-https://x.com/TechBroDrip/status/1658527660908367872|Sam Altman (co-founder of OpenAI and former president of Y Combinator)|https://pbs.twimg.com/media/FwRGEhEaMAIQm0a?format=jpg&name=large
-https://x.com/TechBroDrip/status/1656338661087264768|David Holz (founder of Midjourney + Leap Motion)|https://pbs.twimg.com/media/Fvx_M-iagAE_tWH?format=jpg&name=large
-https://x.com/TechBroDrip/status/1655779058565931008|Albert Einstein (physicist + developer of the theory of relativity) and Robert Oppenheimer (physicist + father of the atomic bomb)|https://pbs.twimg.com/media/FvqCRpYaMAA5hpa?format=jpg&name=large
-https://x.com/TechBroDrip/status/1604198426358341632|Alex Karp (co-founder + CEO of Palantir)|https://pbs.twimg.com/media/FkNB9yJVQAAWuvm?format=jpg&name=large
-https://x.com/TechBroDrip/status/1568013936204873728|Justin Kan (co-founder of Twitch)|https://pbs.twimg.com/media/FcK0XNTaUAAcsD7?format=png&name=large
-https://x.com/TechBroDrip/status/1567548573360979970|John Carmack (legendary game dev + founder of Keen Technologies) and Elon Musk (SpaceX + Tesla)|https://pbs.twimg.com/media/FcENHixaQAAGXZ9?format=jpg&name=large
+https://pbs.twimg.com/media/G6d3XWyWgAATF7F?format=jpg&name=large
+https://pbs.twimg.com/media/G5-Xr2GbMAEECGe?format=jpg&name=large
+https://pbs.twimg.com/media/G5qXCUFaEAA0g3S?format=jpg&name=large
+https://pbs.twimg.com/media/G5l3VUfacAU_J-c?format=jpg&name=large
+https://pbs.twimg.com/media/FbC2MvOUcAEEZJr?format=png&name=large
+https://pbs.twimg.com/media/G5GNOTQaYAAzNF_?format=jpg&name=large
+https://pbs.twimg.com/media/G47n_DWbQAAmp_8?format=jpg&name=large
+https://pbs.twimg.com/media/G42uh-CbQAMgk1V.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/G42uh-CbQAMgk1V?format=jpg&name=large
+https://pbs.twimg.com/media/G42icHJaQAAm3mc.png?format=jpg&name=large
+https://pbs.twimg.com/media/G42icHJaQAAm3mc?format=png&name=large
+https://pbs.twimg.com/media/G39pNZHWQAAiwIM?format=jpg&name=large
+https://pbs.twimg.com/media/FfiJGoNUAAAi3O8?format=jpg&name=large
+https://pbs.twimg.com/media/Gu258MoXkAA8Otg?format=jpg&name=large
+https://pbs.twimg.com/media/Gp-ykOfX0AAdyoF?format=jpg&name=large
+https://pbs.twimg.com/media/GpHy2tWb0AA-kqj?format=jpg&name=large
+https://pbs.twimg.com/media/GmatcWUaYAAMgFY?format=jpg&name=large
+https://pbs.twimg.com/media/GlDi9yMaUAAkVHn?format=jpg&name=large
+https://pbs.twimg.com/ext_tw_video_thumb/1895554242066173952/pu/img/ggxVJtxRpFgSd4WX.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GkLR8HTbUAAMw8l.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GkLR8HTbUAAMw8l?format=jpg&name=large
+https://pbs.twimg.com/media/GkIIAdaWAAApmkt?format=jpg&name=large
+https://pbs.twimg.com/media/Gh37trFbUAAQsGI?format=jpg&name=large
+https://pbs.twimg.com/media/Ghb8eo2acAI0iog.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Ghb8eo2acAI0iog?format=jpg&name=large
+https://pbs.twimg.com/media/Gg_oCgUbQAAjEzy?format=jpg&name=large
+https://pbs.twimg.com/media/Gg_oCgWaoAAf3i_?format=jpg&name=large
+https://pbs.twimg.com/media/GdbIIjFasAAFi72?format=jpg&name=large
+https://pbs.twimg.com/media/Gcw42lmbcAEUYmM?format=jpg&name=large
+https://pbs.twimg.com/media/GcXXSxfacAAv2iR?format=png&name=large
+https://pbs.twimg.com/media/FYNDWhJUUAA_V7n?format=png&name=large
+https://pbs.twimg.com/media/GcM7MV-asAAccGv?format=png&name=large
+https://pbs.twimg.com/media/GWziqH5XcAAUbYj?format=jpg&name=large
+https://pbs.twimg.com/media/GcIR_iwasAAaQ_5.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GcIR_iwasAAaQ_5?format=jpg&name=large
+https://pbs.twimg.com/media/Gbukk4dakAAJzSY?format=jpg&name=large
+https://pbs.twimg.com/media/GbaTs9UbAAA3OYL?format=jpg&name=large
+https://pbs.twimg.com/media/GbQFPdtWYAAnKD8?format=jpg&name=large
+https://pbs.twimg.com/media/GaxX-q_aAAE4VvH.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GaxX-q_aAAE4VvH?format=jpg&name=large
+https://pbs.twimg.com/media/Gad8UiLXoAE4rpW.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Gad8UiLXoAE4rpW?format=jpg&name=large
+https://pbs.twimg.com/media/GZdf_NTaIAAxohq?format=jpg&name=large
+https://pbs.twimg.com/media/GZZShRRasAM2MRp?format=jpg&name=large
+https://pbs.twimg.com/media/GZTeIyJasAM6BXN?format=jpg&name=large
+https://pbs.twimg.com/media/FptRjtkaQAAgWXS?format=jpg&name=large
+https://pbs.twimg.com/media/GYvRVV6bQAE3Ymu?format=jpg&name=large
+https://pbs.twimg.com/media/GYsvxG0a4AAakoZ?format=jpg&name=large
+https://pbs.twimg.com/media/GYW04MaaMAExKlW.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GYW04MaaMAExKlW?format=jpg&name=large
+https://pbs.twimg.com/media/GVRz5O-aUAE2OwJ?format=jpg&name=large
+https://pbs.twimg.com/media/GUKNYF1aYAAjA7p?format=jpg&name=large
+https://pbs.twimg.com/media/FTsplbIUYAUA7yw?format=png&name=large
+https://pbs.twimg.com/media/GSEMHVeaUAAixWW?format=jpg&name=large
+https://pbs.twimg.com/ext_tw_video_thumb/1808899439572234244/pu/img/zxA_lW-8bXpgLKLZ.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GRmQi-ObMAMobma?format=jpg&name=large
+https://pbs.twimg.com/media/GRaJxs8bAAAnSfU?format=jpg&name=large
+https://pbs.twimg.com/media/GRMAxzAboAEHLJT?format=jpg&name=large
+https://pbs.twimg.com/media/GRIzaiFawAAKw1G?format=jpg&name=large
+https://pbs.twimg.com/media/GIZ9jUlaMAAOCNq?format=jpg&name=large
+https://pbs.twimg.com/media/FlkxcQPaMAAFrbk?format=png&name=large
+https://pbs.twimg.com/media/GQ3ZkmTbAAAhHwC?format=jpg&name=large
+https://pbs.twimg.com/media/GQnVxXOakAQNA4s.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GQnVxXOakAQNA4s?format=jpg&name=large
+https://pbs.twimg.com/media/GQip1x9akAAOEfd?format=jpg&name=large
+https://pbs.twimg.com/media/GQDH5TJaQAAuhip?format=jpg&name=large
+https://pbs.twimg.com/media/GPe2V11bwAA8OJy?format=jpg&name=large
+https://pbs.twimg.com/media/GPPF6vLa8AAAkev.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GPPF6vLa8AAAkev?format=jpg&name=large
+https://pbs.twimg.com/media/GPPF6vLaoAEwlcw.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GPPF6vLaoAEwlcw?format=jpg&name=large
+https://pbs.twimg.com/media/GOMzwQJaUAEfzRw?format=jpg&name=large
+https://pbs.twimg.com/media/GNujFMbaAAEveJi?format=jpg&name=large
+https://pbs.twimg.com/media/GNopUELaQAM31_I?format=jpg&name=large
+https://pbs.twimg.com/media/GNk5kL3aEAA6TVW.png?format=jpg&name=large
+https://pbs.twimg.com/media/GNk5kL3aEAA6TVW?format=png&name=large
+https://pbs.twimg.com/media/GNkETIpbAAALdVX.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GNkETIpbAAALdVX?format=jpg&name=large
+https://pbs.twimg.com/media/F6KtcIibEAAsLOM?format=jpg&name=large
+https://pbs.twimg.com/media/GLibHtfbQAA2GZd?format=jpg&name=large
+https://pbs.twimg.com/media/GLdPsLGboAAMMdE?format=jpg&name=large
+https://pbs.twimg.com/media/GLBe5hzaYAAntL9?format=jpg&name=large
+https://pbs.twimg.com/media/GK-yUDqbsAA1daN?format=jpg&name=large
+https://pbs.twimg.com/media/GKgkUNlawAAwzrD.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GKgkUNlawAAwzrD?format=jpg&name=large
+https://pbs.twimg.com/media/GJx8F0OakAMSvtG.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GJx8F0OakAMSvtG?format=jpg&name=large
+https://pbs.twimg.com/media/GJXrT-tbUAAe2zi.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GJXrT-tbUAAe2zi?format=jpg&name=large
+https://pbs.twimg.com/media/GI9o7kNbYAA-rXy.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GI9o7kNbYAA-rXy?format=jpg&name=large
+https://pbs.twimg.com/media/GIE2W2WaoAAlFxh.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GIE2W2WaoAAlFxh?format=jpg&name=large
+https://pbs.twimg.com/media/GHs0KwKaYAALobO.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GHs0KwKaYAALobO?format=jpg&name=large
+https://pbs.twimg.com/media/GHi5v_wa0AAUtvN.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GHi5v_wa0AAUtvN?format=jpg&name=large
+https://pbs.twimg.com/media/GHWjTBPbwAEBT0S?format=jpg&name=large
+https://pbs.twimg.com/media/GFqbRFtbEAA5uZO.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GFqbRFtbEAA5uZO?format=jpg&name=large
+https://pbs.twimg.com/media/GFY2pnoa0AAbKBl.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GFY2pnoa0AAbKBl?format=jpg&name=large
+https://pbs.twimg.com/media/GEMK5Z1aEAElUXY?format=jpg&name=large
+https://pbs.twimg.com/media/GBpdSXpbsAARMza.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/GBpdSXpbsAARMza?format=jpg&name=large
+https://pbs.twimg.com/media/GAPTqwjaAAAvxxo?format=jpg&name=large
+https://pbs.twimg.com/media/F_gZSJoa0AA2n12?format=jpg&name=large
+https://pbs.twimg.com/media/F-_CSMaaMAAa7ni.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F-_CSMaaMAAa7ni?format=jpg&name=large
+https://pbs.twimg.com/media/F-6Z8IBbEAA9Tn3.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F-6Z8IBbEAA9Tn3?format=jpg&name=large
+https://pbs.twimg.com/media/F-02PiuawAA_UMe.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F-02PiuawAA_UMe?format=jpg&name=large
+https://pbs.twimg.com/media/F-SMHtpbwAAG1iI.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F-SMHtpbwAAG1iI?format=jpg&name=large
+https://pbs.twimg.com/media/F-BO4kwa4AArPZt.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F-BO4kwa4AArPZt?format=jpg&name=large
+https://pbs.twimg.com/media/F9H_midbsAAnJ6n?format=jpg&name=large
+https://pbs.twimg.com/media/F8_pbcdXUAApXCR?format=jpg&name=large
+https://pbs.twimg.com/media/F8_dJoWb0AAPn1n.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F8_dJoWb0AAPn1n?format=jpg&name=large
+https://pbs.twimg.com/media/F7nMfzLasAA1km8?format=jpg&name=large
+https://pbs.twimg.com/media/F7c25M_bQAA0RMv.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F7c25M_bQAA0RMv?format=jpg&name=large
+https://pbs.twimg.com/media/F7NvJL0aIAATBh0.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F7NvJL0aIAATBh0?format=jpg&name=large
+https://pbs.twimg.com/media/F6-Q4_sbwAIROpc.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F6-Q4_sbwAIROpc?format=jpg&name=large
+https://pbs.twimg.com/media/F64whhEaEAADSqA.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F64whhEaEAADSqA?format=jpg&name=large
+https://pbs.twimg.com/media/F58XhoCaoAAx_LW.png?format=jpg&name=large
+https://pbs.twimg.com/media/F58XhoCaoAAx_LW?format=png&name=large
+https://pbs.twimg.com/media/F4_MQNxaYAAs3S_?format=jpg&name=large
+https://pbs.twimg.com/media/F09ZjjAaAAA1PCh.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/F09ZjjAaAAA1PCh?format=jpg&name=large
+https://pbs.twimg.com/media/FyJPG_paMAMluqr.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FyJPG_paMAMluqr?format=jpg&name=large
+https://pbs.twimg.com/media/Fxj3XmJaAAEnVuo.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Fxj3XmJaAAEnVuo?format=jpg&name=large
+https://pbs.twimg.com/media/FxN3Kh_X0AAcLTd.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FxN3Kh_X0AAcLTd?format=jpg&name=large
+https://pbs.twimg.com/media/FxEYNGZaIAA61e1.png?format=jpg&name=large
+https://pbs.twimg.com/media/FxEYNGZaIAA61e1?format=png&name=large
+https://pbs.twimg.com/media/Fw_ZLRrakAAi_Uq.png?format=jpg&name=large
+https://pbs.twimg.com/media/Fw_ZLRrakAAi_Uq?format=png&name=large
+https://pbs.twimg.com/media/Fw0_d61aIAAy0_6?format=png&name=large
+https://pbs.twimg.com/media/Fwn61oAXoAcDCY8.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Fwn61oAXoAcDCY8?format=jpg&name=large
+https://pbs.twimg.com/media/FwRGEhEaMAIQm0a?format=jpg&name=large
+https://pbs.twimg.com/media/Fv8R64iaEAETzsl.png?format=jpg&name=large
+https://pbs.twimg.com/media/Fv8R64iaEAETzsl?format=png&name=large
+https://pbs.twimg.com/media/Fv3HDfJaMAAHVCl?format=jpg&name=large
+https://pbs.twimg.com/media/Fvx_M-iagAE_tWH?format=jpg&name=large
+https://pbs.twimg.com/media/FvqCRpYaMAA5hpa?format=jpg&name=large
+https://pbs.twimg.com/media/Fvi9qJtaEAImurJ.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Fvi9qJtaEAImurJ?format=jpg&name=large
+https://pbs.twimg.com/media/FviXWtRaQAEtWPY?format=jpg&name=large
+https://pbs.twimg.com/media/FvURVhzaAAAJ9mn.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FvURVhzaAAAJ9mn?format=jpg&name=large
+https://pbs.twimg.com/media/FvJE1vtacAAP1Z-.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FvJE1vtacAAP1Z-?format=jpg&name=large
+https://pbs.twimg.com/media/FvEUBiQaAAA_EvM.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FvEUBiQaAAA_EvM?format=jpg&name=large
+https://pbs.twimg.com/media/FuqoZaKaMAQUpHh?format=jpg&name=large
+https://pbs.twimg.com/media/FufzJa4agAEdJGZ?format=png&name=large
+https://pbs.twimg.com/media/FsaTd6FaQAAn4Ou?format=png&name=large
+https://pbs.twimg.com/media/FsAGQQmagAA9O0Y.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FsAGQQmagAA9O0Y?format=jpg&name=large
+https://pbs.twimg.com/media/Frb_OV8aUAEGuq7.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Frb_OV8aUAEGuq7?format=jpg&name=large
+https://pbs.twimg.com/media/FrMxL5CaAAAqf-h?format=jpg&name=large
+https://pbs.twimg.com/media/FrIGSXuaAAMVp6h?format=jpg&name=large
+https://pbs.twimg.com/media/Fqozm2SaMAoPMfX?format=jpg&name=large
+https://pbs.twimg.com/media/FqjkE8caYAAm5bT?format=jpg&name=large
+https://pbs.twimg.com/media/FqO453EaQAAbtpe.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FqO453EaQAAbtpe?format=jpg&name=large
+https://pbs.twimg.com/media/Fpm1temacAE5PbK.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Fpm1temacAE5PbK?format=jpg&name=large
+https://pbs.twimg.com/media/FpiCL3JaEAAs0_m?format=jpg&name=large
+https://pbs.twimg.com/media/FpMGXQOacAUmgrC?format=jpg&name=large
+https://pbs.twimg.com/media/FpGs3QHaQAELR16.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FpGs3QHaQAELR16?format=jpg&name=large
+https://pbs.twimg.com/media/Fo0sQZKaIAA9buo.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Fo0sQZKaIAA9buo?format=jpg&name=large
+https://pbs.twimg.com/media/FospJVZXwAAN5Vm.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FospJVZXwAAN5Vm?format=jpg&name=large
+https://pbs.twimg.com/media/FodTnISakAA9Ary?format=jpg&name=large
+https://pbs.twimg.com/media/FoYRRQMaAAAnmRV?format=jpg&name=large
+https://pbs.twimg.com/media/Fn-1JSVaEAEtKkY?format=jpg&name=large
+https://pbs.twimg.com/media/Fn2luSFacAUrqQp?format=jpg&name=large
+https://pbs.twimg.com/media/FnrUX8FaQAEJLKf?format=jpg&name=large
+https://pbs.twimg.com/media/FnfvQbTaYAIDtX4.png?format=jpg&name=large
+https://pbs.twimg.com/media/FnfvQbTaYAIDtX4?format=png&name=large
+https://pbs.twimg.com/media/FnLRl8VacAIQ0v5?format=png&name=large
+https://pbs.twimg.com/media/FnLNT88acAE1xeh?format=jpg&name=large
+https://pbs.twimg.com/media/FmxqwVNakAASs6O?format=png&name=large
+https://pbs.twimg.com/media/FmscFFAaEAEi9u0.png?format=jpg&name=large
+https://pbs.twimg.com/media/FmscFFAaEAEi9u0?format=png&name=large
+https://pbs.twimg.com/media/FmXyJPZaMAU6WCB?format=png&name=large
+https://pbs.twimg.com/media/FmUCogzaAAU3N90?format=jpg&name=large
+https://pbs.twimg.com/media/FmR7ZGuaAAIlWtq?format=jpg&name=large
+https://pbs.twimg.com/media/FmNRFzTaYAEJ5LW?format=png&name=large
+https://pbs.twimg.com/media/FmEQkuVaMAIs_Ee?format=jpg&name=large
+https://pbs.twimg.com/media/FlznB5sakAAtfg4.png?format=jpg&name=large
+https://pbs.twimg.com/media/FlznB5sakAAtfg4?format=png&name=large
+https://pbs.twimg.com/media/FlvPxxBaUAEPxNl.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FlvPxxBaUAEPxNl?format=jpg&name=large
+https://pbs.twimg.com/media/FlugWnBaMAIK07m?format=png&name=large
+https://pbs.twimg.com/media/FlpyZmraEAAzVoY?format=png&name=large
+https://pbs.twimg.com/media/FlelQWQXEAI06pN?format=jpg&name=large
+https://pbs.twimg.com/media/FlaoH4KX0AQQLFp?format=jpg&name=large
+https://pbs.twimg.com/media/FlUJ0-fXgAAQAIt?format=jpg&name=large
+https://pbs.twimg.com/media/FlPVzx9X0AISxRj?format=jpg&name=large
+https://pbs.twimg.com/media/FlJwVcJXoAMvWHW.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FlJwVcJXoAMvWHW?format=jpg&name=large
+https://pbs.twimg.com/media/Fk3MZrhWAAY23OS?format=jpg&name=large
+https://pbs.twimg.com/media/FktJadHUYAAGMwZ?format=jpg&name=large
+https://pbs.twimg.com/media/FkrVgBoUEAI3APq.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FkrVgBoUEAI3APq?format=jpg&name=large
+https://pbs.twimg.com/media/FkmWjyYUAAAM-sq?format=jpg&name=large
+https://pbs.twimg.com/media/FkhbM8jUUAErZNQ?format=jpg&name=large
+https://pbs.twimg.com/media/FkcF5qXUEAMHtdq.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FkcF5qXUEAMHtdq?format=jpg&name=large
+https://pbs.twimg.com/media/FkNB9yJVQAAWuvm?format=jpg&name=large
+https://pbs.twimg.com/media/FkIx7zTVEAAv4bx.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FkIx7zTVEAAv4bx?format=jpg&name=large
+https://pbs.twimg.com/media/FjOolj3UYAcW6Nf.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FjOolj3UYAcW6Nf?format=jpg&name=large
+https://pbs.twimg.com/media/FhoeeQYVQAABUU1?format=png&name=large
+https://pbs.twimg.com/media/FhobFMeUYAI8L6s.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FhobFMeUYAI8L6s?format=jpg&name=large
+https://pbs.twimg.com/media/FhZHLf7UUAAq5H9.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FhZHLf7UUAAq5H9?format=jpg&name=large
+https://pbs.twimg.com/media/FhI2X2EVIAA_jOG?format=jpg&name=large
+https://pbs.twimg.com/media/FgqKIuRVsAEU_s1.png?format=jpg&name=large
+https://pbs.twimg.com/media/FgqKIuRVsAEU_s1?format=png&name=large
+https://pbs.twimg.com/media/Fgk54ckUYAAn_RE?format=jpg&name=large
+https://pbs.twimg.com/media/FgffPaLVEAAJQ83.png?format=jpg&name=large
+https://pbs.twimg.com/media/FgffPaLVEAAJQ83?format=png&name=large
+https://pbs.twimg.com/media/FgamDBFVsAACzLj?format=jpg&name=large
+https://pbs.twimg.com/media/FgWlzPtVQAEVki-?format=jpg&name=large
+https://pbs.twimg.com/media/FgPrL-yUcAEY7Iz.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FgPrL-yUcAEY7Iz?format=jpg&name=large
+https://pbs.twimg.com/media/FgLfzOPVUAA1lLL.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FgLfzOPVUAA1lLL?format=jpg&name=large
+https://pbs.twimg.com/media/FgDTbCgVUAAwU8p?format=jpg&name=large
+https://pbs.twimg.com/media/FgA-BSFVUAAYqjI.png?format=jpg&name=large
+https://pbs.twimg.com/media/Ff7kzPSVUAAjdoE?format=jpg&name=large
+https://pbs.twimg.com/media/Ff2vgdAUcAAZMd3?format=jpg&name=large
+https://pbs.twimg.com/media/Ff2WtJ5VIAA_-9A?format=jpg&name=large
+https://pbs.twimg.com/media/FfnboTxVQAI_e0F.png?format=jpg&name=large
+https://pbs.twimg.com/media/FfnboTxVQAI_e0F?format=png&name=large
+https://pbs.twimg.com/media/Ffm1VO-UAAUSDPM?format=jpg&name=large
+https://pbs.twimg.com/media/FfiQZLJVUAAzvQb?format=jpg&name=large
+https://pbs.twimg.com/media/FfchYFpUABcFVMm?format=jpg&name=large
+https://pbs.twimg.com/media/FfX_dFEVsAILX7O?format=jpg&name=large
+https://pbs.twimg.com/media/FfO0qoOXgAEK3xO?format=jpg&name=large
+https://pbs.twimg.com/media/FfIkThbWAAAOtfK.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FfIkThbWAAAOtfK?format=jpg&name=large
+https://pbs.twimg.com/media/FfC35n8VsAgo4JJ?format=jpg&name=large
+https://pbs.twimg.com/media/Fe9ln57VsAAwrsY.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Fe9ln57VsAAwrsY?format=jpg&name=large
+https://pbs.twimg.com/media/Fe5Ae79VEAAO3uZ?format=png&name=large
+https://pbs.twimg.com/media/Fey89yVVQAEW327?format=jpg&name=large
+https://pbs.twimg.com/media/FejY-K3VUAMr13F?format=jpg&name=large
+https://pbs.twimg.com/media/FeeyVwJUYAQaYmF?format=png&name=large
+https://pbs.twimg.com/media/FeZm-aaUYAQgIb9?format=png&name=large
+https://pbs.twimg.com/media/FePSixlUAAUsG6K?format=jpg&name=large
+https://pbs.twimg.com/media/FeKJ_C7UUAEWH1v?format=jpg&name=large
+https://pbs.twimg.com/media/FeAsFyfUYAALEXi.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FeAsFyfUYAALEXi?format=jpg&name=large
+https://pbs.twimg.com/media/Fd7K0B-VsAAAwdM?format=jpg&name=large
+https://pbs.twimg.com/media/Fd1fkpOUAAI6Qmn?format=jpg&name=large
+https://pbs.twimg.com/media/FdwY_mXVUAQjMKK?format=png&name=large
+https://pbs.twimg.com/media/Fdrgw1DUcAQ88qm?format=png&name=large
+https://pbs.twimg.com/media/FdB2vsKaAAIklpl.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FdB2vsKaAAIklpl?format=jpg&name=large
+https://pbs.twimg.com/media/FcfED_IaIAIUdXT.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FcfED_IaIAIUdXT?format=jpg&name=large
+https://pbs.twimg.com/media/FcK0XNTaUAAcsD7?format=png&name=large
+https://pbs.twimg.com/media/FcJiYIhaIAImMIj?format=png&name=large
+https://pbs.twimg.com/media/FcENHixaQAAGXZ9?format=jpg&name=large
+https://pbs.twimg.com/ext_tw_video_thumb/1566086892248088578/pu/img/IM76hdMAHKc4is4v.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FbqGwmxUYAELEAy.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FbqGwmxUYAELEAy?format=jpg&name=large
+https://pbs.twimg.com/media/FblCjlAUcAE71gu?format=jpg&name=large
+https://pbs.twimg.com/media/FbgrGB5VUAAYhAN?format=png&name=large
+https://pbs.twimg.com/media/Fba5ZgDUUAAeLm0?format=jpg&name=large
+https://pbs.twimg.com/media/Fbaq6YWVEAgysSN?format=jpg&name=large
+https://pbs.twimg.com/media/FbWZlJgaAAAJY3u?format=png&name=large
+https://pbs.twimg.com/media/FbVwHJfUYAESNs8?format=png&name=large
+https://pbs.twimg.com/media/FbHg6RYUIAE4V3O?format=jpg&name=large
+https://pbs.twimg.com/media/FbG4XBHUYAIrVak?format=jpg&name=large
+https://pbs.twimg.com/ext_tw_video_thumb/1562394679060185088/pu/img/qXBXtwkf0f0Wq8qF.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/Fa8MjmmUUAcVvKO?format=jpg&name=large
+https://pbs.twimg.com/media/Fa4g9FMVsAE0j5R?format=jpg&name=large
+https://pbs.twimg.com/media/Fa3dJ3ZUYAAkl1m?format=jpg&name=large
+https://pbs.twimg.com/media/FayAhB0UUAEZ2Gl?format=jpg&name=large
+https://pbs.twimg.com/media/FauT8L2UEAA3q7s.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FauT8L2UEAA3q7s?format=jpg&name=large
+https://pbs.twimg.com/media/Fanwlz6UEAU5WOR?format=jpg&name=large
+https://pbs.twimg.com/media/FadMmj-UYAANZV9?format=png&name=large
+https://pbs.twimg.com/media/FaYD88pVUAAeYqf?format=jpg&name=large
+https://pbs.twimg.com/media/FaSXk7tUIAEcnKL?format=jpg&name=large
+https://pbs.twimg.com/media/FaOp394UsAE584-?format=jpg&name=large
+https://pbs.twimg.com/media/FaN7nqwVUAEp7kT?format=jpg&name=large
+https://pbs.twimg.com/media/FZ5o0H8UcAEN2X5?format=png&name=large
+https://pbs.twimg.com/media/FZ5MG8nUIAEsXod?format=jpg&name=large
+https://pbs.twimg.com/media/FZ0HwowUYAEM-jT?format=png&name=large
+https://pbs.twimg.com/media/FZu1iTAVsAARL6v?format=png&name=large
+https://pbs.twimg.com/media/FZpwxYoUIAs6lXC?format=jpg&name=large
+https://pbs.twimg.com/media/FZkr5KJXEAEc-0R?format=jpg&name=large
+https://pbs.twimg.com/media/FZfBblRWQAE3ZJW?format=jpg&name=large
+https://pbs.twimg.com/media/FZaUsZcWYAAW2Dr?format=jpg&name=large
+https://pbs.twimg.com/media/FZP1ioAUIAAHa--?format=jpg&name=large
+https://pbs.twimg.com/media/FZLCCq1VsAA5vuK.png?format=jpg&name=large
+https://pbs.twimg.com/media/FZLCCq1VsAA5vuK?format=png&name=large
+https://pbs.twimg.com/media/FZFhc8MVsAUUeNU?format=jpg&name=large
+https://pbs.twimg.com/ext_tw_video_thumb/1300152902166609920/pu/img/bPVco-CE1Oo_kwfx.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FY2bkDxVEAEJYn-.png?format=jpg&name=large
+https://pbs.twimg.com/media/FY2bkDxVEAEJYn-?format=png&name=large
+https://pbs.twimg.com/media/FY2WOndUEAAPEVw?format=jpg&name=large
+https://pbs.twimg.com/media/FYxRr9UUUAESntK?format=png&name=large
+https://pbs.twimg.com/media/FYsSQXMagAA1rcI?format=jpg&name=large
+https://pbs.twimg.com/media/FYmvDJ8VEAUtj-y?format=jpg&name=large
+https://pbs.twimg.com/media/FYh3CrEUcAAqHBy?format=png&name=large
+https://pbs.twimg.com/media/FYhtfj1UsAE_jBQ.png?format=jpg&name=large
+https://pbs.twimg.com/media/FYhtfj1UsAE_jBQ?format=png&name=large
+https://pbs.twimg.com/media/FYSnWSPVUAEf91q?format=png&name=large
+https://pbs.twimg.com/media/FYNgmrMUYAIe8qo?format=png&name=large
+https://pbs.twimg.com/media/FYH9dH9UsAEDXCx?format=jpg&name=large
+https://pbs.twimg.com/media/FYC0savVUAAsbtP?format=jpg&name=large
+https://pbs.twimg.com/media/FXuTCCJUYAAb2mi?format=jpg&name=large
+https://pbs.twimg.com/media/FXpAFyPVsAAdJ0e?format=png&name=large
+https://pbs.twimg.com/media/FXer3tGUcAER1vR.png?format=jpg&name=large
+https://pbs.twimg.com/media/FXer3tGUcAER1vR?format=png&name=large
+https://pbs.twimg.com/media/FXZgd83VQAErXWi.png?format=jpg&name=large
+https://pbs.twimg.com/media/FXZgd83VQAErXWi?format=png&name=large
+https://pbs.twimg.com/media/FXK18ZxVUAATX_K?format=png&name=large
+https://pbs.twimg.com/media/FW_y_NNVQAAKx1X?format=png&name=large
+https://pbs.twimg.com/media/FWrQoiSUIAAYKw8.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FWrQoiSUIAAYKw8?format=jpg&name=large
+https://pbs.twimg.com/media/FWnUt8FVsAECU0W?format=jpg&name=large
+https://pbs.twimg.com/media/FWgsamlVsAAgImf.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FWgsamlVsAAgImf?format=jpg&name=large
+https://pbs.twimg.com/media/FWgo2WdUEAIvlY1?format=jpg&name=large
+https://pbs.twimg.com/media/FWbKsMkWAAEum6E?format=png&name=large
+https://pbs.twimg.com/media/FWWlyNRVEAAfI1F?format=png&name=large
+https://pbs.twimg.com/media/FWRX81xUcAAs45R.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FWRX81xUcAAs45R?format=jpg&name=large
+https://pbs.twimg.com/media/FWH7TqLWYAANHGt.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FWH7TqLWYAANHGt?format=jpg&name=large
+https://pbs.twimg.com/media/FWCCtXCUEAEnS3K?format=jpg&name=large
+https://pbs.twimg.com/media/FV9M5eGVUAAq_Qz.png?format=jpg&name=large
+https://pbs.twimg.com/media/FV9M5eGVUAAq_Qz?format=png&name=large
+https://pbs.twimg.com/media/FV83dwYUYAAfA7p?format=png&name=large
+https://pbs.twimg.com/media/FV81UZrVsAAGHfc?format=jpg&name=large
+https://pbs.twimg.com/media/FV3vBk_VUAYGCzj?format=jpg&name=large
+https://pbs.twimg.com/media/FVyi815UcAALMfR?format=png&name=large
+https://pbs.twimg.com/media/FVteUZbUUAATlMS?format=png&name=large
+https://pbs.twimg.com/media/FVpsRFQUAAI5Fmh?format=jpg&name=large
+https://pbs.twimg.com/media/FVd9SGbUcAEzCU1?format=png&name=large
+https://pbs.twimg.com/media/FVYcv5LUUAIX5yU?format=jpg&name=large
+https://pbs.twimg.com/media/FVTiPwbUAAA4Sr6?format=jpg&name=large
+https://pbs.twimg.com/media/FVOqkGjVUAAfFde?format=png&name=large
+https://pbs.twimg.com/media/FVOg2QnUYAA-RQg?format=png&name=large
+https://pbs.twimg.com/media/FVJW8wZUsAEFjsN.png?format=jpg&name=large
+https://pbs.twimg.com/media/FVJW8wZUsAEFjsN?format=png&name=large
+https://pbs.twimg.com/media/FU6JS6yUsAAToMG.png?format=jpg&name=large
+https://pbs.twimg.com/media/FU6JS6yUsAAToMG?format=png&name=large
+https://pbs.twimg.com/media/FU0ZsXnUcAAwx1y.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FU0ZsXnUcAAwx1y?format=jpg&name=large
+https://pbs.twimg.com/media/FUvsAKMUEAEO9Ig?format=png&name=large
+https://pbs.twimg.com/media/FUqExjhUYAAogn0?format=jpg&name=large
+https://pbs.twimg.com/media/FUlKnuZVsAE1As0?format=jpg&name=large
+https://pbs.twimg.com/media/FUbB5JOUAAIEL7E?format=jpg&name=large
+https://pbs.twimg.com/media/FUV1sW5VEAAwT1U.png?format=jpg&name=large
+https://pbs.twimg.com/media/FUV1sW5VEAAwT1U?format=png&name=large
+https://pbs.twimg.com/media/FURGWoOUcAAPYpk.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FURGWoOUcAAPYpk?format=jpg&name=large
+https://pbs.twimg.com/media/FUQXuKGUEAUIjCk?format=jpg&name=large
+https://pbs.twimg.com/media/FULegT_UYAAX6dS?format=jpg&name=large
+https://pbs.twimg.com/media/FUGOE-1UAAEN2ds?format=jpg&name=large
+https://pbs.twimg.com/media/FT8COEfWIAAvweT?format=jpg&name=large
+https://pbs.twimg.com/media/FT3Z6mhXwAcQtMD.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FT3Z6mhXwAcQtMD?format=jpg&name=large
+https://pbs.twimg.com/media/FTxkH3nUcAA03Lh.jpg?format=jpg&name=large
+https://pbs.twimg.com/media/FTxkH3nUcAA03Lh?format=jpg&name=large
+https://pbs.twimg.com/media/FToSM1lWAAYkJc_.png?format=jpg&name=large
+https://pbs.twimg.com/media/FToSM1lWAAYkJc_?format=png&name=large
+https://pbs.twimg.com/media/FTsplbIUYAUA7yw.png
+https://pbs.twimg.com/media/FTxkH3nUcAA03Lh.jpg
+https://pbs.twimg.com/media/FUGOE-1UAAEN2ds.jpg
+https://pbs.twimg.com/media/FUQXuKGUEAUIjCk.jpg
+https://pbs.twimg.com/media/FUV1sW5VEAAwT1U.png
+https://pbs.twimg.com/ext_tw_video_thumb/1501577435111833601/pu/img/UiMpdQQVL5Gqt6hi.jpg
+https://pbs.twimg.com/media/FYNDWhJUUAA_V7n.png
+https://pbs.twimg.com/media/FbC2MvOUcAEEZJr.png
+https://pbs.twimg.com/ext_tw_video_thumb/1116133063518351360/pu/img/mnAZDkQjgRM37o3D.jpg
+https://pbs.twimg.com/media/FfiJGoNUAAAi3O8.jpg
+https://pbs.twimg.com/media/Fhs9JdQUoAAVRnE.jpg
+https://pbs.twimg.com/media/FlkxcQPaMAAFrbk.png
+https://pbs.twimg.com/media/FptRjtkaQAAgWXS.jpg
+https://pbs.twimg.com/amplify_video_thumb/1632232906616897538/img/KvKy-_d39yFfpM1O.jpg
+https://pbs.twimg.com/media/FwwTOt8aAAAxZPC.png
+https://pbs.twimg.com/media/Fx4Pr3FagAE1E_v.png
+https://pbs.twimg.com/ext_tw_video_thumb/1767652773452197888/pu/img/puQPNSzBS_OqMFoE.jpg
+https://pbs.twimg.com/media/GJXrT-tbUAAe2zi.jpg
+https://pbs.twimg.com/media/GOMzCeaaUAEuM3G.jpg
+https://pbs.twimg.com/media/F7NvJL0aIAATBh0.jpg
+https://pbs.twimg.com/media/FToSM1lWAAYkJc_.png
+https://pbs.twimg.com/media/Ffm1VO-UAAUSDPM.jpg
+https://pbs.twimg.com/media/GFY2pnoa0AAbKBl.jpg
+https://pbs.twimg.com/media/Ff2vgdAUcAAZMd3.jpg
+https://pbs.twimg.com/media/GS0BqXbaoAAvFrK.jpg
+https://pbs.twimg.com/media/FgffPaLVEAAJQ83.png
+https://pbs.twimg.com/media/Ffm1VO-UAAUSDPM.jpg
+https://pbs.twimg.com/media/FvEUBiQaAAA_EvM.jpg
+https://pbs.twimg.com/media/Fxj3XmJaAAEnVuo.jpg
+https://pbs.twimg.com/media/Fw_ZLRrakAAi_Uq.png
+https://pbs.twimg.com/media/GJXrT-tbUAAe2zi.jpg
+https://pbs.twimg.com/media/GWziqH5XcAAUbYj.jpg
+https://pbs.twimg.com/media/GZFcY89bYAArPOt.jpg
+https://pbs.twimg.com/media/Fv8R64iaEAETzsl.png
+https://pbs.twimg.com/media/FnfvQbTaYAIDtX4.png
+https://pbs.twimg.com/media/FWRX81xUcAAs45R.jpg
+https://pbs.twimg.com/media/GcSATxnbkAEzYJE.jpg
+https://pbs.twimg.com/media/FlvPxxBaUAEPxNl.jpg
+https://pbs.twimg.com/media/GFqbRFtbEAA5uZO.jpg
+https://pbs.twimg.com/media/GkLQ8rIbUAM8_j0.jpg
+https://pbs.twimg.com/media/FWRX81xUcAAs45R.jpg
+https://pbs.twimg.com/media/F-_CSMaaMAAa7ni.jpg
+https://pbs.twimg.com/media/Gm8TeoxbYAMKed7.jpg
+https://pbs.twimg.com/media/Gm-9zrMbYAAe5FV.jpg
+https://pbs.twimg.com/media/GpHy2tWb0AA-kqj.jpg
+https://pbs.twimg.com/ext_tw_video_thumb/1808899439572234244/pu/img/zxA_lW-8bXpgLKLZ.jpg
+https://pbs.twimg.com/media/G0gVkVVaMAQXLRj.jpg
+https://pbs.twimg.com/media/G3z61U4WAAAAT6i.jpg
+https://pbs.twimg.com/media/FmscFFAaEAEi9u0.png
+https://pbs.twimg.com/media/G5LusB9acAAUFpm.jpg
+https://pbs.twimg.com/media/G5LusB9acAAUFpm.jpg
+https://pbs.twimg.com/media/GFY2pnoa0AAbKBl.jpg
+https://pbs.twimg.com/media/FcfED_IaIAIUdXT.jpg
+https://pbs.twimg.com/media/G6EFoHMbMAAPoJ8.jpg
+https://pbs.twimg.com/media/GJx8F0OakAMSvtG.jpg
