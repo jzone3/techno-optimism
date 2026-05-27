@@ -1,0 +1,248 @@
+{
+  "batch": 14,
+  "total_images": 22,
+  "classifications": [
+    {
+      "index": 286,
+      "filename": "tbd_286_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin__with_Lauren_S.png",
+      "category": "tech_founders",
+      "subcategory": "lifestyle",
+      "interestingness": 4,
+      "visual_type": "candid_photo",
+      "setting": "outdoor_event_night",
+      "is_duplicate_of": null,
+      "notes": "Jeff Bezos with Lauren Sanchez at Coachella, casual festival outfit, text overlay 'jeff bezos coachella fit'"
+    },
+    {
+      "index": 287,
+      "filename": "tbd_287_Marc_Zuckerberg__Founder___CEO_of_Meta.png",
+      "category": "tech_founders",
+      "subcategory": "lifestyle",
+      "interestingness": 5,
+      "visual_type": "fashion_photo",
+      "setting": "fashion_runway",
+      "is_duplicate_of": null,
+      "notes": "Mark Zuckerberg walking a fashion runway in a metallic pink/lilac suit with sunglasses, AI-generated or stylized image"
+    },
+    {
+      "index": 288,
+      "filename": "tbd_288_Elon_Musk__SpaceX___Tesla___OpenAI___Neuralink___Paypal.jpg",
+      "category": "tech_founders",
+      "subcategory": "early_days",
+      "interestingness": 5,
+      "visual_type": "vintage_photo",
+      "setting": "home_interior",
+      "is_duplicate_of": null,
+      "notes": "Young Elon Musk in casual clothes (t-shirt, cutoff jeans, cap) standing in a modest home interior, early/pre-fame era photo"
+    },
+    {
+      "index": 289,
+      "filename": "tbd_289_Yann_LeCun__Chief_AI_Scientist_at_Meta.jpg",
+      "category": "ai_pioneers",
+      "subcategory": "portrait",
+      "interestingness": 3,
+      "visual_type": "formal_photo",
+      "setting": "formal_event",
+      "is_duplicate_of": null,
+      "notes": "Yann LeCun in a tuxedo/bow tie at what appears to be a Nobel Prize or similar formal ceremony"
+    },
+    {
+      "index": 290,
+      "filename": "tbd_290_Bryan_Johnson__founder_of_Kernel___Blueprint___OS_Fund___Bra.jpg",
+      "category": "biohackers",
+      "subcategory": "cyberpunk",
+      "interestingness": 5,
+      "visual_type": "stylized_photo",
+      "setting": "studio_cyberpunk",
+      "is_duplicate_of": null,
+      "notes": "Bryan Johnson in a dramatic cyberpunk-style photoshoot with EEG/brain interface headgear, IV drip bags, chain necklace, intense lighting"
+    },
+    {
+      "index": 291,
+      "filename": "tbd_291_Cyan_Banister__engineer_turned_legendary_angel_investor___in.jpg",
+      "category": "tech_investors",
+      "subcategory": "portrait",
+      "interestingness": 4,
+      "visual_type": "outdoor_portrait",
+      "setting": "almond_blossom_orchard",
+      "is_duplicate_of": null,
+      "notes": "Cyan Banister standing in a blooming almond/cherry blossom orchard, denim jacket, casual style, beautiful natural setting"
+    },
+    {
+      "index": 292,
+      "filename": "tbd_292_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+      "category": "hackers",
+      "subcategory": "portrait",
+      "interestingness": 4,
+      "visual_type": "candid_photo",
+      "setting": "indoor_casual",
+      "is_duplicate_of": null,
+      "notes": "Stephen Watt lounging on a leather couch in tank top and jeans, sunglasses, muscular build, casual intimidating pose"
+    },
+    {
+      "index": 293,
+      "filename": "tbd_293_Ilya_Sutskever__co_founder_and_chief_scientist_of_OpenAI.jpg",
+      "category": "ai_pioneers",
+      "subcategory": "portrait",
+      "interestingness": 4,
+      "visual_type": "portrait_photo",
+      "setting": "indoor_plants",
+      "is_duplicate_of": null,
+      "notes": "Ilya Sutskever seated in an armchair surrounded by lush tropical plants, contemplative pose, dark t-shirt"
+    },
+    {
+      "index": 294,
+      "filename": "tbd_294_Robert_Goddard__creator_of_the_first_liquid_fueled_rocket.jpg",
+      "category": "science_pioneers",
+      "subcategory": "historical",
+      "interestingness": 5,
+      "visual_type": "historical_photo",
+      "setting": "outdoor_workshop",
+      "is_duplicate_of": null,
+      "notes": "Robert Goddard standing next to his liquid-fueled rocket on a frame/stand outside a building, black and white historical photo"
+    },
+    {
+      "index": 295,
+      "filename": "tbd_295_Aubrey_Cottle_aka_Kirtaner__hacker__engineer_and_cofounder_o.jpg",
+      "category": "hackers",
+      "subcategory": "portrait",
+      "interestingness": 3,
+      "visual_type": "candid_photo",
+      "setting": "indoor_tent",
+      "is_duplicate_of": null,
+      "notes": "Aubrey Cottle (Kirtaner) crouching inside a small tent with 'LINE STARTS HERE' sign, playful hacker culture vibe"
+    },
+    {
+      "index": 296,
+      "filename": "tbd_296_Blake_Lemoine__former_Google_engineer_who_was_fired_after_pu.jpg",
+      "category": "tech_whistleblowers",
+      "subcategory": "portrait",
+      "interestingness": 4,
+      "visual_type": "portrait_photo",
+      "setting": "aquarium",
+      "is_duplicate_of": null,
+      "notes": "Blake Lemoine in a Victorian-style outfit with top hat and cane, posing in front of an aquarium with sharks, eccentric style"
+    },
+    {
+      "index": 297,
+      "filename": "tbd_297_Robert_Oppenheimer__physicist__head_of_the_Los_Alamos_Labora.jpg",
+      "category": "science_pioneers",
+      "subcategory": "historical_portrait",
+      "interestingness": 5,
+      "visual_type": "historical_photo",
+      "setting": "outdoor_portrait",
+      "is_duplicate_of": null,
+      "notes": "Iconic black and white close-up of Robert Oppenheimer wearing his signature pork pie hat, smoking a cigarette, intense gaze"
+    },
+    {
+      "index": 298,
+      "filename": "tbd_298_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin__celebrating_a.jpg",
+      "category": "tech_founders",
+      "subcategory": "space",
+      "interestingness": 5,
+      "visual_type": "event_photo",
+      "setting": "outdoor_landing_site",
+      "is_duplicate_of": null,
+      "notes": "Jeff Bezos celebrating after Blue Origin spaceflight, pouring champagne wearing cowboy hat and blue flight suit, crowd behind him"
+    },
+    {
+      "index": 299,
+      "filename": "tbd_299_Sam_Altman__co_founder_of_OpenAI_and_former_president_of_Y_C.png",
+      "category": "ai_pioneers",
+      "subcategory": "portrait",
+      "interestingness": 3,
+      "visual_type": "outdoor_portrait",
+      "setting": "hillside_field",
+      "is_duplicate_of": null,
+      "notes": "Sam Altman kneeling in a grassy hillside field wearing pink t-shirt and jeans, mirrored sunglasses, casual outdoor portrait"
+    },
+    {
+      "index": 300,
+      "filename": "tbd_300_Frank_Herbert__sci_fi_author_of_Dune__on_the_set_of_David_Ly.jpg",
+      "category": "sci_fi_visionaries",
+      "subcategory": "historical",
+      "interestingness": 5,
+      "visual_type": "historical_photo",
+      "setting": "outdoor_garden",
+      "is_duplicate_of": null,
+      "notes": "Frank Herbert (bearded, wearing beret) with a young person in military uniform on the set of David Lynch's Dune film, black and white"
+    },
+    {
+      "index": 301,
+      "filename": "tbd_301_Ralph_Mosher__engineer_and_designer_of_the_Hardiman_exoskele.png",
+      "category": "engineering_pioneers",
+      "subcategory": "robotics",
+      "interestingness": 5,
+      "visual_type": "historical_photo",
+      "setting": "studio_dramatic",
+      "is_duplicate_of": null,
+      "notes": "Ralph Mosher wearing a mechanical exoskeleton arm (Hardiman prototype), dramatic black and white photo with spotlight, glasses and tie"
+    },
+    {
+      "index": 302,
+      "filename": "tbd_302_Claude_Shannon__mathematician__electrical_engineer__and_cryp.png",
+      "category": "science_pioneers",
+      "subcategory": "historical_portrait",
+      "interestingness": 4,
+      "visual_type": "historical_photo",
+      "setting": "indoor_formal",
+      "is_duplicate_of": null,
+      "notes": "Claude Shannon standing in a formal room, tall and thin in a suit, holding what appears to be a cigarette, elegant black and white portrait"
+    },
+    {
+      "index": 303,
+      "filename": "tbd_303_Ray_Kurzweil__engineer_and_futurist__and_Stevie_Wonder_playi.png",
+      "category": "tech_pioneers",
+      "subcategory": "collaboration",
+      "interestingness": 5,
+      "visual_type": "candid_photo",
+      "setting": "studio_music",
+      "is_duplicate_of": null,
+      "notes": "Ray Kurzweil standing behind Stevie Wonder who is playing a Kurzweil synthesizer keyboard, iconic moment of tech meets music"
+    },
+    {
+      "index": 304,
+      "filename": "tbd_304_Aaron_Swartz__software_developer_and_internet_activist.jpg",
+      "category": "internet_activists",
+      "subcategory": "portrait",
+      "interestingness": 4,
+      "visual_type": "portrait_photo",
+      "setting": "library_bookstore",
+      "is_duplicate_of": null,
+      "notes": "Aaron Swartz sitting cross-legged among tall bookshelves in a library or bookstore, wearing black t-shirt, contemplative"
+    },
+    {
+      "index": 305,
+      "filename": "tbd_305_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+      "category": "hackers",
+      "subcategory": "portrait",
+      "interestingness": 3,
+      "visual_type": "selfie",
+      "setting": "indoor_casual",
+      "is_duplicate_of": 292,
+      "notes": "Another photo of Stephen Watt, close-up selfie style, same person as index 292 but different pose/photo"
+    },
+    {
+      "index": 306,
+      "filename": "tbd_306_Steve_Wozniak__co_founder_of_Apple.png",
+      "category": "tech_founders",
+      "subcategory": "portrait",
+      "interestingness": 3,
+      "visual_type": "headshot",
+      "setting": "indoor_casual",
+      "is_duplicate_of": null,
+      "notes": "Steve Wozniak smiling headshot/portrait, casual appearance"
+    },
+    {
+      "index": 307,
+      "filename": "tbd_307_Sergey_Brin_and_Larry_Page__founders_of_Google.jpg",
+      "category": "removed",
+      "subcategory": "copyright_takedown",
+      "interestingness": 1,
+      "visual_type": "placeholder",
+      "setting": "none",
+      "is_duplicate_of": null,
+      "notes": "Image shows 'Media not displayed - This image has been removed in response to a report from the copyright holder.' DMCA takedown placeholder, not usable"
+    }
+  ]
+}
