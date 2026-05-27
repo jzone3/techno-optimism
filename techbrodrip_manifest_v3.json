@@ -1,0 +1,3117 @@
+[
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1992692622390129151",
+    "image_url": "https://pbs.twimg.com/media/G6d3XWyWgAATF7F?format=jpg&name=large",
+    "image_filename": "techbrodrip_001.jpg",
+    "description": "Demis Hassabis (co-founder and CEO of DeepMind)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1990476342304137239",
+    "image_url": "https://pbs.twimg.com/media/G5-Xr2GbMAEECGe?format=jpg&name=large",
+    "image_filename": "techbrodrip_002.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1989068359695233464",
+    "image_url": "https://pbs.twimg.com/media/G5qXCUFaEAA0g3S?format=jpg&name=large",
+    "image_filename": "techbrodrip_003.jpg",
+    "description": "Larry Ellison (co-founder of Oracle)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1988752271690330441",
+    "image_url": "https://pbs.twimg.com/media/G5l3VUfacAU_J-c?format=jpg&name=large",
+    "image_filename": "techbrodrip_004.jpg",
+    "description": "Alexander Grothendieck (mathematician)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1986912515704619202",
+    "image_url": "https://pbs.twimg.com/media/FbC2MvOUcAEEZJr?format=png&name=large",
+    "image_filename": "techbrodrip_005.jpg",
+    "description": "Watson and Crick (discoverers of the double helix)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1986525444255195399",
+    "image_url": "https://pbs.twimg.com/media/G5GNOTQaYAAzNF_?format=jpg&name=large",
+    "image_filename": "techbrodrip_006.jpg",
+    "description": "Ted Kaczynski (mathematician and UC Berkeley professor turned anti-technology primitivist and domestic terrorist)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1985779560152203575",
+    "image_url": "https://pbs.twimg.com/media/G47n_DWbQAAmp_8?format=jpg&name=large",
+    "image_filename": "techbrodrip_007.jpg",
+    "description": "Julian Assange (Wikileaks) facing multiple hacking charges under the alias Mendax in 1995",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1985434912133169397",
+    "image_url": "https://pbs.twimg.com/media/G42uh-CbQAMgk1V.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_008.jpg",
+    "description": "Palmer Luckey (founder of Anduril + Oculus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1985434912133169397",
+    "image_url": "https://pbs.twimg.com/media/G42uh-CbQAMgk1V?format=jpg&name=large",
+    "image_filename": "techbrodrip_009.jpg",
+    "description": "Palmer Luckey (founder of Anduril + Oculus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1985421781747056811",
+    "image_url": "https://pbs.twimg.com/media/G42icHJaQAAm3mc.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_010.png",
+    "description": "Mira Murati (founder and CEO of Thinking Machines Lab + former CTO of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1985421781747056811",
+    "image_url": "https://pbs.twimg.com/media/G42icHJaQAAm3mc?format=png&name=large",
+    "image_filename": "techbrodrip_011.jpg",
+    "description": "Mira Murati (founder and CEO of Thinking Machines Lab + former CTO of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1981418328196600144",
+    "image_url": "https://pbs.twimg.com/media/G39pNZHWQAAiwIM?format=jpg&name=large",
+    "image_filename": "techbrodrip_012.jpg",
+    "description": "Alexandr Wang (co-founder ScaleAI + Chief AI Officer at Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1947379286203371865",
+    "image_url": "https://pbs.twimg.com/media/FfiJGoNUAAAi3O8?format=jpg&name=large",
+    "image_filename": "techbrodrip_013.jpg",
+    "description": "Mark Zuckerberg (co-founder of Facebook/Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1940411463056949740",
+    "image_url": "https://pbs.twimg.com/media/Gu258MoXkAA8Otg?format=jpg&name=large",
+    "image_filename": "techbrodrip_014.jpg",
+    "description": "Alan Turing (mathematician, computer scientist and cryptographer known as one of the fathers of computer science and artificial intelligence)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1918448304880291997",
+    "image_url": "https://pbs.twimg.com/media/Gp-ykOfX0AAdyoF?format=jpg&name=large",
+    "image_filename": "techbrodrip_015.jpg",
+    "description": "Luke Farritor (DOGE member, Vesuvius Challenge winner, former SpaceX intern)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1914578341665128536",
+    "image_url": "https://pbs.twimg.com/media/GpHy2tWb0AA-kqj?format=jpg&name=large",
+    "image_filename": "techbrodrip_016.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1902398599264399617",
+    "image_url": "https://pbs.twimg.com/media/GmatcWUaYAAMgFY?format=jpg&name=large",
+    "image_filename": "techbrodrip_017.jpg",
+    "description": "Cyan Banister (legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1896264999171207197",
+    "image_url": "https://pbs.twimg.com/media/GlDi9yMaUAAkVHn?format=jpg&name=large",
+    "image_filename": "techbrodrip_018.jpg",
+    "description": "Masayoshi Son (founder of SoftBank)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1895574398599614864",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895554242066173952/pu/img/ggxVJtxRpFgSd4WX.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_019.jpg",
+    "description": "Mark Zuckerberg (founder of Meta) https://t.co/9b7EOBtFFl",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1892305636626698675",
+    "image_url": "https://pbs.twimg.com/media/GkLR8HTbUAAMw8l.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_020.jpg",
+    "description": "Aman Sanger (co-founder of Cursor)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1892305636626698675",
+    "image_url": "https://pbs.twimg.com/media/GkLR8HTbUAAMw8l?format=jpg&name=large",
+    "image_filename": "techbrodrip_021.jpg",
+    "description": "Aman Sanger (co-founder of Cursor)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1892083601191182360",
+    "image_url": "https://pbs.twimg.com/media/GkIIAdaWAAApmkt?format=jpg&name=large",
+    "image_filename": "techbrodrip_022.jpg",
+    "description": "Richard Stallman (godfather of the free software movement)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1881936986799591498",
+    "image_url": "https://pbs.twimg.com/media/Gh37trFbUAAQsGI?format=jpg&name=large",
+    "image_filename": "techbrodrip_023.jpg",
+    "description": "Ross Ulbricht (founder of Silk Road)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1879967504904384639",
+    "image_url": "https://pbs.twimg.com/media/Ghb8eo2acAI0iog.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_024.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1879967504904384639",
+    "image_url": "https://pbs.twimg.com/media/Ghb8eo2acAI0iog?format=jpg&name=large",
+    "image_filename": "techbrodrip_025.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1877974702318289108",
+    "image_url": "https://pbs.twimg.com/media/Gg_oCgUbQAAjEzy?format=jpg&name=large",
+    "image_filename": "techbrodrip_026.jpg",
+    "description": "Mark Zuckerberg (founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1877974702318289108",
+    "image_url": "https://pbs.twimg.com/media/Gg_oCgWaoAAf3i_?format=jpg&name=large",
+    "image_filename": "techbrodrip_027.jpg",
+    "description": "Mark Zuckerberg (founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1861895553959018706",
+    "image_url": "https://pbs.twimg.com/media/GdbIIjFasAAFi72?format=jpg&name=large",
+    "image_filename": "techbrodrip_028.jpg",
+    "description": "Palmer Luckey (founder of Oculus, Anduril and ModRetro)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1858923260035166587",
+    "image_url": "https://pbs.twimg.com/media/Gcw42lmbcAEUYmM?format=jpg&name=large",
+    "image_filename": "techbrodrip_029.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1857127292369281362",
+    "image_url": "https://pbs.twimg.com/media/GcXXSxfacAAv2iR?format=png&name=large",
+    "image_filename": "techbrodrip_030.jpg",
+    "description": "Brian Chesky (co-founder and CEO of Airbnb)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1856752428491968831",
+    "image_url": "https://pbs.twimg.com/media/FYNDWhJUUAA_V7n?format=png&name=large",
+    "image_filename": "techbrodrip_031.jpg",
+    "description": "Hal Finney (cryptographer and recipient of the first Bitcoin transaction)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1856392561042305310",
+    "image_url": "https://pbs.twimg.com/media/GcM7MV-asAAccGv?format=png&name=large",
+    "image_filename": "techbrodrip_032.jpg",
+    "description": "Rahul Sonwalkar (founder of Julius AI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1856102359103090959",
+    "image_url": "https://pbs.twimg.com/media/GWziqH5XcAAUbYj?format=jpg&name=large",
+    "image_filename": "techbrodrip_033.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1856065782704419188",
+    "image_url": "https://pbs.twimg.com/media/GcIR_iwasAAaQ_5.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_034.jpg",
+    "description": "Gottfrid Svartholm (co-founder of Pirate Bay)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1856065782704419188",
+    "image_url": "https://pbs.twimg.com/media/GcIR_iwasAAaQ_5?format=jpg&name=large",
+    "image_filename": "techbrodrip_035.jpg",
+    "description": "Gottfrid Svartholm (co-founder of Pirate Bay)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1854256645758755270",
+    "image_url": "https://pbs.twimg.com/media/Gbukk4dakAAJzSY?format=jpg&name=large",
+    "image_filename": "techbrodrip_036.jpg",
+    "description": "Elon Musk (SpaceX + Tesla + X + xAI + Neuralink + OpenAI + Paypal)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1852830701474685363",
+    "image_url": "https://pbs.twimg.com/media/GbaTs9UbAAA3OYL?format=jpg&name=large",
+    "image_filename": "techbrodrip_037.jpg",
+    "description": "David Deutsch (physicist and inventor of constructor theory, known as the father of quantum computing)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1852111125292179665",
+    "image_url": "https://pbs.twimg.com/media/GbQFPdtWYAAnKD8?format=jpg&name=large",
+    "image_filename": "techbrodrip_038.jpg",
+    "description": "Bryan Johnson (founder of Blueprint and Braintree/Venmo)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1849950283822137666",
+    "image_url": "https://pbs.twimg.com/media/GaxX-q_aAAE4VvH.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_039.jpg",
+    "description": "John Carmack (founder of Keen Technologies, former CTO of Oculus VR and co-creator of DOOM)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1849950283822137666",
+    "image_url": "https://pbs.twimg.com/media/GaxX-q_aAAE4VvH?format=jpg&name=large",
+    "image_filename": "techbrodrip_040.jpg",
+    "description": "John Carmack (founder of Keen Technologies, former CTO of Oculus VR and co-creator of DOOM)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1848582868760494130",
+    "image_url": "https://pbs.twimg.com/media/Gad8UiLXoAE4rpW.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_041.jpg",
+    "description": "Mark Zuckerberg (co-founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1848582868760494130",
+    "image_url": "https://pbs.twimg.com/media/Gad8UiLXoAE4rpW?format=jpg&name=large",
+    "image_filename": "techbrodrip_042.jpg",
+    "description": "Mark Zuckerberg (co-founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1844048118800941286",
+    "image_url": "https://pbs.twimg.com/media/GZdf_NTaIAAxohq?format=jpg&name=large",
+    "image_filename": "techbrodrip_043.jpg",
+    "description": "Brian Armstrong (co-founder and CEO of Coinbase) and his wife Angela",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1843752919184851217",
+    "image_url": "https://pbs.twimg.com/media/GZZShRRasAM2MRp?format=jpg&name=large",
+    "image_filename": "techbrodrip_044.jpg",
+    "description": "Terry Sejnowski (neuroscientist and computational biologist known for his pioneering work in AI and neural networks) and Geoffrey Hinton (Nobel Prize winning computer scientist known as the godfather of AI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1843342394147950728",
+    "image_url": "https://pbs.twimg.com/media/GZTeIyJasAM6BXN?format=jpg&name=large",
+    "image_filename": "techbrodrip_045.jpg",
+    "description": "Meredith Whittaker (President of the Signal Foundation)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1842429668080721954",
+    "image_url": "https://pbs.twimg.com/media/FptRjtkaQAAgWXS?format=jpg&name=large",
+    "image_filename": "techbrodrip_046.jpg",
+    "description": "Eliezer Yudkowsky (AI-alignment theorist) + Sam Altman (co-founder of OpenAI) + Grimes",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1840795041037762879",
+    "image_url": "https://pbs.twimg.com/media/GYvRVV6bQAE3Ymu?format=jpg&name=large",
+    "image_filename": "techbrodrip_047.jpg",
+    "description": "Palmer Luckey (founder of Oculus, Anduril and ModRetro)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1840617399986671888",
+    "image_url": "https://pbs.twimg.com/media/GYsvxG0a4AAakoZ?format=jpg&name=large",
+    "image_filename": "techbrodrip_048.jpg",
+    "description": "Palmer Luckey (founder of Oculus, Anduril and ModRetro)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1839074906291712474",
+    "image_url": "https://pbs.twimg.com/media/GYW04MaaMAExKlW.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_049.jpg",
+    "description": "Mark Zuckerberg (co-founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1839074906291712474",
+    "image_url": "https://pbs.twimg.com/media/GYW04MaaMAExKlW?format=jpg&name=large",
+    "image_filename": "techbrodrip_050.jpg",
+    "description": "Mark Zuckerberg (co-founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1825211180463571142",
+    "image_url": "https://pbs.twimg.com/media/GVRz5O-aUAE2OwJ?format=jpg&name=large",
+    "image_filename": "techbrodrip_051.jpg",
+    "description": "Carl Sagan (astronomer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1820172648015626695",
+    "image_url": "https://pbs.twimg.com/media/GUKNYF1aYAAjA7p?format=jpg&name=large",
+    "image_filename": "techbrodrip_052.jpg",
+    "description": "Mark Zuckerberg (co-founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1816604925767635255",
+    "image_url": "https://pbs.twimg.com/media/FTsplbIUYAUA7yw?format=png&name=large",
+    "image_filename": "techbrodrip_053.jpg",
+    "description": "David Sacks and Snoop Dog at Sacks' Marie Antoinette themed birthday party (2012)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1810741849054924911",
+    "image_url": "https://pbs.twimg.com/media/GSEMHVeaUAAixWW?format=jpg&name=large",
+    "image_filename": "techbrodrip_054.jpg",
+    "description": "Steve Jobs (co-founder of Apple and NeXT)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1808915450937651313",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808899439572234244/pu/img/zxA_lW-8bXpgLKLZ.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_055.jpg",
+    "description": "Mark Zuckerberg (co-founder and CEO of Meta) https://t.co/RnIz4Et2hs",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1808635659206414546",
+    "image_url": "https://pbs.twimg.com/media/GRmQi-ObMAMobma?format=jpg&name=large",
+    "image_filename": "techbrodrip_056.jpg",
+    "description": "Wernher von Braun (chief architect of the Apollo Saturn V rocket)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1807783791001579567",
+    "image_url": "https://pbs.twimg.com/media/GRaJxs8bAAAnSfU?format=jpg&name=large",
+    "image_filename": "techbrodrip_057.jpg",
+    "description": "Palmer Luckey (founder of Oculus, Anduril and ModRetro)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1806790078049747293",
+    "image_url": "https://pbs.twimg.com/media/GRMAxzAboAEHLJT?format=jpg&name=large",
+    "image_filename": "techbrodrip_058.jpg",
+    "description": "Erwin Schr\u00f6dinger (Physicist)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1806562933750812773",
+    "image_url": "https://pbs.twimg.com/media/GRIzaiFawAAKw1G?format=jpg&name=large",
+    "image_filename": "techbrodrip_059.jpg",
+    "description": "Elon Musk (SpaceX + Tesla + Neuralink + X)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1806375952047641029",
+    "image_url": "https://pbs.twimg.com/media/GIZ9jUlaMAAOCNq?format=jpg&name=large",
+    "image_filename": "techbrodrip_060.jpg",
+    "description": "Peter Thiel (legendary investor and co-founder of Paypal + Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1805654658264056003",
+    "image_url": "https://pbs.twimg.com/media/FlkxcQPaMAAFrbk?format=png&name=large",
+    "image_filename": "techbrodrip_061.jpg",
+    "description": "Julian Assange (Wikileaks)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1805338465644736984",
+    "image_url": "https://pbs.twimg.com/media/GQ3ZkmTbAAAhHwC?format=jpg&name=large",
+    "image_filename": "techbrodrip_062.jpg",
+    "description": "Jack Parsons (rocket engineer, occultist and co-founder of NASA's Jet Propulsion Lab)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1804208173815075026",
+    "image_url": "https://pbs.twimg.com/media/GQnVxXOakAQNA4s.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_063.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK) and the Crown Prince of Dubai",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1804208173815075026",
+    "image_url": "https://pbs.twimg.com/media/GQnVxXOakAQNA4s?format=jpg&name=large",
+    "image_filename": "techbrodrip_064.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK) and the Crown Prince of Dubai",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1803878394624643393",
+    "image_url": "https://pbs.twimg.com/media/GQip1x9akAAOEfd?format=jpg&name=large",
+    "image_filename": "techbrodrip_065.jpg",
+    "description": "Robert Oppenheimer (physicist + father of the atomic bomb) and John von Neumann (mathematician, physicist, computer scientist)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1801659641895784903",
+    "image_url": "https://pbs.twimg.com/media/GQDH5TJaQAAuhip?format=jpg&name=large",
+    "image_filename": "techbrodrip_066.jpg",
+    "description": "Stanis\u0142aw Ulam (mathematician, nuclear physicist and computer scientist)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1799107065484656659",
+    "image_url": "https://pbs.twimg.com/media/GPe2V11bwAA8OJy?format=jpg&name=large",
+    "image_filename": "techbrodrip_067.jpg",
+    "description": "Ross Ulbricht (founder of Silk Road)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1797998292275696081",
+    "image_url": "https://pbs.twimg.com/media/GPPF6vLa8AAAkev.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_068.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1797998292275696081",
+    "image_url": "https://pbs.twimg.com/media/GPPF6vLa8AAAkev?format=jpg&name=large",
+    "image_filename": "techbrodrip_069.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1797998292275696081",
+    "image_url": "https://pbs.twimg.com/media/GPPF6vLaoAEwlcw.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_070.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1797998292275696081",
+    "image_url": "https://pbs.twimg.com/media/GPPF6vLaoAEwlcw?format=jpg&name=large",
+    "image_filename": "techbrodrip_071.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1793334013614346536",
+    "image_url": "https://pbs.twimg.com/media/GOMzwQJaUAEfzRw?format=jpg&name=large",
+    "image_filename": "techbrodrip_072.jpg",
+    "description": "John von Neumann (mathematician, physicist, computer scientist), Richard Feynman (physicist) and Stanislaus Ulam (mathematician, physicist, computer scientist) at Los Alamos during the Manhattan Project",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1791204617550016740",
+    "image_url": "https://pbs.twimg.com/media/GNujFMbaAAEveJi?format=jpg&name=large",
+    "image_filename": "techbrodrip_073.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1790789230450643156",
+    "image_url": "https://pbs.twimg.com/media/GNopUELaQAM31_I?format=jpg&name=large",
+    "image_filename": "techbrodrip_074.jpg",
+    "description": "Demis Hassabis (co-founder and CEO of DeepMind)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1790526136482660697",
+    "image_url": "https://pbs.twimg.com/media/GNk5kL3aEAA6TVW.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_075.png",
+    "description": "Ilya Sutskever (co-founder and former Chief Scientist of OpenAI) with Alex Krizhevsky and Geoffrey Hinton",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1790526136482660697",
+    "image_url": "https://pbs.twimg.com/media/GNk5kL3aEAA6TVW?format=png&name=large",
+    "image_filename": "techbrodrip_076.jpg",
+    "description": "Ilya Sutskever (co-founder and former Chief Scientist of OpenAI) with Alex Krizhevsky and Geoffrey Hinton",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1790467081626087844",
+    "image_url": "https://pbs.twimg.com/media/GNkETIpbAAALdVX.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_077.jpg",
+    "description": "Bill Gates (co-founder of Microsoft) and Mark Zuckerberg (co-founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1790467081626087844",
+    "image_url": "https://pbs.twimg.com/media/GNkETIpbAAALdVX?format=jpg&name=large",
+    "image_filename": "techbrodrip_078.jpg",
+    "description": "Bill Gates (co-founder of Microsoft) and Mark Zuckerberg (co-founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1789317692773781742",
+    "image_url": "https://pbs.twimg.com/media/F6KtcIibEAAsLOM?format=jpg&name=large",
+    "image_filename": "techbrodrip_079.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1781344212942041506",
+    "image_url": "https://pbs.twimg.com/media/GLibHtfbQAA2GZd?format=jpg&name=large",
+    "image_filename": "techbrodrip_080.jpg",
+    "description": "Mark Zuckerberg (co-founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1780979806420787528",
+    "image_url": "https://pbs.twimg.com/media/GLdPsLGboAAMMdE?format=jpg&name=large",
+    "image_filename": "techbrodrip_081.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1779026200024973361",
+    "image_url": "https://pbs.twimg.com/media/GLBe5hzaYAAntL9?format=jpg&name=large",
+    "image_filename": "techbrodrip_082.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin) with Lauren Sanchez at the White House",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1778836444527964662",
+    "image_url": "https://pbs.twimg.com/media/GK-yUDqbsAA1daN?format=jpg&name=large",
+    "image_filename": "techbrodrip_083.jpg",
+    "description": "Javier Milei (anarcho-capitalist president of Argentina) and Elon Musk (SpaceX + OpenAI + Tesla + Neuralink + Paypal)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1776709986900746689",
+    "image_url": "https://pbs.twimg.com/media/GKgkUNlawAAwzrD.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_084.jpg",
+    "description": "Jensen Huang (co-founder + CEO of NVIDIA) hand delivering the first DGX GPU to Elon Musk and the rest of the OpenAI team (2016)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1776709986900746689",
+    "image_url": "https://pbs.twimg.com/media/GKgkUNlawAAwzrD?format=jpg&name=large",
+    "image_filename": "techbrodrip_085.jpg",
+    "description": "Jensen Huang (co-founder + CEO of NVIDIA) hand delivering the first DGX GPU to Elon Musk and the rest of the OpenAI team (2016)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1773429383107391797",
+    "image_url": "https://pbs.twimg.com/media/GJx8F0OakAMSvtG.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_086.jpg",
+    "description": "Demis Hassabis (co-founder and CEO of DeepMind) playing in the World Series of Poker",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1773429383107391797",
+    "image_url": "https://pbs.twimg.com/media/GJx8F0OakAMSvtG?format=jpg&name=large",
+    "image_filename": "techbrodrip_087.jpg",
+    "description": "Demis Hassabis (co-founder and CEO of DeepMind) playing in the World Series of Poker",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1771580760895402478",
+    "image_url": "https://pbs.twimg.com/media/GJXrT-tbUAAe2zi.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_088.jpg",
+    "description": "Ilya Sutzkever (co-founder and chief scientist of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1771580760895402478",
+    "image_url": "https://pbs.twimg.com/media/GJXrT-tbUAAe2zi?format=jpg&name=large",
+    "image_filename": "techbrodrip_089.jpg",
+    "description": "Ilya Sutzkever (co-founder and chief scientist of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1769748910979920126",
+    "image_url": "https://pbs.twimg.com/media/GI9o7kNbYAA-rXy.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_090.jpg",
+    "description": "Tim Cook (CEO of Apple) and Sundar Pichai (CEO of Google)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1769748910979920126",
+    "image_url": "https://pbs.twimg.com/media/GI9o7kNbYAA-rXy?format=jpg&name=large",
+    "image_filename": "techbrodrip_091.jpg",
+    "description": "Tim Cook (CEO of Apple) and Sundar Pichai (CEO of Google)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1765752298968637565",
+    "image_url": "https://pbs.twimg.com/media/GIE2W2WaoAAlFxh.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_092.jpg",
+    "description": "Mark Zuckerberg (co-founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1765752298968637565",
+    "image_url": "https://pbs.twimg.com/media/GIE2W2WaoAAlFxh?format=jpg&name=large",
+    "image_filename": "techbrodrip_093.jpg",
+    "description": "Mark Zuckerberg (co-founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1764061043414945994",
+    "image_url": "https://pbs.twimg.com/media/GHs0KwKaYAALobO.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_094.jpg",
+    "description": "Mark Zuckerberg (co-founder of Meta) and Bill Gates (co-founder of Microsoft)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1764061043414945994",
+    "image_url": "https://pbs.twimg.com/media/GHs0KwKaYAALobO?format=jpg&name=large",
+    "image_filename": "techbrodrip_095.jpg",
+    "description": "Mark Zuckerberg (co-founder of Meta) and Bill Gates (co-founder of Microsoft)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1763363490759414141",
+    "image_url": "https://pbs.twimg.com/media/GHi5v_wa0AAUtvN.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_096.jpg",
+    "description": "OpenAI\u2019s Reasoning Team (2019)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1763363490759414141",
+    "image_url": "https://pbs.twimg.com/media/GHi5v_wa0AAUtvN?format=jpg&name=large",
+    "image_filename": "techbrodrip_097.jpg",
+    "description": "OpenAI\u2019s Reasoning Team (2019)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1762494379540001174",
+    "image_url": "https://pbs.twimg.com/media/GHWjTBPbwAEBT0S?format=jpg&name=large",
+    "image_filename": "techbrodrip_098.jpg",
+    "description": "Mark Zuckerberg (founder of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1754885726372761740",
+    "image_url": "https://pbs.twimg.com/media/GFqbRFtbEAA5uZO.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_099.jpg",
+    "description": "Luke Farritor (Vesuvius Challenge winner and former SpaceX intern)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1754885726372761740",
+    "image_url": "https://pbs.twimg.com/media/GFqbRFtbEAA5uZO?format=jpg&name=large",
+    "image_filename": "techbrodrip_100.jpg",
+    "description": "Luke Farritor (Vesuvius Challenge winner and former SpaceX intern)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1753649197251977292",
+    "image_url": "https://pbs.twimg.com/media/GFY2pnoa0AAbKBl.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_101.jpg",
+    "description": "Jeff Bezos (Founder of Amazon and Blue Origin)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1753649197251977292",
+    "image_url": "https://pbs.twimg.com/media/GFY2pnoa0AAbKBl?format=jpg&name=large",
+    "image_filename": "techbrodrip_102.jpg",
+    "description": "Jeff Bezos (Founder of Amazon and Blue Origin)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1748253065755738362",
+    "image_url": "https://pbs.twimg.com/media/GEMK5Z1aEAElUXY?format=jpg&name=large",
+    "image_filename": "techbrodrip_103.jpg",
+    "description": "Wernher von Braun (chief architect of the Apollo Saturn V rocket)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1736803179390808281",
+    "image_url": "https://pbs.twimg.com/media/GBpdSXpbsAARMza.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_104.jpg",
+    "description": "Richard Stallman (godfather of the free software movement)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1736803179390808281",
+    "image_url": "https://pbs.twimg.com/media/GBpdSXpbsAARMza?format=jpg&name=large",
+    "image_filename": "techbrodrip_105.jpg",
+    "description": "Richard Stallman (godfather of the free software movement)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1730459419291636060",
+    "image_url": "https://pbs.twimg.com/media/GAPTqwjaAAAvxxo?format=jpg&name=large",
+    "image_filename": "techbrodrip_106.jpg",
+    "description": "Palmer Luckey (founder of Anduril + Oculus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1727158263563850173",
+    "image_url": "https://pbs.twimg.com/media/F_gZSJoa0AA2n12?format=jpg&name=large",
+    "image_filename": "techbrodrip_107.jpg",
+    "description": "CZ (founder and former CEO of Binance)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1724810809094885629",
+    "image_url": "https://pbs.twimg.com/media/F-_CSMaaMAAa7ni.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_108.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1724810809094885629",
+    "image_url": "https://pbs.twimg.com/media/F-_CSMaaMAAa7ni?format=jpg&name=large",
+    "image_filename": "techbrodrip_109.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1724484969358356616",
+    "image_url": "https://pbs.twimg.com/media/F-6Z8IBbEAA9Tn3.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_110.jpg",
+    "description": "Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1724484969358356616",
+    "image_url": "https://pbs.twimg.com/media/F-6Z8IBbEAA9Tn3?format=jpg&name=large",
+    "image_filename": "techbrodrip_111.jpg",
+    "description": "Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1724093878087897162",
+    "image_url": "https://pbs.twimg.com/media/F-02PiuawAA_UMe.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_112.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin) and Lauren Sanchez",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1724093878087897162",
+    "image_url": "https://pbs.twimg.com/media/F-02PiuawAA_UMe?format=jpg&name=large",
+    "image_filename": "techbrodrip_113.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin) and Lauren Sanchez",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1721655024219214002",
+    "image_url": "https://pbs.twimg.com/media/F-SMHtpbwAAG1iI.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_114.jpg",
+    "description": "Sam Altman (co-founder of OpenAI, former president of Y Combinator and co-founder of Loopt)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1721655024219214002",
+    "image_url": "https://pbs.twimg.com/media/F-SMHtpbwAAG1iI?format=jpg&name=large",
+    "image_filename": "techbrodrip_115.jpg",
+    "description": "Sam Altman (co-founder of OpenAI, former president of Y Combinator and co-founder of Loopt)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1720461797382389840",
+    "image_url": "https://pbs.twimg.com/media/F-BO4kwa4AArPZt.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_116.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1720461797382389840",
+    "image_url": "https://pbs.twimg.com/media/F-BO4kwa4AArPZt?format=jpg&name=large",
+    "image_filename": "techbrodrip_117.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1716433978603815291",
+    "image_url": "https://pbs.twimg.com/media/F9H_midbsAAnJ6n?format=jpg&name=large",
+    "image_filename": "techbrodrip_118.jpg",
+    "description": "Sam Bankman-Fried (founder of FTX)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1715846647018672255",
+    "image_url": "https://pbs.twimg.com/media/F8_pbcdXUAApXCR?format=jpg&name=large",
+    "image_filename": "techbrodrip_119.jpg",
+    "description": "@Walidaa100 This was him before his glow up",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1715833147928281208",
+    "image_url": "https://pbs.twimg.com/media/F8_dJoWb0AAPn1n.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_120.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1715833147928281208",
+    "image_url": "https://pbs.twimg.com/media/F8_dJoWb0AAPn1n?format=jpg&name=large",
+    "image_filename": "techbrodrip_121.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1709622458398200012",
+    "image_url": "https://pbs.twimg.com/media/F7nMfzLasAA1km8?format=jpg&name=large",
+    "image_filename": "techbrodrip_122.jpg",
+    "description": "Howard Hughes (eccentric billionaire engineer, aviator and business titan)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1708894943283233143",
+    "image_url": "https://pbs.twimg.com/media/F7c25M_bQAA0RMv.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_123.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus) and his wife",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1708894943283233143",
+    "image_url": "https://pbs.twimg.com/media/F7c25M_bQAA0RMv?format=jpg&name=large",
+    "image_filename": "techbrodrip_124.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus) and his wife",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1707830974367805857",
+    "image_url": "https://pbs.twimg.com/media/F7NvJL0aIAATBh0.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_125.jpg",
+    "description": "Steve Jobs (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1707830974367805857",
+    "image_url": "https://pbs.twimg.com/media/F7NvJL0aIAATBh0?format=jpg&name=large",
+    "image_filename": "techbrodrip_126.jpg",
+    "description": "Steve Jobs (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1706743052315115698",
+    "image_url": "https://pbs.twimg.com/media/F6-Q4_sbwAIROpc.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_127.jpg",
+    "description": "Palmer Luckey (founder of Oculus + co-founder of Anduril) and his wife",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1706743052315115698",
+    "image_url": "https://pbs.twimg.com/media/F6-Q4_sbwAIROpc?format=jpg&name=large",
+    "image_filename": "techbrodrip_128.jpg",
+    "description": "Palmer Luckey (founder of Oculus + co-founder of Anduril) and his wife",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1706355056315077008",
+    "image_url": "https://pbs.twimg.com/media/F64whhEaEAADSqA.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_129.jpg",
+    "description": "Founders of Sun Microsystems: Bill Joy, Andy Bechtolsheim, Scott McNealy and Vinod Khosla",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1706355056315077008",
+    "image_url": "https://pbs.twimg.com/media/F64whhEaEAADSqA?format=jpg&name=large",
+    "image_filename": "techbrodrip_130.jpg",
+    "description": "Founders of Sun Microsystems: Bill Joy, Andy Bechtolsheim, Scott McNealy and Vinod Khosla",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1702105433853640774",
+    "image_url": "https://pbs.twimg.com/media/F58XhoCaoAAx_LW.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_131.png",
+    "description": "Bill Gates (co-founder of Microsoft) and Snoop Dogg",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1702105433853640774",
+    "image_url": "https://pbs.twimg.com/media/F58XhoCaoAAx_LW?format=png&name=large",
+    "image_filename": "techbrodrip_132.jpg",
+    "description": "Bill Gates (co-founder of Microsoft) and Snoop Dogg",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1697800169352556994",
+    "image_url": "https://pbs.twimg.com/media/F4_MQNxaYAAs3S_?format=jpg&name=large",
+    "image_filename": "techbrodrip_133.jpg",
+    "description": "Steve Jobs (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1679659659769286657",
+    "image_url": "https://pbs.twimg.com/media/F09ZjjAaAAA1PCh.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_134.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1679659659769286657",
+    "image_url": "https://pbs.twimg.com/media/F09ZjjAaAAA1PCh?format=jpg&name=large",
+    "image_filename": "techbrodrip_135.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1666981796909809665",
+    "image_url": "https://pbs.twimg.com/media/FyJPG_paMAMluqr.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_136.jpg",
+    "description": "Sam Altman (co-founder of OpenAI) with Narendra Modi (Prime Minister of India)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1666981796909809665",
+    "image_url": "https://pbs.twimg.com/media/FyJPG_paMAMluqr?format=jpg&name=large",
+    "image_filename": "techbrodrip_137.jpg",
+    "description": "Sam Altman (co-founder of OpenAI) with Narendra Modi (Prime Minister of India)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1664352050178846720",
+    "image_url": "https://pbs.twimg.com/media/Fxj3XmJaAAEnVuo.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_138.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1664352050178846720",
+    "image_url": "https://pbs.twimg.com/media/Fxj3XmJaAAEnVuo?format=jpg&name=large",
+    "image_filename": "techbrodrip_139.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1662803714812391426",
+    "image_url": "https://pbs.twimg.com/media/FxN3Kh_X0AAcLTd.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_140.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1662803714812391426",
+    "image_url": "https://pbs.twimg.com/media/FxN3Kh_X0AAcLTd?format=jpg&name=large",
+    "image_filename": "techbrodrip_141.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1662138602112061446",
+    "image_url": "https://pbs.twimg.com/media/FxEYNGZaIAA61e1.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_142.png",
+    "description": "Garry Tan (CEO of Y Combinator) volunteering as a photographer at Y Combinator's startup school in 2008 to get his foot in the door",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1662138602112061446",
+    "image_url": "https://pbs.twimg.com/media/FxEYNGZaIAA61e1?format=png&name=large",
+    "image_filename": "techbrodrip_143.jpg",
+    "description": "Garry Tan (CEO of Y Combinator) volunteering as a photographer at Y Combinator's startup school in 2008 to get his foot in the door",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1661785600394149888",
+    "image_url": "https://pbs.twimg.com/media/Fw_ZLRrakAAi_Uq.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_144.png",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1661785600394149888",
+    "image_url": "https://pbs.twimg.com/media/Fw_ZLRrakAAi_Uq?format=png&name=large",
+    "image_filename": "techbrodrip_145.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1661054780352122880",
+    "image_url": "https://pbs.twimg.com/media/Fw0_d61aIAAy0_6?format=png&name=large",
+    "image_filename": "techbrodrip_146.jpg",
+    "description": "Michael Mortiz (billionaire venture capitalist)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1660133741631774720",
+    "image_url": "https://pbs.twimg.com/media/Fwn61oAXoAcDCY8.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_147.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1660133741631774720",
+    "image_url": "https://pbs.twimg.com/media/Fwn61oAXoAcDCY8?format=jpg&name=large",
+    "image_filename": "techbrodrip_148.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1658527660908367872",
+    "image_url": "https://pbs.twimg.com/media/FwRGEhEaMAIQm0a?format=jpg&name=large",
+    "image_filename": "techbrodrip_149.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1657062932633772032",
+    "image_url": "https://pbs.twimg.com/media/Fv8R64iaEAETzsl.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_150.png",
+    "description": "Chris Riesbeck (computer scientist and AI researcher) and Geoffrey Hinton (computer scientist known as one of the godfathers of AI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1657062932633772032",
+    "image_url": "https://pbs.twimg.com/media/Fv8R64iaEAETzsl?format=png&name=large",
+    "image_filename": "techbrodrip_151.jpg",
+    "description": "Chris Riesbeck (computer scientist and AI researcher) and Geoffrey Hinton (computer scientist known as one of the godfathers of AI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1656699104049901568",
+    "image_url": "https://pbs.twimg.com/media/Fv3HDfJaMAAHVCl?format=jpg&name=large",
+    "image_filename": "techbrodrip_152.jpg",
+    "description": "David Deutsch (physicist and inventor of constructor theory, known as the father of quantum computing)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1656338661087264768",
+    "image_url": "https://pbs.twimg.com/media/Fvx_M-iagAE_tWH?format=jpg&name=large",
+    "image_filename": "techbrodrip_153.jpg",
+    "description": "David Holz (founder of Midjourney + Leap Motion)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1655779058565931008",
+    "image_url": "https://pbs.twimg.com/media/FvqCRpYaMAA5hpa?format=jpg&name=large",
+    "image_filename": "techbrodrip_154.jpg",
+    "description": "Albert Einstein (physicist + developer of the theory of relativity) and Robert Oppenheimer (physicist + father of the atomic bomb)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1655281399337975808",
+    "image_url": "https://pbs.twimg.com/media/Fvi9qJtaEAImurJ.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_155.jpg",
+    "description": "Mark Zuckerberg (founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1655281399337975808",
+    "image_url": "https://pbs.twimg.com/media/Fvi9qJtaEAImurJ?format=jpg&name=large",
+    "image_filename": "techbrodrip_156.jpg",
+    "description": "Mark Zuckerberg (founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1655239284180553734",
+    "image_url": "https://pbs.twimg.com/media/FviXWtRaQAEtWPY?format=jpg&name=large",
+    "image_filename": "techbrodrip_157.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin) and Lauren Sanchez",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1654247812618686464",
+    "image_url": "https://pbs.twimg.com/media/FvURVhzaAAAJ9mn.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_158.jpg",
+    "description": "Sundar Pichai (CEO of Google) and Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1654247812618686464",
+    "image_url": "https://pbs.twimg.com/media/FvURVhzaAAAJ9mn?format=jpg&name=large",
+    "image_filename": "techbrodrip_159.jpg",
+    "description": "Sundar Pichai (CEO of Google) and Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1653459845507604480",
+    "image_url": "https://pbs.twimg.com/media/FvJE1vtacAAP1Z-.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_160.jpg",
+    "description": "Satya Nadella (CEO of Microsoft)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1653459845507604480",
+    "image_url": "https://pbs.twimg.com/media/FvJE1vtacAAP1Z-?format=jpg&name=large",
+    "image_filename": "techbrodrip_161.jpg",
+    "description": "Satya Nadella (CEO of Microsoft)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1653124558399082497",
+    "image_url": "https://pbs.twimg.com/media/FvEUBiQaAAA_EvM.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_162.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1653124558399082497",
+    "image_url": "https://pbs.twimg.com/media/FvEUBiQaAAA_EvM?format=jpg&name=large",
+    "image_filename": "techbrodrip_163.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1651317706082373632",
+    "image_url": "https://pbs.twimg.com/media/FuqoZaKaMAQUpHh?format=jpg&name=large",
+    "image_filename": "techbrodrip_164.jpg",
+    "description": "Aaron Ng (founder + CEO of Hyper Online)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1650555637288534016",
+    "image_url": "https://pbs.twimg.com/media/FufzJa4agAEdJGZ?format=png&name=large",
+    "image_filename": "techbrodrip_165.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin) with Lauren Sanchez at Coachella",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1641161524751499264",
+    "image_url": "https://pbs.twimg.com/media/FsaTd6FaQAAn4Ou?format=png&name=large",
+    "image_filename": "techbrodrip_166.jpg",
+    "description": "Marc Zuckerberg (Founder + CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1639317145086746624",
+    "image_url": "https://pbs.twimg.com/media/FsAGQQmagAA9O0Y.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_167.jpg",
+    "description": "Claude Shannon (mathematician, electrical engineer, and cryptographer known as one of the fathers of information theory)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1639317145086746624",
+    "image_url": "https://pbs.twimg.com/media/FsAGQQmagAA9O0Y?format=jpg&name=large",
+    "image_filename": "techbrodrip_168.jpg",
+    "description": "Claude Shannon (mathematician, electrical engineer, and cryptographer known as one of the fathers of information theory)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1636776138658967553",
+    "image_url": "https://pbs.twimg.com/media/Frb_OV8aUAEGuq7.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_169.jpg",
+    "description": "Mira Murati (CTO of OpenAI) + Sam Altman (CEO of OpenAI) + Greg Brockman (President of OpenAI) + Ilya Sutskever (Chief Scientist of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1636776138658967553",
+    "image_url": "https://pbs.twimg.com/media/Frb_OV8aUAEGuq7?format=jpg&name=large",
+    "image_filename": "techbrodrip_170.jpg",
+    "description": "Mira Murati (CTO of OpenAI) + Sam Altman (CEO of OpenAI) + Greg Brockman (President of OpenAI) + Ilya Sutskever (Chief Scientist of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1635705174005256192",
+    "image_url": "https://pbs.twimg.com/media/FrMxL5CaAAAqf-h?format=jpg&name=large",
+    "image_filename": "techbrodrip_171.jpg",
+    "description": "Elon Musk (SpaceX + Tesla + OpenAI + Neuralink + Paypal)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1635376530594619393",
+    "image_url": "https://pbs.twimg.com/media/FrIGSXuaAAMVp6h?format=jpg&name=large",
+    "image_filename": "techbrodrip_172.jpg",
+    "description": "Yann LeCun (Chief AI Scientist at Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1633174562736320513",
+    "image_url": "https://pbs.twimg.com/media/Fqozm2SaMAoPMfX?format=jpg&name=large",
+    "image_filename": "techbrodrip_173.jpg",
+    "description": "Bryan Johnson (founder of Kernel + Blueprint + OS Fund + Braintree)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1632805643638943744",
+    "image_url": "https://pbs.twimg.com/media/FqjkE8caYAAm5bT?format=jpg&name=large",
+    "image_filename": "techbrodrip_174.jpg",
+    "description": "Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1631350799384317953",
+    "image_url": "https://pbs.twimg.com/media/FqO453EaQAAbtpe.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_175.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1631350799384317953",
+    "image_url": "https://pbs.twimg.com/media/FqO453EaQAAbtpe?format=jpg&name=large",
+    "image_filename": "techbrodrip_176.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1628533510410752000",
+    "image_url": "https://pbs.twimg.com/media/Fpm1temacAE5PbK.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_177.jpg",
+    "description": "Alan Turing (mathematician, computer scientist and  cryptographer known as one of the fathers of computer science and artificial intelligence)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1628533510410752000",
+    "image_url": "https://pbs.twimg.com/media/Fpm1temacAE5PbK?format=jpg&name=large",
+    "image_filename": "techbrodrip_178.jpg",
+    "description": "Alan Turing (mathematician, computer scientist and  cryptographer known as one of the fathers of computer science and artificial intelligence)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1628194410159816704",
+    "image_url": "https://pbs.twimg.com/media/FpiCL3JaEAAs0_m?format=jpg&name=large",
+    "image_filename": "techbrodrip_179.jpg",
+    "description": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1626650893247725569",
+    "image_url": "https://pbs.twimg.com/media/FpMGXQOacAUmgrC?format=jpg&name=large",
+    "image_filename": "techbrodrip_180.jpg",
+    "description": "Ilya Sutzkever (co-founder and chief scientist of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1626271341132541952",
+    "image_url": "https://pbs.twimg.com/media/FpGs3QHaQAELR16.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_181.jpg",
+    "description": "Satya Nadella (CEO of Microsoft) with his mom and dad",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1626271341132541952",
+    "image_url": "https://pbs.twimg.com/media/FpGs3QHaQAELR16?format=jpg&name=large",
+    "image_filename": "techbrodrip_182.jpg",
+    "description": "Satya Nadella (CEO of Microsoft) with his mom and dad",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1625003709402066944",
+    "image_url": "https://pbs.twimg.com/media/Fo0sQZKaIAA9buo.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_183.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1625003709402066944",
+    "image_url": "https://pbs.twimg.com/media/Fo0sQZKaIAA9buo?format=jpg&name=large",
+    "image_filename": "techbrodrip_184.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1624437336799956992",
+    "image_url": "https://pbs.twimg.com/media/FospJVZXwAAN5Vm.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_185.jpg",
+    "description": "Andrej Karpathy (founding member of OpenAI and former director of AI at Tesla) taking a shot of Tesla tequila",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1624437336799956992",
+    "image_url": "https://pbs.twimg.com/media/FospJVZXwAAN5Vm?format=jpg&name=large",
+    "image_filename": "techbrodrip_186.jpg",
+    "description": "Andrej Karpathy (founding member of OpenAI and former director of AI at Tesla) taking a shot of Tesla tequila",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1623358464746737672",
+    "image_url": "https://pbs.twimg.com/media/FodTnISakAA9Ary?format=jpg&name=large",
+    "image_filename": "techbrodrip_187.jpg",
+    "description": "Robert Goddard (creator of the first liquid-fueled rocket)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1623003710191464449",
+    "image_url": "https://pbs.twimg.com/media/FoYRRQMaAAAnmRV?format=jpg&name=large",
+    "image_filename": "techbrodrip_188.jpg",
+    "description": "Aubrey Cottle aka Kirtaner (hacker, engineer and cofounder of the hacktivist group Anonymous)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1621213566727770113",
+    "image_url": "https://pbs.twimg.com/media/Fn-1JSVaEAEtKkY?format=jpg&name=large",
+    "image_filename": "techbrodrip_189.jpg",
+    "description": "Blake Lemoine (former Google engineer who was fired after publicly claiming the company\u2019s LaMDA chatbot was sentient)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1620633660184748032",
+    "image_url": "https://pbs.twimg.com/media/Fn2luSFacAUrqQp?format=jpg&name=large",
+    "image_filename": "techbrodrip_190.jpg",
+    "description": "Robert Oppenheimer (physicist, head of the Los Alamos Laboratory and father of the atomic bomb)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1619840530183237633",
+    "image_url": "https://pbs.twimg.com/media/FnrUX8FaQAEJLKf?format=jpg&name=large",
+    "image_filename": "techbrodrip_191.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin) celebrating after going to space on his company\u2019s first crewed rocket flight",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1619025909708890112",
+    "image_url": "https://pbs.twimg.com/media/FnfvQbTaYAIDtX4.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_192.png",
+    "description": "Peter Thiel (legendary investor and co-founder of Paypal + Palantir) walking into Oxford Union",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1619025909708890112",
+    "image_url": "https://pbs.twimg.com/media/FnfvQbTaYAIDtX4?format=png&name=large",
+    "image_filename": "techbrodrip_193.jpg",
+    "description": "Peter Thiel (legendary investor and co-founder of Paypal + Palantir) walking into Oxford Union",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1617585770696675328",
+    "image_url": "https://pbs.twimg.com/media/FnLRl8VacAIQ0v5?format=png&name=large",
+    "image_filename": "techbrodrip_194.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1617581015412928512",
+    "image_url": "https://pbs.twimg.com/media/FnLNT88acAE1xeh?format=jpg&name=large",
+    "image_filename": "techbrodrip_195.jpg",
+    "description": "Frank Herbert (sci-fi author of Dune) on the set of David Lynch's Dune (1984) with the actor Kyle MacLachlan",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1615783751711338496",
+    "image_url": "https://pbs.twimg.com/media/FmxqwVNakAASs6O?format=png&name=large",
+    "image_filename": "techbrodrip_196.jpg",
+    "description": "Ralph Mosher (engineer and designer of the Hardiman exoskeleton)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1615416111356604416",
+    "image_url": "https://pbs.twimg.com/media/FmscFFAaEAEi9u0.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_197.png",
+    "description": "Claude Shannon (mathematician, electrical engineer, and cryptographer known as one of the fathers of information theory)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1615416111356604416",
+    "image_url": "https://pbs.twimg.com/media/FmscFFAaEAEi9u0?format=png&name=large",
+    "image_filename": "techbrodrip_198.jpg",
+    "description": "Claude Shannon (mathematician, electrical engineer, and cryptographer known as one of the fathers of information theory)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1613962289463558144",
+    "image_url": "https://pbs.twimg.com/media/FmXyJPZaMAU6WCB?format=png&name=large",
+    "image_filename": "techbrodrip_199.jpg",
+    "description": "Ray Kurzweil (engineer and futurist) and Stevie Wonder playing a synthesizer designed by Kurzweil",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1613699560249102337",
+    "image_url": "https://pbs.twimg.com/media/FmUCogzaAAU3N90?format=jpg&name=large",
+    "image_filename": "techbrodrip_200.jpg",
+    "description": "Aaron Swartz (software developer and internet activist)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1613550242888323072",
+    "image_url": "https://pbs.twimg.com/media/FmR7ZGuaAAIlWtq?format=jpg&name=large",
+    "image_filename": "techbrodrip_201.jpg",
+    "description": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1613222256867684353",
+    "image_url": "https://pbs.twimg.com/media/FmNRFzTaYAEJ5LW?format=png&name=large",
+    "image_filename": "techbrodrip_202.jpg",
+    "description": "Steve Wozniak (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1612588369380544513",
+    "image_url": "https://pbs.twimg.com/media/FmEQkuVaMAIs_Ee?format=jpg&name=large",
+    "image_filename": "techbrodrip_203.jpg",
+    "description": "Sergey Brin and Larry Page (founders of Google)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1611416798003617793",
+    "image_url": "https://pbs.twimg.com/media/FlznB5sakAAtfg4.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_204.png",
+    "description": "Richard Stallman (godfather of the free software movement)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1611416798003617793",
+    "image_url": "https://pbs.twimg.com/media/FlznB5sakAAtfg4?format=png&name=large",
+    "image_filename": "techbrodrip_205.jpg",
+    "description": "Richard Stallman (godfather of the free software movement)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1611109914356895747",
+    "image_url": "https://pbs.twimg.com/media/FlvPxxBaUAEPxNl.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_206.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1611109914356895747",
+    "image_url": "https://pbs.twimg.com/media/FlvPxxBaUAEPxNl?format=jpg&name=large",
+    "image_filename": "techbrodrip_207.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1611057678838829058",
+    "image_url": "https://pbs.twimg.com/media/FlugWnBaMAIK07m?format=png&name=large",
+    "image_filename": "techbrodrip_208.jpg",
+    "description": "Masayuki Uemura (engineer and lead architect of the Nintendo NES and SNES game consoles)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1610726026736455680",
+    "image_url": "https://pbs.twimg.com/media/FlpyZmraEAAzVoY?format=png&name=large",
+    "image_filename": "techbrodrip_209.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus) (yearbook photo circa 1962)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1609937097309265920",
+    "image_url": "https://pbs.twimg.com/media/FlelQWQXEAI06pN?format=jpg&name=large",
+    "image_filename": "techbrodrip_210.jpg",
+    "description": "Emery Wells (founder of",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1609658774909771779",
+    "image_url": "https://pbs.twimg.com/media/FlaoH4KX0AQQLFp?format=jpg&name=large",
+    "image_filename": "techbrodrip_211.jpg",
+    "description": "Robert Moog (inventor of the Moog Synthesizer, the first widely used tool for creating electronic music)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1609203255074070532",
+    "image_url": "https://pbs.twimg.com/media/FlUJ0-fXgAAQAIt?format=jpg&name=large",
+    "image_filename": "techbrodrip_212.jpg",
+    "description": "Jeff Bezos (founder of Amazon and Blue Origin)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1608864584240369665",
+    "image_url": "https://pbs.twimg.com/media/FlPVzx9X0AISxRj?format=jpg&name=large",
+    "image_filename": "techbrodrip_213.jpg",
+    "description": "Cyan Banister (engineer turned legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1608471535274139648",
+    "image_url": "https://pbs.twimg.com/media/FlJwVcJXoAMvWHW.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_214.jpg",
+    "description": "Linus Torvalds (software engineer and creator of the Linux kernel)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1608471535274139648",
+    "image_url": "https://pbs.twimg.com/media/FlJwVcJXoAMvWHW?format=jpg&name=large",
+    "image_filename": "techbrodrip_215.jpg",
+    "description": "Linus Torvalds (software engineer and creator of the Linux kernel)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1607165388038541313",
+    "image_url": "https://pbs.twimg.com/media/Fk3MZrhWAAY23OS?format=jpg&name=large",
+    "image_filename": "techbrodrip_216.jpg",
+    "description": "Sergey Brin (co-founder of Google)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1606458415395790849",
+    "image_url": "https://pbs.twimg.com/media/FktJadHUYAAGMwZ?format=jpg&name=large",
+    "image_filename": "techbrodrip_217.jpg",
+    "description": "Sam Bankman-Fried (founder of FTX) on a flight to the USA from the Bahamas to face fraud charges",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1606331152561606656",
+    "image_url": "https://pbs.twimg.com/media/FkrVgBoUEAI3APq.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_218.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1606331152561606656",
+    "image_url": "https://pbs.twimg.com/media/FkrVgBoUEAI3APq?format=jpg&name=large",
+    "image_filename": "techbrodrip_219.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1605980313275863041",
+    "image_url": "https://pbs.twimg.com/media/FkmWjyYUAAAM-sq?format=jpg&name=large",
+    "image_filename": "techbrodrip_220.jpg",
+    "description": "Hal Finney (cryptographer and recipient of the first Bitcoin transaction)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1605633547707944961",
+    "image_url": "https://pbs.twimg.com/media/FkhbM8jUUAErZNQ?format=jpg&name=large",
+    "image_filename": "techbrodrip_221.jpg",
+    "description": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1605258283060670464",
+    "image_url": "https://pbs.twimg.com/media/FkcF5qXUEAMHtdq.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_222.jpg",
+    "description": "Ross Ulbricht (founder of Silk Road)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1605258283060670464",
+    "image_url": "https://pbs.twimg.com/media/FkcF5qXUEAMHtdq?format=jpg&name=large",
+    "image_filename": "techbrodrip_223.jpg",
+    "description": "Ross Ulbricht (founder of Silk Road)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1604198426358341632",
+    "image_url": "https://pbs.twimg.com/media/FkNB9yJVQAAWuvm?format=jpg&name=large",
+    "image_filename": "techbrodrip_224.jpg",
+    "description": "Alex Karp (co-founder + CEO of Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1603899328082325505",
+    "image_url": "https://pbs.twimg.com/media/FkIx7zTVEAAv4bx.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_225.jpg",
+    "description": "Tim Cook (CEO of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1603899328082325505",
+    "image_url": "https://pbs.twimg.com/media/FkIx7zTVEAAv4bx?format=jpg&name=large",
+    "image_filename": "techbrodrip_226.jpg",
+    "description": "Tim Cook (CEO of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1599807658139082754",
+    "image_url": "https://pbs.twimg.com/media/FjOolj3UYAcW6Nf.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_227.jpg",
+    "description": "Linus Torvalds (software engineer and creator of the Linux kernel)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1599807658139082754",
+    "image_url": "https://pbs.twimg.com/media/FjOolj3UYAcW6Nf?format=jpg&name=large",
+    "image_filename": "techbrodrip_228.jpg",
+    "description": "Linus Torvalds (software engineer and creator of the Linux kernel)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1592619392562761728",
+    "image_url": "https://pbs.twimg.com/media/FhoeeQYVQAABUU1?format=png&name=large",
+    "image_filename": "techbrodrip_229.jpg",
+    "description": "Elon Musk welcoming Rahul Ligma and Daniel Johnson (former Twitter engineers) back to Twitter HQ",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1592615225232338944",
+    "image_url": "https://pbs.twimg.com/media/FhobFMeUYAI8L6s.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_230.jpg",
+    "description": "Facebook co-founders Mark Zuckerberg, Dustin Moskovitz and Andrew McCollum with Sean Parker (co-founder of Napster)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1592615225232338944",
+    "image_url": "https://pbs.twimg.com/media/FhobFMeUYAI8L6s?format=jpg&name=large",
+    "image_filename": "techbrodrip_231.jpg",
+    "description": "Facebook co-founders Mark Zuckerberg, Dustin Moskovitz and Andrew McCollum with Sean Parker (co-founder of Napster)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1591537786255183873",
+    "image_url": "https://pbs.twimg.com/media/FhZHLf7UUAAq5H9.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_232.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1591537786255183873",
+    "image_url": "https://pbs.twimg.com/media/FhZHLf7UUAAq5H9?format=jpg&name=large",
+    "image_filename": "techbrodrip_233.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1590393405582217216",
+    "image_url": "https://pbs.twimg.com/media/FhI2X2EVIAA_jOG?format=jpg&name=large",
+    "image_filename": "techbrodrip_234.jpg",
+    "description": "Palmer Luckey (founder of Oculus + co-founder of Anduril) and his wife",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1588233704325156864",
+    "image_url": "https://pbs.twimg.com/media/FgqKIuRVsAEU_s1.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_235.png",
+    "description": "Mark Zuckerberg (co-founder of Facebook/Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1588233704325156864",
+    "image_url": "https://pbs.twimg.com/media/FgqKIuRVsAEU_s1?format=png&name=large",
+    "image_filename": "techbrodrip_236.jpg",
+    "description": "Mark Zuckerberg (co-founder of Facebook/Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1587863988943040512",
+    "image_url": "https://pbs.twimg.com/media/Fgk54ckUYAAn_RE?format=jpg&name=large",
+    "image_filename": "techbrodrip_237.jpg",
+    "description": "William Gibson (prophetic scifi author of Neuromancer + The Peripheral)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1587482853654155264",
+    "image_url": "https://pbs.twimg.com/media/FgffPaLVEAAJQ83.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_238.png",
+    "description": "Peter Thiel (in crown), playing multiple Paypal employees at chess simultaneously \u2014 including David Sacks (the only winner), Max Levchin and Roelof Botha",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1587482853654155264",
+    "image_url": "https://pbs.twimg.com/media/FgffPaLVEAAJQ83?format=png&name=large",
+    "image_filename": "techbrodrip_239.jpg",
+    "description": "Peter Thiel (in crown), playing multiple Paypal employees at chess simultaneously \u2014 including David Sacks (the only winner), Max Levchin and Roelof Botha",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1587138491980206080",
+    "image_url": "https://pbs.twimg.com/media/FgamDBFVsAACzLj?format=jpg&name=large",
+    "image_filename": "techbrodrip_240.jpg",
+    "description": "Dorian Nakamoto (physicist and engineer) when reporters stormed his house claiming he was bitcoin's creator",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1586856746357620736",
+    "image_url": "https://pbs.twimg.com/media/FgWlzPtVQAEVki-?format=jpg&name=large",
+    "image_filename": "techbrodrip_241.jpg",
+    "description": "Palmer Luckey (founder of Oculus and co-founder of Anduril) and his wife",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1586370087287521280",
+    "image_url": "https://pbs.twimg.com/media/FgPrL-yUcAEY7Iz.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_242.jpg",
+    "description": "Rahul Ligma and Daniel Johnson (former Twitter engineers)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1586370087287521280",
+    "image_url": "https://pbs.twimg.com/media/FgPrL-yUcAEY7Iz?format=jpg&name=large",
+    "image_filename": "techbrodrip_243.jpg",
+    "description": "Rahul Ligma and Daniel Johnson (former Twitter engineers)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1586076107928764416",
+    "image_url": "https://pbs.twimg.com/media/FgLfzOPVUAA1lLL.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_244.jpg",
+    "description": "Rahul Ligma and Daniel Johnson outside Twitter HQ",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1586076107928764416",
+    "image_url": "https://pbs.twimg.com/media/FgLfzOPVUAA1lLL?format=jpg&name=large",
+    "image_filename": "techbrodrip_245.jpg",
+    "description": "Rahul Ligma and Daniel Johnson outside Twitter HQ",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1585499532573298688",
+    "image_url": "https://pbs.twimg.com/media/FgDTbCgVUAAwU8p?format=jpg&name=large",
+    "image_filename": "techbrodrip_246.jpg",
+    "description": "Elon Musk (SpaceX + Tesla) at Twitter HQ",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1585335263571505153",
+    "image_url": "https://pbs.twimg.com/media/FgA-BSFVUAAYqjI.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_247.png",
+    "description": "PayPal's founding team\n\nAs described in Peter Thiel's book Zero to One:\n\"Of the six people who started PayPal, four had built bombs in high school. Five were just 23 years old - or younger. Four of us had been born outside the US. Three had escaped here from communist countries.\" https://t.co/uwuZzxMqVB",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1584955690778759170",
+    "image_url": "https://pbs.twimg.com/media/Ff7kzPSVUAAjdoE?format=jpg&name=large",
+    "image_filename": "techbrodrip_248.jpg",
+    "description": "Mark Zuckerberg (co-founder of Facebook/Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1584615631088807936",
+    "image_url": "https://pbs.twimg.com/media/Ff2vgdAUcAAZMd3?format=jpg&name=large",
+    "image_filename": "techbrodrip_249.jpg",
+    "description": "Peter Thiel (legendary investor and co-founder of Paypal + Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1584588349670506496",
+    "image_url": "https://pbs.twimg.com/media/Ff2WtJ5VIAA_-9A?format=jpg&name=large",
+    "image_filename": "techbrodrip_250.jpg",
+    "description": "Elon Musk (SpaceX + Tesla) at UPenn",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1583538233308155904",
+    "image_url": "https://pbs.twimg.com/media/FfnboTxVQAI_e0F.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_251.png",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1583538233308155904",
+    "image_url": "https://pbs.twimg.com/media/FfnboTxVQAI_e0F?format=png&name=large",
+    "image_filename": "techbrodrip_252.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1583496123188056064",
+    "image_url": "https://pbs.twimg.com/media/Ffm1VO-UAAUSDPM?format=jpg&name=large",
+    "image_filename": "techbrodrip_253.jpg",
+    "description": "Elizabeth Holmes (founder of Theranos) and Joe Biden",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1583174034564317185",
+    "image_url": "https://pbs.twimg.com/media/FfiQZLJVUAAzvQb?format=jpg&name=large",
+    "image_filename": "techbrodrip_254.jpg",
+    "description": "Elon Musk (1994)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1582770495643975694",
+    "image_url": "https://pbs.twimg.com/media/FfchYFpUABcFVMm?format=jpg&name=large",
+    "image_filename": "techbrodrip_255.jpg",
+    "description": "Palmer Luckey (founder of Oculus and co-founder of Anduril)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1582451721359413248",
+    "image_url": "https://pbs.twimg.com/media/FfX_dFEVsAILX7O?format=jpg&name=large",
+    "image_filename": "techbrodrip_256.jpg",
+    "description": "Jeff Bezos (founder of Amazon)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1581806542482903041",
+    "image_url": "https://pbs.twimg.com/media/FfO0qoOXgAEK3xO?format=jpg&name=large",
+    "image_filename": "techbrodrip_257.jpg",
+    "description": "Jonny Ive (former Chief Design Officer at Apple) in high school",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1581366345937002496",
+    "image_url": "https://pbs.twimg.com/media/FfIkThbWAAAOtfK.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_258.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1581366345937002496",
+    "image_url": "https://pbs.twimg.com/media/FfIkThbWAAAOtfK?format=jpg&name=large",
+    "image_filename": "techbrodrip_259.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1580967476652699665",
+    "image_url": "https://pbs.twimg.com/media/FfC35n8VsAgo4JJ?format=jpg&name=large",
+    "image_filename": "techbrodrip_260.jpg",
+    "description": "Steve Jobs (co-founder of Apple) and John Sculley before Sculley organized the Apple coup d'\u00e9tat resulting in Jobs' resignation",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1580593740032274432",
+    "image_url": "https://pbs.twimg.com/media/Fe9ln57VsAAwrsY.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_261.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1580593740032274432",
+    "image_url": "https://pbs.twimg.com/media/Fe9ln57VsAAwrsY?format=jpg&name=large",
+    "image_filename": "techbrodrip_262.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1580272042191908864",
+    "image_url": "https://pbs.twimg.com/media/Fe5Ae79VEAAO3uZ?format=png&name=large",
+    "image_filename": "techbrodrip_263.jpg",
+    "description": "Nikola Tesla (inventor and engineer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1579845342467481603",
+    "image_url": "https://pbs.twimg.com/media/Fey89yVVQAEW327?format=jpg&name=large",
+    "image_filename": "techbrodrip_264.jpg",
+    "description": "The \u201ctraitorous eight\u201d who left Shockley Semiconductor to found Fairchild Semiconductor (1957)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1578750235165093888",
+    "image_url": "https://pbs.twimg.com/media/FejY-K3VUAMr13F?format=jpg&name=large",
+    "image_filename": "techbrodrip_265.jpg",
+    "description": "Mark Zuckerberg (Facebook/Meta) and Kanye West",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1578426284824092682",
+    "image_url": "https://pbs.twimg.com/media/FeeyVwJUYAQaYmF?format=png&name=large",
+    "image_filename": "techbrodrip_266.jpg",
+    "description": "Elon Musk + Grimes + Kim Kardashian + Kanye West + Travis Scott + Quavo + Saweetie",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1578061945483055104",
+    "image_url": "https://pbs.twimg.com/media/FeZm-aaUYAQgIb9?format=png&name=large",
+    "image_filename": "techbrodrip_267.jpg",
+    "description": "Cyan Banister (legendary angel investor + invested early in SpaceX, Uber, Postmates, DeepMind, Flexport, Affirm, Carta, Niantic and Thumbtack)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1577335791868444672",
+    "image_url": "https://pbs.twimg.com/media/FePSixlUAAUsG6K?format=jpg&name=large",
+    "image_filename": "techbrodrip_268.jpg",
+    "description": "Tim May (cypherpunk and author of the Crypto Anarchist Manifesto) (1988)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1576974572091363338",
+    "image_url": "https://pbs.twimg.com/media/FeKJ_C7UUAEWH1v?format=jpg&name=large",
+    "image_filename": "techbrodrip_269.jpg",
+    "description": "Cyberpunk Drip (1993)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1576308352061095936",
+    "image_url": "https://pbs.twimg.com/media/FeAsFyfUYAALEXi.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_270.jpg",
+    "description": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1576308352061095936",
+    "image_url": "https://pbs.twimg.com/media/FeAsFyfUYAALEXi?format=jpg&name=large",
+    "image_filename": "techbrodrip_271.jpg",
+    "description": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1575919917693444096",
+    "image_url": "https://pbs.twimg.com/media/Fd7K0B-VsAAAwdM?format=jpg&name=large",
+    "image_filename": "techbrodrip_272.jpg",
+    "description": "Wernher von Braun (chief architect of the Apollo Saturn V rocket)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1575520530395910146",
+    "image_url": "https://pbs.twimg.com/media/Fd1fkpOUAAI6Qmn?format=jpg&name=large",
+    "image_filename": "techbrodrip_273.jpg",
+    "description": "Elon Musk (SpaceX + Tesla) and Grimes",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1575161578986491925",
+    "image_url": "https://pbs.twimg.com/media/FdwY_mXVUAQjMKK?format=png&name=large",
+    "image_filename": "techbrodrip_274.jpg",
+    "description": "Tim Cook (CEO of Apple) at Oktoberfest",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1574818350152134657",
+    "image_url": "https://pbs.twimg.com/media/Fdrgw1DUcAQ88qm?format=png&name=large",
+    "image_filename": "techbrodrip_275.jpg",
+    "description": "Steve Jobs and Steve Wozniak (co-founders of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1571886834946551808",
+    "image_url": "https://pbs.twimg.com/media/FdB2vsKaAAIklpl.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_276.jpg",
+    "description": "Rivest, Shamir and Adleman (creators of RSA encryption)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1571886834946551808",
+    "image_url": "https://pbs.twimg.com/media/FdB2vsKaAAIklpl?format=jpg&name=large",
+    "image_filename": "techbrodrip_277.jpg",
+    "description": "Rivest, Shamir and Adleman (creators of RSA encryption)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1569438603046195201",
+    "image_url": "https://pbs.twimg.com/media/FcfED_IaIAIUdXT.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_278.jpg",
+    "description": "Jeff Bezos (founder of Amazon)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1569438603046195201",
+    "image_url": "https://pbs.twimg.com/media/FcfED_IaIAIUdXT?format=jpg&name=large",
+    "image_filename": "techbrodrip_279.jpg",
+    "description": "Jeff Bezos (founder of Amazon)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1568013936204873728",
+    "image_url": "https://pbs.twimg.com/media/FcK0XNTaUAAcsD7?format=png&name=large",
+    "image_filename": "techbrodrip_280.jpg",
+    "description": "Justin Kan (co-founder of Twitch)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1567923854240260097",
+    "image_url": "https://pbs.twimg.com/media/FcJiYIhaIAImMIj?format=png&name=large",
+    "image_filename": "techbrodrip_281.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1567548573360979970",
+    "image_url": "https://pbs.twimg.com/media/FcENHixaQAAGXZ9?format=jpg&name=large",
+    "image_filename": "techbrodrip_282.jpg",
+    "description": "John Carmack (legendary game dev + founder of Keen Technologies) and Elon Musk (SpaceX + Tesla)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1566173174147866624",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1566086892248088578/pu/img/IM76hdMAHKc4is4v.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_283.jpg",
+    "description": "Mark Zuckerberg (founder of Facebook/Meta) doing MMA training https://t.co/nIOt5aFJJu",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1565711996279959553",
+    "image_url": "https://pbs.twimg.com/media/FbqGwmxUYAELEAy.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_284.jpg",
+    "description": "\u201cJeflon Zuckergates\u201d",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1565711996279959553",
+    "image_url": "https://pbs.twimg.com/media/FbqGwmxUYAELEAy?format=jpg&name=large",
+    "image_filename": "techbrodrip_285.jpg",
+    "description": "\u201cJeflon Zuckergates\u201d",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1565355527093174272",
+    "image_url": "https://pbs.twimg.com/media/FblCjlAUcAE71gu?format=jpg&name=large",
+    "image_filename": "techbrodrip_286.jpg",
+    "description": "Adam Neumann (Co-founder of WeWork and Flow) with Narendra Modi",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1565048258279264257",
+    "image_url": "https://pbs.twimg.com/media/FbgrGB5VUAAYhAN?format=png&name=large",
+    "image_filename": "techbrodrip_287.jpg",
+    "description": "Steve Wozniak (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1564641772512284672",
+    "image_url": "https://pbs.twimg.com/media/Fba5ZgDUUAAeLm0?format=jpg&name=large",
+    "image_filename": "techbrodrip_288.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1564625844357795840",
+    "image_url": "https://pbs.twimg.com/media/Fbaq6YWVEAgysSN?format=jpg&name=large",
+    "image_filename": "techbrodrip_289.jpg",
+    "description": "Elon Musk (SpaceX + Tesla) (2003)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1564325944612884481",
+    "image_url": "https://pbs.twimg.com/media/FbWZlJgaAAAJY3u?format=png&name=large",
+    "image_filename": "techbrodrip_290.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum) and Roon (@tszzl) (notorious anonymous shitposter and AI researcher)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1564279720929153024",
+    "image_url": "https://pbs.twimg.com/media/FbVwHJfUYAESNs8?format=png&name=large",
+    "image_filename": "techbrodrip_291.jpg",
+    "description": "Steve Jobs (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1563277840870559744",
+    "image_url": "https://pbs.twimg.com/media/FbHg6RYUIAE4V3O?format=jpg&name=large",
+    "image_filename": "techbrodrip_292.jpg",
+    "description": "Palmer Luckey (founder of Oculus VR and co-founder of Anduril Industries) with the president of Ukraine",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1563233254966042630",
+    "image_url": "https://pbs.twimg.com/media/FbG4XBHUYAIrVak?format=jpg&name=large",
+    "image_filename": "techbrodrip_293.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1562519056833359874",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1562394679060185088/pu/img/qXBXtwkf0f0Wq8qF.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_294.jpg",
+    "description": "Bill Gates and other Microsoft execs celebrating the launch of Windows 95 https://t.co/KRlwa2xXld",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1562481405040287744",
+    "image_url": "https://pbs.twimg.com/media/Fa8MjmmUUAcVvKO?format=jpg&name=large",
+    "image_filename": "techbrodrip_295.jpg",
+    "description": "Marc Andreessen (co-founder of a16z and Mosaic, the world's first widely used web browser)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1562222358189944834",
+    "image_url": "https://pbs.twimg.com/media/Fa4g9FMVsAE0j5R?format=jpg&name=large",
+    "image_filename": "techbrodrip_296.jpg",
+    "description": "Adam Neumann (Co-founder of WeWork and Flow) and his wife Rebekah",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1562148685172994048",
+    "image_url": "https://pbs.twimg.com/media/Fa3dJ3ZUYAAkl1m?format=jpg&name=large",
+    "image_filename": "techbrodrip_297.jpg",
+    "description": "Peiter Zatko aka \"Mudge\" (hacker + former head of security for Twitter + former head of cybersecurity research at DARPA) with Bill Clinton",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1561764478454099973",
+    "image_url": "https://pbs.twimg.com/media/FayAhB0UUAEZ2Gl?format=jpg&name=large",
+    "image_filename": "techbrodrip_298.jpg",
+    "description": "Alex Karp (co-founder of Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1561504360223215616",
+    "image_url": "https://pbs.twimg.com/media/FauT8L2UEAA3q7s.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_299.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1561504360223215616",
+    "image_url": "https://pbs.twimg.com/media/FauT8L2UEAA3q7s?format=jpg&name=large",
+    "image_filename": "techbrodrip_300.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1561043280401289216",
+    "image_url": "https://pbs.twimg.com/media/Fanwlz6UEAU5WOR?format=jpg&name=large",
+    "image_filename": "techbrodrip_301.jpg",
+    "description": "Steve Jobs (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1560300025430753281",
+    "image_url": "https://pbs.twimg.com/media/FadMmj-UYAANZV9?format=png&name=large",
+    "image_filename": "techbrodrip_302.jpg",
+    "description": "Margaret Hamilton (software developer for the Apollo space program)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1559938670202744832",
+    "image_url": "https://pbs.twimg.com/media/FaYD88pVUAAeYqf?format=jpg&name=large",
+    "image_filename": "techbrodrip_303.jpg",
+    "description": "Mark Zuckerberg (Facebook/Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1559538034130817024",
+    "image_url": "https://pbs.twimg.com/media/FaSXk7tUIAEcnKL?format=jpg&name=large",
+    "image_filename": "techbrodrip_304.jpg",
+    "description": "Ben Horowitz (co-founder and GP of a16z) and his wife Felicia",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1559276677875716096",
+    "image_url": "https://pbs.twimg.com/media/FaOp394UsAE584-?format=jpg&name=large",
+    "image_filename": "techbrodrip_305.jpg",
+    "description": "Adam Neumann (co-founder of WeWork and Flow)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1559225820895358976",
+    "image_url": "https://pbs.twimg.com/media/FaN7nqwVUAEp7kT?format=jpg&name=large",
+    "image_filename": "techbrodrip_306.jpg",
+    "description": "Bill Gates (Microsoft) and Warren Buffett",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1557797813655744513",
+    "image_url": "https://pbs.twimg.com/media/FZ5o0H8UcAEN2X5?format=png&name=large",
+    "image_filename": "techbrodrip_307.jpg",
+    "description": "Kanye West, Elon Musk, Travis Scott, and Quavo",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1557766206983000064",
+    "image_url": "https://pbs.twimg.com/media/FZ5MG8nUIAEsXod?format=jpg&name=large",
+    "image_filename": "techbrodrip_308.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1557409582258933760",
+    "image_url": "https://pbs.twimg.com/media/FZ0HwowUYAEM-jT?format=png&name=large",
+    "image_filename": "techbrodrip_309.jpg",
+    "description": "Elon Musk (SpaceX + Tesla) and Kanye West",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1557037701618024449",
+    "image_url": "https://pbs.twimg.com/media/FZu1iTAVsAARL6v?format=png&name=large",
+    "image_filename": "techbrodrip_310.jpg",
+    "description": "Jack Parsons (rocket engineer, occultist and co-founder of @NASAJPL)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1556680617097474048",
+    "image_url": "https://pbs.twimg.com/media/FZpwxYoUIAs6lXC?format=jpg&name=large",
+    "image_filename": "techbrodrip_311.jpg",
+    "description": "Julian Assange (founder of Wikileaks)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1556323419125317634",
+    "image_url": "https://pbs.twimg.com/media/FZkr5KJXEAEc-0R?format=jpg&name=large",
+    "image_filename": "techbrodrip_312.jpg",
+    "description": "John Carmack (legendary programmer and co-creator of DOOM + Quake)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1555924880478146562",
+    "image_url": "https://pbs.twimg.com/media/FZfBblRWQAE3ZJW?format=jpg&name=large",
+    "image_filename": "techbrodrip_313.jpg",
+    "description": "Cliff Bleszinski aka CliffyB (game designer - Unreal and Gears of War)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1555594215916199939",
+    "image_url": "https://pbs.twimg.com/media/FZaUsZcWYAAW2Dr?format=jpg&name=large",
+    "image_filename": "techbrodrip_314.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1554856274587594752",
+    "image_url": "https://pbs.twimg.com/media/FZP1ioAUIAAHa--?format=jpg&name=large",
+    "image_filename": "techbrodrip_315.jpg",
+    "description": "CZ (founder of Binance)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1554518176494260224",
+    "image_url": "https://pbs.twimg.com/media/FZLCCq1VsAA5vuK.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_316.png",
+    "description": "John Romero (co-creator of DOOM)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1554518176494260224",
+    "image_url": "https://pbs.twimg.com/media/FZLCCq1VsAA5vuK?format=png&name=large",
+    "image_filename": "techbrodrip_317.jpg",
+    "description": "John Romero (co-creator of DOOM)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1554130499441815553",
+    "image_url": "https://pbs.twimg.com/media/FZFhc8MVsAUUeNU?format=jpg&name=large",
+    "image_filename": "techbrodrip_318.jpg",
+    "description": "Mark Zuckerberg (founder of Facebook), Snoop Dog and Sean Parker (founder of Napster)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1553746510709264385",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1300152902166609920/pu/img/bPVco-CE1Oo_kwfx.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_319.jpg",
+    "description": "Bill Gates (co-founder of Microsoft) https://t.co/rwJL7NBCUZ",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1553068494559666176",
+    "image_url": "https://pbs.twimg.com/media/FY2bkDxVEAEJYn-.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_320.png",
+    "description": "Ross Ulbricht (founder of Silk Road)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1553068494559666176",
+    "image_url": "https://pbs.twimg.com/media/FY2bkDxVEAEJYn-?format=png&name=large",
+    "image_filename": "techbrodrip_321.jpg",
+    "description": "Ross Ulbricht (founder of Silk Road)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1553062626522849281",
+    "image_url": "https://pbs.twimg.com/media/FY2WOndUEAAPEVw?format=jpg&name=large",
+    "image_filename": "techbrodrip_322.jpg",
+    "description": "Prafulla Chandra Ray (chemist and founder of India's first pharmaceutical company)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1552705790506479618",
+    "image_url": "https://pbs.twimg.com/media/FYxRr9UUUAESntK?format=png&name=large",
+    "image_filename": "techbrodrip_323.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1552354571963363328",
+    "image_url": "https://pbs.twimg.com/media/FYsSQXMagAA1rcI?format=jpg&name=large",
+    "image_filename": "techbrodrip_324.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1551964022869594112",
+    "image_url": "https://pbs.twimg.com/media/FYmvDJ8VEAUtj-y?format=jpg&name=large",
+    "image_filename": "techbrodrip_325.jpg",
+    "description": "Albert Hofmann (chemist + the first person to synthesize LSD)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1551620962872729606",
+    "image_url": "https://pbs.twimg.com/media/FYh3CrEUcAAqHBy?format=png&name=large",
+    "image_filename": "techbrodrip_326.jpg",
+    "description": "Elon Musk (SpaceX, Tesla) and Sergey Brin (co-founder of Google) partying together the day the Wall Street Journal claimed their relationship had ruptured because Elon slept with Sergey's wife",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1551610465960075264",
+    "image_url": "https://pbs.twimg.com/media/FYhtfj1UsAE_jBQ.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_327.png",
+    "description": "Gottfrid Svartholm (co-founder of Pirate Bay)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1551610465960075264",
+    "image_url": "https://pbs.twimg.com/media/FYhtfj1UsAE_jBQ?format=png&name=large",
+    "image_filename": "techbrodrip_328.jpg",
+    "description": "Gottfrid Svartholm (co-founder of Pirate Bay)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1550548176892964864",
+    "image_url": "https://pbs.twimg.com/media/FYSnWSPVUAEf91q?format=png&name=large",
+    "image_filename": "techbrodrip_329.jpg",
+    "description": "Delian Asparouhov (co-founder of Varda and principal at Founders Fund) and Nadia Asparouhov (researcher) getting married at Hereticon",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1550188917470556160",
+    "image_url": "https://pbs.twimg.com/media/FYNgmrMUYAIe8qo?format=png&name=large",
+    "image_filename": "techbrodrip_330.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1549798426325307392",
+    "image_url": "https://pbs.twimg.com/media/FYH9dH9UsAEDXCx?format=jpg&name=large",
+    "image_filename": "techbrodrip_331.jpg",
+    "description": "Isambard Kingdom Brunel (revolutionary civil engineer and designer of the first propeller driven transatlantic steamship)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1549436949714182146",
+    "image_url": "https://pbs.twimg.com/media/FYC0savVUAAsbtP?format=jpg&name=large",
+    "image_filename": "techbrodrip_332.jpg",
+    "description": "Patri Friedman (software engineer and founder of the Seasteading Institute and Pronomos Capital)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1547992562916474880",
+    "image_url": "https://pbs.twimg.com/media/FXuTCCJUYAAb2mi?format=jpg&name=large",
+    "image_filename": "techbrodrip_333.jpg",
+    "description": "Sasha Shulgin (biochemist and psychedelic pioneer) while working at DOW Chemical",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1547619893977026560",
+    "image_url": "https://pbs.twimg.com/media/FXpAFyPVsAAdJ0e?format=png&name=large",
+    "image_filename": "techbrodrip_334.jpg",
+    "description": "The Paypal Mafia (2007)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1546893974203379713",
+    "image_url": "https://pbs.twimg.com/media/FXer3tGUcAER1vR.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_335.png",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1546893974203379713",
+    "image_url": "https://pbs.twimg.com/media/FXer3tGUcAER1vR?format=png&name=large",
+    "image_filename": "techbrodrip_336.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1546529594550890496",
+    "image_url": "https://pbs.twimg.com/media/FXZgd83VQAErXWi.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_337.png",
+    "description": "Bill Gates (co-founder of Microsoft) and Shaq",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1546529594550890496",
+    "image_url": "https://pbs.twimg.com/media/FXZgd83VQAErXWi?format=png&name=large",
+    "image_filename": "techbrodrip_338.jpg",
+    "description": "Bill Gates (co-founder of Microsoft) and Shaq",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1545497675453255680",
+    "image_url": "https://pbs.twimg.com/media/FXK18ZxVUAATX_K?format=png&name=large",
+    "image_filename": "techbrodrip_339.jpg",
+    "description": "Richard Craib (founder + CEO of Numerai)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1544720428727296000",
+    "image_url": "https://pbs.twimg.com/media/FW_y_NNVQAAKx1X?format=png&name=large",
+    "image_filename": "techbrodrip_340.jpg",
+    "description": "Wernher von Braun (godfather of rocketry)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1543275220810706944",
+    "image_url": "https://pbs.twimg.com/media/FWrQoiSUIAAYKw8.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_341.jpg",
+    "description": "Jeff Bezos (founder of Amazon)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1543275220810706944",
+    "image_url": "https://pbs.twimg.com/media/FWrQoiSUIAAYKw8?format=jpg&name=large",
+    "image_filename": "techbrodrip_342.jpg",
+    "description": "Jeff Bezos (founder of Amazon)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1542998235823804416",
+    "image_url": "https://pbs.twimg.com/media/FWnUt8FVsAECU0W?format=jpg&name=large",
+    "image_filename": "techbrodrip_343.jpg",
+    "description": "Jack Parsons (rocket engineer, occultist and co-founder of @NASAJPL) and his wife Marjorie Cameron",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1542531711547740165",
+    "image_url": "https://pbs.twimg.com/media/FWgsamlVsAAgImf.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_344.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1542531711547740165",
+    "image_url": "https://pbs.twimg.com/media/FWgsamlVsAAgImf?format=jpg&name=large",
+    "image_filename": "techbrodrip_345.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1542527789793824769",
+    "image_url": "https://pbs.twimg.com/media/FWgo2WdUEAIvlY1?format=jpg&name=large",
+    "image_filename": "techbrodrip_346.jpg",
+    "description": "Henry Ford (founder of Ford Motor Company)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1542142790234144775",
+    "image_url": "https://pbs.twimg.com/media/FWbKsMkWAAEum6E?format=png&name=large",
+    "image_filename": "techbrodrip_347.jpg",
+    "description": "Whitfield Diffie (legendary cryptographer and co-creator of Diffie-Hellman key exchange)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1541820735500550144",
+    "image_url": "https://pbs.twimg.com/media/FWWlyNRVEAAfI1F?format=png&name=large",
+    "image_filename": "techbrodrip_348.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1541453678527143937",
+    "image_url": "https://pbs.twimg.com/media/FWRX81xUcAAs45R.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_349.jpg",
+    "description": "Hal Finney (cryptographer and recipient of the first Bitcoin transaction)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1541453678527143937",
+    "image_url": "https://pbs.twimg.com/media/FWRX81xUcAAs45R?format=jpg&name=large",
+    "image_filename": "techbrodrip_350.jpg",
+    "description": "Hal Finney (cryptographer and recipient of the first Bitcoin transaction)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1540788868428926982",
+    "image_url": "https://pbs.twimg.com/media/FWH7TqLWYAANHGt.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_351.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum) and his dad",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1540788868428926982",
+    "image_url": "https://pbs.twimg.com/media/FWH7TqLWYAANHGt?format=jpg&name=large",
+    "image_filename": "techbrodrip_352.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum) and his dad",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1540374792116637696",
+    "image_url": "https://pbs.twimg.com/media/FWCCtXCUEAEnS3K?format=jpg&name=large",
+    "image_filename": "techbrodrip_353.jpg",
+    "description": "Mark Zuckerberg (founder + CEO of Facebook/Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1540034226036170754",
+    "image_url": "https://pbs.twimg.com/media/FV9M5eGVUAAq_Qz.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_354.png",
+    "description": "Steve Jobs (1981)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1540034226036170754",
+    "image_url": "https://pbs.twimg.com/media/FV9M5eGVUAAq_Qz?format=png&name=large",
+    "image_filename": "techbrodrip_355.jpg",
+    "description": "Steve Jobs (1981)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1540010683902726147",
+    "image_url": "https://pbs.twimg.com/media/FV83dwYUYAAfA7p?format=png&name=large",
+    "image_filename": "techbrodrip_356.jpg",
+    "description": "Howard Hughes (engineer/aviator/business titan)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1540008225642164226",
+    "image_url": "https://pbs.twimg.com/media/FV81UZrVsAAGHfc?format=jpg&name=large",
+    "image_filename": "techbrodrip_357.jpg",
+    "description": "Hackers (1995)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1539649460677971968",
+    "image_url": "https://pbs.twimg.com/media/FV3vBk_VUAYGCzj?format=jpg&name=large",
+    "image_filename": "techbrodrip_358.jpg",
+    "description": "Richard Stallman (godfather of the free software movement)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1539284342198767617",
+    "image_url": "https://pbs.twimg.com/media/FVyi815UcAALMfR?format=png&name=large",
+    "image_filename": "techbrodrip_359.jpg",
+    "description": "Steve Jobs showing off the Macintosh to Andy Warhol, Keith Haring and Sean Ono Lennon (1984)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1538927405930188800",
+    "image_url": "https://pbs.twimg.com/media/FVteUZbUUAATlMS?format=png&name=large",
+    "image_filename": "techbrodrip_360.jpg",
+    "description": "Alex Karp (co-founder + CEO of Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1538661265924452352",
+    "image_url": "https://pbs.twimg.com/media/FVpsRFQUAAI5Fmh?format=jpg&name=large",
+    "image_filename": "techbrodrip_361.jpg",
+    "description": "Size Chad (Arbitrum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1537835551444717568",
+    "image_url": "https://pbs.twimg.com/media/FVd9SGbUcAEzCU1?format=png&name=large",
+    "image_filename": "techbrodrip_362.jpg",
+    "description": "Bill Gates (co-founder of Microsoft)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1537447935297789955",
+    "image_url": "https://pbs.twimg.com/media/FVYcv5LUUAIX5yU?format=jpg&name=large",
+    "image_filename": "techbrodrip_363.jpg",
+    "description": "Joe Gebbia (co-founder of Airbnb) and Isabelle Boemeke",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1537102135761850369",
+    "image_url": "https://pbs.twimg.com/media/FVTiPwbUAAA4Sr6?format=jpg&name=large",
+    "image_filename": "techbrodrip_364.jpg",
+    "description": "Elon Musk (SpaceX + Tesla + Neuralink + Paypal)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1536759439448977408",
+    "image_url": "https://pbs.twimg.com/media/FVOqkGjVUAAfFde?format=png&name=large",
+    "image_filename": "techbrodrip_365.jpg",
+    "description": "Ben Horowitz (co-founder and GP of a16z) and his wife Felicia Horowitz",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1536748755512217600",
+    "image_url": "https://pbs.twimg.com/media/FVOg2QnUYAA-RQg?format=png&name=large",
+    "image_filename": "techbrodrip_366.jpg",
+    "description": "The Wright Brothers (inventors of the first motor-operated airplane)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1536386413565882372",
+    "image_url": "https://pbs.twimg.com/media/FVJW8wZUsAEFjsN.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_367.png",
+    "description": "Justin Kan (co-founder of Twitch)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1536386413565882372",
+    "image_url": "https://pbs.twimg.com/media/FVJW8wZUsAEFjsN?format=png&name=large",
+    "image_filename": "techbrodrip_368.jpg",
+    "description": "Justin Kan (co-founder of Twitch)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1535315484433711104",
+    "image_url": "https://pbs.twimg.com/media/FU6JS6yUsAAToMG.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_369.png",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1535315484433711104",
+    "image_url": "https://pbs.twimg.com/media/FU6JS6yUsAAToMG?format=png&name=large",
+    "image_filename": "techbrodrip_370.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1534911300748226561",
+    "image_url": "https://pbs.twimg.com/media/FU0ZsXnUcAAwx1y.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_371.jpg",
+    "description": "Bill Gates (co-founder of Microsoft)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1534911300748226561",
+    "image_url": "https://pbs.twimg.com/media/FU0ZsXnUcAAwx1y?format=jpg&name=large",
+    "image_filename": "techbrodrip_372.jpg",
+    "description": "Bill Gates (co-founder of Microsoft)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1534579589028073474",
+    "image_url": "https://pbs.twimg.com/media/FUvsAKMUEAEO9Ig?format=png&name=large",
+    "image_filename": "techbrodrip_373.jpg",
+    "description": "John Romero and John Carmack (creators of DOOM)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1534184620610113539",
+    "image_url": "https://pbs.twimg.com/media/FUqExjhUYAAogn0?format=jpg&name=large",
+    "image_filename": "techbrodrip_374.jpg",
+    "description": "Craig Federighi (senior vice president of software engineering at Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1533839197416480769",
+    "image_url": "https://pbs.twimg.com/media/FUlKnuZVsAE1As0?format=jpg&name=large",
+    "image_filename": "techbrodrip_375.jpg",
+    "description": "Sean Parker (founder of Napster, first president of Facebook and former managing parter of Founders Fund) (2010)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1533125913151320065",
+    "image_url": "https://pbs.twimg.com/media/FUbB5JOUAAIEL7E?format=jpg&name=large",
+    "image_filename": "techbrodrip_376.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532760656239218689",
+    "image_url": "https://pbs.twimg.com/media/FUV1sW5VEAAwT1U.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_377.png",
+    "description": "Alexis Ohanian (co-founder of Reddit)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532760656239218689",
+    "image_url": "https://pbs.twimg.com/media/FUV1sW5VEAAwT1U?format=png&name=large",
+    "image_filename": "techbrodrip_378.jpg",
+    "description": "Alexis Ohanian (co-founder of Reddit)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532427130675507200",
+    "image_url": "https://pbs.twimg.com/media/FURGWoOUcAAPYpk.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_379.jpg",
+    "description": "Palmer Luckey (founder of Oculus and Anduril) and his wife Nicole",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532427130675507200",
+    "image_url": "https://pbs.twimg.com/media/FURGWoOUcAAPYpk?format=jpg&name=large",
+    "image_filename": "techbrodrip_380.jpg",
+    "description": "Palmer Luckey (founder of Oculus and Anduril) and his wife Nicole",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532375857578160128",
+    "image_url": "https://pbs.twimg.com/media/FUQXuKGUEAUIjCk?format=jpg&name=large",
+    "image_filename": "techbrodrip_381.jpg",
+    "description": "Steve Wozniak (co-founder of Apple) and David Lee Roth (lead singer of Van Halen)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532031472625864704",
+    "image_url": "https://pbs.twimg.com/media/FULegT_UYAAX6dS?format=jpg&name=large",
+    "image_filename": "techbrodrip_382.jpg",
+    "description": "John McAfee (founder of McAfee Antivirus)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1531661614650257409",
+    "image_url": "https://pbs.twimg.com/media/FUGOE-1UAAEN2ds?format=jpg&name=large",
+    "image_filename": "techbrodrip_383.jpg",
+    "description": "Jack Ma (co-founder of Alibaba)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1530944842662043649",
+    "image_url": "https://pbs.twimg.com/media/FT8COEfWIAAvweT?format=jpg&name=large",
+    "image_filename": "techbrodrip_384.jpg",
+    "description": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1530619053202710530",
+    "image_url": "https://pbs.twimg.com/media/FT3Z6mhXwAcQtMD.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_385.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1530619053202710530",
+    "image_url": "https://pbs.twimg.com/media/FT3Z6mhXwAcQtMD?format=jpg&name=large",
+    "image_filename": "techbrodrip_386.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1530208064871157760",
+    "image_url": "https://pbs.twimg.com/media/FTxkH3nUcAA03Lh.jpg?format=jpg&name=large",
+    "image_filename": "techbrodrip_387.jpg",
+    "description": "Alex Karp (co-founder + CEO of Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1530208064871157760",
+    "image_url": "https://pbs.twimg.com/media/FTxkH3nUcAA03Lh?format=jpg&name=large",
+    "image_filename": "techbrodrip_388.jpg",
+    "description": "Alex Karp (co-founder + CEO of Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1529555470612332545",
+    "image_url": "https://pbs.twimg.com/media/FToSM1lWAAYkJc_.png?format=jpg&name=large",
+    "image_filename": "techbrodrip_389.png",
+    "description": "julian assange in 1995 facing multiple charges of hacking under the alias mendax",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1529555470612332545",
+    "image_url": "https://pbs.twimg.com/media/FToSM1lWAAYkJc_?format=png&name=large",
+    "image_filename": "techbrodrip_390.jpg",
+    "description": "julian assange in 1995 facing multiple charges of hacking under the alias mendax",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1529862452510220291",
+    "image_url": "https://pbs.twimg.com/media/FTsplbIUYAUA7yw.png",
+    "image_filename": "techbrodrip_391.jpg",
+    "description": "David Sacks and Snoop Dog at Sacks' Marie Antoinette themed birthday party (2012)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1530208264079626247",
+    "image_url": "https://pbs.twimg.com/media/FTxkH3nUcAA03Lh.jpg",
+    "image_filename": "techbrodrip_392.jpg",
+    "description": "\u201csubmitted by @vbronjames\u201d",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1531664995057954818",
+    "image_url": "https://pbs.twimg.com/media/FUGOE-1UAAEN2ds.jpg",
+    "image_filename": "techbrodrip_393.jpg",
+    "description": "\u201csubmitted by @mysticarcanum\u201d",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532376602683658240",
+    "image_url": "https://pbs.twimg.com/media/FUQXuKGUEAUIjCk.jpg",
+    "image_filename": "techbrodrip_394.jpg",
+    "description": "\u201csubmitted by @mukul0x\u201d",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1532768049056452608",
+    "image_url": "https://pbs.twimg.com/media/FUV1sW5VEAAwT1U.png",
+    "image_filename": "techbrodrip_395.jpg",
+    "description": "\u201csubmitted by @dumpingduckling\u201d",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1546244142602170368",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1501577435111833601/pu/img/UiMpdQQVL5Gqt6hi.jpg",
+    "image_filename": "techbrodrip_396.jpg",
+    "description": "David Bowie (honorary technology brother) on the internet (1999):\n\n\u201cwe\u2019re on the cusp of something exhilarating and terrifying\u201d",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1550156755371302914",
+    "image_url": "https://pbs.twimg.com/media/FYNDWhJUUAA_V7n.png",
+    "image_filename": "techbrodrip_397.jpg",
+    "description": "Hal Finney (cryptographer and recipient of the first Bitcoin transaction)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1562949407552614400",
+    "image_url": "https://pbs.twimg.com/media/FbC2MvOUcAEEZJr.png",
+    "image_filename": "techbrodrip_398.jpg",
+    "description": "Watson and Crick (discoverers of the double helix)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1563924159037464576",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1116133063518351360/pu/img/mnAZDkQjgRM37o3D.jpg",
+    "image_filename": "techbrodrip_399.jpg",
+    "description": "Vitalik Buterin (co-creator of Ethereum) rapping",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1583166083686490114",
+    "image_url": "https://pbs.twimg.com/media/FfiJGoNUAAAi3O8.jpg",
+    "image_filename": "techbrodrip_400.jpg",
+    "description": "Mark Zuckerberg (co-founder of Facebook/Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1592934128642850816",
+    "image_url": "https://pbs.twimg.com/media/Fhs9JdQUoAAVRnE.jpg",
+    "image_filename": "techbrodrip_401.jpg",
+    "description": "Elon Musk (SpaceX + Tesla + Neuralink +Twitter + PayPal)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1610372711930531840",
+    "image_url": "https://pbs.twimg.com/media/FlkxcQPaMAAFrbk.png",
+    "image_filename": "techbrodrip_402.jpg",
+    "description": "Julian Assange (Wikileaks)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1628985368275226626",
+    "image_url": "https://pbs.twimg.com/media/FptRjtkaQAAgWXS.jpg",
+    "image_filename": "techbrodrip_403.jpg",
+    "description": "Eliezer Yudkowsky (AI-alignment theorist) + Sam Altman (co-founder of OpenAI) + Grimes",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1632488699467567104",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/1632232906616897538/img/KvKy-_d39yFfpM1O.jpg",
+    "image_filename": "techbrodrip_404.jpg",
+    "description": "Neal Stephenson (scifi author of Snow Crash, Cryptonomicon and Diamond Age)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1660723545184546816",
+    "image_url": "https://pbs.twimg.com/media/FwwTOt8aAAAxZPC.png",
+    "image_filename": "techbrodrip_405.jpg",
+    "description": "Wernher von Braun (aerospace engineer and godfather of rocketry) with JFK",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1665786199045464064",
+    "image_url": "https://pbs.twimg.com/media/Fx4Pr3FagAE1E_v.png",
+    "image_filename": "techbrodrip_406.jpg",
+    "description": "Craig Federighi (SVP of software engineering at Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1767706006010945867",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1767652773452197888/pu/img/puQPNSzBS_OqMFoE.jpg",
+    "image_filename": "techbrodrip_407.jpg",
+    "description": "Scott Wu (co-founder + CEO of Cognition Labs)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1790523471707202020",
+    "image_url": "https://pbs.twimg.com/media/GJXrT-tbUAAe2zi.jpg",
+    "image_filename": "techbrodrip_408.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1793333813462139249",
+    "image_url": "https://pbs.twimg.com/media/GOMzCeaaUAEuM3G.jpg",
+    "image_filename": "techbrodrip_409.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1795525959342526767",
+    "image_url": "https://pbs.twimg.com/media/F7NvJL0aIAATBh0.jpg",
+    "image_filename": "techbrodrip_410.jpg",
+    "description": "Steve Jobs (co-founder of Apple)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1805489688184340691",
+    "image_url": "https://pbs.twimg.com/media/FToSM1lWAAYkJc_.png",
+    "image_filename": "techbrodrip_411.jpg",
+    "description": "julian assange in 1995 facing multiple charges of hacking under the alias mendax",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1806762910867509405",
+    "image_url": "https://pbs.twimg.com/media/Ffm1VO-UAAUSDPM.jpg",
+    "image_filename": "techbrodrip_412.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1810402965074874719",
+    "image_url": "https://pbs.twimg.com/media/GFY2pnoa0AAbKBl.jpg",
+    "image_filename": "techbrodrip_413.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1812949448932356182",
+    "image_url": "https://pbs.twimg.com/media/Ff2vgdAUcAAZMd3.jpg",
+    "image_filename": "techbrodrip_414.jpg",
+    "description": "Peter Thiel (legendary investor and co-founder of Paypal + Palantir)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1814108058114826359",
+    "image_url": "https://pbs.twimg.com/media/GS0BqXbaoAAvFrK.jpg",
+    "image_filename": "techbrodrip_415.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1814700186939367707",
+    "image_url": "https://pbs.twimg.com/media/FgffPaLVEAAJQ83.png",
+    "image_filename": "techbrodrip_416.jpg",
+    "description": "Peter Thiel (in crown), playing multiple Paypal employees at chess simultaneously \u2014 including David Sacks (the only winner), Max Levchin and Roelof Botha",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1815120451586425194",
+    "image_url": "https://pbs.twimg.com/media/Ffm1VO-UAAUSDPM.jpg",
+    "image_filename": "techbrodrip_417.jpg",
+    "description": "Elizabeth Holmes (founder of Theranos) and Joe Biden",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1827468244313370849",
+    "image_url": "https://pbs.twimg.com/media/FvEUBiQaAAA_EvM.jpg",
+    "image_filename": "techbrodrip_418.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1827722465205952658",
+    "image_url": "https://pbs.twimg.com/media/Fxj3XmJaAAEnVuo.jpg",
+    "image_filename": "techbrodrip_419.jpg",
+    "description": "Pavel Durov (founder of Telegram and VK)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1828914594150264938",
+    "image_url": "https://pbs.twimg.com/media/Fw_ZLRrakAAi_Uq.png",
+    "image_filename": "techbrodrip_420.jpg",
+    "description": "Jensen Huang (co-founder and CEO of NVIDIA)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1831380950900732136",
+    "image_url": "https://pbs.twimg.com/media/GJXrT-tbUAAe2zi.jpg",
+    "image_filename": "techbrodrip_421.jpg",
+    "description": "Ilya Sutzkever (co-founder and chief scientist of OpenAI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1832088371004666278",
+    "image_url": "https://pbs.twimg.com/media/GWziqH5XcAAUbYj.jpg",
+    "image_filename": "techbrodrip_422.jpg",
+    "description": "Vitalik Buterin (co-founder of Ethereum)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1842355523867623664",
+    "image_url": "https://pbs.twimg.com/media/GZFcY89bYAArPOt.jpg",
+    "image_filename": "techbrodrip_423.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1843696974866022450",
+    "image_url": "https://pbs.twimg.com/media/Fv8R64iaEAETzsl.png",
+    "image_filename": "techbrodrip_424.jpg",
+    "description": "Chris Riesbeck (computer scientist and AI researcher) and Geoffrey Hinton (computer scientist known as one of the godfathers of AI)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1854258111558918517",
+    "image_url": "https://pbs.twimg.com/media/FnfvQbTaYAIDtX4.png",
+    "image_filename": "techbrodrip_425.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1856138785677021476",
+    "image_url": "https://pbs.twimg.com/media/FWRX81xUcAAs45R.jpg",
+    "image_filename": "techbrodrip_426.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1856750033489858994",
+    "image_url": "https://pbs.twimg.com/media/GcSATxnbkAEzYJE.jpg",
+    "image_filename": "techbrodrip_427.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1870359798203744602",
+    "image_url": "https://pbs.twimg.com/media/FlvPxxBaUAEPxNl.jpg",
+    "image_filename": "techbrodrip_428.jpg",
+    "description": "Sam Altman (co-founder of OpenAI and former president of Y Combinator)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1886284723456287031",
+    "image_url": "https://pbs.twimg.com/media/GFqbRFtbEAA5uZO.jpg",
+    "image_filename": "techbrodrip_429.jpg",
+    "description": "Luke Farritor (Vesuvius Challenge winner and former SpaceX intern)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1892304540495483176",
+    "image_url": "https://pbs.twimg.com/media/GkLQ8rIbUAM8_j0.jpg",
+    "image_filename": "techbrodrip_430.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1896370687981568040",
+    "image_url": "https://pbs.twimg.com/media/FWRX81xUcAAs45R.jpg",
+    "image_filename": "techbrodrip_431.jpg",
+    "description": "Hal Finney (cryptographer and recipient of the first Bitcoin transaction)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1898057896300363805",
+    "image_url": "https://pbs.twimg.com/media/F-_CSMaaMAAa7ni.jpg",
+    "image_filename": "techbrodrip_432.jpg",
+    "description": "Jim Simons (mathematician and billionaire founder of Renaissance Technologies)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1904762589240000760",
+    "image_url": "https://pbs.twimg.com/media/Gm8TeoxbYAMKed7.jpg",
+    "image_filename": "techbrodrip_433.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1904949865760862284",
+    "image_url": "https://pbs.twimg.com/media/Gm-9zrMbYAAe5FV.jpg",
+    "image_filename": "techbrodrip_434.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1914677804916199831",
+    "image_url": "https://pbs.twimg.com/media/GpHy2tWb0AA-kqj.jpg",
+    "image_filename": "techbrodrip_435.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1941143799792877716",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808899439572234244/pu/img/zxA_lW-8bXpgLKLZ.jpg",
+    "image_filename": "techbrodrip_436.jpg",
+    "description": "Mark Zuckerberg (co-founder and CEO of Meta)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1965844958595919952",
+    "image_url": "https://pbs.twimg.com/media/G0gVkVVaMAQXLRj.jpg",
+    "image_filename": "techbrodrip_437.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1980734412770914529",
+    "image_url": "https://pbs.twimg.com/media/G3z61U4WAAAAT6i.jpg",
+    "image_filename": "techbrodrip_438.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1985420890507751782",
+    "image_url": "https://pbs.twimg.com/media/FmscFFAaEAEi9u0.png",
+    "image_filename": "techbrodrip_439.jpg",
+    "description": "Claude Shannon (mathematician, electrical engineer, and cryptographer known as one of the fathers of information theory)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1986912868407910762",
+    "image_url": "https://pbs.twimg.com/media/G5LusB9acAAUFpm.jpg",
+    "image_filename": "techbrodrip_440.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1986912987446419866",
+    "image_url": "https://pbs.twimg.com/media/G5LusB9acAAUFpm.jpg",
+    "image_filename": "techbrodrip_441.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1989098957285519416",
+    "image_url": "https://pbs.twimg.com/media/GFY2pnoa0AAbKBl.jpg",
+    "image_filename": "techbrodrip_442.jpg",
+    "description": "Jeff Bezos (Founder of Amazon and Blue Origin)",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1990470092149367117",
+    "image_url": "https://pbs.twimg.com/media/FcfED_IaIAIUdXT.jpg",
+    "image_filename": "techbrodrip_443.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1990878701253525755",
+    "image_url": "https://pbs.twimg.com/media/G6EFoHMbMAAPoJ8.jpg",
+    "image_filename": "techbrodrip_444.jpg",
+    "description": "",
+    "downloaded": true
+  },
+  {
+    "tweet_url": "https://x.com/TechBroDrip/status/1991170651814817851",
+    "image_url": "https://pbs.twimg.com/media/GJx8F0OakAMSvtG.jpg",
+    "image_filename": "techbrodrip_445.jpg",
+    "description": "Demis Hassabis (co-founder and CEO of DeepMind) playing in the World Series of Poker",
+    "downloaded": true
+  }
+]
