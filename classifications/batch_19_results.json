@@ -1,0 +1,193 @@
+{
+  "batch": 19,
+  "classified_at": "2026-05-27T22:55:00Z",
+  "classifications": [
+    {
+      "index": 396,
+      "filename": "tbd_396_Steve_Jobs_showing_off_the_Macintosh_to_Andy_Warhol__Keith_H.png",
+      "category": "tech_founders",
+      "subcategory": "apple",
+      "interestingness": 5,
+      "visual_type": "candid_photo",
+      "setting": "indoor_casual",
+      "is_duplicate_of": null,
+      "notes": "Black-and-white 4-panel collage of Steve Jobs demonstrating the original Macintosh to Andy Warhol and Keith Haring. Iconic cultural crossover moment from the 1980s."
+    },
+    {
+      "index": 397,
+      "filename": "tbd_397_Alex_Karp__co_founder___CEO_of_Palantir.png",
+      "category": "tech_founders",
+      "subcategory": "defense_tech",
+      "interestingness": 4,
+      "visual_type": "portrait",
+      "setting": "indoor_formal",
+      "is_duplicate_of": null,
+      "notes": "Alex Karp seated in a suit with signature wild curly hair, red bandana/scarf, and purple sweater. Distinctive eccentric CEO look."
+    },
+    {
+      "index": 398,
+      "filename": "tbd_398_Size_Chad__Arbitrum.jpg",
+      "category": "tech_culture",
+      "subcategory": "crypto",
+      "interestingness": 3,
+      "visual_type": "stylized_portrait",
+      "setting": "outdoor",
+      "is_duplicate_of": null,
+      "notes": "Black-and-white profile shot of a man in sunglasses and sleeveless white tee smoking a cigarette. Moody, aesthetic crypto-bro archetype photo."
+    },
+    {
+      "index": 399,
+      "filename": "tbd_399_Bill_Gates__co_founder_of_Microsoft.png",
+      "category": "tech_founders",
+      "subcategory": "microsoft",
+      "interestingness": 5,
+      "visual_type": "mugshot",
+      "setting": "police_station",
+      "is_duplicate_of": null,
+      "notes": "Famous 1977 Albuquerque police mugshot of a young Bill Gates, side and front view. APD booking number 105519, dated 12-13-77."
+    },
+    {
+      "index": 400,
+      "filename": "tbd_400_Joe_Gebbia__co_founder_of_Airbnb__and_Isabelle_Boemeke.jpg",
+      "category": "tech_founders",
+      "subcategory": "startups",
+      "interestingness": 4,
+      "visual_type": "event_photo",
+      "setting": "red_carpet_gala",
+      "is_duplicate_of": null,
+      "notes": "Joe Gebbia (Airbnb co-founder) and Isabelle Boemeke at the Met Gala. She wears a dramatic black leather and gold outfit; he wears a polka-dot tuxedo."
+    },
+    {
+      "index": 401,
+      "filename": "tbd_401_Elon_Musk__SpaceX___Tesla___Neuralink___Paypal.jpg",
+      "category": "tech_founders",
+      "subcategory": "multi_venture",
+      "interestingness": 4,
+      "visual_type": "candid_photo",
+      "setting": "indoor_casual",
+      "is_duplicate_of": null,
+      "notes": "Young Elon Musk in a leather jacket standing next to a 'LIBERTY' poster. Early-era photo with long hair and goth-adjacent aesthetic."
+    },
+    {
+      "index": 402,
+      "filename": "tbd_402_Ben_Horowitz__co_founder_and_GP_of_a16z__and_his_wife_Felici.png",
+      "category": "tech_founders",
+      "subcategory": "venture_capital",
+      "interestingness": 3,
+      "visual_type": "candid_photo",
+      "setting": "outdoor_conference",
+      "is_duplicate_of": null,
+      "notes": "Ben Horowitz and his wife Felicia walking casually outdoors, likely at Sun Valley or similar tech conference. She wears a 'Feminist' skirt; he's in casual layered attire."
+    },
+    {
+      "index": 403,
+      "filename": "tbd_403_The_Wright_Brothers__inventors_of_the_first_motor_operated_a.png",
+      "category": "innovation_pioneers",
+      "subcategory": "aviation",
+      "interestingness": 5,
+      "visual_type": "historical_photo",
+      "setting": "studio_portrait",
+      "is_duplicate_of": null,
+      "notes": "Classic black-and-white photograph of the Wright Brothers walking side by side in bowler hats and suits. Iconic early 1900s image of the aviation pioneers."
+    },
+    {
+      "index": 404,
+      "filename": "tbd_404_John_Romero_and_John_Carmack__creators_of_DOOM.png",
+      "category": "tech_founders",
+      "subcategory": "gaming",
+      "interestingness": 5,
+      "visual_type": "promotional_photo",
+      "setting": "studio",
+      "is_duplicate_of": null,
+      "notes": "John Romero and John Carmack posing back-to-back holding fantasy swords/weapons against a purple-lit backdrop. Iconic 1990s id Software promo shot for DOOM creators."
+    },
+    {
+      "index": 405,
+      "filename": "tbd_405_Craig_Federighi__senior_vice_president_of_software_engineeri.jpg",
+      "category": "tech_executives",
+      "subcategory": "apple",
+      "interestingness": 4,
+      "visual_type": "promotional_photo",
+      "setting": "outdoor_campus",
+      "is_duplicate_of": null,
+      "notes": "Craig Federighi (Apple SVP) holding a basketball in a white tracksuit with rainbow stripes and Swift logo at Apple Park. Fun, sporty WWDC-style promo image."
+    },
+    {
+      "index": 406,
+      "filename": "tbd_406_Sean_Parker__founder_of_Napster__first_president_of_Facebook.jpg",
+      "category": "tech_founders",
+      "subcategory": "social_media",
+      "interestingness": 4,
+      "visual_type": "candid_photo",
+      "setting": "indoor_nightlife",
+      "is_duplicate_of": null,
+      "notes": "Young Sean Parker with curly bleached blonde hair, wearing a red leather jacket and blue V-neck with a chain necklace. Distinctly early-2000s party aesthetic."
+    },
+    {
+      "index": 407,
+      "filename": "tbd_407_Pavel_Durov__founder_of_Telegram_and_VK.jpg",
+      "category": "tech_founders",
+      "subcategory": "messaging",
+      "interestingness": 5,
+      "visual_type": "editorial_photo",
+      "setting": "outdoor_desert",
+      "is_duplicate_of": null,
+      "notes": "Pavel Durov sitting barefoot on sand dunes in all black clothing. Striking editorial-style shot of the Telegram founder, very cinematic desert composition."
+    },
+    {
+      "index": 408,
+      "filename": "tbd_408_Steve_Wozniak__co_founder_of_Apple__and_David_Lee_Roth__lead.jpg",
+      "category": "tech_founders",
+      "subcategory": "apple",
+      "interestingness": 5,
+      "visual_type": "candid_photo",
+      "setting": "backstage",
+      "is_duplicate_of": null,
+      "notes": "Steve Wozniak and David Lee Roth (Van Halen) backstage, both holding drinks and posing together. Fun 1980s tech-meets-rock crossover moment."
+    },
+    {
+      "index": 409,
+      "filename": "tbd_409_John_McAfee__founder_of_McAfee_Antivirus.jpg",
+      "category": "tech_founders",
+      "subcategory": "cybersecurity",
+      "interestingness": 5,
+      "visual_type": "candid_photo",
+      "setting": "outdoor_residential",
+      "is_duplicate_of": null,
+      "notes": "John McAfee wearing a samurai helmet and holding a shotgun while standing next to a classic muscle car in a wooded area. Peak McAfee eccentricity."
+    },
+    {
+      "index": 410,
+      "filename": "tbd_410_Jack_Ma__co_founder_of_Alibaba.jpg",
+      "category": "tech_founders",
+      "subcategory": "ecommerce",
+      "interestingness": 5,
+      "visual_type": "performance_photo",
+      "setting": "stage",
+      "is_duplicate_of": null,
+      "notes": "Jack Ma performing on stage in full punk rock costume — white wig with red spiky mohawk, studded leather jacket, sunglasses, holding a microphone. Famous Alibaba annual party performance."
+    },
+    {
+      "index": 411,
+      "filename": "tbd_411_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+      "category": "tech_culture",
+      "subcategory": "hackers",
+      "interestingness": 4,
+      "visual_type": "candid_photo",
+      "setting": "pool_nighttime",
+      "is_duplicate_of": null,
+      "notes": "Stephen Watt shirtless in a pool at night holding a bottle of Moet & Chandon champagne. The convicted hacker and former Morgan Stanley programmer living a flashy lifestyle."
+    },
+    {
+      "index": 412,
+      "filename": "tbd_412_julian_assange_in_1995_facing_multiple_charges_of_hacking_un.png",
+      "category": "tech_culture",
+      "subcategory": "hackers",
+      "interestingness": 5,
+      "visual_type": "press_photo",
+      "setting": "outdoor_courthouse",
+      "is_duplicate_of": null,
+      "notes": "Young Julian Assange in 1995 outside a courthouse wearing a dark blazer, tie, and round sunglasses with long hair. Taken during his early hacking charges in Melbourne."
+    }
+  ]
+}
