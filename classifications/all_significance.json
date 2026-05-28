@@ -1,0 +1,3180 @@
+[
+  {
+    "index": 0,
+    "filename": "images/000_nvidia-hopper-architecture-h100-die_49fd9ed5-1ea4-4582-abc9-.jpg",
+    "alt": "H100 Die Shot",
+    "significance": 8,
+    "reason": "NVIDIA H100 - the chip that powered the AI revolution of 2023-2024, cornerstone of modern AI infrastructure"
+  },
+  {
+    "index": 1,
+    "filename": "images/001_nvidia-hgx-h200_dcd4e3bf-a064-4fb6-9b5f-561a684e7ffb-prv.jpg",
+    "alt": "HGX H200",
+    "significance": 7,
+    "reason": "Next-gen NVIDIA AI server platform, significant AI infrastructure"
+  },
+  {
+    "index": 2,
+    "filename": "images/002_tsmc-flag-1280x680-3.jpg",
+    "alt": "Blackwell Wafer",
+    "significance": 7,
+    "reason": "NVIDIA Blackwell wafer - next-gen AI chip architecture"
+  },
+  {
+    "index": 3,
+    "filename": "images/003_J2048.IEEE_Cerebras.Cerebras4961.web_-scaled.jpg",
+    "alt": "Cerebras WSE-2",
+    "significance": 6,
+    "reason": "Largest chip ever built - innovative approach to AI compute but niche market"
+  },
+  {
+    "index": 4,
+    "filename": "images/004_eighth-generation_TPU.max-2000x2000.jpg",
+    "alt": "Google TPU v8",
+    "significance": 7,
+    "reason": "Google's custom AI accelerator, powers major AI services including Gemini"
+  },
+  {
+    "index": 5,
+    "filename": "images/005_e379e8b66e.jpg",
+    "alt": "Silicon Wafer",
+    "significance": 5,
+    "reason": "Generic silicon wafer photo - representative of semiconductor industry but not a specific milestone"
+  },
+  {
+    "index": 6,
+    "filename": "images/006_exe5000.jpg",
+    "alt": "ASML EUV",
+    "significance": 8,
+    "reason": "ASML EUV lithography machine - the most critical bottleneck technology in chip manufacturing, enables all advanced chips"
+  },
+  {
+    "index": 7,
+    "filename": "images/007_rawImage.jpg",
+    "alt": "Clean Room",
+    "significance": 4,
+    "reason": "Generic cleanroom photo - representative but not a specific milestone"
+  },
+  {
+    "index": 8,
+    "filename": "images/008_techniker-in-reinraum-arbeiten-an-halbleiteranlage.jpg",
+    "alt": "Fab Cleanroom",
+    "significance": 3,
+    "reason": "Generic fab cleanroom stock photo"
+  },
+  {
+    "index": 9,
+    "filename": "images/009_new-albany-data-center-campus-fiber-optics.jpg",
+    "alt": "Google Data Center",
+    "significance": 6,
+    "reason": "Google data center infrastructure - backbone of modern internet and AI"
+  },
+  {
+    "index": 10,
+    "filename": "images/010_NVIDIA_20GB200_20NVL72_20Rack_20Press_20Graphic_89a989fb-ea1.png",
+    "alt": "GB200 NVL72",
+    "significance": 7,
+    "reason": "NVIDIA GB200 NVL72 rack - cutting-edge AI supercomputer building block"
+  },
+  {
+    "index": 11,
+    "filename": "images/011_rawImage.jpg",
+    "alt": "Stargate",
+    "significance": 7,
+    "reason": "Stargate AI supercomputer project - massive AI infrastructure investment"
+  },
+  {
+    "index": 12,
+    "filename": "images/012_Natick_Deployment_59-1920x1080.jpg",
+    "alt": "Project Natick",
+    "significance": 5,
+    "reason": "Microsoft's underwater data center experiment - innovative but ultimately discontinued"
+  },
+  {
+    "index": 13,
+    "filename": "images/013_a004d44c-1c3f-4c6e-8396-add94390a5ea.jpg",
+    "alt": "Google Server Pipes",
+    "significance": 4,
+    "reason": "Google data center interior - visually interesting but generic infrastructure"
+  },
+  {
+    "index": 14,
+    "filename": "images/014_sddefault.jpg",
+    "alt": "Inside Google DC",
+    "significance": 4,
+    "reason": "Inside Google data center - generic infrastructure photo"
+  },
+  {
+    "index": 15,
+    "filename": "images/015_6HNKDTFHUBOLH7S4VB64TU7PQU.jpeg",
+    "alt": "Google DC Photo",
+    "significance": 4,
+    "reason": "Another Google data center photo - redundant"
+  },
+  {
+    "index": 16,
+    "filename": "images/016_atlas-tri-blog.jpg",
+    "alt": "Atlas",
+    "significance": 7,
+    "reason": "Boston Dynamics Atlas - iconic humanoid robot, milestone in robotics"
+  },
+  {
+    "index": 17,
+    "filename": "images/017_jump-closer-v3-final.png",
+    "alt": "Atlas Backflip",
+    "significance": 7,
+    "reason": "Atlas doing a backflip - viral moment that showcased advanced robotics capabilities"
+  },
+  {
+    "index": 18,
+    "filename": "images/018_spot-rescue.jpg",
+    "alt": "Spot Rescue",
+    "significance": 5,
+    "reason": "Boston Dynamics Spot in rescue operation - practical robotics application"
+  },
+  {
+    "index": 19,
+    "filename": "images/019_330px-Ambassador_Burns_speaks_to_a_woman_in_front_of_a_robot.jpg",
+    "alt": "Tesla Optimus",
+    "significance": 6,
+    "reason": "Tesla's humanoid robot prototype - ambitious but early stage"
+  },
+  {
+    "index": 20,
+    "filename": "images/020_960px-Sophia__28robot_29_2.jpg",
+    "alt": "Sophia",
+    "significance": 4,
+    "reason": "Sophia robot - more marketing than substance, but culturally notable"
+  },
+  {
+    "index": 21,
+    "filename": "images/021_figure02-front-featured.jpg",
+    "alt": "Figure 02",
+    "significance": 5,
+    "reason": "Figure 02 humanoid robot - promising startup in humanoid robotics"
+  },
+  {
+    "index": 22,
+    "filename": "images/022_.jpg",
+    "alt": "Amazon Astro",
+    "significance": 3,
+    "reason": "Amazon Astro home robot - consumer product with limited significance"
+  },
+  {
+    "index": 23,
+    "filename": "images/023_sddefault.jpg",
+    "alt": "Atlas Parkour",
+    "significance": 6,
+    "reason": "Atlas doing parkour - advanced robotics showcase"
+  },
+  {
+    "index": 24,
+    "filename": "images/024_1280px-Waymo_Jaguar_I-Pace_in_San_Francisco.jpg",
+    "alt": "Waymo SF",
+    "significance": 6,
+    "reason": "Waymo autonomous vehicle - leading self-driving car company"
+  },
+  {
+    "index": 25,
+    "filename": "images/025_1280px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
+    "alt": "Waymo Downtown",
+    "significance": 4,
+    "reason": "Another Waymo photo - duplicate topic"
+  },
+  {
+    "index": 26,
+    "filename": "images/026_capture.jpg",
+    "alt": "Cruise Crash",
+    "significance": 4,
+    "reason": "Cruise autonomous vehicle incident - cautionary tale but minor in grand scheme"
+  },
+  {
+    "index": 27,
+    "filename": "images/027_960px-Elon_Musk_and_the_Neuralink_Future.jpg",
+    "alt": "Neuralink",
+    "significance": 7,
+    "reason": "Neuralink brain-computer interface - potentially transformational technology"
+  },
+  {
+    "index": 28,
+    "filename": "images/028_rabbit-r1-4.jpg",
+    "alt": "Rabbit R1",
+    "significance": 3,
+    "reason": "Rabbit R1 AI device - hyped but ultimately flopped, minor significance"
+  },
+  {
+    "index": 29,
+    "filename": "images/029_ai-pin_01.jpg",
+    "alt": "Humane AI Pin",
+    "significance": 3,
+    "reason": "Humane AI Pin - ambitious but failed consumer AI product"
+  },
+  {
+    "index": 30,
+    "filename": "images/030_vision-pro-public.jpg",
+    "alt": "Vision Pro in Public",
+    "significance": 6,
+    "reason": "Apple Vision Pro worn in public - iconic image of spatial computing era"
+  },
+  {
+    "index": 31,
+    "filename": "images/031_El_20Capitan_Full_00354_3_20_281_29.jpg",
+    "alt": "El Capitan",
+    "significance": 6,
+    "reason": "El Capitan supercomputer - world's most powerful supercomputer"
+  },
+  {
+    "index": 32,
+    "filename": "images/032_historical-photo-of-seven-smiling-men-sitting-on-a-lawn-in-f.jpg",
+    "alt": "Dartmouth 1956",
+    "significance": 10,
+    "reason": "Dartmouth Conference 1956 - the BIRTH of AI as a field. Foundational moment in all of AI history"
+  },
+  {
+    "index": 33,
+    "filename": "images/033_Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328.jpg",
+    "alt": "ENIAC",
+    "significance": 10,
+    "reason": "ENIAC - first general-purpose electronic computer. Transformational moment in computing history"
+  },
+  {
+    "index": 34,
+    "filename": "images/034_cq5dam.web.1280.1280.jpeg",
+    "alt": "Deep Blue",
+    "significance": 8,
+    "reason": "IBM Deep Blue - first computer to beat a world chess champion, milestone in AI"
+  },
+  {
+    "index": 35,
+    "filename": "images/035_kasparov.game-4-deep-blue-vs-kasparov.new-york.1997.10264530.jpg",
+    "alt": "Kasparov vs Deep Blue",
+    "significance": 9,
+    "reason": "Kasparov vs Deep Blue 1997 - iconic moment when AI beat humanity's best chess player"
+  },
+  {
+    "index": 36,
+    "filename": "images/036_AlphaGo_hero.width-1300.jpg",
+    "alt": "AlphaGo",
+    "significance": 9,
+    "reason": "DeepMind AlphaGo defeating Lee Sedol - transformational AI moment, proved deep learning could master Go"
+  },
+  {
+    "index": 37,
+    "filename": "images/037_fF8MnnBPSqmN8xEHeggAqU.jpg",
+    "alt": "DGX-1 Delivery",
+    "significance": 8,
+    "reason": "Jensen hand-delivering first DGX-1 to OpenAI - symbolic moment connecting NVIDIA GPUs to the AI revolution"
+  },
+  {
+    "index": 38,
+    "filename": "images/038_introducing-openai.png",
+    "alt": "OpenAI Founding",
+    "significance": 9,
+    "reason": "OpenAI founding announcement - the organization that created ChatGPT and sparked the modern AI era"
+  },
+  {
+    "index": 39,
+    "filename": "images/039_5e1b4666-d7b4-459b-a66a-55af0c1c4de6_thmb.jpg",
+    "alt": "NVIDIA HQ",
+    "significance": 5,
+    "reason": "NVIDIA headquarters building - corporate campus photo"
+  },
+  {
+    "index": 40,
+    "filename": "images/040_news-p.v1.20240607.db4713290c7b494d9b2e014202147444_P1.jpeg",
+    "alt": "Jensen signing",
+    "significance": 5,
+    "reason": "Jensen Huang signing autographs - shows cultural celebrity status of a chip CEO"
+  },
+  {
+    "index": 41,
+    "filename": "images/041_ArchitectsCover-web-01.jpg",
+    "alt": "TIME Magazine Cover",
+    "significance": 7,
+    "reason": "TIME magazine cover featuring AI/tech - cultural milestone of AI awareness"
+  },
+  {
+    "index": 42,
+    "filename": "images/042_time-AI-Jensen-Huang-homepage-social.jpg",
+    "alt": "TIME Person of the Year",
+    "significance": 8,
+    "reason": "Jensen Huang as TIME Person of the Year - recognition of NVIDIA's central role in AI revolution"
+  },
+  {
+    "index": 43,
+    "filename": "images/043_keynote-gtc-2024.jpg",
+    "alt": "Jensen GTC 2024",
+    "significance": 7,
+    "reason": "Jensen at GTC 2024 keynote - major AI industry event where Blackwell was announced"
+  },
+  {
+    "index": 44,
+    "filename": "images/044_jhh-inference_f1b4d64a-3d5b-48b4-9687-c8e50ca7a88a-prv.jpg",
+    "alt": "GTC 2026",
+    "significance": 6,
+    "reason": "Jensen at GTC keynote - important industry event"
+  },
+  {
+    "index": 45,
+    "filename": "images/045_jensen-huang-ai-visionary-in-a-leather-jacket.jpg",
+    "alt": "Leather Jacket",
+    "significance": 5,
+    "reason": "Jensen's iconic leather jacket - cultural image but just a portrait"
+  },
+  {
+    "index": 46,
+    "filename": "images/046_380cec00-2496-11ef-baa7-25d483663b8e.jpg",
+    "alt": "Jensanity",
+    "significance": 5,
+    "reason": "Jensen 'Jensanity' cultural phenomenon - shows NVIDIA CEO's celebrity status"
+  },
+  {
+    "index": 47,
+    "filename": "images/047_66377fc8819e5-nvidia-ceo-jensen-huang-on-his-humble-beginnin.jpg",
+    "alt": "Jensen Humble Beginnings",
+    "significance": 5,
+    "reason": "Jensen early career photo - interesting backstory but not a milestone"
+  },
+  {
+    "index": 48,
+    "filename": "images/048_news-p.v1.20240319.5faa936deaeb4c4a94de944844c9b25f_P1.png",
+    "alt": "GTC Crowd",
+    "significance": 5,
+    "reason": "GTC conference crowd - shows scale of AI industry events"
+  },
+  {
+    "index": 49,
+    "filename": "images/049_Reuters-Nvidia-CEO-Jensen-Huang-Hosts-Taiwan-Tech-Leaders-Di.jpg",
+    "alt": "Jensen Taiwan Dinner",
+    "significance": 5,
+    "reason": "Jensen hosting Taiwan tech leaders - shows geopolitical importance of chips"
+  },
+  {
+    "index": 50,
+    "filename": "images/050__129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg",
+    "alt": "Sam Altman Fired",
+    "significance": 8,
+    "reason": "Sam Altman fired from OpenAI - major corporate drama that revealed tensions about AI safety and power"
+  },
+  {
+    "index": 51,
+    "filename": "images/051_5d2d0f5ea33000e8fba64389eb15c380.jpg",
+    "alt": "Altman Senate",
+    "significance": 7,
+    "reason": "Sam Altman testifying before Senate on AI - historic moment in AI regulation"
+  },
+  {
+    "index": 52,
+    "filename": "images/052_maxresdefault.jpg",
+    "alt": "OpenAI DevDay",
+    "significance": 7,
+    "reason": "OpenAI DevDay - major platform launch event for GPT-4 Turbo and custom GPTs"
+  },
+  {
+    "index": 53,
+    "filename": "images/053_1280px-Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3__28cropped_.jpg",
+    "alt": "Sam Altman",
+    "significance": 5,
+    "reason": "Sam Altman at TechCrunch - standard conference portrait"
+  },
+  {
+    "index": 54,
+    "filename": "images/054_UofT93090_2023-06-28-Hinton_40Collision_20web_20lead_20cropp.jpg",
+    "alt": "Geoffrey Hinton",
+    "significance": 8,
+    "reason": "Geoffrey Hinton - godfather of deep learning, Nobel Prize winner, foundational to all modern AI"
+  },
+  {
+    "index": 55,
+    "filename": "images/055_eyevine01515040-thumb.jpeg",
+    "alt": "Hinton Warning",
+    "significance": 7,
+    "reason": "Hinton warning about AI dangers after leaving Google - pivotal moment in AI safety debate"
+  },
+  {
+    "index": 56,
+    "filename": "images/056_230501094028-geoffrey-hinton-file-restricted-090519.jpg",
+    "alt": "Hinton Worried",
+    "significance": 5,
+    "reason": "Hinton portrait - duplicate of Hinton coverage"
+  },
+  {
+    "index": 57,
+    "filename": "images/057_fig_fy_24_4x3-1024x768.jpg",
+    "alt": "Hinton Nobel",
+    "significance": 9,
+    "reason": "Hinton winning Nobel Prize for neural network research - historic recognition of AI's scientific importance"
+  },
+  {
+    "index": 58,
+    "filename": "images/058_0d693380-8726-11ef-a051-09ae2fe6d4ad.jpg",
+    "alt": "Demis Hassabis",
+    "significance": 7,
+    "reason": "Demis Hassabis - co-founder of DeepMind, Nobel Prize winner, created AlphaFold and AlphaGo"
+  },
+  {
+    "index": 59,
+    "filename": "images/059_Ilya-at-NeurIPS24.png",
+    "alt": "Ilya NeurIPS",
+    "significance": 7,
+    "reason": "Ilya Sutskever at NeurIPS 2024 - co-founder of OpenAI, key figure in deep learning"
+  },
+  {
+    "index": 60,
+    "filename": "images/060_Ilya_Sutskever_and_Sam_Altman_in_TAU__28cropped_29.jpg",
+    "alt": "Ilya Sutskever",
+    "significance": 6,
+    "reason": "Ilya and Sam Altman together - before the dramatic OpenAI board conflict"
+  },
+  {
+    "index": 61,
+    "filename": "images/061_fbada01990f86f5afa850cc23a0259fec091f929_2880x1620.jpg",
+    "alt": "Fei-Fei Li",
+    "significance": 7,
+    "reason": "Fei-Fei Li - creator of ImageNet which catalyzed the deep learning revolution"
+  },
+  {
+    "index": 62,
+    "filename": "images/062_330px-Yann_LeCun_at_the_University_of_Minnesota.jpg",
+    "alt": "Yann LeCun",
+    "significance": 8,
+    "reason": "Yann LeCun - Turing Award winner, pioneer of convolutional neural networks, foundational to computer vision"
+  },
+  {
+    "index": 63,
+    "filename": "images/063_maxresdefault.jpg",
+    "alt": "Lisa Su",
+    "significance": 7,
+    "reason": "Lisa Su - CEO of AMD, transformed AMD into a competitive force in AI chips"
+  },
+  {
+    "index": 64,
+    "filename": "images/064_67f729215dd36a3c9d52b79d_index-card.png",
+    "alt": "Dario Amodei",
+    "significance": 7,
+    "reason": "Dario Amodei - CEO of Anthropic, key figure in AI safety and competitor to OpenAI"
+  },
+  {
+    "index": 65,
+    "filename": "images/065_sddefault.jpg",
+    "alt": "Dario Lex Fridman",
+    "significance": 4,
+    "reason": "Dario Amodei on Lex Fridman podcast - podcast appearance, not a milestone"
+  },
+  {
+    "index": 66,
+    "filename": "images/066_Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg",
+    "alt": "Andrew Ng",
+    "significance": 7,
+    "reason": "Andrew Ng - co-founded Google Brain, led AI at Baidu, democratized AI education through Coursera"
+  },
+  {
+    "index": 67,
+    "filename": "images/067_sddefault.jpg",
+    "alt": "Andrej Karpathy",
+    "significance": 6,
+    "reason": "Andrej Karpathy - founding member of OpenAI, led Tesla Autopilot AI, popular AI educator"
+  },
+  {
+    "index": 68,
+    "filename": "images/068_SundarKeynote_tempsocial.width-1300.png",
+    "alt": "Sundar Pichai",
+    "significance": 6,
+    "reason": "Sundar Pichai keynote - CEO of Google/Alphabet, stewards Gemini and DeepMind"
+  },
+  {
+    "index": 69,
+    "filename": "images/069_sddefault.jpg",
+    "alt": "Satya Nadella",
+    "significance": 7,
+    "reason": "Satya Nadella - transformed Microsoft with Azure cloud and OpenAI partnership, key AI era leader"
+  },
+  {
+    "index": 70,
+    "filename": "images/070_8b9ktkuTURBXy9iNTZhMzMyMi0xYjYwLTRkNTUtOWM2Yi0yNzAxZDRiOWNhZ.jpg",
+    "alt": "Zuckerberg gold chain",
+    "significance": 3,
+    "reason": "Zuck with gold chain - meme/lifestyle photo, not historically significant"
+  },
+  {
+    "index": 71,
+    "filename": "images/071_jeff1_wide-cedd36669ed13f8b527a0e9bddfcf51f7966304d.jpg",
+    "alt": "Zuck BJJ",
+    "significance": 3,
+    "reason": "Zuckerberg doing BJJ - personal interest, not tech milestone"
+  },
+  {
+    "index": 72,
+    "filename": "images/072_Mark-Zuckerberg-squares-up-against-former-UFC-fighter-Merab-.jpg",
+    "alt": "Zuck MMA",
+    "significance": 3,
+    "reason": "Zuckerberg MMA training - lifestyle photo"
+  },
+  {
+    "index": 73,
+    "filename": "images/073_18-784x441.jpg",
+    "alt": "Zuck Surfing",
+    "significance": 3,
+    "reason": "Zuckerberg surfing - casual lifestyle photo"
+  },
+  {
+    "index": 74,
+    "filename": "images/074__103330503_musk3.jpg",
+    "alt": "Elon smoking",
+    "significance": 5,
+    "reason": "Elon smoking weed on Joe Rogan - viral cultural moment, Tesla stock crashed 9%"
+  },
+  {
+    "index": 75,
+    "filename": "images/075_221026151430-elon-musk-entering-twitter-hq-1026-screenshot.j.jpg",
+    "alt": "Elon Sink",
+    "significance": 7,
+    "reason": "Elon walking into Twitter HQ with a sink - iconic moment of the Twitter/X acquisition"
+  },
+  {
+    "index": 76,
+    "filename": "images/076__109870790_mediaitem109870789.jpg",
+    "alt": "Cybertruck Window",
+    "significance": 5,
+    "reason": "Cybertruck window smash - viral product launch fail, culturally memorable"
+  },
+  {
+    "index": 77,
+    "filename": "images/077_sddefault.jpg",
+    "alt": "Altman Senate",
+    "significance": 5,
+    "reason": "Duplicate of Altman Senate testimony"
+  },
+  {
+    "index": 78,
+    "filename": "images/078_FgffPaLVEAAJQ83.jpg",
+    "alt": "Peter Thiel Chess",
+    "significance": 4,
+    "reason": "Peter Thiel playing chess - lifestyle photo of influential tech investor"
+  },
+  {
+    "index": 79,
+    "filename": "images/079_GKgkUNlawAAwzrD.jpg",
+    "alt": "Jensen delivers DGX to OpenAI",
+    "significance": 8,
+    "reason": "Jensen hand-delivering DGX to OpenAI - symbolic moment connecting NVIDIA to the AI revolution"
+  },
+  {
+    "index": 80,
+    "filename": "images/080_FgLfzOPVUAA1lLL.jpg",
+    "alt": "Ligma Johnson Twitter Prank",
+    "significance": 3,
+    "reason": "Ligma Johnson Twitter layoff prank - funny viral moment but not historically significant"
+  },
+  {
+    "index": 81,
+    "filename": "images/081_GHs0KwKaYAALobO.jpg",
+    "alt": "Zuckerberg and Gates",
+    "significance": 5,
+    "reason": "Two tech titans together - notable photo but not a specific milestone"
+  },
+  {
+    "index": 82,
+    "filename": "images/082_GI9o7kNbYAA-rXy.jpg",
+    "alt": "Tim Cook Sundar Pichai",
+    "significance": 4,
+    "reason": "Apple and Google CEOs together - notable but generic photo"
+  },
+  {
+    "index": 83,
+    "filename": "images/141_Steve_Jobs.jpg",
+    "alt": "Steve Jobs",
+    "significance": 8,
+    "reason": "Steve Jobs - co-founder of Apple, revolutionary figure in personal computing and smartphones"
+  },
+  {
+    "index": 84,
+    "filename": "images/084_Paypal-Mafia.png",
+    "alt": "PayPal Mafia",
+    "significance": 9,
+    "reason": "PayPal Mafia group photo - the most influential tech founding group (Musk, Thiel, Hoffman, etc.)"
+  },
+  {
+    "index": 85,
+    "filename": "images/085_102665181-03-01.jpg",
+    "alt": "Jobs and Wozniak 1976",
+    "significance": 9,
+    "reason": "Jobs and Wozniak 1976 - founding of Apple, birth of the personal computer era"
+  },
+  {
+    "index": 86,
+    "filename": "images/086_Garage__wide_shot_2.width-1300.png",
+    "alt": "Google Garage",
+    "significance": 8,
+    "reason": "Google's founding garage - birthplace of the world's most important search engine"
+  },
+  {
+    "index": 87,
+    "filename": "images/087_Larry-Sergey-1999-1427456038.jpg",
+    "alt": "Page and Brin 1999",
+    "significance": 7,
+    "reason": "Larry Page and Sergey Brin in early Google days - founders of the most influential internet company"
+  },
+  {
+    "index": 88,
+    "filename": "images/088_124452_1197689.jpg",
+    "alt": "Facebook founding team",
+    "significance": 7,
+    "reason": "Facebook founding team - early days of the social network that connected billions"
+  },
+  {
+    "index": 89,
+    "filename": "images/089_deliveryService.jpg",
+    "alt": "Original Microsoft Staff",
+    "significance": 8,
+    "reason": "Original Microsoft staff photo 1978 - historic photo of the company that brought computing to every desk"
+  },
+  {
+    "index": 90,
+    "filename": "images/090_The_Traitorous_Eight.jpg",
+    "alt": "Traitorous Eight",
+    "significance": 9,
+    "reason": "The Traitorous Eight - founders of Fairchild Semiconductor, gave birth to Silicon Valley itself"
+  },
+  {
+    "index": 91,
+    "filename": "images/091_Alan_Turing__281912-1954_29_in_1936_at_Princeton_University..jpg",
+    "alt": "Alan Turing",
+    "significance": 10,
+    "reason": "Alan Turing at Princeton 1936 - father of computer science and AI, cracked Enigma, proposed the Turing Test"
+  },
+  {
+    "index": 92,
+    "filename": "images/092_960px-Commodore_Grace_M._Hopper_2C_USN__28covered_29.jpg",
+    "alt": "Grace Hopper",
+    "significance": 7,
+    "reason": "Pioneer of the compiler and COBOL, coined 'debugging.' Foundational figure in computer science who proved software could be abstracted from hardware. Standard military portrait rather than a moment-capturing image."
+  },
+  {
+    "index": 93,
+    "filename": "images/093_960px-Margaret_Hamilton_-_restoration.jpg",
+    "alt": "Margaret Hamilton",
+    "significance": 8,
+    "reason": "Led the Apollo 11 onboard flight software team, her error-handling code literally saved the moon landing. Coined the term 'software engineering' as a discipline. One of the most consequential software engineers in history."
+  },
+  {
+    "index": 94,
+    "filename": "images/094_ClaudeShannon_MFO3807.jpg",
+    "alt": "Claude Shannon",
+    "significance": 9,
+    "reason": "Father of information theory. His 1948 paper 'A Mathematical Theory of Communication' is the mathematical bedrock of the entire digital age \u2014 without Shannon, no internet, no digital communications, no data compression. Transformational."
+  },
+  {
+    "index": 95,
+    "filename": "images/095_Ken_Thompson_and_Dennis_Ritchie--1973.jpg",
+    "alt": "Thompson and Ritchie",
+    "significance": 9,
+    "reason": "Created Unix and the C programming language \u2014 the twin foundations of virtually all modern computing. Linux, macOS, Android, iOS all descend from their work. C remains one of the most influential programming languages ever created."
+  },
+  {
+    "index": 96,
+    "filename": "images/096_sddefault.jpg",
+    "alt": "Ballmer Developers",
+    "significance": 3,
+    "reason": "Steve Ballmer's sweaty 'Developers! Developers! Developers!' rant. An iconic meme and entertaining corporate theater, but zero technological substance. Reveals Microsoft's platform strategy ethos but is culturally trivial."
+  },
+  {
+    "index": 97,
+    "filename": "images/097_hqdefault.jpg",
+    "alt": "Gates jumping chair",
+    "significance": 2,
+    "reason": "Bill Gates jumping over an office chair \u2014 a fun personality quirk from an interview. Completely trivial. Gates himself is transformational; this image captures nothing of that."
+  },
+  {
+    "index": 98,
+    "filename": "images/098_Screen-shot-2012-06-18-at-10.32.45-AM.png",
+    "alt": "Torvalds middle finger",
+    "significance": 4,
+    "reason": "Linus Torvalds giving the middle finger to NVIDIA during a talk. Culturally notable in the open-source community as a symbol of friction between open-source and proprietary vendors, but it's a provocative gesture, not a technological milestone."
+  },
+  {
+    "index": 99,
+    "filename": "images/099_w_800.jpg",
+    "alt": "Musk dancing",
+    "significance": 2,
+    "reason": "Elon Musk dancing awkwardly on stage at a Tesla event. A personality moment with no technological or historical significance. Pure entertainment value."
+  },
+  {
+    "index": 100,
+    "filename": "images/100_1280px-Steve_Jobs_and_Bill_Gates__28522695099_29.jpg",
+    "alt": "Jobs and Gates",
+    "significance": 7,
+    "reason": "Steve Jobs and Bill Gates laughing together at the D5 conference (2007). A rare, warm joint appearance of the two most consequential figures of the personal computing revolution. Iconic image capturing the rivalry-turned-mutual-respect."
+  },
+  {
+    "index": 101,
+    "filename": "images/101_sm.em.jb.jpg",
+    "alt": "Musk and Bezos",
+    "significance": 3,
+    "reason": "Casual dining photo of Elon Musk, Jeff Bezos, and a third person. Interesting convergence of tech billionaires but a candid social snapshot with no particular historical weight."
+  },
+  {
+    "index": 102,
+    "filename": "images/102_1280px-Zuckerberg_meets_Obama.jpg",
+    "alt": "Tech leaders Obama dinner",
+    "significance": 5,
+    "reason": "President Obama meeting Mark Zuckerberg at a tech industry dinner. Represents the growing political influence and lobbying power of Silicon Valley during the Obama era, but one of many such meetings."
+  },
+  {
+    "index": 103,
+    "filename": "images/103_2025-09-04T233827Z_133888725_RC2BLGAKCYMO_RTRMADP_3_USA-TRUM.jpg",
+    "alt": "Trump tech CEO dinner",
+    "significance": 5,
+    "reason": "Trump at a White House dinner with tech CEOs including Zuckerberg and Bill Gates. Documents tech-political power dynamics across administrations, but not a singular transformational moment."
+  },
+  {
+    "index": 104,
+    "filename": "images/104_Screen-Shot-2017-06-22-at-1.15.44-PM.png",
+    "alt": "Jobs iPhone 2007",
+    "significance": 10,
+    "reason": "Steve Jobs unveiling the iPhone at Macworld 2007. Arguably the single most transformational consumer technology product launch in history. Redefined mobile computing, killed the feature phone, created the app economy, and fundamentally altered how billions of humans communicate, work, and live."
+  },
+  {
+    "index": 105,
+    "filename": "images/105_JOBS-STEVE-ABCD-FILES.jpg",
+    "alt": "Jobs Macintosh 1984",
+    "significance": 9,
+    "reason": "Young Steve Jobs presenting the original Macintosh (1984). Brought the graphical user interface to the mainstream consumer market, fundamentally changing how humans interact with computers. The 1984 launch is one of the most important product introductions in tech history."
+  },
+  {
+    "index": 106,
+    "filename": "images/106_computex-keynote-jensen-gb200-grace-blackwell-superchip_2f91.jpg",
+    "alt": "Jensen GB200",
+    "significance": 8,
+    "reason": "Jensen Huang holding the NVIDIA Blackwell GB200 superchip at Computex. NVIDIA's GPU dominance is the hardware backbone powering the entire AI revolution. The Blackwell architecture (208B transistors, 5th-gen Transformer Engine) represents the cutting edge of AI compute."
+  },
+  {
+    "index": 107,
+    "filename": "images/107_960px-Palmer_Luckey_wearing_Oculus_Rift_DK1_at_SVVR_2014.jpg",
+    "alt": "Palmer Luckey Oculus",
+    "significance": 5,
+    "reason": "Palmer Luckey wearing the Oculus Rift DK1 at SVVR 2014. Kickstarted the modern VR revival and led to Meta's $2B acquisition, but VR has not yet achieved the mass-market transformational impact that was predicted. Still more promise than delivery."
+  },
+  {
+    "index": 108,
+    "filename": "images/108_0h8e7202-e1468940208370.jpg",
+    "alt": "Tesla Roadster 2006",
+    "significance": 7,
+    "reason": "The original Tesla Roadster \u2014 the car that proved electric vehicles could be desirable, high-performance machines. This single product catalyzed the entire modern EV industry and forced legacy automakers to take electrification seriously."
+  },
+  {
+    "index": 109,
+    "filename": "images/109_250px-Morris_Chang_1951_MIT_yearbook_portrait.jpg",
+    "alt": "Morris Chang MIT",
+    "significance": 6,
+    "reason": "Morris Chang's MIT yearbook portrait (1951). He would go on to found TSMC, creating the foundry model that enabled the fabless semiconductor revolution. TSMC now manufactures chips for Apple, NVIDIA, AMD, and most of the industry. Docked because this yearbook photo predates all achievements."
+  },
+  {
+    "index": 110,
+    "filename": "images/110_Masayoshi_Son__28P066533-522034_2C_cropped_29.jpg",
+    "alt": "Masayoshi Son",
+    "significance": 4,
+    "reason": "Headshot of Masayoshi Son, SoftBank founder. Made legendary early bets (Alibaba, Yahoo Japan) but the Vision Fund era produced spectacular failures (WeWork). Influential as a tech investor but a mixed legacy, and this is a generic portrait."
+  },
+  {
+    "index": 111,
+    "filename": "images/111_1280px-Niklas_Zennstrom_TC_2016.jpg",
+    "alt": "Niklas Zennstrom",
+    "significance": 4,
+    "reason": "Niklas Zennstrom at TechCrunch Disrupt. Co-founded Skype (democratized internet calling) and Kazaa (pioneered P2P file sharing). Important contributions but Skype has been largely superseded by Zoom, Teams, etc. Not top-tier significance."
+  },
+  {
+    "index": 112,
+    "filename": "images/112_Elizabeth_Holmes_2014_cropped.jpg",
+    "alt": "Elizabeth Holmes",
+    "significance": 3,
+    "reason": "Elizabeth Holmes portrait (2014), before the Theranos fraud was exposed. Her technology never worked \u2014 zero actual technological contribution. Significant only as Silicon Valley's most prominent cautionary tale about hype, fraud, and failed due diligence."
+  },
+  {
+    "index": 113,
+    "filename": "images/113_Sam_Bankman-Fried__28cropped_29.png",
+    "alt": "Sam Bankman-Fried",
+    "significance": 2,
+    "reason": "Sam Bankman-Fried portrait. FTX founder convicted of massive fraud. No technological contribution \u2014 purely a financial crime story in the niche crypto space. Less historically significant than Holmes as a cautionary figure."
+  },
+  {
+    "index": 114,
+    "filename": "images/114_maxresdefault.jpg",
+    "alt": "Zuckerberg Senate hearing",
+    "significance": 7,
+    "reason": "Mark Zuckerberg testifying before the Senate (2018) after the Cambridge Analytica scandal. A watershed moment for tech accountability \u2014 when the industry's unchecked power over democracy and privacy was publicly confronted. Catalyzed the global tech regulation movement."
+  },
+  {
+    "index": 115,
+    "filename": "images/115_maxresdefault.jpg",
+    "alt": "Shou Chew TikTok",
+    "significance": 5,
+    "reason": "TikTok CEO testifying before US Congress on a potential ban. A notable geopolitical tech moment capturing US-China tech tensions and platform regulation debates, but TikTok itself is an entertainment app, not a foundational technology. Chew is a corporate figurehead, not a pioneer."
+  },
+  {
+    "index": 116,
+    "filename": "remote",
+    "alt": "Travis Kalanick",
+    "significance": 6,
+    "reason": "Co-founder and former CEO of Uber. Uber genuinely disrupted transportation and created the gig economy at scale. Kalanick drove aggressive expansion that proved the ride-sharing model, though he is equally known for toxic corporate culture and ouster."
+  },
+  {
+    "index": 117,
+    "filename": "remote",
+    "alt": "Timnit Gebru",
+    "significance": 4,
+    "reason": "AI ethics researcher fired from Google for a paper on large language model risks. An important voice in the AI bias and fairness discourse, but contributions are primarily in critique and policy rather than transformational technical breakthroughs."
+  },
+  {
+    "index": 118,
+    "filename": "remote",
+    "alt": "Geoffrey Hinton",
+    "significance": 10,
+    "reason": "Godfather of deep learning. Pioneered backpropagation, Boltzmann machines, and deep neural networks. Turing Award winner and Nobel laureate. Without Hinton's decades of persistence on neural networks when the field was dismissed, the entire modern AI revolution \u2014 from GPT to AlphaFold \u2014 would not exist. Unambiguously transformational."
+  },
+  {
+    "index": 119,
+    "filename": "remote",
+    "alt": "Yann LeCun",
+    "significance": 9,
+    "reason": "Pioneer of convolutional neural networks (CNNs), the foundation of all modern computer vision. Turing Award winner. CNNs enabled image recognition, autonomous driving, medical imaging, and facial recognition \u2014 entire industries built on his architecture."
+  },
+  {
+    "index": 120,
+    "filename": "remote",
+    "alt": "Yoshua Bengio",
+    "significance": 9,
+    "reason": "Third pillar of the deep learning trinity alongside Hinton and LeCun. Turing Award winner. Pioneered sequence-to-sequence learning and attention mechanisms that are direct precursors to the transformer architecture powering GPT, BERT, and the entire LLM revolution."
+  },
+  {
+    "index": 121,
+    "filename": "images/121_Andrej_Karpathy_2C_OpenAI.png",
+    "alt": "Andrej Karpathy",
+    "significance": 6,
+    "reason": "Founding member of OpenAI, former director of AI at Tesla (Autopilot vision). Influential AI educator whose courses and blog posts democratized deep learning knowledge. Important practitioner and communicator, but more of an applier and educator than a foundational inventor."
+  },
+  {
+    "index": 122,
+    "filename": "remote",
+    "alt": "Demis Hassabis Nobel",
+    "significance": 9,
+    "reason": "Co-founder of DeepMind, creator of AlphaGo and AlphaFold. Won the Nobel Prize in Chemistry for solving protein structure prediction \u2014 a 50-year grand challenge in biology. AlphaGo proved AI could master humanity's most complex board game. Multiple genuinely transformational achievements."
+  },
+  {
+    "index": 123,
+    "filename": "images/142_Dario_Amodei.jpg",
+    "alt": "Dario Amodei",
+    "significance": 7,
+    "reason": "Co-founder and CEO of Anthropic, former VP of Research at OpenAI. Leading one of the most important AI safety-focused labs building frontier models. A key figure shaping how powerful AI is developed responsibly. Still early in his legacy but already very significant."
+  },
+  {
+    "index": 124,
+    "filename": "images/124_500px-George_Hotz.jpg",
+    "alt": "George Hotz",
+    "significance": 5,
+    "reason": "Photo of teenage Hotz, famous for being the first person to jailbreak the iPhone at age 17 and later hacking the PS3. Shows the young prodigy in his bedroom. The jailbreak was culturally significant but didn't create lasting technology. Founded comma.ai but hasn't yet transformed the industry."
+  },
+  {
+    "index": 125,
+    "filename": "images/125_hotz_social.jpg",
+    "alt": "Hotz Bloomberg",
+    "significance": 4,
+    "reason": "Bloomberg profile photo of Hotz in his basement hacker setup with monitors, Bitcoin mug, and NVIDIA hardware. Visually captures the garage-hacker ethos, but it's a personality portrait, not a milestone moment. comma.ai remains niche."
+  },
+  {
+    "index": 126,
+    "filename": "images/126_George-Hots-Bloomberg-Businessweek-image-002.jpg",
+    "alt": "Hotz garage",
+    "significance": 5,
+    "reason": "Annotated Bloomberg Businessweek photo showing the inside of Hotz's self-driving Acura ILX \u2014 LiDAR, joystick, computing hub in the glove compartment. A compelling David-vs-Goliath visual of DIY autonomous driving against Waymo and Tesla, but the technology hasn't scaled."
+  },
+  {
+    "index": 127,
+    "filename": "images/127_1280px-George_Hotz_speaks_onstage_during_TechCrunch_Disrupt_.jpg",
+    "alt": "Hotz TechCrunch",
+    "significance": 3,
+    "reason": "Hotz presenting at TechCrunch Disrupt, holding up a circuit board. A routine conference presentation photo. No milestone moment captured."
+  },
+  {
+    "index": 128,
+    "filename": "images/128_mzelenko_230516_1078_0037.0.0.1465230009.jpg",
+    "alt": "Hotz The Verge",
+    "significance": 5,
+    "reason": "The Verge feature photo of Hotz with hands off the wheel, demonstrating comma.ai self-driving. Visually captures the DIY autonomous driving promise. Compelling but comma.ai has not yet achieved transformational impact on the auto industry."
+  },
+  {
+    "index": 129,
+    "filename": "images/129_Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg",
+    "alt": "Gates Allen Lakeside 1970",
+    "significance": 9,
+    "reason": "Iconic black-and-white photo of teenage Paul Allen and Bill Gates at Lakeside School in 1970, working at a teletype terminal. This is the origin story of Microsoft \u2014 two teenagers who would launch the personal computer revolution. A 'Bug Slayer' poster visible on the wall. One of tech history's most important origin photographs."
+  },
+  {
+    "index": 130,
+    "filename": "remote",
+    "alt": "Gates mugshot",
+    "significance": 2,
+    "reason": "Bill Gates' 1977 Albuquerque traffic violation mugshot. A culturally famous and fun piece of trivia showing the young Microsoft founder's rebellious side, but zero technological significance. Gates is transformational; this image captures none of that."
+  },
+  {
+    "index": 131,
+    "filename": "images/131_Google_page_brin.jpg",
+    "alt": "Page Brin",
+    "significance": 8,
+    "reason": "Early casual photo of Larry Page and Sergey Brin in matching gray t-shirts, whiteboard behind them with their names. Google's PageRank algorithm transformed how humanity accesses information. This captures the founders in their scrappy early days before becoming one of the most powerful companies on Earth."
+  },
+  {
+    "index": 132,
+    "filename": "images/132_SXSW-2024-alih-OB7A0861-Lisa_Su__28cropped_2_29.jpg",
+    "alt": "Lisa Su",
+    "significance": 7,
+    "reason": "AMD CEO Lisa Su at SXSW 2024. Engineered one of the greatest corporate turnarounds in tech history, taking AMD from near-bankruptcy to a serious competitor to Intel and NVIDIA. Ryzen and EPYC processors broke Intel's CPU monopoly. A transformational business and technical leader in semiconductors."
+  },
+  {
+    "index": 133,
+    "filename": "remote",
+    "alt": "Susan Wojcicki",
+    "significance": 5,
+    "reason": "Former YouTube CEO and early Google employee who rented her garage to Page and Brin. Led YouTube through massive growth. Important executive, but YouTube's creation and Google's acquisition were the transformational moments, not her operational leadership tenure."
+  },
+  {
+    "index": 134,
+    "filename": "remote",
+    "alt": "Sheryl Sandberg",
+    "significance": 5,
+    "reason": "Former COO of Facebook/Meta who built its advertising business into one of the most profitable in history. Author of 'Lean In.' A powerful business operator and cultural figure, but a corporate executive rather than a technical innovator or inventor."
+  },
+  {
+    "index": 135,
+    "filename": "images/135_TechCrunch_Disrupt_San_Francisco_2018_-_day_2__2830647055838.jpg",
+    "alt": "Whitney Wolfe Herd",
+    "significance": 4,
+    "reason": "Founder of Bumble and co-founder of Tinder, youngest female self-made billionaire. Changed dating apps by letting women message first. A successful product innovation but not transformational to technology or society at the level of foundational computing breakthroughs."
+  },
+  {
+    "index": 136,
+    "filename": "images/136_Gwynne_Shotwell_at_2018_Commercial_Crew_announcement.jpg",
+    "alt": "Gwynne Shotwell",
+    "significance": 7,
+    "reason": "President and COO of SpaceX at the 2018 Commercial Crew announcement. The operational leader who made SpaceX commercially viable \u2014 reusable rockets, Starlink, NASA crew missions. SpaceX genuinely transformed space access, and Shotwell is the person who built the business to deliver on that vision."
+  },
+  {
+    "index": 137,
+    "filename": "remote",
+    "alt": "Joy Buolamwini",
+    "significance": 4,
+    "reason": "MIT researcher and founder of the Algorithmic Justice League. Her 'Gender Shades' research exposed racial and gender bias in commercial facial recognition systems, influencing policy and corporate practices. Important in AI fairness discourse but contributions are in critique and activism rather than technological creation."
+  },
+  {
+    "index": 138,
+    "filename": "images/138_960px-Full_Stack_starship.jpg",
+    "alt": "Starship",
+    "significance": 6,
+    "reason": "Full-stack Starship on pad next to Mechazilla tower under blue sky. Impressive engineering photo and symbol of techno-optimism, but static composition and tangential to computing/AI history."
+  },
+  {
+    "index": 139,
+    "filename": "images/139_1280px-SpaceX_Starship_ignition_during_IFT-5.jpg",
+    "alt": "Starship IFT-5",
+    "significance": 7,
+    "reason": "Dramatic launch photo of Starship during IFT-5 with massive exhaust plume. IFT-5 was the first successful booster catch\u2014a genuine milestone. Visually spectacular and historically significant for space tech."
+  },
+  {
+    "index": 140,
+    "filename": "images/140_UCDGJGHJYZCDTMCS2XC7CIO6M4.jpg",
+    "alt": "FPV Drone",
+    "significance": 3,
+    "reason": "US Marines operating small FPV drones in a grassy field. Generic military photo\u2014not iconic, not a specific milestone moment. Military drone usage is also an ambiguous fit for a techno-optimism gallery."
+  },
+  {
+    "index": 141,
+    "filename": "images/141_Masayoshi_Son___SoftBank_founder__from_a_small_town_in_south.jpg",
+    "alt": "Masayoshi Son",
+    "significance": 4,
+    "reason": "Portrait of Masayoshi Son smiling in dark jacket. Major tech investor (SoftBank Vision Fund) but fundamentally a financier, not a builder or inventor. AI-generated portrait lacks documentary weight."
+  },
+  {
+    "index": 142,
+    "filename": "images/142_Daniel_Ek___Spotify_founder_addressing_his_team__built_a_glo.jpg",
+    "alt": "Daniel Ek",
+    "significance": 3,
+    "reason": "Daniel Ek speaking at Spotify HQ (green wall with Spotify logo). Spotify disrupted music distribution but is not foundational to computing or AI. Standard all-hands photo."
+  },
+  {
+    "index": 143,
+    "filename": "images/143_Jan_Koum___WhatsApp_co-founder__from_Ukrainian_immigrant_to.jpg",
+    "alt": "Jan Koum",
+    "significance": 4,
+    "reason": "AI-generated portrait of Jan Koum. Ukrainian immigrant to billionaire is a compelling story, and WhatsApp connected billions. But not a foundational computing figure, and AI-generated image lacks authenticity."
+  },
+  {
+    "index": 144,
+    "filename": "images/144_AMD_CEO_Lisa_Su_presents_new_processors__GPUs__and_AI_accele.jpeg",
+    "alt": "Lisa Su CES",
+    "significance": 6,
+    "reason": "Lisa Su presenting at CES. AMD's GPUs and CPUs are critical AI training infrastructure and she revived AMD from near-bankruptcy. Important semiconductor figure, though the photo itself is a standard keynote shot."
+  },
+  {
+    "index": 145,
+    "filename": "images/145_Amazon_Echo_smart_speaker_at_its_November_2014_unveiling___t.png",
+    "alt": "Amazon Echo 2014",
+    "significance": 6,
+    "reason": "Amazon Echo at its 2014 unveiling\u2014the product that brought voice AI assistants into mainstream consumer homes. Historically significant as the first mass-market AI product, though the image is a simple product shot."
+  },
+  {
+    "index": 146,
+    "filename": "images/146_Google_CEO_Larry_Page_wearing_Project_Glass_at_Zeitgeist_201.jpg",
+    "alt": "Larry Page Google Glass",
+    "significance": 5,
+    "reason": "Larry Page wearing Google Glass at a Google event. Google co-founder is significant, but Google Glass was ultimately a failed product. Represents a vision of AR that didn't materialize in that form."
+  },
+  {
+    "index": 147,
+    "filename": "images/147_Mark_Zuckerberg_walks_past_VR_headset-wearing_audience_at_Sa.jpg",
+    "alt": "Zuck VR audience",
+    "significance": 8,
+    "reason": "Zuckerberg at Samsung's MWC 2016 event with VR headset-wearing audience. One of the most iconic tech photos of the 2010s\u2014captures both the promise and dystopian undertone of VR/tech immersion. Widely reproduced and discussed."
+  },
+  {
+    "index": 148,
+    "filename": "images/148_Morris_Chang__TSMC_founder__honored_as_Stanford_Engineering.jpg",
+    "alt": "Morris Chang Stanford",
+    "significance": 7,
+    "reason": "Morris Chang at Stanford. TSMC founder is one of the most consequential figures in tech\u2014the company fabricates virtually all advanced chips powering AI. Modest event photo but the subject is enormously important."
+  },
+  {
+    "index": 149,
+    "filename": "images/149_Andy_Jassy_delivers_the_AWS_re_Invent_2019_keynote__Las_Vega.jpg",
+    "alt": "Andy Jassy AWS",
+    "significance": 5,
+    "reason": "Andy Jassy on massive AWS re:Invent 2019 stage. AWS pioneered cloud computing which enabled the modern AI/ML ecosystem. Good composition showing scale, but Jassy himself is not an iconic figure."
+  },
+  {
+    "index": 150,
+    "filename": "images/150_Grace_Hopper_at_the_UNIVAC_I_console___the_first_commercial.jpg",
+    "alt": "Grace Hopper UNIVAC",
+    "significance": 9,
+    "reason": "Grace Hopper at the UNIVAC I console with colleagues. Authentic historical photo of a computing legend\u2014she invented the first compiler and coined 'debugging.' UNIVAC was the first commercial computer. Foundational."
+  },
+  {
+    "index": 151,
+    "filename": "images/151_John_von_Neumann__Los_Alamos_ID_photo___architect_of_the_sto.gif",
+    "alt": "von Neumann",
+    "significance": 9,
+    "reason": "John von Neumann's Los Alamos ID photo. Architect of the stored-program computer (von Neumann architecture), game theory pioneer, and polymath. The von Neumann architecture IS the fundamental design of virtually every computer."
+  },
+  {
+    "index": 152,
+    "filename": "images/152_ENIAC_1946.jpg",
+    "alt": "ENIAC 1946",
+    "significance": 9,
+    "reason": "ENIAC room-filling computer with operator, 1946. The first general-purpose electronic digital computer. Classic black-and-white photo showing the massive scale of early computing. Absolutely foundational historical image."
+  },
+  {
+    "index": 153,
+    "filename": "images/153_Vannevar_Bush___visionary_who_conceived_the_Memex_in_1945__i.jpg",
+    "alt": "Vannevar Bush",
+    "significance": 8,
+    "reason": "Vannevar Bush at his desk. His 1945 essay 'As We May Think' conceived the Memex\u2014essentially predicting hypertext, the web, and modern information retrieval. One of the most prescient visionaries in computing history."
+  },
+  {
+    "index": 154,
+    "filename": "images/154_Xerox_Alto_1973.jpg",
+    "alt": "Xerox Alto",
+    "significance": 9,
+    "reason": "Xerox Alto museum exhibit showing monitor, keyboard, and revolutionary mouse. The first computer with a GUI (1973). Directly inspired the Macintosh and every modern desktop interface. One of the most influential machines ever built."
+  },
+  {
+    "index": 155,
+    "filename": "images/155_Transistor_Inventors_1948.jpg",
+    "alt": "Transistor Inventors",
+    "significance": 10,
+    "reason": "Bardeen, Brattain, and Shockley at Bell Labs with the first transistor (1948). The transistor is arguably the most important invention of the 20th century\u2014it enabled ALL of modern electronics and computing. The single most foundational image in tech history."
+  },
+  {
+    "index": 156,
+    "filename": "images/156_Ilya_Sutskever_TAU.jpg",
+    "alt": "Ilya Sutskever",
+    "significance": 6,
+    "reason": "Ilya Sutskever at TAU panel. Co-founder of OpenAI, co-inventor of AlexNet, key figure in the deep learning revolution. Very important person but the photo is extremely small (192x287) and low quality."
+  },
+  {
+    "index": 157,
+    "filename": "images/157_Andrej_Karpathy.png",
+    "alt": "Karpathy",
+    "significance": 5,
+    "reason": "Andrej Karpathy giving a lecture in pink shirt. Founding OpenAI member, former Tesla AI director, influential AI educator. Important but more of an engineer/educator than a foundational researcher. Casual talk photo."
+  },
+  {
+    "index": 158,
+    "filename": "images/158_Fei-Fei_Li_at_AI_for_Good_2017___ImageNet_creator_and_Stanfo.jpg",
+    "alt": "Fei-Fei Li",
+    "significance": 7,
+    "reason": "Fei-Fei Li speaking at ITU AI for Good 2017 podium. Creator of ImageNet, which was the catalyst for the deep learning revolution (2012 AlexNet moment). Stanford HAI co-director. Major AI figure with clear historical impact."
+  },
+  {
+    "index": 159,
+    "filename": "images/159_Elizabeth_Holmes.jpg",
+    "alt": "Holmes",
+    "significance": 3,
+    "reason": "Elizabeth Holmes in her trademark black turtleneck. Theranos founder convicted of massive healthcare fraud. A cautionary tale, not a techno-optimist success story. Inclusion as a 'what not to do' example has some value."
+  },
+  {
+    "index": 160,
+    "filename": "images/160_SBF.png",
+    "alt": "SBF",
+    "significance": 2,
+    "reason": "Sam Bankman-Fried casual photo. FTX founder convicted of fraud and embezzlement. Another cautionary tale with even less relevance to tech optimism than Holmes\u2014crypto collapse rather than genuine innovation."
+  },
+  {
+    "index": 161,
+    "filename": "images/161_Sundar_Pichai.jpg",
+    "alt": "Sundar Pichai",
+    "significance": 4,
+    "reason": "Standard portrait headshot of Google/Alphabet CEO. Important figure but the image itself is a generic corporate headshot with no historic context or moment captured."
+  },
+  {
+    "index": 162,
+    "filename": "images/162_Sam_Altman.jpg",
+    "alt": "Sam Altman",
+    "significance": 5,
+    "reason": "Portrait headshot of the OpenAI CEO, arguably the most prominent figure of the current AI era. Bumped slightly for his outsized relevance to the AI narrative, but still just a headshot."
+  },
+  {
+    "index": 163,
+    "filename": "images/163_Tim_Sweeney.jpg",
+    "alt": "Tim Sweeney",
+    "significance": 3,
+    "reason": "Standard headshot of Epic Games CEO. Important for gaming (Unreal Engine, Fortnite, Apple antitrust fight) but not a central AI/tech-history figure, and the image is unremarkable."
+  },
+  {
+    "index": 164,
+    "filename": "images/164_Gates_Antitrust.jpg",
+    "alt": "Gates Antitrust",
+    "significance": 8,
+    "reason": "Four-panel black-and-white surveillance stills of Bill Gates during his 1998 antitrust deposition. Iconic, widely-reproduced image capturing a watershed moment in tech regulation. Gates fidgeting, drinking water, raising his hand \u2014 deeply humanizing and historically pivotal."
+  },
+  {
+    "index": 165,
+    "filename": "images/165_Yahoo_HQ.jpg",
+    "alt": "Yahoo HQ",
+    "significance": 2,
+    "reason": "Generic exterior photo of the Yahoo headquarters building in Sunnyvale. Standard corporate architecture shot with no people or historic moment. Yahoo's decline is significant but this image doesn't convey it."
+  },
+  {
+    "index": 166,
+    "filename": "images/168_OpenAI_founding_announcement__December_11__2015___the_team_t.png",
+    "alt": "OpenAI founding 2015",
+    "significance": 2,
+    "reason": "Despite the historically significant alt text (OpenAI's founding announcement, December 2015), the actual image is an abstract geometric striped pattern \u2014 not a photograph of the team or event. Adds no visual historical value."
+  },
+  {
+    "index": 167,
+    "filename": "images/169_The_original_Microsoft_staff__December_7__1978___Bill_Gates.jpg",
+    "alt": "Microsoft staff 1978",
+    "significance": 9,
+    "reason": "The legendary signed team photo of the original 11 Microsoft employees from December 7, 1978 \u2014 including a young Bill Gates and Paul Allen. One of the most famous startup photos in tech history, regularly cited in documentaries and retrospectives."
+  },
+  {
+    "index": 168,
+    "filename": "images/170_Godfathers_of_AI___Hinton__LeCun__and_Bengio_win_the_2018_Tu.jpg",
+    "alt": "AI Godfathers Turing Award",
+    "significance": 8,
+    "reason": "Triptych portrait of Geoffrey Hinton, Yann LeCun, and Yoshua Bengio \u2014 the 'Godfathers of AI' \u2014 commemorating their 2018 Turing Award for deep learning breakthroughs. Clean, well-composed editorial image of the three people most responsible for the neural network revolution."
+  },
+  {
+    "index": 169,
+    "filename": "images/171_Intel_founders_Grove__Noyce__and_Moore_with_the_8080_micropr.jpg",
+    "alt": "Intel founders 1978",
+    "significance": 9,
+    "reason": "Andy Grove, Robert Noyce, and Gordon Moore standing over an enlarged 8080 microprocessor die. Three foundational Silicon Valley figures, including the author of Moore's Law and the co-inventor of the integrated circuit. Iconic image capturing the birth of the semiconductor age."
+  },
+  {
+    "index": 170,
+    "filename": "images/172_Lisa_Su__Chair_and_CEO_of_AMD__speaking_at_SXSW_2024.jpg",
+    "alt": "Lisa Su SXSW",
+    "significance": 4,
+    "reason": "Close-up of Lisa Su (AMD CEO) speaking at SXSW 2024. Important semiconductor leader who turned AMD around, but the image is rotated sideways and is just a speaking portrait with no historic context visible."
+  },
+  {
+    "index": 171,
+    "filename": "images/173_Reshma_Saujani.jpg",
+    "alt": "Reshma Saujani",
+    "significance": 3,
+    "reason": "Professional portrait headshot of Reshma Saujani, founder of Girls Who Code. Important for diversity in tech education, but a standard studio headshot with no event or historic moment."
+  },
+  {
+    "index": 172,
+    "filename": "images/174_Megan_Smith.jpg",
+    "alt": "Megan Smith",
+    "significance": 3,
+    "reason": "Official government portrait of Megan Smith (former US CTO under Obama, ex-Google VP). American flag backdrop. Notable role but the image is a standard official headshot."
+  },
+  {
+    "index": 173,
+    "filename": "images/179_Richard_Stallman_eating_something_off_his_foot_mid-presentat.jpg",
+    "alt": "Stallman",
+    "significance": 5,
+    "reason": "Low-quality webcam still of Richard Stallman during a presentation \u2014 the famous clip of him apparently eating something off his foot. Viral internet moment that became a meme; Stallman himself is hugely significant (GNU, GPL, free software movement). The image is culturally memorable but poor quality."
+  },
+  {
+    "index": 174,
+    "filename": "images/180_Tim_Cook_marching_at_San_Francisco_Pride_2019_with_thousands.jpg",
+    "alt": "Tim Cook Pride",
+    "significance": 6,
+    "reason": "Apple employees marching at San Francisco Pride 2019 behind a large Apple Pride banner with rainbow flags. Tim Cook was the first openly gay Fortune 500 CEO. Vibrant, well-composed photo marking a significant cultural intersection of Big Tech and LGBTQ+ rights."
+  },
+  {
+    "index": 175,
+    "filename": "images/181_Palmer_Luckey___from_teenage_VR_inventor_to_defense-tech_wea.jpg",
+    "alt": "Palmer Luckey",
+    "significance": 4,
+    "reason": "Palmer Luckey in a Hawaiian shirt leaning against what appears to be an Anduril defense product. Interesting Silicon Valley arc (Oculus VR founder turned defense-tech entrepreneur) but the image is a standard magazine-style profile portrait."
+  },
+  {
+    "index": 176,
+    "filename": "images/184_Nvidia_CEO_Jensen_Huang_meets_SoftBank_CEO_Masayoshi_Son__Vi.webp",
+    "alt": "Jensen meets Masayoshi Son",
+    "significance": 4,
+    "reason": "Branded social media card showing Jensen Huang and Masayoshi Son greeting on stage (November 2024). More of an infographic with heavy text overlay than a raw historical photo. The moment (Nvidia-SoftBank AI partnership) is notable but the image format diminishes impact."
+  },
+  {
+    "index": 177,
+    "filename": "images/185_PM_Modi_meets_OpenAI_CEO_Sam_Altman_at_India_AI_Impact_Summi.jpg",
+    "alt": "Modi meets Altman",
+    "significance": 5,
+    "reason": "PM Modi meeting Sam Altman in an ornate Indian government setting. Documents AI's geopolitical reach \u2014 a sitting head of state courting the leader of the most prominent AI company. Good composition but somewhat generic diplomatic meeting photo."
+  },
+  {
+    "index": 178,
+    "filename": "images/186_Five_social_media_CEOs_sworn_in_before_Senate_Judiciary_Comm.jpg",
+    "alt": "Social media CEOs Senate",
+    "significance": 7,
+    "reason": "Five social media CEOs (including Shou Chew of TikTok, Mark Zuckerberg of Meta, Linda Yaccarino of X) being sworn in before the Senate Judiciary Committee. Dramatic, well-shot image of a historic accountability moment \u2014 tech power facing democratic oversight, all raising their right hands."
+  },
+  {
+    "index": 179,
+    "filename": "images/187_Elon_Musk_vs_Mark_Zuckerberg__The_billionaire_cage_match_cha.png",
+    "alt": "Musk vs Zuck cage match",
+    "significance": 3,
+    "reason": "Stylized B&W editorial graphic of Musk and Zuckerberg face-to-face with decorative swirl overlays. The proposed cage match was a brief pop-culture moment in 2023 that never materialized. Not a real photograph and not historically significant."
+  },
+  {
+    "index": 180,
+    "filename": "images/188_Throwback__Elon_Musk_and_Jeff_Bezos_together_circa_2004__yea.jpg",
+    "alt": "Musk Bezos 2004",
+    "significance": 7,
+    "reason": "A young Elon Musk and Jeff Bezos dining together circa 2004, years before SpaceX vs Blue Origin rivalry. Both pre-fame, both smiling casually. Rare candid throwback of two future titans before their paths diverged into bitter rivalry. Genuinely historic snapshot."
+  },
+  {
+    "index": 181,
+    "filename": "images/189_AI_leaders_testify_before_Congress__2025__Photo_via_UPI.jpg",
+    "alt": "AI leaders Congress",
+    "significance": 6,
+    "reason": "Sam Altman, Lisa Su, and another tech leader testifying before Congress in 2025 on AI regulation. Well-composed UPI press photo documenting a critical policy moment. Important but slightly less dramatic than the social media CEO hearing."
+  },
+  {
+    "index": 182,
+    "filename": "images/190_Jobs_Gates_D5.jpg",
+    "alt": "Jobs Gates D5",
+    "significance": 10,
+    "reason": "Steve Jobs and Bill Gates sitting side by side in the iconic red chairs at the D5 conference (2007), both laughing warmly. Arguably the single most famous photograph in tech history \u2014 the two greatest rivals of the PC era in a rare, candid, friendly moment. Jobs died four years later. Irreplaceable."
+  },
+  {
+    "index": 183,
+    "filename": "images/191_Obama_Tech_Dinner.jpg",
+    "alt": "Obama Tech Dinner",
+    "significance": 7,
+    "reason": "President Obama speaking face-to-face with a young Mark Zuckerberg at a private tech leaders dinner. Captures the moment when Silicon Valley became a political power center. Multiple other tech figures visible in background. Well-composed candid photo of a significant political-tech intersection."
+  },
+  {
+    "index": 184,
+    "filename": "images/192_Apple_Garage.jpg",
+    "alt": "Apple Garage",
+    "significance": 8,
+    "reason": "Apple's founding garage - birthplace of the most valuable company in history"
+  },
+  {
+    "index": 185,
+    "filename": "images/192_Larry_Page_and_Sergey_Brin___from_Stanford_PhD_students_to_G.jpg",
+    "alt": "Larry Page and Sergey Brin",
+    "significance": 7,
+    "reason": "Google founders as Stanford PhD students - origin story of Google"
+  },
+  {
+    "index": 186,
+    "filename": "images/193_Apple_1_Briefcase.jpg",
+    "alt": "Apple 1 Briefcase",
+    "significance": 7,
+    "reason": "Apple-1 in a briefcase - one of the first personal computers ever sold"
+  },
+  {
+    "index": 187,
+    "filename": "images/194_Amazon_Garage.jpg",
+    "alt": "Amazon Garage",
+    "significance": 7,
+    "reason": "Amazon's founding garage - birthplace of the largest e-commerce company"
+  },
+  {
+    "index": 188,
+    "filename": "images/195_Jeff_Bezos_2005.jpg",
+    "alt": "Jeff Bezos 2005",
+    "significance": 5,
+    "reason": "Early Bezos - before Amazon became a tech giant and cloud leader"
+  },
+  {
+    "index": 189,
+    "filename": "images/195_Young_Mark_Zuckerberg___from_Harvard_dorm_room_coder_to_Face.jpg",
+    "alt": "Young Mark Zuckerberg",
+    "significance": 5,
+    "reason": "Young Zuckerberg - Harvard dorm room era, founding of Facebook"
+  },
+  {
+    "index": 190,
+    "filename": "images/196_Young_Elon_Musk.jpg",
+    "alt": "Young Elon Musk",
+    "significance": 5,
+    "reason": "Young Elon Musk - early days before Tesla, SpaceX, and becoming most influential tech figure"
+  },
+  {
+    "index": 191,
+    "filename": "images/197_Jack_Dorsey.jpg",
+    "alt": "Jack Dorsey",
+    "significance": 5,
+    "reason": "Jack Dorsey - co-founder of Twitter and Square, significant tech entrepreneur"
+  },
+  {
+    "index": 192,
+    "filename": "images/198_Steve_Jobs___TechBroDrip.jpg",
+    "alt": "Steve Jobs \u2013 TechBroDrip",
+    "significance": 6,
+    "reason": "Steve Jobs styled photo - iconic tech founder"
+  },
+  {
+    "index": 193,
+    "filename": "images/199_Sundar_Pichai___Sam_Altman___TechBroDrip.jpg",
+    "alt": "Sundar Pichai & Sam Altman",
+    "significance": 5,
+    "reason": "Google and OpenAI CEOs together - notable pairing of AI rivals"
+  },
+  {
+    "index": 194,
+    "filename": "images/200_Jensen_Huang___TechBroDrip__1.jpg",
+    "alt": "Jensen Huang TechBroDrip #1",
+    "significance": 5,
+    "reason": "Jensen styled photo - NVIDIA CEO cultural icon"
+  },
+  {
+    "index": 195,
+    "filename": "images/201_Jensen_Huang___TechBroDrip__2.jpg",
+    "alt": "Jensen Huang TechBroDrip #2",
+    "significance": 4,
+    "reason": "Duplicate Jensen TechBroDrip content"
+  },
+  {
+    "index": 196,
+    "filename": "images/202_Peter_Thiel_Crown___Chess_Match.jpg",
+    "alt": "Peter Thiel Crown Chess",
+    "significance": 4,
+    "reason": "Peter Thiel with crown at chess - eccentric investor photo"
+  },
+  {
+    "index": 197,
+    "filename": "images/203_Jensen_Delivers_DGX_to_OpenAI__2016.jpg",
+    "alt": "Jensen Delivers DGX to OpenAI (2016)",
+    "significance": 8,
+    "reason": "Historic moment: Jensen hand-delivering first DGX-1 to OpenAI, seeding the AI revolution"
+  },
+  {
+    "index": 198,
+    "filename": "images/204_Linus_Torvalds___TechBroDrip.jpg",
+    "alt": "Linus Torvalds TechBroDrip",
+    "significance": 6,
+    "reason": "Linus Torvalds - creator of Linux and Git, foundational to open source and modern computing"
+  },
+  {
+    "index": 199,
+    "filename": "images/205_Rahul_Ligma___Daniel_Johnson___Twitter_Prank.jpg",
+    "alt": "Ligma Twitter Prank",
+    "significance": 3,
+    "reason": "Twitter layoff prank - viral but not historically significant"
+  },
+  {
+    "index": 200,
+    "filename": "images/206_Cyan_Banister___Angel_Investor.jpg",
+    "alt": "Cyan Banister",
+    "significance": 3,
+    "reason": "Angel investor - notable but not historically transformative"
+  },
+  {
+    "index": 201,
+    "filename": "images/207_Peter_Thiel___Oxford_Union.jpg",
+    "alt": "Peter Thiel Oxford Union",
+    "significance": 4,
+    "reason": "Peter Thiel speaking - influential investor but generic speaking photo"
+  },
+  {
+    "index": 202,
+    "filename": "images/208_Ilya___Krizhevsky___Hinton___AlexNet_Team.jpg",
+    "alt": "AlexNet Team",
+    "significance": 9,
+    "reason": "Ilya Sutskever, Alex Krizhevsky, and Geoffrey Hinton - the AlexNet team that sparked the deep learning revolution in 2012"
+  },
+  {
+    "index": 203,
+    "filename": "images/209_Luke_Farritor___Vesuvius_Challenge_Winner.jpg",
+    "alt": "Luke Farritor Vesuvius",
+    "significance": 4,
+    "reason": "Vesuvius Challenge winner - impressive achievement using AI to read ancient scrolls"
+  },
+  {
+    "index": 204,
+    "filename": "images/210_Satya_Nadella_with_Parents.jpg",
+    "alt": "Satya Nadella with Parents",
+    "significance": 3,
+    "reason": "Nadella family photo - personal, not a tech milestone"
+  },
+  {
+    "index": 205,
+    "filename": "images/211_PayPal_Founding_Team___TechBroDrip.jpg",
+    "alt": "PayPal Founding Team",
+    "significance": 7,
+    "reason": "PayPal founding team - the group that became the most influential tech mafia"
+  },
+  {
+    "index": 206,
+    "filename": "images/212_Bill_Gates___Shaq.jpg",
+    "alt": "Bill Gates & Shaq",
+    "significance": 3,
+    "reason": "Gates with Shaq - celebrity photo, not tech-significant"
+  },
+  {
+    "index": 207,
+    "filename": "images/213_Mark_Zuckerberg___TechBroDrip.jpg",
+    "alt": "Zuckerberg TechBroDrip",
+    "significance": 4,
+    "reason": "Zuckerberg styled photo - Meta founder but generic portrait"
+  },
+  {
+    "index": 208,
+    "filename": "images/214_Stephen_Watt___7ft_Hacker.jpg",
+    "alt": "Stephen Watt 7ft Hacker",
+    "significance": 1,
+    "reason": "Obscure hacker - no lasting significance to tech or AI history"
+  },
+  {
+    "index": 209,
+    "filename": "images/215_Karpathy___Tesla_Tequila.jpg",
+    "alt": "Karpathy Tesla Tequila",
+    "significance": 4,
+    "reason": "Karpathy with Tesla tequila - casual photo of notable AI engineer"
+  },
+  {
+    "index": 210,
+    "filename": "images/216_Zuckerberg___Bill_Gates_Together.jpg",
+    "alt": "Zuckerberg & Gates",
+    "significance": 5,
+    "reason": "Two generational tech titans together - notable pairing"
+  },
+  {
+    "index": 211,
+    "filename": "images/217_Tim_Cook___Sundar_Pichai_Together.jpg",
+    "alt": "Tim Cook & Sundar Pichai",
+    "significance": 4,
+    "reason": "Apple and Google CEOs together - corporate photo"
+  },
+  {
+    "index": 212,
+    "filename": "images/tbd_212_Demis_Hassabis__co_founder_and_CEO_of_DeepMind.jpg",
+    "alt": "Demis Hassabis",
+    "significance": 6,
+    "reason": "Demis Hassabis - DeepMind founder, Nobel laureate, AlphaGo/AlphaFold creator"
+  },
+  {
+    "index": 213,
+    "filename": "images/tbd_213_Vitalik_Buterin__co_creator_of_Ethereum.jpg",
+    "alt": "Vitalik Buterin",
+    "significance": 6,
+    "reason": "Ethereum co-creator - invented smart contracts and decentralized computing platform"
+  },
+  {
+    "index": 214,
+    "filename": "images/tbd_214_Larry_Ellison__co_founder_of_Oracle.jpg",
+    "alt": "Larry Ellison",
+    "significance": 6,
+    "reason": "Oracle co-founder - built the dominant enterprise database company"
+  },
+  {
+    "index": 215,
+    "filename": "images/tbd_215_Alexander_Grothendieck__mathematician.jpg",
+    "alt": "Alexander Grothendieck",
+    "significance": 5,
+    "reason": "Greatest mathematician of 20th century - revolutionized algebraic geometry but limited direct tech impact"
+  },
+  {
+    "index": 216,
+    "filename": "images/tbd_216_Watson_and_Crick__discoverers_of_the_double_helix.png",
+    "alt": "Watson and Crick",
+    "significance": 8,
+    "reason": "Watson and Crick discovering DNA structure - transformational scientific moment, foundation for biotech and computational biology"
+  },
+  {
+    "index": 217,
+    "filename": "images/tbd_217_Ted_Kaczynski__mathematician_and_UC_Berkeley_professor_turne.jpg",
+    "alt": "Ted Kaczynski",
+    "significance": 4,
+    "reason": "Unabomber - wrote anti-technology manifesto, culturally relevant but through violence not innovation"
+  },
+  {
+    "index": 218,
+    "filename": "images/tbd_218_Julian_Assange__Wikileaks__facing_multiple_hacking_charges_u.jpg",
+    "alt": "Julian Assange 1995",
+    "significance": 5,
+    "reason": "Young Assange facing hacking charges - early days of WikiLeaks founder"
+  },
+  {
+    "index": 219,
+    "filename": "images/tbd_219_Alexandr_Wang__co_founder_ScaleAI___Chief_AI_Officer_at_Meta.jpg",
+    "alt": "Alexandr Wang",
+    "significance": 5,
+    "reason": "Scale AI founder - important AI data infrastructure company"
+  },
+  {
+    "index": 220,
+    "filename": "images/tbd_220_Mark_Zuckerberg__co_founder_of_Facebook_Meta.jpg",
+    "alt": "Zuckerberg",
+    "significance": 4,
+    "reason": "Another Zuckerberg photo - duplicate coverage"
+  },
+  {
+    "index": 221,
+    "filename": "images/tbd_221_Alan_Turing__mathematician__computer_scientist_and_cryptogra.jpg",
+    "alt": "Alan Turing",
+    "significance": 9,
+    "reason": "Alan Turing - father of computer science, broke Enigma, proposed the Turing Test"
+  },
+  {
+    "index": 222,
+    "filename": "images/tbd_222_Luke_Farritor__DOGE_member__Vesuvius_Challenge_winner__forme.jpg",
+    "alt": "Luke Farritor",
+    "significance": 3,
+    "reason": "Vesuvius Challenge winner - impressive but niche achievement"
+  },
+  {
+    "index": 223,
+    "filename": "images/tbd_223_Pavel_Durov__founder_of_Telegram_and_VK.jpg",
+    "alt": "Pavel Durov",
+    "significance": 5,
+    "reason": "Telegram founder - significant messaging platform, privacy advocate"
+  },
+  {
+    "index": 224,
+    "filename": "images/tbd_224_Cyan_Banister__legendary_angel_investor___invested_early_in.jpg",
+    "alt": "Cyan Banister",
+    "significance": 3,
+    "reason": "Angel investor - notable investments but not a transformative figure herself"
+  },
+  {
+    "index": 225,
+    "filename": "images/tbd_225_Masayoshi_Son__founder_of_SoftBank.jpg",
+    "alt": "Masayoshi Son",
+    "significance": 6,
+    "reason": "SoftBank founder - major tech investor, Vision Fund shaped the startup ecosystem"
+  },
+  {
+    "index": 226,
+    "filename": "images/tbd_226_Richard_Stallman__godfather_of_the_free_software_movement.jpg",
+    "alt": "Richard Stallman",
+    "significance": 7,
+    "reason": "Richard Stallman - created GNU, GPL, and the free software movement, foundational to open source"
+  },
+  {
+    "index": 227,
+    "filename": "images/tbd_227_Ross_Ulbricht__founder_of_Silk_Road.jpg",
+    "alt": "Ross Ulbricht",
+    "significance": 4,
+    "reason": "Silk Road founder - notable dark web marketplace but criminal enterprise"
+  },
+  {
+    "index": 228,
+    "filename": "images/tbd_228_Mark_Zuckerberg__founder_of_Meta.jpg",
+    "alt": "Zuckerberg",
+    "significance": 3,
+    "reason": "Yet another Zuckerberg photo - heavily duplicated"
+  },
+  {
+    "index": 229,
+    "filename": "images/tbd_229_Mark_Zuckerberg__founder_of_Meta.jpg",
+    "alt": "Zuckerberg",
+    "significance": 2,
+    "reason": "Duplicate Zuckerberg photo"
+  },
+  {
+    "index": 230,
+    "filename": "images/tbd_230_Palmer_Luckey__founder_of_Oculus__Anduril_and_ModRetro.jpg",
+    "alt": "Palmer Luckey",
+    "significance": 5,
+    "reason": "Palmer Luckey - Oculus/Anduril founder, important in VR and defense tech"
+  },
+  {
+    "index": 231,
+    "filename": "images/tbd_231_Vitalik_Buterin__co_creator_of_Ethereum.jpg",
+    "alt": "Vitalik Buterin",
+    "significance": 5,
+    "reason": "Duplicate Vitalik coverage"
+  },
+  {
+    "index": 232,
+    "filename": "images/tbd_232_Brian_Chesky__co_founder_and_CEO_of_Airbnb.png",
+    "alt": "Brian Chesky",
+    "significance": 5,
+    "reason": "Airbnb co-founder - transformed hospitality industry with platform economics"
+  },
+  {
+    "index": 233,
+    "filename": "images/tbd_233_Hal_Finney__cryptographer_and_recipient_of_the_first_Bitcoin.png",
+    "alt": "Hal Finney",
+    "significance": 7,
+    "reason": "Hal Finney - first Bitcoin transaction recipient, possible Satoshi Nakamoto, pioneer of digital currency"
+  },
+  {
+    "index": 234,
+    "filename": "images/tbd_234_Rahul_Sonwalkar__founder_of_Julius_AI.png",
+    "alt": "Rahul Sonwalkar",
+    "significance": 2,
+    "reason": "Julius AI founder - minor AI startup, limited historical significance"
+  },
+  {
+    "index": 235,
+    "filename": "images/tbd_235_Vitalik_Buterin__co_founder_of_Ethereum.jpg",
+    "alt": "Vitalik Buterin",
+    "significance": 4,
+    "reason": "Another Vitalik photo - duplicate coverage"
+  },
+  {
+    "index": 236,
+    "filename": "images/tbd_236_Elon_Musk__SpaceX___Tesla___X___xAI___Neuralink___OpenAI___P.jpg",
+    "alt": "Elon Musk",
+    "significance": 5,
+    "reason": "Elon Musk - hugely significant figure but this is a generic photo"
+  },
+  {
+    "index": 237,
+    "filename": "images/tbd_237_David_Deutsch__physicist_and_inventor_of_constructor_theory.jpg",
+    "alt": "David Deutsch",
+    "significance": 7,
+    "reason": "Father of quantum computing - pioneered quantum computation theory, profoundly important for future of computing"
+  },
+  {
+    "index": 238,
+    "filename": "images/tbd_238_Bryan_Johnson__founder_of_Blueprint_and_Braintree_Venmo.jpg",
+    "alt": "Bryan Johnson",
+    "significance": 4,
+    "reason": "Braintree/Venmo founder, Blueprint longevity - notable entrepreneur but not transformative"
+  },
+  {
+    "index": 239,
+    "filename": "images/tbd_239_Brian_Armstrong__co_founder_and_CEO_of_Coinbase__and_his_wif.jpg",
+    "alt": "Brian Armstrong",
+    "significance": 4,
+    "reason": "Coinbase founder - major crypto exchange but casual family photo"
+  },
+  {
+    "index": 240,
+    "filename": "images/tbd_240_Terry_Sejnowski__neuroscientist_and_computational_biologist.jpg",
+    "alt": "Sejnowski and Hinton",
+    "significance": 7,
+    "reason": "Sejnowski and Hinton together - pioneers of neural networks, Boltzmann machine inventors"
+  },
+  {
+    "index": 241,
+    "filename": "images/tbd_241_Meredith_Whittaker__President_of_the_Signal_Foundation.jpg",
+    "alt": "Meredith Whittaker",
+    "significance": 4,
+    "reason": "Signal Foundation president - important for privacy but not broadly transformative"
+  },
+  {
+    "index": 242,
+    "filename": "images/tbd_242_Eliezer_Yudkowsky__AI_alignment_theorist____Sam_Altman__co_f.jpg",
+    "alt": "Yudkowsky, Altman, Grimes",
+    "significance": 6,
+    "reason": "AI safety theorist with OpenAI CEO and Grimes - captures the cultural intersection of AI safety debate"
+  },
+  {
+    "index": 243,
+    "filename": "images/tbd_243_Palmer_Luckey__founder_of_Oculus__Anduril_and_ModRetro.jpg",
+    "alt": "Palmer Luckey",
+    "significance": 4,
+    "reason": "Duplicate Palmer Luckey"
+  },
+  {
+    "index": 244,
+    "filename": "images/tbd_244_Palmer_Luckey__founder_of_Oculus__Anduril_and_ModRetro.jpg",
+    "alt": "Palmer Luckey",
+    "significance": 3,
+    "reason": "Duplicate Palmer Luckey"
+  },
+  {
+    "index": 245,
+    "filename": "images/tbd_245_Carl_Sagan__astronomer.jpg",
+    "alt": "Carl Sagan",
+    "significance": 7,
+    "reason": "Carl Sagan - legendary science communicator, Pale Blue Dot, popularized science for millions"
+  },
+  {
+    "index": 246,
+    "filename": "images/tbd_246_Mark_Zuckerberg__co_founder_and_CEO_of_Meta.jpg",
+    "alt": "Zuckerberg",
+    "significance": 3,
+    "reason": "Another duplicate Zuckerberg photo"
+  },
+  {
+    "index": 247,
+    "filename": "images/tbd_247_David_Sacks_and_Snoop_Dog_at_Sacks__Marie_Antoinette_themed.png",
+    "alt": "David Sacks and Snoop Dog",
+    "significance": 4,
+    "reason": "David Sacks (PayPal, Craft Ventures) with Snoop - eccentric party photo, culturally fun"
+  },
+  {
+    "index": 248,
+    "filename": "images/tbd_248_Steve_Jobs__co_founder_of_Apple_and_NeXT.jpg",
+    "alt": "Steve Jobs",
+    "significance": 7,
+    "reason": "Steve Jobs - revolutionary tech visionary, iPhone, Mac, Pixar"
+  },
+  {
+    "index": 249,
+    "filename": "images/tbd_249_Wernher_von_Braun__chief_architect_of_the_Apollo_Saturn_V_ro.jpg",
+    "alt": "Wernher von Braun",
+    "significance": 8,
+    "reason": "Wernher von Braun with Saturn V - architect of Apollo program, put humans on the moon"
+  },
+  {
+    "index": 250,
+    "filename": "images/tbd_250_Palmer_Luckey__founder_of_Oculus__Anduril_and_ModRetro.jpg",
+    "alt": "Palmer Luckey",
+    "significance": 3,
+    "reason": "Another duplicate Palmer Luckey"
+  },
+  {
+    "index": 251,
+    "filename": "images/tbd_251_Erwin_Schr_dinger__Physicist.jpg",
+    "alt": "Erwin Schrodinger",
+    "significance": 6,
+    "reason": "Erwin Schrodinger - quantum mechanics pioneer, wave equation foundational to physics"
+  },
+  {
+    "index": 252,
+    "filename": "images/tbd_252_Elon_Musk__SpaceX___Tesla___Neuralink___X.jpg",
+    "alt": "Elon Musk",
+    "significance": 4,
+    "reason": "Generic Elon Musk photo - important figure but duplicate coverage"
+  },
+  {
+    "index": 253,
+    "filename": "images/tbd_253_Peter_Thiel__legendary_investor_and_co_founder_of_Paypal___P.jpg",
+    "alt": "Peter Thiel",
+    "significance": 6,
+    "reason": "Peter Thiel - PayPal co-founder, Palantir founder, first Facebook investor, influential contrarian thinker"
+  },
+  {
+    "index": 254,
+    "filename": "images/tbd_254_Julian_Assange__Wikileaks.png",
+    "alt": "Julian Assange",
+    "significance": 5,
+    "reason": "Julian Assange - WikiLeaks founder, changed journalism and whistleblowing in the digital age"
+  },
+  {
+    "index": 255,
+    "filename": "images/tbd_255_Jack_Parsons__rocket_engineer__occultist_and_co_founder_of_N.jpg",
+    "alt": "Jack Parsons",
+    "significance": 6,
+    "reason": "Jack Parsons - JPL co-founder, rocket pioneer whose work enabled NASA"
+  },
+  {
+    "index": 256,
+    "filename": "images/tbd_256_Robert_Oppenheimer__physicist___father_of_the_atomic_bomb__a.jpg",
+    "alt": "Oppenheimer and von Neumann",
+    "significance": 9,
+    "reason": "Oppenheimer and von Neumann together - two of the most important scientists of the 20th century, atomic bomb and computer architecture"
+  },
+  {
+    "index": 257,
+    "filename": "images/tbd_257_Stanis_aw_Ulam__mathematician__nuclear_physicist_and_compute.jpg",
+    "alt": "Stanislaw Ulam",
+    "significance": 6,
+    "reason": "Stanislaw Ulam - Monte Carlo method inventor, key figure in nuclear physics and computational methods"
+  },
+  {
+    "index": 258,
+    "filename": "images/tbd_258_Ross_Ulbricht__founder_of_Silk_Road.jpg",
+    "alt": "Ross Ulbricht",
+    "significance": 3,
+    "reason": "Duplicate Ross Ulbricht - dark web figure"
+  },
+  {
+    "index": 259,
+    "filename": "images/tbd_259_John_von_Neumann__mathematician__physicist__computer_scienti.jpg",
+    "alt": "von Neumann, Feynman, Ulam at Los Alamos",
+    "significance": 9,
+    "reason": "Three titans of science at the Manhattan Project - von Neumann (computer architecture), Feynman (physics), Ulam (Monte Carlo)"
+  },
+  {
+    "index": 260,
+    "filename": "images/tbd_260_Jim_Simons__mathematician_and_billionaire_founder_of_Renaiss.jpg",
+    "alt": "Jim Simons",
+    "significance": 6,
+    "reason": "Jim Simons - mathematician who pioneered quantitative trading, Renaissance Technologies had best returns in history"
+  },
+  {
+    "index": 261,
+    "filename": "images/tbd_261_Demis_Hassabis__co_founder_and_CEO_of_DeepMind.jpg",
+    "alt": "Demis Hassabis",
+    "significance": 5,
+    "reason": "Duplicate Hassabis photo"
+  },
+  {
+    "index": 262,
+    "filename": "images/tbd_262_Jim_Simons__mathematician_and_billionaire_founder_of_Renaiss.jpg",
+    "alt": "Jim Simons",
+    "significance": 4,
+    "reason": "Duplicate Jim Simons"
+  },
+  {
+    "index": 263,
+    "filename": "images/tbd_263_Mark_Zuckerberg__co_founder_of_Meta.jpg",
+    "alt": "Zuckerberg",
+    "significance": 3,
+    "reason": "Duplicate Zuckerberg"
+  },
+  {
+    "index": 264,
+    "filename": "images/tbd_264_Pavel_Durov__founder_of_Telegram_and_VK.jpg",
+    "alt": "Pavel Durov",
+    "significance": 4,
+    "reason": "Duplicate Durov"
+  },
+  {
+    "index": 265,
+    "filename": "images/tbd_265_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin__with_Lauren_S.jpg",
+    "alt": "Bezos White House",
+    "significance": 4,
+    "reason": "Bezos at White House - notable but political/social not tech milestone"
+  },
+  {
+    "index": 266,
+    "filename": "images/tbd_266_Javier_Milei__anarcho_capitalist_president_of_Argentina__and.jpg",
+    "alt": "Milei and Musk",
+    "significance": 4,
+    "reason": "Argentine president with Musk - geopolitical meeting but not tech milestone"
+  },
+  {
+    "index": 267,
+    "filename": "images/tbd_267_Demis_Hassabis__co_founder_and_CEO_of_DeepMind__playing_in_t.jpg",
+    "alt": "Hassabis poker",
+    "significance": 3,
+    "reason": "Hassabis playing poker - casual/personal, not tech-related"
+  },
+  {
+    "index": 268,
+    "filename": "images/tbd_268_Ilya_Sutzkever__co_founder_and_chief_scientist_of_OpenAI.jpg",
+    "alt": "Ilya Sutskever",
+    "significance": 6,
+    "reason": "Ilya Sutskever - OpenAI co-founder, key architect of GPT, crucial figure in deep learning"
+  },
+  {
+    "index": 269,
+    "filename": "images/tbd_269_Mark_Zuckerberg__founder_of_Meta.jpg",
+    "alt": "Zuckerberg",
+    "significance": 2,
+    "reason": "Another duplicate Zuck photo"
+  },
+  {
+    "index": 270,
+    "filename": "images/tbd_270_Jeff_Bezos__Founder_of_Amazon_and_Blue_Origin.jpg",
+    "alt": "Jeff Bezos",
+    "significance": 5,
+    "reason": "Bezos - Amazon/Blue Origin founder, but generic portrait"
+  },
+  {
+    "index": 271,
+    "filename": "images/tbd_271_Wernher_von_Braun__chief_architect_of_the_Apollo_Saturn_V_ro.jpg",
+    "alt": "von Braun",
+    "significance": 6,
+    "reason": "Duplicate von Braun coverage"
+  },
+  {
+    "index": 272,
+    "filename": "images/tbd_272_Palmer_Luckey__founder_of_Anduril___Oculus.jpg",
+    "alt": "Palmer Luckey",
+    "significance": 4,
+    "reason": "Duplicate Palmer Luckey"
+  },
+  {
+    "index": 273,
+    "filename": "images/tbd_273_CZ__founder_and_former_CEO_of_Binance.jpg",
+    "alt": "CZ Binance",
+    "significance": 4,
+    "reason": "Binance founder - largest crypto exchange, significant in crypto but not broader tech"
+  },
+  {
+    "index": 274,
+    "filename": "images/tbd_274_Jim_Simons__mathematician_and_billionaire_founder_of_Renaiss.jpg",
+    "alt": "Jim Simons",
+    "significance": 4,
+    "reason": "Another duplicate Jim Simons"
+  },
+  {
+    "index": 275,
+    "filename": "images/tbd_275_Sam_Bankman_Fried__founder_of_FTX.jpg",
+    "alt": "Sam Bankman-Fried",
+    "significance": 5,
+    "reason": "SBF - FTX fraud case, significant cautionary tale in crypto/tech but through scandal not innovation"
+  },
+  {
+    "index": 276,
+    "filename": "images/tbd_276_Walidaa100_This_was_him_before_his_glow_up.jpg",
+    "alt": "Glow up photo",
+    "significance": 1,
+    "reason": "Unknown person's 'glow up' - no historical significance"
+  },
+  {
+    "index": 277,
+    "filename": "images/tbd_277_Howard_Hughes__eccentric_billionaire_engineer__aviator_and_b.jpg",
+    "alt": "Howard Hughes",
+    "significance": 7,
+    "reason": "Howard Hughes - aviation pioneer, filmmaker, eccentric billionaire who shaped aerospace and entertainment"
+  },
+  {
+    "index": 278,
+    "filename": "images/tbd_278_Steve_Jobs__co_founder_of_Apple.jpg",
+    "alt": "Steve Jobs",
+    "significance": 6,
+    "reason": "Steve Jobs - duplicate coverage but important figure"
+  },
+  {
+    "index": 279,
+    "filename": "images/tbd_279_Pavel_Durov__founder_of_Telegram_and_VK.jpg",
+    "alt": "Pavel Durov",
+    "significance": 4,
+    "reason": "Duplicate Durov"
+  },
+  {
+    "index": 280,
+    "filename": "images/tbd_280_Jensen_Huang__co_founder_and_CEO_of_NVIDIA.png",
+    "alt": "Jensen Huang",
+    "significance": 5,
+    "reason": "Jensen - important but duplicate coverage"
+  },
+  {
+    "index": 281,
+    "filename": "images/tbd_281_Chris_Riesbeck__computer_scientist_and_AI_researcher__and_Ge.png",
+    "alt": "Riesbeck and Hinton",
+    "significance": 6,
+    "reason": "AI researchers together - early AI/neural network pioneers"
+  },
+  {
+    "index": 282,
+    "filename": "images/tbd_282_David_Deutsch__physicist_and_inventor_of_constructor_theory.jpg",
+    "alt": "David Deutsch",
+    "significance": 5,
+    "reason": "Duplicate David Deutsch coverage"
+  },
+  {
+    "index": 283,
+    "filename": "images/tbd_283_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin__and_Lauren_Sa.jpg",
+    "alt": "Bezos and Lauren",
+    "significance": 3,
+    "reason": "Bezos lifestyle photo - not tech related"
+  },
+  {
+    "index": 284,
+    "filename": "images/tbd_284_Pavel_Durov__founder_of_Telegram_and_VK.jpg",
+    "alt": "Pavel Durov",
+    "significance": 3,
+    "reason": "Another duplicate Durov"
+  },
+  {
+    "index": 285,
+    "filename": "images/tbd_285_Aaron_Ng__founder___CEO_of_Hyper_Online.jpg",
+    "alt": "Aaron Ng",
+    "significance": 1,
+    "reason": "Minor startup founder - no broad historical significance"
+  },
+  {
+    "index": 286,
+    "filename": "images/tbd_286_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin__with_Lauren_S.png",
+    "alt": "Bezos Coachella",
+    "significance": 2,
+    "reason": "Bezos at Coachella - celebrity/lifestyle, not tech history"
+  },
+  {
+    "index": 287,
+    "filename": "images/tbd_287_Marc_Zuckerberg__Founder___CEO_of_Meta.png",
+    "alt": "Zuckerberg",
+    "significance": 3,
+    "reason": "Yet another Zuckerberg photo"
+  },
+  {
+    "index": 288,
+    "filename": "images/tbd_288_Elon_Musk__SpaceX___Tesla___OpenAI___Neuralink___Paypal.jpg",
+    "alt": "Elon Musk",
+    "significance": 4,
+    "reason": "Generic Elon Musk - duplicate coverage"
+  },
+  {
+    "index": 289,
+    "filename": "images/tbd_289_Yann_LeCun__Chief_AI_Scientist_at_Meta.jpg",
+    "alt": "Yann LeCun",
+    "significance": 6,
+    "reason": "Yann LeCun - Turing Award, CNN inventor, but duplicate coverage"
+  },
+  {
+    "index": 290,
+    "filename": "images/tbd_290_Bryan_Johnson__founder_of_Kernel___Blueprint___OS_Fund___Bra.jpg",
+    "alt": "Bryan Johnson",
+    "significance": 3,
+    "reason": "Bryan Johnson - longevity obsession, Braintree founder but not historically transformative"
+  },
+  {
+    "index": 291,
+    "filename": "images/tbd_291_Cyan_Banister__engineer_turned_legendary_angel_investor___in.jpg",
+    "alt": "Cyan Banister",
+    "significance": 2,
+    "reason": "Duplicate Cyan Banister"
+  },
+  {
+    "index": 292,
+    "filename": "images/tbd_292_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+    "alt": "Stephen Watt",
+    "significance": 1,
+    "reason": "Obscure hacker - the user specifically called this out as not significant"
+  },
+  {
+    "index": 293,
+    "filename": "images/tbd_293_Ilya_Sutzkever__co_founder_and_chief_scientist_of_OpenAI.jpg",
+    "alt": "Ilya Sutskever",
+    "significance": 5,
+    "reason": "Duplicate Ilya coverage"
+  },
+  {
+    "index": 294,
+    "filename": "images/tbd_294_Robert_Goddard__creator_of_the_first_liquid_fueled_rocket.jpg",
+    "alt": "Robert Goddard",
+    "significance": 8,
+    "reason": "Robert Goddard - father of modern rocketry, first liquid-fueled rocket, made space travel possible"
+  },
+  {
+    "index": 295,
+    "filename": "images/tbd_295_Aubrey_Cottle_aka_Kirtaner__hacker__engineer_and_cofounder_o.jpg",
+    "alt": "Kirtaner Anonymous",
+    "significance": 3,
+    "reason": "Anonymous co-founder - hacktivist group notable but not tech innovation"
+  },
+  {
+    "index": 296,
+    "filename": "images/tbd_296_Blake_Lemoine__former_Google_engineer_who_was_fired_after_pu.jpg",
+    "alt": "Blake Lemoine",
+    "significance": 4,
+    "reason": "Google engineer who claimed LaMDA was sentient - sparked AI consciousness debate"
+  },
+  {
+    "index": 297,
+    "filename": "images/tbd_297_Robert_Oppenheimer__physicist__head_of_the_Los_Alamos_Labora.jpg",
+    "alt": "Robert Oppenheimer",
+    "significance": 9,
+    "reason": "Father of the atomic bomb - transformational figure in science, technology, and world history"
+  },
+  {
+    "index": 298,
+    "filename": "images/tbd_298_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin__celebrating_a.jpg",
+    "alt": "Bezos space flight",
+    "significance": 5,
+    "reason": "Bezos going to space - notable but primarily a vanity project"
+  },
+  {
+    "index": 299,
+    "filename": "images/tbd_299_Sam_Altman__co_founder_of_OpenAI_and_former_president_of_Y_C.png",
+    "alt": "Sam Altman",
+    "significance": 3,
+    "reason": "Generic outdoor portrait of Sam Altman kneeling in a grassy field in a pink t-shirt. Altman is hugely consequential as OpenAI's leader, but this image captures zero technological or historical substance \u2014 just a casual lifestyle photo."
+  },
+  {
+    "index": 300,
+    "filename": "images/tbd_300_Frank_Herbert__sci_fi_author_of_Dune__on_the_set_of_David_Ly.jpg",
+    "alt": "Frank Herbert",
+    "significance": 6,
+    "reason": "Frank Herbert on the set of David Lynch's Dune adaptation. The intersection of one of sci-fi's most prophetic authors with a major cinematic interpretation gives this real cultural weight. Herbert's ecological and AI themes in Dune remain strikingly relevant."
+  },
+  {
+    "index": 301,
+    "filename": "images/tbd_301_Ralph_Mosher__engineer_and_designer_of_the_Hardiman_exoskele.png",
+    "alt": "Ralph Mosher",
+    "significance": 7,
+    "reason": "Ralph Mosher wearing the Hardiman exoskeleton prototype in a dramatic B&W photo. One of the earliest powered exoskeletons ever built (GE, 1960s). A genuinely important engineering artifact that presaged modern robotics and augmented strength systems."
+  },
+  {
+    "index": 302,
+    "filename": "images/tbd_302_Claude_Shannon__mathematician__electrical_engineer__and_cryp.png",
+    "alt": "Claude Shannon",
+    "significance": 7,
+    "reason": "Elegant B&W portrait of Claude Shannon in a formal room. The father of information theory whose 1948 paper is the mathematical bedrock of the entire digital age. The image is a refined portrait rather than an action shot, but Shannon's importance is so foundational it elevates any photo of him."
+  },
+  {
+    "index": 303,
+    "filename": "images/tbd_303_Ray_Kurzweil__engineer_and_futurist__and_Stevie_Wonder_playi.png",
+    "alt": "Kurzweil & Stevie Wonder",
+    "significance": 7,
+    "reason": "Ray Kurzweil standing behind Stevie Wonder playing a Kurzweil synthesizer. A perfect techno-optimist image: an inventor watching a blind musical genius use his technology to create art. The Kurzweil Reading Machine and synthesizers were transformative assistive and creative technologies."
+  },
+  {
+    "index": 304,
+    "filename": "images/tbd_304_Aaron_Swartz__software_developer_and_internet_activist.jpg",
+    "alt": "Aaron Swartz",
+    "significance": 6,
+    "reason": "Aaron Swartz seated among towering bookshelves, a fitting visual metaphor for his life's work \u2014 co-creating RSS at 14, co-founding Reddit, and fighting for open access to knowledge. A tragic and significant figure in internet freedom. The portrait is beautifully composed."
+  },
+  {
+    "index": 305,
+    "filename": "images/tbd_305_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+    "alt": "Stephen Watt",
+    "significance": 2,
+    "reason": "Stephen Watt in a 'Stop Snitchin' t-shirt, selfie-style photo on a couch. Duplicate subject (also at index 292). A convicted hacker whose story is colorful but technologically inconsequential. No meaningful moment captured."
+  },
+  {
+    "index": 306,
+    "filename": "images/tbd_306_Steve_Wozniak__co_founder_of_Apple.png",
+    "alt": "Steve Wozniak",
+    "significance": 3,
+    "reason": "B&W photo of young Woz playing guitar with a woman. Wozniak is a foundational figure in personal computing, but this is a personal lifestyle photo that captures nothing of his engineering brilliance. No Apple, no circuits, no technology."
+  },
+  {
+    "index": 307,
+    "filename": "images/tbd_307_Sergey_Brin_and_Larry_Page__founders_of_Google.jpg",
+    "alt": "Brin & Page",
+    "significance": 1,
+    "reason": "Image displays a 'Media not displayed \u2014 removed in response to a report from the copyright holder' notice. A broken/taken-down image has zero gallery value. Should be removed entirely."
+  },
+  {
+    "index": 308,
+    "filename": "images/tbd_308_Sam_Altman__co_founder_of_OpenAI_and_former_president_of_Y_C.jpg",
+    "alt": "Sam Altman",
+    "significance": 2,
+    "reason": "Paparazzi-style candid of Sam Altman walking at Sun Valley conference with sunglasses and badge. Second Altman image in this batch with even less substance than the first. Generic conference walk photo."
+  },
+  {
+    "index": 309,
+    "filename": "images/tbd_309_Masayuki_Uemura__engineer_and_lead_architect_of_the_Nintendo.png",
+    "alt": "Masayuki Uemura",
+    "significance": 7,
+    "reason": "Archival B&W photo of Masayuki Uemura at his workstation with early Nintendo hardware \u2014 CRT monitor, keyboard, development equipment. Lead architect of the NES and SNES, consoles that defined modern gaming for billions. Rare archival image showing the creator at work."
+  },
+  {
+    "index": 310,
+    "filename": "images/tbd_310_John_McAfee__founder_of_McAfee_Antivirus___yearbook_photo_ci.png",
+    "alt": "John McAfee",
+    "significance": 3,
+    "reason": "Young John McAfee's yearbook photo. An interesting historical contrast with his later wild persona, but it's just a generic yearbook headshot. McAfee Antivirus was significant; this image is not."
+  },
+  {
+    "index": 311,
+    "filename": "images/tbd_311_Emery_Wells__founder_of.jpg",
+    "alt": "Emery Wells",
+    "significance": 4,
+    "reason": "Emery Wells in a tuxedo on arctic rocks with a helicopter and icebergs. Visually striking and cinematic, but Wells (Frame.io founder) is a relatively minor tech figure. The image is pure lifestyle flex rather than a tech moment."
+  },
+  {
+    "index": 312,
+    "filename": "images/tbd_312_Robert_Moog__inventor_of_the_Moog_Synthesizer__the_first_wid.jpg",
+    "alt": "Robert Moog",
+    "significance": 8,
+    "reason": "Iconic B&W portrait of Robert Moog surrounded by his modular synthesizer \u2014 patch cables, panels, and keyboard. The Moog Synthesizer was the first widely used electronic musical instrument and fundamentally transformed music production. This is THE definitive image of the man with his invention."
+  },
+  {
+    "index": 313,
+    "filename": "images/tbd_313_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin.jpg",
+    "alt": "Jeff Bezos",
+    "significance": 2,
+    "reason": "Bezos stepping out of a car in a cowboy hat and shearling jacket in the snow, surrounded by security. A celebrity paparazzi shot with zero technological content. Bezos is one of the most consequential tech founders alive; this image shows none of that."
+  },
+  {
+    "index": 314,
+    "filename": "images/tbd_314_Cyan_Banister__engineer_turned_legendary_angel_investor___in.jpg",
+    "alt": "Cyan Banister",
+    "significance": 3,
+    "reason": "Cyan Banister in a green satin dress between turntables/DJ gear, shot from above. A stylized portrait of a notable angel investor (early SpaceX, Uber), but the image captures nothing of her investing acumen or engineering background. Second Banister image in nearby indices."
+  },
+  {
+    "index": 315,
+    "filename": "images/tbd_315_Sergey_Brin__co_founder_of_Google.jpg",
+    "alt": "Sergey Brin",
+    "significance": 3,
+    "reason": "Sergey Brin doing acro-yoga at a tech conference, standing on someone's feet with arms outstretched. Fun and unexpected for a Google co-founder, but pure personality entertainment with no technological significance."
+  },
+  {
+    "index": 316,
+    "filename": "images/tbd_316_Sam_Bankman_Fried__founder_of_FTX__on_a_flight_to_the_USA_fr.jpg",
+    "alt": "SBF extradition flight",
+    "significance": 6,
+    "reason": "Sam Bankman-Fried on his flight to the US for extradition after FTX's collapse, wearing a beanie in economy class next to a suited man. A candid that captures a pivotal moment in crypto history \u2014 the dramatic fall of a $32B empire. The contrast between his slovenly appearance and the gravity of the moment is compelling."
+  },
+  {
+    "index": 317,
+    "filename": "images/tbd_317_Hal_Finney__cryptographer_and_recipient_of_the_first_Bitcoin.jpg",
+    "alt": "Hal Finney",
+    "significance": 6,
+    "reason": "Warm vintage portrait of young Hal Finney with a woman. He received the first-ever Bitcoin transaction from Satoshi Nakamoto and was a key early PGP developer. A significant figure in cryptography and cryptocurrency history, though this is a personal photo rather than a tech moment."
+  },
+  {
+    "index": 318,
+    "filename": "images/tbd_318_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+    "alt": "Stephen Watt",
+    "significance": 2,
+    "reason": "Yet another Stephen Watt photo \u2014 in a red tank top with a small animal on his shoulder. Third appearance of this subject in the gallery. Diminishing returns on a figure of limited tech significance."
+  },
+  {
+    "index": 319,
+    "filename": "images/tbd_319_Elon_Musk_welcoming_Rahul_Ligma_and_Daniel_Johnson__former_T.png",
+    "alt": "Musk & Ligma",
+    "significance": 5,
+    "reason": "Elon Musk posing with Rahul Ligma and Daniel Johnson in front of the Twitter bird logo at HQ during the acquisition chaos. A viral cultural moment \u2014 the pranksters pretended to be fired employees carrying boxes. Captures the absurdist energy of the Twitter takeover, though it's more meme than milestone."
+  },
+  {
+    "index": 320,
+    "filename": "images/tbd_320_Palmer_Luckey__founder_of_Oculus___co_founder_of_Anduril__an.jpg",
+    "alt": "Palmer Luckey cosplay",
+    "significance": 4,
+    "reason": "Palmer Luckey in full Metal Gear Solid cosplay at a convention. A billionaire defense-tech CEO in revealing tactical cosplay is genuinely unexpected and captures his gamer-nerd authenticity. Fun but not technologically meaningful."
+  },
+  {
+    "index": 321,
+    "filename": "images/tbd_321_William_Gibson__prophetic_scifi_author_of_Neuromancer___The.jpg",
+    "alt": "William Gibson",
+    "significance": 4,
+    "reason": "Young William Gibson in a 1970s B&W photo with a woman, flared pants and knit cardigan. Gibson coined 'cyberspace' and wrote Neuromancer, arguably the most influential sci-fi novel for tech culture. But this casual personal photo reveals nothing of that vision \u2014 it's just a young couple in the '70s."
+  },
+  {
+    "index": 322,
+    "filename": "images/tbd_322_Dorian_Nakamoto__physicist_and_engineer__when_reporters_stor.jpg",
+    "alt": "Dorian Nakamoto",
+    "significance": 4,
+    "reason": "Dorian Nakamoto became famous when Newsweek misidentified him as Bitcoin's creator Satoshi Nakamoto in 2014. A memorable moment in crypto lore, but Nakamoto himself made no tech contributions \u2014 his significance is entirely as a case of mistaken identity."
+  },
+  {
+    "index": 323,
+    "filename": "images/tbd_323_Palmer_Luckey__founder_of_Oculus_and_co_founder_of_Anduril.jpg",
+    "alt": "Palmer Luckey",
+    "significance": 5,
+    "reason": "Palmer Luckey revived consumer VR with Oculus and pivoted to defense tech with Anduril. Important figure, but this is one of multiple Luckey photos in the gallery (see also 330), diluting its standalone value."
+  },
+  {
+    "index": 324,
+    "filename": "images/tbd_324_Elon_Musk__SpaceX___Tesla__at_Twitter_HQ.jpg",
+    "alt": "Musk at Twitter HQ",
+    "significance": 5,
+    "reason": "Musk at Twitter HQ shortly after the acquisition, holding a glass and talking to staff with 'Welcome Back' sign visible. Captures a pivotal moment in the X/Twitter saga, but it's a fairly generic candid \u2014 no iconic composition."
+  },
+  {
+    "index": 325,
+    "filename": "images/tbd_325_Mark_Zuckerberg__co_founder_of_Facebook_Meta.jpg",
+    "alt": "Zuckerberg hydrofoiling",
+    "significance": 3,
+    "reason": "The infamous Zuckerberg hydrofoil photo with excessive sunscreen creating a ghostly white face. Went mega-viral as a meme, but it's paparazzi-quality and says nothing about tech \u2014 pure celebrity tabloid material."
+  },
+  {
+    "index": 326,
+    "filename": "images/tbd_326_Peter_Thiel__legendary_investor_and_co_founder_of_Paypal___P.jpg",
+    "alt": "Peter Thiel",
+    "significance": 5,
+    "reason": "Striking editorial portrait of Peter Thiel \u2014 co-founder of PayPal, first outside Facebook investor, Palantir co-founder. Beautifully composed shot. Important figure, but this is a magazine-style portrait rather than a historically significant moment."
+  },
+  {
+    "index": 327,
+    "filename": "images/tbd_327_Elon_Musk__SpaceX___Tesla__at_UPenn.jpg",
+    "alt": "Young Musk at UPenn",
+    "significance": 6,
+    "reason": "Young Elon Musk goofing around on the floor of his UPenn dorm room, legs kicked up against a desk with a corded phone and CRT monitor visible. Great 'before they were famous' archival shot with authentic 90s college atmosphere."
+  },
+  {
+    "index": 328,
+    "filename": "images/tbd_328_Elizabeth_Holmes__founder_of_Theranos__and_Joe_Biden.jpg",
+    "alt": "Holmes & Biden",
+    "significance": 7,
+    "reason": "Elizabeth Holmes giving then-VP Joe Biden a tour of the Theranos facility, American flag overhead. Deeply ironic in hindsight \u2014 captures the peak of the Theranos fraud, when the highest levels of government were buying the hype. A cautionary tale for Silicon Valley."
+  },
+  {
+    "index": 329,
+    "filename": "images/tbd_329_Elon_Musk__1994.jpg",
+    "alt": "Young Musk 1994",
+    "significance": 5,
+    "reason": "Black-and-white photo of a young Elon Musk circa 1994 with two friends. Decent 'before they were famous' archival shot, but unremarkable composition and one of several young-Musk photos already in the gallery."
+  },
+  {
+    "index": 330,
+    "filename": "images/tbd_330_Palmer_Luckey__founder_of_Oculus_and_co_founder_of_Anduril.jpg",
+    "alt": "Palmer Luckey cosplay",
+    "significance": 6,
+    "reason": "Palmer Luckey in full anime girl cosplay at a convention \u2014 pink wig, skirt, white boots \u2014 posing with another cosplayer. This is the famous Luckey cosplay photo that perfectly captures his eccentric personality. A billionaire defense tech CEO in a pink skirt is peak techno-optimism energy."
+  },
+  {
+    "index": 331,
+    "filename": "images/tbd_331_Jeff_Bezos__founder_of_Amazon.jpg",
+    "alt": "Bezos selfie",
+    "significance": 2,
+    "reason": "Jeff Bezos taking a goofy selfie with a giant stuffed panda bear. Cute but completely devoid of historical or tech significance. Low-res, throwaway social media content."
+  },
+  {
+    "index": 332,
+    "filename": "images/tbd_332_Jonny_Ive__former_Chief_Design_Officer_at_Apple__in_high_sch.jpg",
+    "alt": "Jony Ive in school",
+    "significance": 5,
+    "reason": "Young Jony Ive circled in a school group photo \u2014 big 80s hair, knitted sweater. Before he became the legendary Apple design chief behind the iMac, iPod, iPhone. Good 'before they were famous' archival material, though the image is grainy."
+  },
+  {
+    "index": 333,
+    "filename": "images/tbd_333_Steve_Jobs__co_founder_of_Apple__and_John_Sculley_before_Scu.jpg",
+    "alt": "Jobs & Sculley",
+    "significance": 8,
+    "reason": "Steve Jobs and John Sculley sitting together on a park bench in Central Park, both laughing, snow on the ground. This was taken before Sculley famously ousted Jobs from Apple in 1985 \u2014 one of the most consequential betrayals in tech history. The warmth between them makes it bittersweet and historically loaded."
+  },
+  {
+    "index": 334,
+    "filename": "images/tbd_334_Nikola_Tesla__inventor_and_engineer.png",
+    "alt": "Nikola Tesla",
+    "significance": 9,
+    "reason": "Nikola Tesla seated reading in front of a massive spiral coil from his laboratory. One of the most iconic photographs of one of the most important inventors in history \u2014 AC power, radio foundations, the Tesla coil. The composition with the coil radiating behind him is visually stunning and perfectly captures his genius."
+  },
+  {
+    "index": 335,
+    "filename": "images/tbd_335_The__traitorous_eight__who_left_Shockley_Semiconductor_to_fo.jpg",
+    "alt": "Traitorous Eight",
+    "significance": 10,
+    "reason": "The 'Traitorous Eight' who left Shockley Semiconductor to found Fairchild Semiconductor in 1957. This single act of defection spawned the entire Silicon Valley semiconductor ecosystem \u2014 Intel, AMD, and dozens of other companies trace their lineage here. This is the founding moment of Silicon Valley itself. Irreplaceable historical photo."
+  },
+  {
+    "index": 336,
+    "filename": "images/tbd_336_Mark_Zuckerberg__Facebook_Meta__and_Kanye_West.jpg",
+    "alt": "Zuckerberg & Kanye tweet",
+    "significance": 3,
+    "reason": "Screenshot of a Kanye West tweet complaining about being kicked off Instagram, with a blurry photo of him and Zuckerberg together. It's a tweet screenshot, not a proper photograph \u2014 low visual quality and minimal tech significance."
+  },
+  {
+    "index": 337,
+    "filename": "images/tbd_337_Elon_Musk___Grimes___Kim_Kardashian___Kanye_West___Travis_Sc.png",
+    "alt": "Musk, Grimes, Kardashians, Kanye",
+    "significance": 5,
+    "reason": "Group photo at a party with Elon Musk, Grimes, Kim Kardashian, Kanye West, Travis Scott, and others. A surreal collision of tech oligarchs and pop culture royalty. Interesting as a cultural artifact showing the overlap of these worlds, but it's essentially a party photo."
+  },
+  {
+    "index": 338,
+    "filename": "images/tbd_338_Cyan_Banister__legendary_angel_investor___invested_early_in.png",
+    "alt": "Cyan Banister",
+    "significance": 3,
+    "reason": "Young Cyan Banister in what appears to be a 90s-era casual photo. She's a legendary angel investor (early SpaceX, Uber, etc.), but this image is relatively obscure \u2014 most people won't recognize her, and the photo itself has no contextual hooks."
+  },
+  {
+    "index": 339,
+    "filename": "images/tbd_339_Tim_May__cypherpunk_and_author_of_the_Crypto_Anarchist_Manif.jpg",
+    "alt": "Tim May",
+    "significance": 4,
+    "reason": "Tim May, author of the Crypto Anarchist Manifesto and key cypherpunk figure. A low-resolution polaroid-style portrait. Historically important person who influenced the ideological foundations of crypto, but the image is poor quality and he's relatively unknown to general audiences."
+  },
+  {
+    "index": 340,
+    "filename": "images/tbd_340_Cyberpunk_Drip__1993.jpg",
+    "alt": "R.U. a Cyberpunk? 1993",
+    "significance": 8,
+    "reason": "Mondo 2000 magazine spread from 1993: 'R.U. a Cyberpunk?' A figure laden with every piece of tech available \u2014 Sony Minidisc, Apple PowerBook, cell phone with scrambler, video camera, stun gun, monocular. An extraordinary time capsule of early-90s cyberpunk culture and pre-smartphone tech maximalism. Visually dense and culturally rich."
+  },
+  {
+    "index": 341,
+    "filename": "images/tbd_341_Wernher_von_Braun__chief_architect_of_the_Apollo_Saturn_V_ro.jpg",
+    "alt": "Wernher von Braun",
+    "significance": 9,
+    "reason": "Wernher von Braun standing dwarfed by the colossal F-1 rocket engines of the Saturn V. The scale contrast between human and machine is breathtaking. Von Braun was the chief architect of the rocket that took humanity to the Moon. Visually stunning, historically monumental."
+  },
+  {
+    "index": 342,
+    "filename": "images/tbd_342_Elon_Musk__SpaceX___Tesla__and_Grimes.jpg",
+    "alt": "Musk & Grimes Met Gala",
+    "significance": 4,
+    "reason": "Elon Musk and Grimes at the Met Gala. Grimes in an ethereal glowing dress, dramatic lighting. Visually beautiful but this is celebrity red carpet content \u2014 it reveals nothing about tech and exists purely in the pop culture sphere."
+  },
+  {
+    "index": 343,
+    "filename": "images/tbd_343_Tim_Cook__CEO_of_Apple__at_Oktoberfest.png",
+    "alt": "Tim Cook at Oktoberfest",
+    "significance": 3,
+    "reason": "Tim Cook and Apple colleagues in traditional Bavarian dress at Oktoberfest, holding beer steins. Fun humanizing moment for Apple's CEO, but there's zero tech significance \u2014 it's a tourist photo in lederhosen."
+  },
+  {
+    "index": 344,
+    "filename": "images/tbd_344_Steve_Jobs_and_Steve_Wozniak__co_founders_of_Apple.png",
+    "alt": "Jobs & Wozniak",
+    "significance": 5,
+    "reason": "Apple co-founders in their youth at a wedding in white suits. Historically important duo but this is a casual personal moment \u2014 not capturing a pivotal tech milestone or product launch."
+  },
+  {
+    "index": 345,
+    "filename": "images/tbd_345_Vitalik_Buterin__co_creator_of_Ethereum.png",
+    "alt": "Vitalik Buterin",
+    "significance": 3,
+    "reason": "Vitalik wearing a custom 'VITALIK' sombrero. Fun candid personality shot of the Ethereum co-creator but depicts no historical moment or technological significance."
+  },
+  {
+    "index": 346,
+    "filename": "images/tbd_346_Adam_Neumann__Co_founder_of_WeWork_and_Flow__with_Narendra_M.jpg",
+    "alt": "Adam Neumann with Modi",
+    "significance": 3,
+    "reason": "WeWork co-founder meeting India's PM Modi. Mildly interesting cross-cultural tech diplomacy, but Neumann's legacy is a cautionary tale of overvaluation, not transformational impact."
+  },
+  {
+    "index": 347,
+    "filename": "images/tbd_347_Steve_Wozniak__co_founder_of_Apple.png",
+    "alt": "Steve Wozniak",
+    "significance": 3,
+    "reason": "Wozniak on a couch surrounded by white fluffy dogs. Wholesome personal photo of an important figure, but zero tech relevance. Apple I/II contributions are historic \u2014 this photo is not."
+  },
+  {
+    "index": 348,
+    "filename": "images/tbd_348_Vitalik_Buterin__co_creator_of_Ethereum.jpg",
+    "alt": "Vitalik Buterin",
+    "significance": 2,
+    "reason": "Generic casual outdoor photo of Vitalik with someone at a restaurant patio. Unremarkable composition, no historical context. One of several Vitalik photos in the gallery."
+  },
+  {
+    "index": 349,
+    "filename": "images/tbd_349_Elon_Musk__SpaceX___Tesla___2003.jpg",
+    "alt": "Elon Musk SpaceX 2003",
+    "significance": 8,
+    "reason": "2003 Florida Today newspaper article about SpaceX's founding \u2014 Musk presenting the Falcon rocket to the National Space Club. Primary historical document from before anyone believed in commercial spaceflight. The headline 'New rocket may save money' is almost comically understated given what followed."
+  },
+  {
+    "index": 350,
+    "filename": "images/tbd_350_Vitalik_Buterin__co_creator_of_Ethereum__and_Roon___tszzl.png",
+    "alt": "Vitalik & Roon",
+    "significance": 1,
+    "reason": "Distant, blurry candid of two people walking in a park, barely identifiable. Poorest quality image in the batch \u2014 no composition, no context, no significance."
+  },
+  {
+    "index": 351,
+    "filename": "images/tbd_351_Steve_Jobs__co_founder_of_Apple.png",
+    "alt": "Steve Jobs meditating",
+    "significance": 8,
+    "reason": "Famous Diana Walker photo of Jobs sitting cross-legged on the floor of his nearly empty home, illuminated by a single lamp. Perfectly encapsulates the minimalist philosophy that defined Apple's design language. One of the most iconic Jobs photographs ever taken."
+  },
+  {
+    "index": 352,
+    "filename": "images/tbd_352_Palmer_Luckey__founder_of_Oculus_VR_and_co_founder_of_Anduri.jpg",
+    "alt": "Palmer Luckey with Zelenskyy",
+    "significance": 7,
+    "reason": "Anduril founder with Ukrainian President Zelenskyy, thumbs up in a government building with the Ukrainian trident visible. Captures the intersection of Silicon Valley defense tech and modern geopolitics \u2014 Anduril's drone systems became strategically significant in the Ukraine conflict."
+  },
+  {
+    "index": 353,
+    "filename": "images/tbd_353_John_McAfee__founder_of_McAfee_Antivirus.jpg",
+    "alt": "John McAfee on boat",
+    "significance": 4,
+    "reason": "McAfee on a boat at sea holding a rifle during his fugitive era. Visually dramatic and captures his notorious later persona, but represents his chaotic post-antivirus life rather than any cybersecurity contribution."
+  },
+  {
+    "index": 354,
+    "filename": "images/tbd_354_Marc_Andreessen__co_founder_of_a16z_and_Mosaic__the_world_s.jpg",
+    "alt": "Marc Andreessen",
+    "significance": 5,
+    "reason": "Moody studio portrait of Andreessen. He co-created Mosaic and Netscape (launched the web era), co-founded a16z, and wrote 'Why Software Is Eating the World.' Extremely significant person \u2014 but this generic portrait captures none of those moments."
+  },
+  {
+    "index": 355,
+    "filename": "images/tbd_355_Adam_Neumann__Co_founder_of_WeWork_and_Flow__and_his_wife_Re.jpg",
+    "alt": "Neumann & Rebekah",
+    "significance": 2,
+    "reason": "B&W edgy photo of Adam and Rebekah Neumann in leather jacket and white top. Style over substance. WeWork's implosion is a cautionary tale, not a triumph, and this photo has no historical context."
+  },
+  {
+    "index": 356,
+    "filename": "images/tbd_356_Peiter_Zatko_aka__Mudge___hacker___former_head_of_security_f.jpg",
+    "alt": "Mudge with Clinton",
+    "significance": 7,
+    "reason": "Legendary L0pht hacker Mudge posing with President Clinton at what appears to be the White House. Mudge's 1998 congressional testimony warning about internet vulnerability was prophetic. This photo captures the moment hacker culture met the highest political office \u2014 a milestone in cybersecurity history."
+  },
+  {
+    "index": 357,
+    "filename": "images/tbd_357_Alex_Karp__co_founder_of_Palantir.jpg",
+    "alt": "Alex Karp",
+    "significance": 3,
+    "reason": "Palantir CEO at Sun Valley in a colorful athletic top with coffee. While Palantir is significant in defense/intelligence tech, this is a generic conference walking shot with no historical weight."
+  },
+  {
+    "index": 358,
+    "filename": "images/tbd_358_Steve_Jobs__co_founder_of_Apple.jpg",
+    "alt": "Steve Jobs jumping on stage",
+    "significance": 7,
+    "reason": "Jobs captured mid-jump on a dark stage in his iconic black turtleneck and jeans. An electrifying image that embodies the showmanship and energy of Apple keynotes that changed product launches forever. Visually stunning and culturally iconic."
+  },
+  {
+    "index": 359,
+    "filename": "images/tbd_359_Margaret_Hamilton__software_developer_for_the_Apollo_space_p.png",
+    "alt": "Margaret Hamilton in Apollo module",
+    "significance": 9,
+    "reason": "Margaret Hamilton inside the Apollo spacecraft command module, smiling while reaching the instrument panel. She led the team that wrote Apollo's onboard flight software \u2014 her error-handling code saved the Apollo 11 moon landing. She coined the term 'software engineering.' This is a primary historical document of one of computing's most transformational contributions to humanity."
+  },
+  {
+    "index": 360,
+    "filename": "images/tbd_360_Mark_Zuckerberg__Facebook_Meta.jpg",
+    "alt": "Zuckerberg Senate hearing",
+    "significance": 8,
+    "reason": "Zuckerberg from behind at the 2018 Senate hearing, facing a massive wall of press photographers. One of the defining images of the tech accountability era. The composition \u2014 one man alone against a sea of cameras \u2014 perfectly captures the power dynamics when Big Tech met government oversight."
+  },
+  {
+    "index": 361,
+    "filename": "images/tbd_361_Ben_Horowitz__co_founder_and_GP_of_a16z__and_his_wife_Felici.jpg",
+    "alt": "Ben & Felicia Horowitz",
+    "significance": 2,
+    "reason": "Ben Horowitz and wife Felicia walking at Sun Valley conference. Felicia's striking pink/gold suit is eye-catching but this is a routine conference paparazzi shot of a VC \u2014 not historically significant."
+  },
+  {
+    "index": 362,
+    "filename": "images/tbd_362_Adam_Neumann__co_founder_of_WeWork_and_Flow.jpg",
+    "alt": "Adam Neumann barefoot",
+    "significance": 3,
+    "reason": "Neumann walking barefoot on a NYC sidewalk while talking on the phone outside Pete's Tavern. Amusing character study capturing his eccentric persona, but WeWork's significance is as a cautionary tale, limiting the historical weight."
+  },
+  {
+    "index": 363,
+    "filename": "images/tbd_363_Bill_Gates__Microsoft__and_Warren_Buffett.jpg",
+    "alt": "Gates & Buffett in costume",
+    "significance": 5,
+    "reason": "Bill Gates in a king costume and Warren Buffett in a wizard costume at a costume party. Two of the most influential people in the world in a playful, humanizing moment. Their friendship itself is iconic, and Gates transformed computing \u2014 but this is a costume party photo, not a tech milestone."
+  },
+  {
+    "index": 364,
+    "filename": "images/tbd_364_Kanye_West__Elon_Musk__Travis_Scott__and_Quavo.png",
+    "alt": "Kanye, Musk, Travis Scott, Quavo",
+    "significance": 4,
+    "reason": "Tech-meets-hip-hop crossover group photo. Visually fun with Musk surrounded by Kanye, Travis Scott, and Quavo. Cultural crossover moment but more celebrity than tech significance."
+  },
+  {
+    "index": 365,
+    "filename": "images/tbd_365_John_McAfee__founder_of_McAfee_Antivirus.jpg",
+    "alt": "John McAfee tropical",
+    "significance": 3,
+    "reason": "McAfee shirtless in a tropical setting holding a shotgun with tattoos and sunglasses. Vivid character portrait of tech's wildest figure, but represents his descent into notoriety rather than his actual contribution to cybersecurity."
+  },
+  {
+    "index": 366,
+    "filename": "images/tbd_366_Elon_Musk__SpaceX___Tesla__and_Kanye_West.png",
+    "alt": "Musk & Kanye",
+    "significance": 4,
+    "reason": "Elon Musk and Kanye West together. Two hugely influential cultural/tech figures, but the pairing is celebrity spectacle rather than a techno-optimist milestone. No technological context visible \u2014 just two famous people posing."
+  },
+  {
+    "index": 367,
+    "filename": "images/tbd_367_Jack_Parsons__rocket_engineer__occultist_and_co_founder_of.png",
+    "alt": "Jack Parsons",
+    "significance": 5,
+    "reason": "Jack Parsons co-founded JPL and was a genuine rocket pioneer whose solid fuel innovations enabled modern rocketry. Fascinating occultist-engineer duality. Standard portrait format rather than an action shot or historically significant moment."
+  },
+  {
+    "index": 368,
+    "filename": "images/tbd_368_Julian_Assange__founder_of_Wikileaks.jpg",
+    "alt": "Julian Assange",
+    "significance": 5,
+    "reason": "Assange holding a kitten inside the Ecuadorian embassy. WikiLeaks was genuinely significant for information transparency and digital activism. The embassy cat photo is somewhat iconic and humanizing, but it's more a meme than a tech milestone."
+  },
+  {
+    "index": 369,
+    "filename": "images/tbd_369_John_Carmack__legendary_programmer_and_co_creator_of_DOOM.jpg",
+    "alt": "John Carmack",
+    "significance": 8,
+    "reason": "John Carmack surrounded by computers wearing a 'Do you have change for paradigm?' shirt. He literally invented modern 3D graphics rendering, created DOOM and Quake, and later led VR at Oculus. One of the most consequential programmers alive. The photo perfectly captures hacker energy."
+  },
+  {
+    "index": 370,
+    "filename": "images/tbd_370_Cliff_Bleszinski_aka_CliffyB__game_designer___Unreal_and_Gea.jpg",
+    "alt": "CliffyB",
+    "significance": 3,
+    "reason": "Cliff Bleszinski at E3 in a red suit with speaker pass. Designed Unreal and Gears of War \u2014 commercially successful but not paradigm-shifting technology. More of a game industry celebrity than a techno-optimist figure."
+  },
+  {
+    "index": 371,
+    "filename": "images/tbd_371_Vitalik_Buterin__co_founder_of_Ethereum.jpg",
+    "alt": "Vitalik Buterin",
+    "significance": 3,
+    "reason": "Casual selfie of Vitalik in a Nike cap at some event. Ethereum is genuinely important as a programmable blockchain platform, but this is a completely generic, unremarkable photo. No context, no tech, just a guy in a hat."
+  },
+  {
+    "index": 372,
+    "filename": "images/tbd_372_CZ__founder_of_Binance.jpg",
+    "alt": "CZ Binance",
+    "significance": 3,
+    "reason": "CZ posing on a rooftop with a city skyline. Built the world's largest crypto exchange, but Binance's significance is commercial infrastructure, not fundamental innovation. Generic portrait with no technological context."
+  },
+  {
+    "index": 373,
+    "filename": "images/tbd_373_Mark_Zuckerberg__founder_of_Facebook___Snoop_Dog_and_Sean_Pa.jpg",
+    "alt": "Zuck, Snoop Dog, Sean Parker",
+    "significance": 5,
+    "reason": "Zuckerberg, Snoop Dogg, and Sean Parker (Napster founder, early Facebook president) hanging out. A fun Silicon Valley-meets-hip-hop crossover. Parker and Zuck are genuinely consequential tech figures, and the casual energy captures the era, but it's still a party photo."
+  },
+  {
+    "index": 374,
+    "filename": "images/tbd_374_Prafulla_Chandra_Ray__chemist_and_founder_of_India_s_first_p.jpg",
+    "alt": "Prafulla Chandra Ray",
+    "significance": 4,
+    "reason": "Vintage portrait of the father of Indian pharmaceutical chemistry. Historically important for Indian industrial science, but quite niche for a techno-optimism gallery. Standard formal portrait with no dynamic context."
+  },
+  {
+    "index": 375,
+    "filename": "images/tbd_375_Pavel_Durov__founder_of_Telegram_and_VK.png",
+    "alt": "Pavel Durov",
+    "significance": 4,
+    "reason": "Pavel Durov meditating shirtless with a city skyline behind him. Founded VK and Telegram \u2014 significant platforms for encrypted communication and anti-censorship. The image is visually striking but is more lifestyle influencer than tech significance."
+  },
+  {
+    "index": 376,
+    "filename": "images/tbd_376_Sam_Altman__co_founder_of_OpenAI_and_former_president_of_Y_C.jpg",
+    "alt": "Sam Altman",
+    "significance": 5,
+    "reason": "Artistic dual-panel photo of Sam Altman with blue mirror sunglasses reflecting the crowd. Central to the current AI revolution as OpenAI CEO. The photo is artistically interesting and captures his public-facing mystique, but it's a portrait, not a historic moment."
+  },
+  {
+    "index": 377,
+    "filename": "images/tbd_377_Albert_Hofmann__chemist___the_first_person_to_synthesize_LSD.jpg",
+    "alt": "Albert Hofmann",
+    "significance": 7,
+    "reason": "Albert Hofmann in his lab holding a molecular model \u2014 the man who synthesized LSD. His discovery reshaped neuroscience, psychiatry, and counterculture. Classic lab portrait of a genuinely consequential chemist at work. Strong historical value."
+  },
+  {
+    "index": 378,
+    "filename": "images/tbd_378_Elon_Musk__SpaceX__Tesla__and_Sergey_Brin__co_founder_of_Goo.png",
+    "alt": "Musk & Brin partying",
+    "significance": 4,
+    "reason": "Musk and Sergey Brin (Google co-founder) at a party. Two of the most consequential tech founders alive, but this is just a casual selfie at what looks like a house party. No tech context, no historic significance as an image."
+  },
+  {
+    "index": 379,
+    "filename": "images/tbd_379_Delian_Asparouhov__co_founder_of_Varda_and_principal_at_Foun.png",
+    "alt": "Delian Asparouhov wedding",
+    "significance": 2,
+    "reason": "Wedding kiss photo with Delian's face projected on a screen behind. Varda Space Industries is interesting but nascent. This is a personal life moment with no technological relevance. Very niche figure for the gallery."
+  },
+  {
+    "index": 380,
+    "filename": "images/tbd_380_Vitalik_Buterin__co_founder_of_Ethereum.png",
+    "alt": "Vitalik Buterin",
+    "significance": 4,
+    "reason": "Vitalik presenting at ETHCC (Ethereum Community Conference). Better than the casual selfie (371) \u2014 shows him at the podium of his own ecosystem. But duplicate subject and still a standard conference talk photo."
+  },
+  {
+    "index": 381,
+    "filename": "images/tbd_381_Isambard_Kingdom_Brunel__revolutionary_civil_engineer_and_de.jpg",
+    "alt": "Isambard Kingdom Brunel",
+    "significance": 9,
+    "reason": "One of the most famous photographs in engineering history. Brunel standing in front of the massive launching chains of the SS Great Eastern. He built the Great Western Railway, revolutionary bridges, and the largest ship of his era. The image itself is iconic \u2014 the small man dwarfed by his own creation embodies industrial ambition."
+  },
+  {
+    "index": 382,
+    "filename": "images/tbd_382_Patri_Friedman__software_engineer_and_founder_of_the_Seastea.jpg",
+    "alt": "Patri Friedman",
+    "significance": 2,
+    "reason": "Patri Friedman playing poker with chips on the table. Founded the Seasteading Institute \u2014 an interesting libertarian tech concept but largely unrealized. The photo shows him at a poker table, which has nothing to do with technology or his vision."
+  },
+  {
+    "index": 383,
+    "filename": "images/tbd_383_Sasha_Shulgin__biochemist_and_psychedelic_pioneer__while_wor.jpg",
+    "alt": "Sasha Shulgin",
+    "significance": 6,
+    "reason": "Sasha Shulgin smoking a pipe in his lab \u2014 the 'godfather of MDMA' who systematically synthesized and self-tested hundreds of psychoactive compounds. His books PiHKAL and TiHKAL are foundational texts. The pipe-in-lab photo has great character but is a standard portrait."
+  },
+  {
+    "index": 384,
+    "filename": "images/tbd_384_The_Paypal_Mafia__2007.png",
+    "alt": "PayPal Mafia 2007",
+    "significance": 10,
+    "reason": "The legendary Fortune magazine 'PayPal Mafia' group photo \u2014 Thiel, Musk, Hoffman, Levchin, Sacks, Rabois, and others styled as actual mobsters. These individuals went on to create Tesla, SpaceX, LinkedIn, YouTube, Palantir, and Yelp. Arguably the single most consequential group photo in Silicon Valley history. Absolutely iconic."
+  },
+  {
+    "index": 385,
+    "filename": "images/tbd_385_Richard_Craib__founder___CEO_of_Numerai.png",
+    "alt": "Richard Craib",
+    "significance": 2,
+    "reason": "Richard Craib holding a baby in a Gucci robe and 'Jesus is King' Kanye shirt. Numerai is a niche AI-driven hedge fund. The photo is a personal lifestyle shot with zero technological context. Very obscure figure for a gallery of this scope."
+  },
+  {
+    "index": 386,
+    "filename": "images/tbd_386_Wernher_von_Braun__godfather_of_rocketry.png",
+    "alt": "von Braun",
+    "significance": 8,
+    "reason": "Wernher von Braun standing in front of the Saturn V rocket \u2014 the vehicle that took humanity to the moon. Morally complex figure (former Nazi V-2 engineer), but undeniably the architect of the American space program. The rocket in the background makes this an iconic techno-optimist image."
+  },
+  {
+    "index": 387,
+    "filename": "images/tbd_387_Jack_Parsons__rocket_engineer__occultist_and_co_founder_of.jpg",
+    "alt": "Jack Parsons & wife",
+    "significance": 3,
+    "reason": "Intimate personal photo of Jack Parsons with his wife. Humanizing but adds little over the solo portrait (367). No rocketry or technical context visible \u2014 just a candid couple's shot. Duplicate subject with less relevance."
+  },
+  {
+    "index": 388,
+    "filename": "images/tbd_388_Henry_Ford__founder_of_Ford_Motor_Company.jpg",
+    "alt": "Henry Ford",
+    "significance": 7,
+    "reason": "Industrialist who pioneered mass production via the assembly line, making automobiles accessible to the middle class and transforming manufacturing forever. Foundational figure in technological progress, though the photo itself is a standard portrait."
+  },
+  {
+    "index": 389,
+    "filename": "images/tbd_389_Whitfield_Diffie__legendary_cryptographer_and_co_creator_of.png",
+    "alt": "Whitfield Diffie",
+    "significance": 5,
+    "reason": "Co-invented public-key cryptography (Diffie-Hellman), which underpins all modern internet security \u2014 SSL/TLS, HTTPS, encrypted messaging. Hugely important technically but obscure to general audiences. The photo is a basic portrait."
+  },
+  {
+    "index": 390,
+    "filename": "images/tbd_390_John_McAfee__founder_of_McAfee_Antivirus.png",
+    "alt": "John McAfee",
+    "significance": 4,
+    "reason": "Wild photo of McAfee shirtless surrounded by women with guns and bath salts on the table. Entertaining and notorious, but more tabloid shock value than tech significance. McAfee Antivirus was important but this image captures his eccentric later-life persona, not innovation."
+  },
+  {
+    "index": 391,
+    "filename": "images/tbd_391_Hal_Finney__cryptographer_and_recipient_of_the_first_Bitcoin.jpg",
+    "alt": "Hal Finney",
+    "significance": 5,
+    "reason": "Received the first-ever Bitcoin transaction from Satoshi Nakamoto \u2014 a pivotal moment in crypto history. Important cypherpunk who worked on PGP. But this is just a vintage photo of him running in a race, no connection to his tech contributions."
+  },
+  {
+    "index": 392,
+    "filename": "images/tbd_392_Mark_Zuckerberg__founder___CEO_of_Facebook_Meta.jpg",
+    "alt": "Mark Zuckerberg",
+    "significance": 7,
+    "reason": "Zuckerberg hydrofoil surfing while holding an American flag \u2014 the viral July 4th image that became one of the biggest tech-bro memes. Captures the absurdity and ambition of Silicon Valley culture. Major tech figure, iconic photo, though it's about personality not innovation."
+  },
+  {
+    "index": 393,
+    "filename": "images/tbd_393_Howard_Hughes__engineer_aviator_business_titan.png",
+    "alt": "Howard Hughes",
+    "significance": 8,
+    "reason": "Hughes in a cockpit wearing aviation goggles and flight gear \u2014 a stunning B&W photo of one of the most extraordinary engineer-aviator-entrepreneurs in history. Set speed records, built the Spruce Goose, pioneered aerospace. The photo perfectly captures his daring spirit."
+  },
+  {
+    "index": 394,
+    "filename": "images/tbd_394_Hackers__1995.jpg",
+    "alt": "Hackers (1995)",
+    "significance": 3,
+    "reason": "Promotional still from the 1995 movie 'Hackers' \u2014 a cult film that romanticized hacker culture. Fun nostalgia but it's a fictional movie cast photo, not a real tech moment or real innovators."
+  },
+  {
+    "index": 395,
+    "filename": "images/tbd_395_Richard_Stallman__godfather_of_the_free_software_movement.jpg",
+    "alt": "Richard Stallman",
+    "significance": 6,
+    "reason": "Stallman in his famous 'Saint IGNUcius' persona \u2014 halo disk on head, embroidered robe, lecturing at a chalkboard. Founded the Free Software Foundation and GNU project, laying the groundwork for Linux and open source. The eccentric photo is iconic within hacker culture."
+  },
+  {
+    "index": 396,
+    "filename": "images/tbd_396_Steve_Jobs_showing_off_the_Macintosh_to_Andy_Warhol__Keith_H.png",
+    "alt": "Jobs & Warhol",
+    "significance": 9,
+    "reason": "Steve Jobs demonstrating the Macintosh to Andy Warhol, Keith Haring, and Sean Lennon in 1984 \u2014 an extraordinary collision of technology, art, and culture. This B&W photo grid captures the exact moment personal computing met the art world. One of the most historically significant tech photos in existence."
+  },
+  {
+    "index": 397,
+    "filename": "images/tbd_397_Alex_Karp__co_founder___CEO_of_Palantir.png",
+    "alt": "Alex Karp",
+    "significance": 4,
+    "reason": "Karp in a suit with his signature red bandana and wild curly hair. Co-founded Palantir, which is significant in defense/intelligence tech. But this is a standard corporate portrait \u2014 nothing historically momentous about the image itself."
+  },
+  {
+    "index": 398,
+    "filename": "images/tbd_398_Size_Chad__Arbitrum.jpg",
+    "alt": "Size Chad",
+    "significance": 2,
+    "reason": "Stylish B&W profile shot \u2014 sunglasses, cigarette, white tank top. Aesthetically cool but 'Size Chad' is an obscure crypto-Twitter personality associated with Arbitrum. No broader tech significance whatsoever."
+  },
+  {
+    "index": 399,
+    "filename": "images/tbd_399_Bill_Gates__co_founder_of_Microsoft.png",
+    "alt": "Bill Gates",
+    "significance": 8,
+    "reason": "Bill Gates' famous 1977 Albuquerque mugshot \u2014 young, bespectacled, grinning after a traffic violation. One of the most iconic images in tech history. The future richest man in the world and co-founder of Microsoft as a teenage troublemaker. Perfectly captures the rebellious early days of the PC revolution."
+  },
+  {
+    "index": 400,
+    "filename": "images/tbd_400_Joe_Gebbia__co_founder_of_Airbnb__and_Isabelle_Boemeke.jpg",
+    "alt": "Joe Gebbia & Isabelle Boemeke",
+    "significance": 3,
+    "reason": "Airbnb co-founder Joe Gebbia and nuclear energy advocate Isabelle Boemeke at the Met Gala in elaborate outfits. A tech-meets-fashion moment, but Gebbia is a secondary tech figure and this is a social event photo, not a tech milestone."
+  },
+  {
+    "index": 401,
+    "filename": "images/tbd_401_Elon_Musk__SpaceX___Tesla___Neuralink___Paypal.jpg",
+    "alt": "Elon Musk",
+    "significance": 6,
+    "reason": "Young Elon Musk in a goth/punk phase \u2014 long hair, leather jacket, standing next to a 'Liberty' poster. A fascinating before-and-after for arguably the most prominent tech figure alive. Shows his dramatic personal transformation, though the photo isn't about any tech achievement."
+  },
+  {
+    "index": 402,
+    "filename": "images/tbd_402_Ben_Horowitz__co_founder_and_GP_of_a16z__and_his_wife_Felici.png",
+    "alt": "Ben Horowitz & Felicia",
+    "significance": 3,
+    "reason": "Ben Horowitz (a16z co-founder) and wife Felicia walking casually in streetwear. He's influential in VC but this is a generic candid paparazzi-style photo with no tech context or historical weight."
+  },
+  {
+    "index": 403,
+    "filename": "images/tbd_403_The_Wright_Brothers__inventors_of_the_first_motor_operated_a.png",
+    "alt": "The Wright Brothers",
+    "significance": 8,
+    "reason": "Orville and Wilbur Wright striding together in bowler hats and suits \u2014 a powerful B&W image of the men who achieved powered flight. Arguably the most consequential engineering feat of the 20th century. The photo exudes quiet confidence and determination."
+  },
+  {
+    "index": 404,
+    "filename": "images/tbd_404_John_Romero_and_John_Carmack__creators_of_DOOM.png",
+    "alt": "Romero & Carmack",
+    "significance": 7,
+    "reason": "John Romero and John Carmack posing back-to-back with fantasy swords in a purple-lit promo shot for id Software. These two revolutionized gaming \u2014 DOOM, Quake, and the FPS genre. Carmack's rendering engine work is some of the most brilliant systems programming ever. Iconic 90s gaming energy."
+  },
+  {
+    "index": 405,
+    "filename": "images/tbd_405_Craig_Federighi__senior_vice_president_of_software_engineeri.jpg",
+    "alt": "Craig Federighi",
+    "significance": 4,
+    "reason": "Apple's SVP of Software Engineering in a Swift-branded tracksuit holding a basketball at Apple Park. Fun and humanizing for a senior Apple exec, but Federighi is not a top-tier historical tech figure, and this is a lighthearted PR photo."
+  },
+  {
+    "index": 406,
+    "filename": "images/tbd_406_Sean_Parker__founder_of_Napster__first_president_of_Facebook.jpg",
+    "alt": "Sean Parker",
+    "significance": 5,
+    "reason": "Sean Parker in a red leather jacket, curly blond hair, and choker necklace \u2014 peak early-2000s style. Founded Napster (which disrupted the entire music industry) and was Facebook's first president. Important tech figure, and the photo captures his wild era well."
+  },
+  {
+    "index": 407,
+    "filename": "images/tbd_407_Pavel_Durov__founder_of_Telegram_and_VK.jpg",
+    "alt": "Pavel Durov",
+    "significance": 6,
+    "reason": "Pavel Durov sitting barefoot on desert sand dunes, all in black, gazing into the distance. Founded VK (Russia's Facebook) and Telegram. A tech freedom fighter who fled Russia rather than hand over user data. The photo is visually striking and captures his enigmatic, principled persona."
+  },
+  {
+    "index": 408,
+    "filename": "images/tbd_408_Steve_Wozniak__co_founder_of_Apple__and_David_Lee_Roth__lead.jpg",
+    "alt": "Wozniak & David Lee Roth",
+    "significance": 5,
+    "reason": "Steve Wozniak backstage with David Lee Roth of Van Halen \u2014 a fun tech-meets-rock crossover. Woz co-founded Apple and built the Apple I/II, but this photo is a casual hangout moment, not a tech milestone. Entertaining cultural artifact."
+  },
+  {
+    "index": 409,
+    "filename": "images/tbd_409_John_McAfee__founder_of_McAfee_Antivirus.jpg",
+    "alt": "John McAfee",
+    "significance": 4,
+    "reason": "McAfee wearing a samurai helmet while holding a shotgun next to a muscle car. Peak McAfee chaos \u2014 entertaining and absurd. But like the other McAfee photo, this is about his wild lifestyle, not tech innovation. Duplicate subject in this batch lowers value further."
+  },
+  {
+    "index": 410,
+    "filename": "images/tbd_410_Jack_Ma__co_founder_of_Alibaba.jpg",
+    "alt": "Jack Ma (co-founder of Alibaba)",
+    "significance": 3,
+    "reason": "Jack Ma in a wild punk-rock costume performing on stage with spiked wig. Entertaining novelty shot but zero documentary or historical weight for tech."
+  },
+  {
+    "index": 411,
+    "filename": "images/tbd_411_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+    "alt": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+    "significance": 1,
+    "reason": "Obscure figure shirtless in a pool holding champagne. No lasting tech significance, pure curiosity value."
+  },
+  {
+    "index": 412,
+    "filename": "images/tbd_412_julian_assange_in_1995_facing_multiple_charges_of_hacking_un.png",
+    "alt": "Julian Assange in 1995 facing hacking charges",
+    "significance": 6,
+    "reason": "Young Assange outside a Melbourne courthouse in suit and round sunglasses before WikiLeaks fame. Rare early image of a polarizing figure who reshaped digital whistleblowing."
+  },
+  {
+    "index": 413,
+    "filename": "images/web_Ada_Lovelace.jpg",
+    "alt": "Ada Lovelace",
+    "significance": 7,
+    "reason": "Watercolor portrait of the world's first computer programmer (1843). Foundational figure in computing history, though the image is a widely-reproduced Victorian painting."
+  },
+  {
+    "index": 414,
+    "filename": "images/web_Dennis_Ritchie.jpg",
+    "alt": "Dennis Ritchie",
+    "significance": 6,
+    "reason": "Creator of C and co-creator of Unix \u2014 his work underpins virtually all modern software. Standard Wikipedia-style headshot limits photo-specific value."
+  },
+  {
+    "index": 415,
+    "filename": "images/web_Donald_Knuth.jpg",
+    "alt": "Donald Knuth",
+    "significance": 6,
+    "reason": "Knuth silhouetted against his own 1974 quote with binary code projected onto him. Visually striking museum installation elevates what would otherwise be a standard portrait of the father of algorithm analysis."
+  },
+  {
+    "index": 416,
+    "filename": "images/web_Doug_Engelbart.jpg",
+    "alt": "Doug Engelbart",
+    "significance": 4,
+    "reason": "Inventor of the mouse and 'Mother of All Demos' pioneer. Important person but this is a generic close-up portrait of an elderly man \u2014 no context for his contributions."
+  },
+  {
+    "index": 417,
+    "filename": "images/web_Edsger_Dijkstra.jpg",
+    "alt": "Edsger Dijkstra",
+    "significance": 4,
+    "reason": "Pioneer of structured programming and shortest-path algorithms. Contemplative side portrait with glasses; decent character study but no contextual depth."
+  },
+  {
+    "index": 418,
+    "filename": "images/web_Edward_Snowden.jpg",
+    "alt": "Edward Snowden",
+    "significance": 6,
+    "reason": "NSA whistleblower whose 2013 disclosures reshaped global surveillance debate. This is the well-known close-up from his Hong Kong interview \u2014 iconic and widely recognized."
+  },
+  {
+    "index": 419,
+    "filename": "images/web_George_Church.jpg",
+    "alt": "George Church",
+    "significance": 5,
+    "reason": "Leading genomics and synthetic biology pioneer, key CRISPR figure. Well-lit professional portrait, but niche recognition outside biotech circles."
+  },
+  {
+    "index": 420,
+    "filename": "images/web_John_Carmack.jpg",
+    "alt": "John Carmack",
+    "significance": 5,
+    "reason": "Carmack (left) and Tim Sweeney together at GDC/IGF \u2014 two of gaming's most important engine architects in one frame. Standard event backdrop dulls the impact."
+  },
+  {
+    "index": 421,
+    "filename": "images/web_Kevin_Mitnick.jpg",
+    "alt": "Kevin Mitnick",
+    "significance": 3,
+    "reason": "Once the FBI's most-wanted hacker, later security consultant. Conference speaker photo with lanyard \u2014 no drama or context that matches his wild story."
+  },
+  {
+    "index": 422,
+    "filename": "images/web_Marc_Andreessen.jpg",
+    "alt": "Marc Andreessen",
+    "significance": 4,
+    "reason": "Netscape creator and a16z co-founder, one of tech's most influential VCs. Bland panel-event portrait doesn't capture his outsized influence."
+  },
+  {
+    "index": 423,
+    "filename": "images/web_Nikola_Tesla.jpg",
+    "alt": "Nikola Tesla",
+    "significance": 7,
+    "reason": "Classic B&W portrait of Tesla \u2014 arguably the most romanticized inventor in history. AC electricity, wireless communication visionary. The pensive chin-on-hand pose is iconic."
+  },
+  {
+    "index": 424,
+    "filename": "images/web_Richard_Feynman.jpg",
+    "alt": "Richard Feynman",
+    "significance": 6,
+    "reason": "Nobel laureate, quantum electrodynamics pioneer, early quantum computing visionary. Beautiful B&W portrait, but he's more a physics icon than a direct tech figure."
+  },
+  {
+    "index": 425,
+    "filename": "images/web_Tim_Berners_Lee.jpg",
+    "alt": "Tim Berners-Lee",
+    "significance": 7,
+    "reason": "Inventor of the World Wide Web. Universally important \u2014 the internet's defining creator. Solid, recognizable portrait in suit and tie."
+  },
+  {
+    "index": 426,
+    "filename": "images/svmg_102_20__of_the_OpenAI_Sora_team_after_a_Sora_indie_fil.jpg",
+    "alt": "OpenAI Sora team after indie film screening",
+    "significance": 3,
+    "reason": "Four young men posing casually after a Sora screening. Captures the AI video-generation moment but looks like any group selfie \u2014 no iconic framing."
+  },
+  {
+    "index": 427,
+    "filename": "images/svmg_104_Lil_B_the_Based_God_and_Eric_Jang__head_of_AI_at_1.jpg",
+    "alt": "Lil B + Eric Jang + Eve humanoid robot",
+    "significance": 4,
+    "reason": "Filming setup with 1X's Eve humanoid robot and crew. Interesting snapshot of humanoid robotics entering media production, but niche and low compositional impact."
+  },
+  {
+    "index": 428,
+    "filename": "images/svmg_101_Casey_Handmer_and_the_Terraform_Industries_team_du.jpg",
+    "alt": "Terraform Industries team standup",
+    "significance": 2,
+    "reason": "Casey Handmer and team in a generic group photo. Terraform Industries is interesting (atmospheric CO2 to fuel) but this is a forgettable team snapshot."
+  },
+  {
+    "index": 429,
+    "filename": "images/svmg_93_The_Terraform_Industries_castle_in_Burbank.jpg",
+    "alt": "Terraform Industries castle in Burbank",
+    "significance": 2,
+    "reason": "Castle-shaped industrial building exterior with parked cars. Quirky HQ but the photo is just architecture with no human or tech element in frame."
+  },
+  {
+    "index": 430,
+    "filename": "images/svmg_112_Rahul_Sonwalker_with_a_Jensen_banner_at_the_Julius.jpg",
+    "alt": "Rahul Sonwalker with Jensen banner at Julius office",
+    "significance": 2,
+    "reason": "Man posing in front of a Jensen Huang / NVIDIA US map banner. Fun office decor but very niche \u2014 no broader significance."
+  },
+  {
+    "index": 431,
+    "filename": "images/svmg_114_The_redesigned_World_orb.jpg",
+    "alt": "The redesigned Worldcoin orb",
+    "significance": 4,
+    "reason": "Man examining the Worldcoin biometric orb device at an event. Relevant to the crypto/identity space and Sam Altman's ventures, but just a hands-on demo photo."
+  },
+  {
+    "index": 432,
+    "filename": "",
+    "alt": "",
+    "significance": 5,
+    "reason": ""
+  },
+  {
+    "index": 433,
+    "filename": "",
+    "alt": "",
+    "significance": 6,
+    "reason": ""
+  },
+  {
+    "index": 434,
+    "filename": "",
+    "alt": "",
+    "significance": 4,
+    "reason": ""
+  },
+  {
+    "index": 435,
+    "filename": "",
+    "alt": "",
+    "significance": 4,
+    "reason": ""
+  },
+  {
+    "index": 436,
+    "filename": "",
+    "alt": "",
+    "significance": 3,
+    "reason": ""
+  },
+  {
+    "index": 437,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 438,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 439,
+    "filename": "",
+    "alt": "",
+    "significance": 3,
+    "reason": ""
+  },
+  {
+    "index": 440,
+    "filename": "",
+    "alt": "",
+    "significance": 4,
+    "reason": ""
+  },
+  {
+    "index": 441,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 442,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 443,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 444,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 445,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 446,
+    "filename": "",
+    "alt": "",
+    "significance": 1,
+    "reason": ""
+  },
+  {
+    "index": 447,
+    "filename": "",
+    "alt": "",
+    "significance": 1,
+    "reason": ""
+  },
+  {
+    "index": 448,
+    "filename": "",
+    "alt": "",
+    "significance": 1,
+    "reason": ""
+  },
+  {
+    "index": 449,
+    "filename": "",
+    "alt": "",
+    "significance": 4,
+    "reason": ""
+  },
+  {
+    "index": 450,
+    "filename": "",
+    "alt": "",
+    "significance": 5,
+    "reason": ""
+  },
+  {
+    "index": 451,
+    "filename": "",
+    "alt": "",
+    "significance": 2,
+    "reason": ""
+  },
+  {
+    "index": 452,
+    "filename": "",
+    "alt": "",
+    "significance": 4,
+    "reason": ""
+  },
+  {
+    "index": 453,
+    "filename": "",
+    "alt": "",
+    "significance": 3,
+    "reason": ""
+  }
+]
