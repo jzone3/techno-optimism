@@ -1,0 +1,163 @@
+[
+  {
+    "index": 161,
+    "file": "images/161_Sundar_Pichai.jpg",
+    "alt": "Sundar Pichai",
+    "significance_score": 4,
+    "rationale": "Standard portrait headshot of Google/Alphabet CEO. Important figure but the image itself is a generic corporate headshot with no historic context or moment captured."
+  },
+  {
+    "index": 162,
+    "file": "images/162_Sam_Altman.jpg",
+    "alt": "Sam Altman",
+    "significance_score": 5,
+    "rationale": "Portrait headshot of the OpenAI CEO, arguably the most prominent figure of the current AI era. Bumped slightly for his outsized relevance to the AI narrative, but still just a headshot."
+  },
+  {
+    "index": 163,
+    "file": "images/163_Tim_Sweeney.jpg",
+    "alt": "Tim Sweeney",
+    "significance_score": 3,
+    "rationale": "Standard headshot of Epic Games CEO. Important for gaming (Unreal Engine, Fortnite, Apple antitrust fight) but not a central AI/tech-history figure, and the image is unremarkable."
+  },
+  {
+    "index": 164,
+    "file": "images/164_Gates_Antitrust.jpg",
+    "alt": "Gates Antitrust",
+    "significance_score": 8,
+    "rationale": "Four-panel black-and-white surveillance stills of Bill Gates during his 1998 antitrust deposition. Iconic, widely-reproduced image capturing a watershed moment in tech regulation. Gates fidgeting, drinking water, raising his hand — deeply humanizing and historically pivotal."
+  },
+  {
+    "index": 165,
+    "file": "images/165_Yahoo_HQ.jpg",
+    "alt": "Yahoo HQ",
+    "significance_score": 2,
+    "rationale": "Generic exterior photo of the Yahoo headquarters building in Sunnyvale. Standard corporate architecture shot with no people or historic moment. Yahoo's decline is significant but this image doesn't convey it."
+  },
+  {
+    "index": 166,
+    "file": "images/168_OpenAI_founding_announcement__December_11__2015___the_team_t.png",
+    "alt": "OpenAI founding 2015",
+    "significance_score": 2,
+    "rationale": "Despite the historically significant alt text (OpenAI's founding announcement, December 2015), the actual image is an abstract geometric striped pattern — not a photograph of the team or event. Adds no visual historical value."
+  },
+  {
+    "index": 167,
+    "file": "images/169_The_original_Microsoft_staff__December_7__1978___Bill_Gates.jpg",
+    "alt": "Microsoft staff 1978",
+    "significance_score": 9,
+    "rationale": "The legendary signed team photo of the original 11 Microsoft employees from December 7, 1978 — including a young Bill Gates and Paul Allen. One of the most famous startup photos in tech history, regularly cited in documentaries and retrospectives."
+  },
+  {
+    "index": 168,
+    "file": "images/170_Godfathers_of_AI___Hinton__LeCun__and_Bengio_win_the_2018_Tu.jpg",
+    "alt": "AI Godfathers Turing Award",
+    "significance_score": 8,
+    "rationale": "Triptych portrait of Geoffrey Hinton, Yann LeCun, and Yoshua Bengio — the 'Godfathers of AI' — commemorating their 2018 Turing Award for deep learning breakthroughs. Clean, well-composed editorial image of the three people most responsible for the neural network revolution."
+  },
+  {
+    "index": 169,
+    "file": "images/171_Intel_founders_Grove__Noyce__and_Moore_with_the_8080_micropr.jpg",
+    "alt": "Intel founders 1978",
+    "significance_score": 9,
+    "rationale": "Andy Grove, Robert Noyce, and Gordon Moore standing over an enlarged 8080 microprocessor die. Three foundational Silicon Valley figures, including the author of Moore's Law and the co-inventor of the integrated circuit. Iconic image capturing the birth of the semiconductor age."
+  },
+  {
+    "index": 170,
+    "file": "images/172_Lisa_Su__Chair_and_CEO_of_AMD__speaking_at_SXSW_2024.jpg",
+    "alt": "Lisa Su SXSW",
+    "significance_score": 4,
+    "rationale": "Close-up of Lisa Su (AMD CEO) speaking at SXSW 2024. Important semiconductor leader who turned AMD around, but the image is rotated sideways and is just a speaking portrait with no historic context visible."
+  },
+  {
+    "index": 171,
+    "file": "images/173_Reshma_Saujani.jpg",
+    "alt": "Reshma Saujani",
+    "significance_score": 3,
+    "rationale": "Professional portrait headshot of Reshma Saujani, founder of Girls Who Code. Important for diversity in tech education, but a standard studio headshot with no event or historic moment."
+  },
+  {
+    "index": 172,
+    "file": "images/174_Megan_Smith.jpg",
+    "alt": "Megan Smith",
+    "significance_score": 3,
+    "rationale": "Official government portrait of Megan Smith (former US CTO under Obama, ex-Google VP). American flag backdrop. Notable role but the image is a standard official headshot."
+  },
+  {
+    "index": 173,
+    "file": "images/179_Richard_Stallman_eating_something_off_his_foot_mid-presentat.jpg",
+    "alt": "Stallman",
+    "significance_score": 5,
+    "rationale": "Low-quality webcam still of Richard Stallman during a presentation — the famous clip of him apparently eating something off his foot. Viral internet moment that became a meme; Stallman himself is hugely significant (GNU, GPL, free software movement). The image is culturally memorable but poor quality."
+  },
+  {
+    "index": 174,
+    "file": "images/180_Tim_Cook_marching_at_San_Francisco_Pride_2019_with_thousands.jpg",
+    "alt": "Tim Cook Pride",
+    "significance_score": 6,
+    "rationale": "Apple employees marching at San Francisco Pride 2019 behind a large Apple Pride banner with rainbow flags. Tim Cook was the first openly gay Fortune 500 CEO. Vibrant, well-composed photo marking a significant cultural intersection of Big Tech and LGBTQ+ rights."
+  },
+  {
+    "index": 175,
+    "file": "images/181_Palmer_Luckey___from_teenage_VR_inventor_to_defense-tech_wea.jpg",
+    "alt": "Palmer Luckey",
+    "significance_score": 4,
+    "rationale": "Palmer Luckey in a Hawaiian shirt leaning against what appears to be an Anduril defense product. Interesting Silicon Valley arc (Oculus VR founder turned defense-tech entrepreneur) but the image is a standard magazine-style profile portrait."
+  },
+  {
+    "index": 176,
+    "file": "images/184_Nvidia_CEO_Jensen_Huang_meets_SoftBank_CEO_Masayoshi_Son__Vi.webp",
+    "alt": "Jensen meets Masayoshi Son",
+    "significance_score": 4,
+    "rationale": "Branded social media card showing Jensen Huang and Masayoshi Son greeting on stage (November 2024). More of an infographic with heavy text overlay than a raw historical photo. The moment (Nvidia-SoftBank AI partnership) is notable but the image format diminishes impact."
+  },
+  {
+    "index": 177,
+    "file": "images/185_PM_Modi_meets_OpenAI_CEO_Sam_Altman_at_India_AI_Impact_Summi.jpg",
+    "alt": "Modi meets Altman",
+    "significance_score": 5,
+    "rationale": "PM Modi meeting Sam Altman in an ornate Indian government setting. Documents AI's geopolitical reach — a sitting head of state courting the leader of the most prominent AI company. Good composition but somewhat generic diplomatic meeting photo."
+  },
+  {
+    "index": 178,
+    "file": "images/186_Five_social_media_CEOs_sworn_in_before_Senate_Judiciary_Comm.jpg",
+    "alt": "Social media CEOs Senate",
+    "significance_score": 7,
+    "rationale": "Five social media CEOs (including Shou Chew of TikTok, Mark Zuckerberg of Meta, Linda Yaccarino of X) being sworn in before the Senate Judiciary Committee. Dramatic, well-shot image of a historic accountability moment — tech power facing democratic oversight, all raising their right hands."
+  },
+  {
+    "index": 179,
+    "file": "images/187_Elon_Musk_vs_Mark_Zuckerberg__The_billionaire_cage_match_cha.png",
+    "alt": "Musk vs Zuck cage match",
+    "significance_score": 3,
+    "rationale": "Stylized B&W editorial graphic of Musk and Zuckerberg face-to-face with decorative swirl overlays. The proposed cage match was a brief pop-culture moment in 2023 that never materialized. Not a real photograph and not historically significant."
+  },
+  {
+    "index": 180,
+    "file": "images/188_Throwback__Elon_Musk_and_Jeff_Bezos_together_circa_2004__yea.jpg",
+    "alt": "Musk Bezos 2004",
+    "significance_score": 7,
+    "rationale": "A young Elon Musk and Jeff Bezos dining together circa 2004, years before SpaceX vs Blue Origin rivalry. Both pre-fame, both smiling casually. Rare candid throwback of two future titans before their paths diverged into bitter rivalry. Genuinely historic snapshot."
+  },
+  {
+    "index": 181,
+    "file": "images/189_AI_leaders_testify_before_Congress__2025__Photo_via_UPI.jpg",
+    "alt": "AI leaders Congress",
+    "significance_score": 6,
+    "rationale": "Sam Altman, Lisa Su, and another tech leader testifying before Congress in 2025 on AI regulation. Well-composed UPI press photo documenting a critical policy moment. Important but slightly less dramatic than the social media CEO hearing."
+  },
+  {
+    "index": 182,
+    "file": "images/190_Jobs_Gates_D5.jpg",
+    "alt": "Jobs Gates D5",
+    "significance_score": 10,
+    "rationale": "Steve Jobs and Bill Gates sitting side by side in the iconic red chairs at the D5 conference (2007), both laughing warmly. Arguably the single most famous photograph in tech history — the two greatest rivals of the PC era in a rare, candid, friendly moment. Jobs died four years later. Irreplaceable."
+  },
+  {
+    "index": 183,
+    "file": "images/191_Obama_Tech_Dinner.jpg",
+    "alt": "Obama Tech Dinner",
+    "significance_score": 7,
+    "rationale": "President Obama speaking face-to-face with a young Mark Zuckerberg at a private tech leaders dinner. Captures the moment when Silicon Valley became a political power center. Multiple other tech figures visible in background. Well-composed candid photo of a significant political-tech intersection."
+  }
+]
