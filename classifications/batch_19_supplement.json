@@ -1,0 +1,7 @@
+[
+  {"index": 413, "category": "historical", "subcategory": "computing pioneer", "interestingness": 5, "visual_type": "close-up", "setting": "studio", "is_duplicate_of": null, "notes": "Ada Lovelace watercolor portrait, first computer programmer, beautiful Victorian painting"},
+  {"index": 414, "category": "portrait", "subcategory": "computing pioneer", "interestingness": 4, "visual_type": "close-up", "setting": "indoor", "is_duplicate_of": null, "notes": "Dennis Ritchie, C language and UNIX creator, distinguished older portrait"},
+  {"index": 415, "category": "portrait", "subcategory": "computing pioneer", "interestingness": 5, "visual_type": "medium-shot", "setting": "indoor", "is_duplicate_of": null, "notes": "Donald Knuth with binary code projection, artistic museum installation photo"},
+  {"index": 416, "category": "portrait", "subcategory": "computing pioneer", "interestingness": 3, "visual_type": "close-up", "setting": "indoor", "is_duplicate_of": null, "notes": "Doug Engelbart, mouse inventor, warm close-up portrait smiling"},
+  {"index": 417, "category": "portrait", "subcategory": "computing pioneer", "interestingness": 3, "visual_type": "close-up", "setting": "indoor", "is_duplicate_of": null, "notes": "Edsger Dijkstra, algorithms pioneer, contemplative side portrait with glasses"}
+]
