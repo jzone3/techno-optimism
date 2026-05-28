@@ -1,0 +1,156 @@
+[
+  {
+    "index": 322,
+    "file": "images/tbd_322_Dorian_Nakamoto__physicist_and_engineer__when_reporters_stor.jpg",
+    "alt": "Dorian Nakamoto",
+    "significance_score": 4,
+    "reasoning": "Dorian Nakamoto became famous when Newsweek misidentified him as Bitcoin's creator Satoshi Nakamoto in 2014. A memorable moment in crypto lore, but Nakamoto himself made no tech contributions — his significance is entirely as a case of mistaken identity."
+  },
+  {
+    "index": 323,
+    "file": "images/tbd_323_Palmer_Luckey__founder_of_Oculus_and_co_founder_of_Anduril.jpg",
+    "alt": "Palmer Luckey",
+    "significance_score": 5,
+    "reasoning": "Palmer Luckey revived consumer VR with Oculus and pivoted to defense tech with Anduril. Important figure, but this is one of multiple Luckey photos in the gallery (see also 330), diluting its standalone value."
+  },
+  {
+    "index": 324,
+    "file": "images/tbd_324_Elon_Musk__SpaceX___Tesla__at_Twitter_HQ.jpg",
+    "alt": "Musk at Twitter HQ",
+    "significance_score": 5,
+    "reasoning": "Musk at Twitter HQ shortly after the acquisition, holding a glass and talking to staff with 'Welcome Back' sign visible. Captures a pivotal moment in the X/Twitter saga, but it's a fairly generic candid — no iconic composition."
+  },
+  {
+    "index": 325,
+    "file": "images/tbd_325_Mark_Zuckerberg__co_founder_of_Facebook_Meta.jpg",
+    "alt": "Zuckerberg hydrofoiling",
+    "significance_score": 3,
+    "reasoning": "The infamous Zuckerberg hydrofoil photo with excessive sunscreen creating a ghostly white face. Went mega-viral as a meme, but it's paparazzi-quality and says nothing about tech — pure celebrity tabloid material."
+  },
+  {
+    "index": 326,
+    "file": "images/tbd_326_Peter_Thiel__legendary_investor_and_co_founder_of_Paypal___P.jpg",
+    "alt": "Peter Thiel",
+    "significance_score": 5,
+    "reasoning": "Striking editorial portrait of Peter Thiel — co-founder of PayPal, first outside Facebook investor, Palantir co-founder. Beautifully composed shot. Important figure, but this is a magazine-style portrait rather than a historically significant moment."
+  },
+  {
+    "index": 327,
+    "file": "images/tbd_327_Elon_Musk__SpaceX___Tesla__at_UPenn.jpg",
+    "alt": "Young Musk at UPenn",
+    "significance_score": 6,
+    "reasoning": "Young Elon Musk goofing around on the floor of his UPenn dorm room, legs kicked up against a desk with a corded phone and CRT monitor visible. Great 'before they were famous' archival shot with authentic 90s college atmosphere."
+  },
+  {
+    "index": 328,
+    "file": "images/tbd_328_Elizabeth_Holmes__founder_of_Theranos__and_Joe_Biden.jpg",
+    "alt": "Holmes & Biden",
+    "significance_score": 7,
+    "reasoning": "Elizabeth Holmes giving then-VP Joe Biden a tour of the Theranos facility, American flag overhead. Deeply ironic in hindsight — captures the peak of the Theranos fraud, when the highest levels of government were buying the hype. A cautionary tale for Silicon Valley."
+  },
+  {
+    "index": 329,
+    "file": "images/tbd_329_Elon_Musk__1994.jpg",
+    "alt": "Young Musk 1994",
+    "significance_score": 5,
+    "reasoning": "Black-and-white photo of a young Elon Musk circa 1994 with two friends. Decent 'before they were famous' archival shot, but unremarkable composition and one of several young-Musk photos already in the gallery."
+  },
+  {
+    "index": 330,
+    "file": "images/tbd_330_Palmer_Luckey__founder_of_Oculus_and_co_founder_of_Anduril.jpg",
+    "alt": "Palmer Luckey cosplay",
+    "significance_score": 6,
+    "reasoning": "Palmer Luckey in full anime girl cosplay at a convention — pink wig, skirt, white boots — posing with another cosplayer. This is the famous Luckey cosplay photo that perfectly captures his eccentric personality. A billionaire defense tech CEO in a pink skirt is peak techno-optimism energy."
+  },
+  {
+    "index": 331,
+    "file": "images/tbd_331_Jeff_Bezos__founder_of_Amazon.jpg",
+    "alt": "Bezos selfie",
+    "significance_score": 2,
+    "reasoning": "Jeff Bezos taking a goofy selfie with a giant stuffed panda bear. Cute but completely devoid of historical or tech significance. Low-res, throwaway social media content."
+  },
+  {
+    "index": 332,
+    "file": "images/tbd_332_Jonny_Ive__former_Chief_Design_Officer_at_Apple__in_high_sch.jpg",
+    "alt": "Jony Ive in school",
+    "significance_score": 5,
+    "reasoning": "Young Jony Ive circled in a school group photo — big 80s hair, knitted sweater. Before he became the legendary Apple design chief behind the iMac, iPod, iPhone. Good 'before they were famous' archival material, though the image is grainy."
+  },
+  {
+    "index": 333,
+    "file": "images/tbd_333_Steve_Jobs__co_founder_of_Apple__and_John_Sculley_before_Scu.jpg",
+    "alt": "Jobs & Sculley",
+    "significance_score": 8,
+    "reasoning": "Steve Jobs and John Sculley sitting together on a park bench in Central Park, both laughing, snow on the ground. This was taken before Sculley famously ousted Jobs from Apple in 1985 — one of the most consequential betrayals in tech history. The warmth between them makes it bittersweet and historically loaded."
+  },
+  {
+    "index": 334,
+    "file": "images/tbd_334_Nikola_Tesla__inventor_and_engineer.png",
+    "alt": "Nikola Tesla",
+    "significance_score": 9,
+    "reasoning": "Nikola Tesla seated reading in front of a massive spiral coil from his laboratory. One of the most iconic photographs of one of the most important inventors in history — AC power, radio foundations, the Tesla coil. The composition with the coil radiating behind him is visually stunning and perfectly captures his genius."
+  },
+  {
+    "index": 335,
+    "file": "images/tbd_335_The__traitorous_eight__who_left_Shockley_Semiconductor_to_fo.jpg",
+    "alt": "Traitorous Eight",
+    "significance_score": 10,
+    "reasoning": "The 'Traitorous Eight' who left Shockley Semiconductor to found Fairchild Semiconductor in 1957. This single act of defection spawned the entire Silicon Valley semiconductor ecosystem — Intel, AMD, and dozens of other companies trace their lineage here. This is the founding moment of Silicon Valley itself. Irreplaceable historical photo."
+  },
+  {
+    "index": 336,
+    "file": "images/tbd_336_Mark_Zuckerberg__Facebook_Meta__and_Kanye_West.jpg",
+    "alt": "Zuckerberg & Kanye tweet",
+    "significance_score": 3,
+    "reasoning": "Screenshot of a Kanye West tweet complaining about being kicked off Instagram, with a blurry photo of him and Zuckerberg together. It's a tweet screenshot, not a proper photograph — low visual quality and minimal tech significance."
+  },
+  {
+    "index": 337,
+    "file": "images/tbd_337_Elon_Musk___Grimes___Kim_Kardashian___Kanye_West___Travis_Sc.png",
+    "alt": "Musk, Grimes, Kardashians, Kanye",
+    "significance_score": 5,
+    "reasoning": "Group photo at a party with Elon Musk, Grimes, Kim Kardashian, Kanye West, Travis Scott, and others. A surreal collision of tech oligarchs and pop culture royalty. Interesting as a cultural artifact showing the overlap of these worlds, but it's essentially a party photo."
+  },
+  {
+    "index": 338,
+    "file": "images/tbd_338_Cyan_Banister__legendary_angel_investor___invested_early_in.png",
+    "alt": "Cyan Banister",
+    "significance_score": 3,
+    "reasoning": "Young Cyan Banister in what appears to be a 90s-era casual photo. She's a legendary angel investor (early SpaceX, Uber, etc.), but this image is relatively obscure — most people won't recognize her, and the photo itself has no contextual hooks."
+  },
+  {
+    "index": 339,
+    "file": "images/tbd_339_Tim_May__cypherpunk_and_author_of_the_Crypto_Anarchist_Manif.jpg",
+    "alt": "Tim May",
+    "significance_score": 4,
+    "reasoning": "Tim May, author of the Crypto Anarchist Manifesto and key cypherpunk figure. A low-resolution polaroid-style portrait. Historically important person who influenced the ideological foundations of crypto, but the image is poor quality and he's relatively unknown to general audiences."
+  },
+  {
+    "index": 340,
+    "file": "images/tbd_340_Cyberpunk_Drip__1993.jpg",
+    "alt": "R.U. a Cyberpunk? 1993",
+    "significance_score": 8,
+    "reasoning": "Mondo 2000 magazine spread from 1993: 'R.U. a Cyberpunk?' A figure laden with every piece of tech available — Sony Minidisc, Apple PowerBook, cell phone with scrambler, video camera, stun gun, monocular. An extraordinary time capsule of early-90s cyberpunk culture and pre-smartphone tech maximalism. Visually dense and culturally rich."
+  },
+  {
+    "index": 341,
+    "file": "images/tbd_341_Wernher_von_Braun__chief_architect_of_the_Apollo_Saturn_V_ro.jpg",
+    "alt": "Wernher von Braun",
+    "significance_score": 9,
+    "reasoning": "Wernher von Braun standing dwarfed by the colossal F-1 rocket engines of the Saturn V. The scale contrast between human and machine is breathtaking. Von Braun was the chief architect of the rocket that took humanity to the Moon. Visually stunning, historically monumental."
+  },
+  {
+    "index": 342,
+    "file": "images/tbd_342_Elon_Musk__SpaceX___Tesla__and_Grimes.jpg",
+    "alt": "Musk & Grimes Met Gala",
+    "significance_score": 4,
+    "reasoning": "Elon Musk and Grimes at the Met Gala. Grimes in an ethereal glowing dress, dramatic lighting. Visually beautiful but this is celebrity red carpet content — it reveals nothing about tech and exists purely in the pop culture sphere."
+  },
+  {
+    "index": 343,
+    "file": "images/tbd_343_Tim_Cook__CEO_of_Apple__at_Oktoberfest.png",
+    "alt": "Tim Cook at Oktoberfest",
+    "significance_score": 3,
+    "reasoning": "Tim Cook and Apple colleagues in traditional Bavarian dress at Oktoberfest, holding beer steins. Fun humanizing moment for Apple's CEO, but there's zero tech significance — it's a tourist photo in lederhosen."
+  }
+]
