@@ -1,0 +1,156 @@
+[
+  {
+    "index": 366,
+    "file": "images/tbd_366_Elon_Musk__SpaceX___Tesla__and_Kanye_West.png",
+    "alt": "Musk & Kanye",
+    "significance_score": 4,
+    "reasoning": "Elon Musk and Kanye West together. Two hugely influential cultural/tech figures, but the pairing is celebrity spectacle rather than a techno-optimist milestone. No technological context visible — just two famous people posing."
+  },
+  {
+    "index": 367,
+    "file": "images/tbd_367_Jack_Parsons__rocket_engineer__occultist_and_co_founder_of.png",
+    "alt": "Jack Parsons",
+    "significance_score": 5,
+    "reasoning": "Jack Parsons co-founded JPL and was a genuine rocket pioneer whose solid fuel innovations enabled modern rocketry. Fascinating occultist-engineer duality. Standard portrait format rather than an action shot or historically significant moment."
+  },
+  {
+    "index": 368,
+    "file": "images/tbd_368_Julian_Assange__founder_of_Wikileaks.jpg",
+    "alt": "Julian Assange",
+    "significance_score": 5,
+    "reasoning": "Assange holding a kitten inside the Ecuadorian embassy. WikiLeaks was genuinely significant for information transparency and digital activism. The embassy cat photo is somewhat iconic and humanizing, but it's more a meme than a tech milestone."
+  },
+  {
+    "index": 369,
+    "file": "images/tbd_369_John_Carmack__legendary_programmer_and_co_creator_of_DOOM.jpg",
+    "alt": "John Carmack",
+    "significance_score": 8,
+    "reasoning": "John Carmack surrounded by computers wearing a 'Do you have change for paradigm?' shirt. He literally invented modern 3D graphics rendering, created DOOM and Quake, and later led VR at Oculus. One of the most consequential programmers alive. The photo perfectly captures hacker energy."
+  },
+  {
+    "index": 370,
+    "file": "images/tbd_370_Cliff_Bleszinski_aka_CliffyB__game_designer___Unreal_and_Gea.jpg",
+    "alt": "CliffyB",
+    "significance_score": 3,
+    "reasoning": "Cliff Bleszinski at E3 in a red suit with speaker pass. Designed Unreal and Gears of War — commercially successful but not paradigm-shifting technology. More of a game industry celebrity than a techno-optimist figure."
+  },
+  {
+    "index": 371,
+    "file": "images/tbd_371_Vitalik_Buterin__co_founder_of_Ethereum.jpg",
+    "alt": "Vitalik Buterin",
+    "significance_score": 3,
+    "reasoning": "Casual selfie of Vitalik in a Nike cap at some event. Ethereum is genuinely important as a programmable blockchain platform, but this is a completely generic, unremarkable photo. No context, no tech, just a guy in a hat."
+  },
+  {
+    "index": 372,
+    "file": "images/tbd_372_CZ__founder_of_Binance.jpg",
+    "alt": "CZ Binance",
+    "significance_score": 3,
+    "reasoning": "CZ posing on a rooftop with a city skyline. Built the world's largest crypto exchange, but Binance's significance is commercial infrastructure, not fundamental innovation. Generic portrait with no technological context."
+  },
+  {
+    "index": 373,
+    "file": "images/tbd_373_Mark_Zuckerberg__founder_of_Facebook___Snoop_Dog_and_Sean_Pa.jpg",
+    "alt": "Zuck, Snoop Dog, Sean Parker",
+    "significance_score": 5,
+    "reasoning": "Zuckerberg, Snoop Dogg, and Sean Parker (Napster founder, early Facebook president) hanging out. A fun Silicon Valley-meets-hip-hop crossover. Parker and Zuck are genuinely consequential tech figures, and the casual energy captures the era, but it's still a party photo."
+  },
+  {
+    "index": 374,
+    "file": "images/tbd_374_Prafulla_Chandra_Ray__chemist_and_founder_of_India_s_first_p.jpg",
+    "alt": "Prafulla Chandra Ray",
+    "significance_score": 4,
+    "reasoning": "Vintage portrait of the father of Indian pharmaceutical chemistry. Historically important for Indian industrial science, but quite niche for a techno-optimism gallery. Standard formal portrait with no dynamic context."
+  },
+  {
+    "index": 375,
+    "file": "images/tbd_375_Pavel_Durov__founder_of_Telegram_and_VK.png",
+    "alt": "Pavel Durov",
+    "significance_score": 4,
+    "reasoning": "Pavel Durov meditating shirtless with a city skyline behind him. Founded VK and Telegram — significant platforms for encrypted communication and anti-censorship. The image is visually striking but is more lifestyle influencer than tech significance."
+  },
+  {
+    "index": 376,
+    "file": "images/tbd_376_Sam_Altman__co_founder_of_OpenAI_and_former_president_of_Y_C.jpg",
+    "alt": "Sam Altman",
+    "significance_score": 5,
+    "reasoning": "Artistic dual-panel photo of Sam Altman with blue mirror sunglasses reflecting the crowd. Central to the current AI revolution as OpenAI CEO. The photo is artistically interesting and captures his public-facing mystique, but it's a portrait, not a historic moment."
+  },
+  {
+    "index": 377,
+    "file": "images/tbd_377_Albert_Hofmann__chemist___the_first_person_to_synthesize_LSD.jpg",
+    "alt": "Albert Hofmann",
+    "significance_score": 7,
+    "reasoning": "Albert Hofmann in his lab holding a molecular model — the man who synthesized LSD. His discovery reshaped neuroscience, psychiatry, and counterculture. Classic lab portrait of a genuinely consequential chemist at work. Strong historical value."
+  },
+  {
+    "index": 378,
+    "file": "images/tbd_378_Elon_Musk__SpaceX__Tesla__and_Sergey_Brin__co_founder_of_Goo.png",
+    "alt": "Musk & Brin partying",
+    "significance_score": 4,
+    "reasoning": "Musk and Sergey Brin (Google co-founder) at a party. Two of the most consequential tech founders alive, but this is just a casual selfie at what looks like a house party. No tech context, no historic significance as an image."
+  },
+  {
+    "index": 379,
+    "file": "images/tbd_379_Delian_Asparouhov__co_founder_of_Varda_and_principal_at_Foun.png",
+    "alt": "Delian Asparouhov wedding",
+    "significance_score": 2,
+    "reasoning": "Wedding kiss photo with Delian's face projected on a screen behind. Varda Space Industries is interesting but nascent. This is a personal life moment with no technological relevance. Very niche figure for the gallery."
+  },
+  {
+    "index": 380,
+    "file": "images/tbd_380_Vitalik_Buterin__co_founder_of_Ethereum.png",
+    "alt": "Vitalik Buterin",
+    "significance_score": 4,
+    "reasoning": "Vitalik presenting at ETHCC (Ethereum Community Conference). Better than the casual selfie (371) — shows him at the podium of his own ecosystem. But duplicate subject and still a standard conference talk photo."
+  },
+  {
+    "index": 381,
+    "file": "images/tbd_381_Isambard_Kingdom_Brunel__revolutionary_civil_engineer_and_de.jpg",
+    "alt": "Isambard Kingdom Brunel",
+    "significance_score": 9,
+    "reasoning": "One of the most famous photographs in engineering history. Brunel standing in front of the massive launching chains of the SS Great Eastern. He built the Great Western Railway, revolutionary bridges, and the largest ship of his era. The image itself is iconic — the small man dwarfed by his own creation embodies industrial ambition."
+  },
+  {
+    "index": 382,
+    "file": "images/tbd_382_Patri_Friedman__software_engineer_and_founder_of_the_Seastea.jpg",
+    "alt": "Patri Friedman",
+    "significance_score": 2,
+    "reasoning": "Patri Friedman playing poker with chips on the table. Founded the Seasteading Institute — an interesting libertarian tech concept but largely unrealized. The photo shows him at a poker table, which has nothing to do with technology or his vision."
+  },
+  {
+    "index": 383,
+    "file": "images/tbd_383_Sasha_Shulgin__biochemist_and_psychedelic_pioneer__while_wor.jpg",
+    "alt": "Sasha Shulgin",
+    "significance_score": 6,
+    "reasoning": "Sasha Shulgin smoking a pipe in his lab — the 'godfather of MDMA' who systematically synthesized and self-tested hundreds of psychoactive compounds. His books PiHKAL and TiHKAL are foundational texts. The pipe-in-lab photo has great character but is a standard portrait."
+  },
+  {
+    "index": 384,
+    "file": "images/tbd_384_The_Paypal_Mafia__2007.png",
+    "alt": "PayPal Mafia 2007",
+    "significance_score": 10,
+    "reasoning": "The legendary Fortune magazine 'PayPal Mafia' group photo — Thiel, Musk, Hoffman, Levchin, Sacks, Rabois, and others styled as actual mobsters. These individuals went on to create Tesla, SpaceX, LinkedIn, YouTube, Palantir, and Yelp. Arguably the single most consequential group photo in Silicon Valley history. Absolutely iconic."
+  },
+  {
+    "index": 385,
+    "file": "images/tbd_385_Richard_Craib__founder___CEO_of_Numerai.png",
+    "alt": "Richard Craib",
+    "significance_score": 2,
+    "reasoning": "Richard Craib holding a baby in a Gucci robe and 'Jesus is King' Kanye shirt. Numerai is a niche AI-driven hedge fund. The photo is a personal lifestyle shot with zero technological context. Very obscure figure for a gallery of this scope."
+  },
+  {
+    "index": 386,
+    "file": "images/tbd_386_Wernher_von_Braun__godfather_of_rocketry.png",
+    "alt": "von Braun",
+    "significance_score": 8,
+    "reasoning": "Wernher von Braun standing in front of the Saturn V rocket — the vehicle that took humanity to the moon. Morally complex figure (former Nazi V-2 engineer), but undeniably the architect of the American space program. The rocket in the background makes this an iconic techno-optimist image."
+  },
+  {
+    "index": 387,
+    "file": "images/tbd_387_Jack_Parsons__rocket_engineer__occultist_and_co_founder_of.jpg",
+    "alt": "Jack Parsons & wife",
+    "significance_score": 3,
+    "reasoning": "Intimate personal photo of Jack Parsons with his wife. Humanizing but adds little over the solo portrait (367). No rocketry or technical context visible — just a candid couple's shot. Duplicate subject with less relevance."
+  }
+]
