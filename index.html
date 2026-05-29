@@ -5109,18 +5109,26 @@ document.querySelectorAll('.tile img').forEach(function(img) {
   if (!masonry) return;
   var tiles = Array.from(masonry.querySelectorAll('.tile'));
 
-  // Group tiles into significance tiers
-  var high = [];    // 8-10: transformational
-  var medium = [];  // 5-7: significant
-  var low = [];     // 3-4: mild
-  var weak = [];    // 1-2: pushed to bottom
+  // Classify a tile as a "thing/event" (not a person portrait) vs "people"
+  function isThing(t) {
+    var type = t.getAttribute('data-type') || '';
+    var cat = t.getAttribute('data-category') || '';
+    return type === 'not-people' || cat === 'event' || cat === 'action';
+  }
+
+  // Group tiles into significance tiers, split by people vs things/events
+  var highP = [], highT = [];     // 8-10: transformational
+  var medP = [], medT = [];       // 5-7: significant
+  var lowP = [], lowT = [];       // 3-4: mild
+  var weak = [];                  // 1-2: pushed to bottom
 
   tiles.forEach(function(t) {
     var sig = parseInt(t.getAttribute('data-significance') || '5');
-    if (sig >= 8) high.push(t);
-    else if (sig >= 5) medium.push(t);
-    else if (sig >= 3) low.push(t);
-    else weak.push(t);
+    var thing = isThing(t);
+    if (sig <= 2) { weak.push(t); }
+    else if (sig >= 8) { (thing ? highT : highP).push(t); }
+    else if (sig >= 5) { (thing ? medT : medP).push(t); }
+    else { (thing ? lowT : lowP).push(t); }
   });
 
   // Category-aware shuffle within each tier
@@ -5182,10 +5190,15 @@ document.querySelectorAll('.tile img').forEach(function(img) {
     return result;
   }
 
-  // Shuffle each tier with category variety
-  var shuffledHigh = shuffleTierWithVariety(high);
-  var shuffledMedium = shuffleTierWithVariety(medium);
-  var shuffledLow = shuffleTierWithVariety(low);
+  // Build two significance-ordered queues: people and things/events.
+  // Each tier is shuffled with category variety, then concatenated high->low
+  // so significance still floats to the top within each queue.
+  var peopleQueue = shuffleTierWithVariety(highP)
+    .concat(shuffleTierWithVariety(medP))
+    .concat(shuffleTierWithVariety(lowP));
+  var thingQueue = shuffleTierWithVariety(highT)
+    .concat(shuffleTierWithVariety(medT))
+    .concat(shuffleTierWithVariety(lowT));
 
   // Shuffle weak tiles randomly
   for (var i = weak.length - 1; i > 0; i--) {
@@ -5193,34 +5206,24 @@ document.querySelectorAll('.tile img').forEach(function(img) {
     var tmp = weak[i]; weak[i] = weak[j]; weak[j] = tmp;
   }
 
-  // Sprinkle: every ~4 high tiles, insert 1 medium, every ~6 insert 1 low
-  // This prevents monotony while keeping significance order
+  // Interleave so a thing/event appears roughly every ~3 tiles. This keeps the
+  // people-heavy top from being a wall of portraits while preserving the
+  // significance-based top-down ordering. Things run out partway down (there
+  // are fewer of them), after which it's people the rest of the way.
   var finalOrder = [];
-  var hi = 0, mi = 0, li = 0;
-  var count = 0;
-
-  while (hi < shuffledHigh.length || mi < shuffledMedium.length || li < shuffledLow.length) {
-    // Add high-significance tiles first
-    if (hi < shuffledHigh.length) {
-      finalOrder.push(shuffledHigh[hi++]);
-      count++;
-      // After every 4 high tiles, sprinkle in a medium
-      if (count % 4 === 0 && mi < shuffledMedium.length) {
-        finalOrder.push(shuffledMedium[mi++]);
-      }
-      // After every 8 high tiles, sprinkle in a low
-      if (count % 8 === 0 && li < shuffledLow.length) {
-        finalOrder.push(shuffledLow[li++]);
-      }
-    } else if (mi < shuffledMedium.length) {
-      // All high done, add remaining medium
-      finalOrder.push(shuffledMedium[mi++]);
-      count++;
-      if (count % 5 === 0 && li < shuffledLow.length) {
-        finalOrder.push(shuffledLow[li++]);
-      }
-    } else if (li < shuffledLow.length) {
-      finalOrder.push(shuffledLow[li++]);
+  var pi = 0, ti = 0;
+  var sincelastThing = 0;
+  while (pi < peopleQueue.length || ti < thingQueue.length) {
+    // Insert a thing every 2 people (so ~1 in 3 tiles is a thing/event)
+    var wantThing = (sincelastThing >= 2);
+    if (ti < thingQueue.length && (wantThing || pi >= peopleQueue.length)) {
+      finalOrder.push(thingQueue[ti++]);
+      sincelastThing = 0;
+    } else if (pi < peopleQueue.length) {
+      finalOrder.push(peopleQueue[pi++]);
+      sincelastThing++;
+    } else if (ti < thingQueue.length) {
+      finalOrder.push(thingQueue[ti++]);
     }
   }
 
