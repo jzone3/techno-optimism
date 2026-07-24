@@ -51,6 +51,7 @@
     transition: color 0.15s; margin: 0 6px 0 0;
   }
   nav a:hover { color: var(--ink); }
+  nav a.active { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; }
 
   /* Filter bar */
   .filter-bar {
@@ -5113,6 +5114,20 @@ document.querySelectorAll('.tile img').forEach(function(img) {
   }
 });
 
+// Tag each tile with its section (from the span markers in source order)
+// before the shuffle reorders the DOM, so nav tabs can filter by section.
+(function() {
+  var masonry = document.querySelector('.masonry');
+  if (!masonry) return;
+  var section = '';
+  Array.from(masonry.children).forEach(function(el) {
+    if (el.tagName === 'SPAN' && el.id) { section = el.id; return; }
+    if (el.classList && el.classList.contains('tile')) {
+      el.setAttribute('data-section', section);
+    }
+  });
+})();
+
 // Significance-aware shuffle: high significance floats to top, with variety
 (function() {
   var masonry = document.querySelector('.masonry');
@@ -5242,27 +5257,45 @@ document.querySelectorAll('.tile img').forEach(function(img) {
   allOrdered.forEach(function(t) { masonry.appendChild(t); });
 })();
 
-// Filter buttons
+// Filters: type buttons (All / People / Not People) + section nav tabs
 (function() {
   var btns = document.querySelectorAll('.filter-btn');
+  var navLinks = document.querySelectorAll('nav a[href^="#"]');
   var allTiles = document.querySelectorAll('.tile');
+  var typeFilter = 'all';
+  var sectionFilter = '';
+
+  function applyFilters() {
+    allTiles.forEach(function(tile) {
+      var typeOk = typeFilter === 'all' || tile.getAttribute('data-type') === typeFilter;
+      var sectionOk = !sectionFilter || tile.getAttribute('data-section') === sectionFilter;
+      tile.classList.toggle('hidden-by-filter', !(typeOk && sectionOk));
+    });
+  }
+
   btns.forEach(function(btn) {
     btn.addEventListener('click', function() {
       btns.forEach(function(b) { b.classList.remove('active'); });
       btn.classList.add('active');
-      var filter = btn.getAttribute('data-filter');
-      allTiles.forEach(function(tile) {
-        if (filter === 'all') {
-          tile.classList.remove('hidden-by-filter');
-        } else {
-          var type = tile.getAttribute('data-type');
-          if (type === filter) {
-            tile.classList.remove('hidden-by-filter');
-          } else {
-            tile.classList.add('hidden-by-filter');
-          }
-        }
-      });
+      typeFilter = btn.getAttribute('data-filter');
+      applyFilters();
+    });
+  });
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      var section = link.getAttribute('href').slice(1);
+      if (sectionFilter === section) {
+        sectionFilter = '';
+        link.classList.remove('active');
+      } else {
+        sectionFilter = section;
+        navLinks.forEach(function(l) { l.classList.remove('active'); });
+        link.classList.add('active');
+      }
+      applyFilters();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   });
 })();
