@@ -5058,9 +5058,13 @@
 
   function navigate(dir) {
     if (currentIndex < 0) return;
-    let next = currentIndex + dir;
-    if (next < 0) next = tiles.length - 1;
-    if (next >= tiles.length) next = 0;
+    let next = currentIndex;
+    for (let step = 0; step < tiles.length; step++) {
+      next += dir;
+      if (next < 0) next = tiles.length - 1;
+      if (next >= tiles.length) next = 0;
+      if (!tiles[next].classList.contains('hidden-by-filter')) break;
+    }
     openModal(next);
   }
 
