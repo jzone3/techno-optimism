@@ -1,0 +1,161 @@
+{
+  "batch": 19,
+  "scored_at": "2026-05-28T07:00:00Z",
+  "scoring_criteria": "Historical and cultural significance to technology, science, and innovation on a 1-10 scale (harsh grading). Considers: person's lasting impact, photo's iconic/documentary value, and relevance to techno-optimism.",
+  "scores": [
+    {
+      "index": 410,
+      "file": "images/tbd_410_Jack_Ma__co_founder_of_Alibaba.jpg",
+      "alt": "Jack Ma (co-founder of Alibaba)",
+      "significance": 3,
+      "reasoning": "Jack Ma in a wild punk-rock costume performing on stage with spiked wig. Entertaining novelty shot but zero documentary or historical weight for tech."
+    },
+    {
+      "index": 411,
+      "file": "images/tbd_411_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+      "alt": "Stephen Watt (7-foot-tall convicted hacker and former Morgan Stanley software engineer)",
+      "significance": 1,
+      "reasoning": "Obscure figure shirtless in a pool holding champagne. No lasting tech significance, pure curiosity value."
+    },
+    {
+      "index": 412,
+      "file": "images/tbd_412_julian_assange_in_1995_facing_multiple_charges_of_hacking_un.png",
+      "alt": "Julian Assange in 1995 facing hacking charges",
+      "significance": 6,
+      "reasoning": "Young Assange outside a Melbourne courthouse in suit and round sunglasses before WikiLeaks fame. Rare early image of a polarizing figure who reshaped digital whistleblowing."
+    },
+    {
+      "index": 413,
+      "file": "images/web_Ada_Lovelace.jpg",
+      "alt": "Ada Lovelace",
+      "significance": 7,
+      "reasoning": "Watercolor portrait of the world's first computer programmer (1843). Foundational figure in computing history, though the image is a widely-reproduced Victorian painting."
+    },
+    {
+      "index": 414,
+      "file": "images/web_Dennis_Ritchie.jpg",
+      "alt": "Dennis Ritchie",
+      "significance": 6,
+      "reasoning": "Creator of C and co-creator of Unix — his work underpins virtually all modern software. Standard Wikipedia-style headshot limits photo-specific value."
+    },
+    {
+      "index": 415,
+      "file": "images/web_Donald_Knuth.jpg",
+      "alt": "Donald Knuth",
+      "significance": 6,
+      "reasoning": "Knuth silhouetted against his own 1974 quote with binary code projected onto him. Visually striking museum installation elevates what would otherwise be a standard portrait of the father of algorithm analysis."
+    },
+    {
+      "index": 416,
+      "file": "images/web_Doug_Engelbart.jpg",
+      "alt": "Doug Engelbart",
+      "significance": 4,
+      "reasoning": "Inventor of the mouse and 'Mother of All Demos' pioneer. Important person but this is a generic close-up portrait of an elderly man — no context for his contributions."
+    },
+    {
+      "index": 417,
+      "file": "images/web_Edsger_Dijkstra.jpg",
+      "alt": "Edsger Dijkstra",
+      "significance": 4,
+      "reasoning": "Pioneer of structured programming and shortest-path algorithms. Contemplative side portrait with glasses; decent character study but no contextual depth."
+    },
+    {
+      "index": 418,
+      "file": "images/web_Edward_Snowden.jpg",
+      "alt": "Edward Snowden",
+      "significance": 6,
+      "reasoning": "NSA whistleblower whose 2013 disclosures reshaped global surveillance debate. This is the well-known close-up from his Hong Kong interview — iconic and widely recognized."
+    },
+    {
+      "index": 419,
+      "file": "images/web_George_Church.jpg",
+      "alt": "George Church",
+      "significance": 5,
+      "reasoning": "Leading genomics and synthetic biology pioneer, key CRISPR figure. Well-lit professional portrait, but niche recognition outside biotech circles."
+    },
+    {
+      "index": 420,
+      "file": "images/web_John_Carmack.jpg",
+      "alt": "John Carmack",
+      "significance": 5,
+      "reasoning": "Carmack (left) and Tim Sweeney together at GDC/IGF — two of gaming's most important engine architects in one frame. Standard event backdrop dulls the impact."
+    },
+    {
+      "index": 421,
+      "file": "images/web_Kevin_Mitnick.jpg",
+      "alt": "Kevin Mitnick",
+      "significance": 3,
+      "reasoning": "Once the FBI's most-wanted hacker, later security consultant. Conference speaker photo with lanyard — no drama or context that matches his wild story."
+    },
+    {
+      "index": 422,
+      "file": "images/web_Marc_Andreessen.jpg",
+      "alt": "Marc Andreessen",
+      "significance": 4,
+      "reasoning": "Netscape creator and a16z co-founder, one of tech's most influential VCs. Bland panel-event portrait doesn't capture his outsized influence."
+    },
+    {
+      "index": 423,
+      "file": "images/web_Nikola_Tesla.jpg",
+      "alt": "Nikola Tesla",
+      "significance": 7,
+      "reasoning": "Classic B&W portrait of Tesla — arguably the most romanticized inventor in history. AC electricity, wireless communication visionary. The pensive chin-on-hand pose is iconic."
+    },
+    {
+      "index": 424,
+      "file": "images/web_Richard_Feynman.jpg",
+      "alt": "Richard Feynman",
+      "significance": 6,
+      "reasoning": "Nobel laureate, quantum electrodynamics pioneer, early quantum computing visionary. Beautiful B&W portrait, but he's more a physics icon than a direct tech figure."
+    },
+    {
+      "index": 425,
+      "file": "images/web_Tim_Berners_Lee.jpg",
+      "alt": "Tim Berners-Lee",
+      "significance": 7,
+      "reasoning": "Inventor of the World Wide Web. Universally important — the internet's defining creator. Solid, recognizable portrait in suit and tie."
+    },
+    {
+      "index": 426,
+      "file": "images/svmg_102_20__of_the_OpenAI_Sora_team_after_a_Sora_indie_fil.jpg",
+      "alt": "OpenAI Sora team after indie film screening",
+      "significance": 3,
+      "reasoning": "Four young men posing casually after a Sora screening. Captures the AI video-generation moment but looks like any group selfie — no iconic framing."
+    },
+    {
+      "index": 427,
+      "file": "images/svmg_104_Lil_B_the_Based_God_and_Eric_Jang__head_of_AI_at_1.jpg",
+      "alt": "Lil B + Eric Jang + Eve humanoid robot",
+      "significance": 4,
+      "reasoning": "Filming setup with 1X's Eve humanoid robot and crew. Interesting snapshot of humanoid robotics entering media production, but niche and low compositional impact."
+    },
+    {
+      "index": 428,
+      "file": "images/svmg_101_Casey_Handmer_and_the_Terraform_Industries_team_du.jpg",
+      "alt": "Terraform Industries team standup",
+      "significance": 2,
+      "reasoning": "Casey Handmer and team in a generic group photo. Terraform Industries is interesting (atmospheric CO2 to fuel) but this is a forgettable team snapshot."
+    },
+    {
+      "index": 429,
+      "file": "images/svmg_93_The_Terraform_Industries_castle_in_Burbank.jpg",
+      "alt": "Terraform Industries castle in Burbank",
+      "significance": 2,
+      "reasoning": "Castle-shaped industrial building exterior with parked cars. Quirky HQ but the photo is just architecture with no human or tech element in frame."
+    },
+    {
+      "index": 430,
+      "file": "images/svmg_112_Rahul_Sonwalker_with_a_Jensen_banner_at_the_Julius.jpg",
+      "alt": "Rahul Sonwalker with Jensen banner at Julius office",
+      "significance": 2,
+      "reasoning": "Man posing in front of a Jensen Huang / NVIDIA US map banner. Fun office decor but very niche — no broader significance."
+    },
+    {
+      "index": 431,
+      "file": "images/svmg_114_The_redesigned_World_orb.jpg",
+      "alt": "The redesigned Worldcoin orb",
+      "significance": 4,
+      "reasoning": "Man examining the Worldcoin biometric orb device at an event. Relevant to the crypto/identity space and Sam Altman's ventures, but just a hands-on demo photo."
+    }
+  ]
+}
