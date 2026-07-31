@@ -1,0 +1,163 @@
+[
+  {
+    "index": 115,
+    "file": "images/115_maxresdefault.jpg",
+    "alt": "Shou Chew TikTok",
+    "significance_score": 5,
+    "reasoning": "TikTok CEO testifying before US Congress on a potential ban. A notable geopolitical tech moment capturing US-China tech tensions and platform regulation debates, but TikTok itself is an entertainment app, not a foundational technology. Chew is a corporate figurehead, not a pioneer."
+  },
+  {
+    "index": 116,
+    "file": "remote",
+    "alt": "Travis Kalanick",
+    "significance_score": 6,
+    "reasoning": "Co-founder and former CEO of Uber. Uber genuinely disrupted transportation and created the gig economy at scale. Kalanick drove aggressive expansion that proved the ride-sharing model, though he is equally known for toxic corporate culture and ouster."
+  },
+  {
+    "index": 117,
+    "file": "remote",
+    "alt": "Timnit Gebru",
+    "significance_score": 4,
+    "reasoning": "AI ethics researcher fired from Google for a paper on large language model risks. An important voice in the AI bias and fairness discourse, but contributions are primarily in critique and policy rather than transformational technical breakthroughs."
+  },
+  {
+    "index": 118,
+    "file": "remote",
+    "alt": "Geoffrey Hinton",
+    "significance_score": 10,
+    "reasoning": "Godfather of deep learning. Pioneered backpropagation, Boltzmann machines, and deep neural networks. Turing Award winner and Nobel laureate. Without Hinton's decades of persistence on neural networks when the field was dismissed, the entire modern AI revolution — from GPT to AlphaFold — would not exist. Unambiguously transformational."
+  },
+  {
+    "index": 119,
+    "file": "remote",
+    "alt": "Yann LeCun",
+    "significance_score": 9,
+    "reasoning": "Pioneer of convolutional neural networks (CNNs), the foundation of all modern computer vision. Turing Award winner. CNNs enabled image recognition, autonomous driving, medical imaging, and facial recognition — entire industries built on his architecture."
+  },
+  {
+    "index": 120,
+    "file": "remote",
+    "alt": "Yoshua Bengio",
+    "significance_score": 9,
+    "reasoning": "Third pillar of the deep learning trinity alongside Hinton and LeCun. Turing Award winner. Pioneered sequence-to-sequence learning and attention mechanisms that are direct precursors to the transformer architecture powering GPT, BERT, and the entire LLM revolution."
+  },
+  {
+    "index": 121,
+    "file": "images/121_Andrej_Karpathy_2C_OpenAI.png",
+    "alt": "Andrej Karpathy",
+    "significance_score": 6,
+    "reasoning": "Founding member of OpenAI, former director of AI at Tesla (Autopilot vision). Influential AI educator whose courses and blog posts democratized deep learning knowledge. Important practitioner and communicator, but more of an applier and educator than a foundational inventor."
+  },
+  {
+    "index": 122,
+    "file": "remote",
+    "alt": "Demis Hassabis Nobel",
+    "significance_score": 9,
+    "reasoning": "Co-founder of DeepMind, creator of AlphaGo and AlphaFold. Won the Nobel Prize in Chemistry for solving protein structure prediction — a 50-year grand challenge in biology. AlphaGo proved AI could master humanity's most complex board game. Multiple genuinely transformational achievements."
+  },
+  {
+    "index": 123,
+    "file": "images/142_Dario_Amodei.jpg",
+    "alt": "Dario Amodei",
+    "significance_score": 7,
+    "reasoning": "Co-founder and CEO of Anthropic, former VP of Research at OpenAI. Leading one of the most important AI safety-focused labs building frontier models. A key figure shaping how powerful AI is developed responsibly. Still early in his legacy but already very significant."
+  },
+  {
+    "index": 124,
+    "file": "images/124_500px-George_Hotz.jpg",
+    "alt": "George Hotz",
+    "significance_score": 5,
+    "reasoning": "Photo of teenage Hotz, famous for being the first person to jailbreak the iPhone at age 17 and later hacking the PS3. Shows the young prodigy in his bedroom. The jailbreak was culturally significant but didn't create lasting technology. Founded comma.ai but hasn't yet transformed the industry."
+  },
+  {
+    "index": 125,
+    "file": "images/125_hotz_social.jpg",
+    "alt": "Hotz Bloomberg",
+    "significance_score": 4,
+    "reasoning": "Bloomberg profile photo of Hotz in his basement hacker setup with monitors, Bitcoin mug, and NVIDIA hardware. Visually captures the garage-hacker ethos, but it's a personality portrait, not a milestone moment. comma.ai remains niche."
+  },
+  {
+    "index": 126,
+    "file": "images/126_George-Hots-Bloomberg-Businessweek-image-002.jpg",
+    "alt": "Hotz garage",
+    "significance_score": 5,
+    "reasoning": "Annotated Bloomberg Businessweek photo showing the inside of Hotz's self-driving Acura ILX — LiDAR, joystick, computing hub in the glove compartment. A compelling David-vs-Goliath visual of DIY autonomous driving against Waymo and Tesla, but the technology hasn't scaled."
+  },
+  {
+    "index": 127,
+    "file": "images/127_1280px-George_Hotz_speaks_onstage_during_TechCrunch_Disrupt_.jpg",
+    "alt": "Hotz TechCrunch",
+    "significance_score": 3,
+    "reasoning": "Hotz presenting at TechCrunch Disrupt, holding up a circuit board. A routine conference presentation photo. No milestone moment captured."
+  },
+  {
+    "index": 128,
+    "file": "images/128_mzelenko_230516_1078_0037.0.0.1465230009.jpg",
+    "alt": "Hotz The Verge",
+    "significance_score": 5,
+    "reasoning": "The Verge feature photo of Hotz with hands off the wheel, demonstrating comma.ai self-driving. Visually captures the DIY autonomous driving promise. Compelling but comma.ai has not yet achieved transformational impact on the auto industry."
+  },
+  {
+    "index": 129,
+    "file": "images/129_Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg",
+    "alt": "Gates Allen Lakeside 1970",
+    "significance_score": 9,
+    "reasoning": "Iconic black-and-white photo of teenage Paul Allen and Bill Gates at Lakeside School in 1970, working at a teletype terminal. This is the origin story of Microsoft — two teenagers who would launch the personal computer revolution. A 'Bug Slayer' poster visible on the wall. One of tech history's most important origin photographs."
+  },
+  {
+    "index": 130,
+    "file": "remote",
+    "alt": "Gates mugshot",
+    "significance_score": 2,
+    "reasoning": "Bill Gates' 1977 Albuquerque traffic violation mugshot. A culturally famous and fun piece of trivia showing the young Microsoft founder's rebellious side, but zero technological significance. Gates is transformational; this image captures none of that."
+  },
+  {
+    "index": 131,
+    "file": "images/131_Google_page_brin.jpg",
+    "alt": "Page Brin",
+    "significance_score": 8,
+    "reasoning": "Early casual photo of Larry Page and Sergey Brin in matching gray t-shirts, whiteboard behind them with their names. Google's PageRank algorithm transformed how humanity accesses information. This captures the founders in their scrappy early days before becoming one of the most powerful companies on Earth."
+  },
+  {
+    "index": 132,
+    "file": "images/132_SXSW-2024-alih-OB7A0861-Lisa_Su__28cropped_2_29.jpg",
+    "alt": "Lisa Su",
+    "significance_score": 7,
+    "reasoning": "AMD CEO Lisa Su at SXSW 2024. Engineered one of the greatest corporate turnarounds in tech history, taking AMD from near-bankruptcy to a serious competitor to Intel and NVIDIA. Ryzen and EPYC processors broke Intel's CPU monopoly. A transformational business and technical leader in semiconductors."
+  },
+  {
+    "index": 133,
+    "file": "remote",
+    "alt": "Susan Wojcicki",
+    "significance_score": 5,
+    "reasoning": "Former YouTube CEO and early Google employee who rented her garage to Page and Brin. Led YouTube through massive growth. Important executive, but YouTube's creation and Google's acquisition were the transformational moments, not her operational leadership tenure."
+  },
+  {
+    "index": 134,
+    "file": "remote",
+    "alt": "Sheryl Sandberg",
+    "significance_score": 5,
+    "reasoning": "Former COO of Facebook/Meta who built its advertising business into one of the most profitable in history. Author of 'Lean In.' A powerful business operator and cultural figure, but a corporate executive rather than a technical innovator or inventor."
+  },
+  {
+    "index": 135,
+    "file": "images/135_TechCrunch_Disrupt_San_Francisco_2018_-_day_2__2830647055838.jpg",
+    "alt": "Whitney Wolfe Herd",
+    "significance_score": 4,
+    "reasoning": "Founder of Bumble and co-founder of Tinder, youngest female self-made billionaire. Changed dating apps by letting women message first. A successful product innovation but not transformational to technology or society at the level of foundational computing breakthroughs."
+  },
+  {
+    "index": 136,
+    "file": "images/136_Gwynne_Shotwell_at_2018_Commercial_Crew_announcement.jpg",
+    "alt": "Gwynne Shotwell",
+    "significance_score": 7,
+    "reasoning": "President and COO of SpaceX at the 2018 Commercial Crew announcement. The operational leader who made SpaceX commercially viable — reusable rockets, Starlink, NASA crew missions. SpaceX genuinely transformed space access, and Shotwell is the person who built the business to deliver on that vision."
+  },
+  {
+    "index": 137,
+    "file": "remote",
+    "alt": "Joy Buolamwini",
+    "significance_score": 4,
+    "reasoning": "MIT researcher and founder of the Algorithmic Justice League. Her 'Gender Shades' research exposed racial and gender bias in commercial facial recognition systems, influencing policy and corporate practices. Important in AI fairness discourse but contributions are in critique and activism rather than technological creation."
+  }
+]
