@@ -1,0 +1,156 @@
+[
+  {
+    "index": 388,
+    "file": "images/tbd_388_Henry_Ford__founder_of_Ford_Motor_Company.jpg",
+    "alt": "Henry Ford",
+    "significance_score": 7,
+    "reasoning": "Industrialist who pioneered mass production via the assembly line, making automobiles accessible to the middle class and transforming manufacturing forever. Foundational figure in technological progress, though the photo itself is a standard portrait."
+  },
+  {
+    "index": 389,
+    "file": "images/tbd_389_Whitfield_Diffie__legendary_cryptographer_and_co_creator_of.png",
+    "alt": "Whitfield Diffie",
+    "significance_score": 5,
+    "reasoning": "Co-invented public-key cryptography (Diffie-Hellman), which underpins all modern internet security — SSL/TLS, HTTPS, encrypted messaging. Hugely important technically but obscure to general audiences. The photo is a basic portrait."
+  },
+  {
+    "index": 390,
+    "file": "images/tbd_390_John_McAfee__founder_of_McAfee_Antivirus.png",
+    "alt": "John McAfee",
+    "significance_score": 4,
+    "reasoning": "Wild photo of McAfee shirtless surrounded by women with guns and bath salts on the table. Entertaining and notorious, but more tabloid shock value than tech significance. McAfee Antivirus was important but this image captures his eccentric later-life persona, not innovation."
+  },
+  {
+    "index": 391,
+    "file": "images/tbd_391_Hal_Finney__cryptographer_and_recipient_of_the_first_Bitcoin.jpg",
+    "alt": "Hal Finney",
+    "significance_score": 5,
+    "reasoning": "Received the first-ever Bitcoin transaction from Satoshi Nakamoto — a pivotal moment in crypto history. Important cypherpunk who worked on PGP. But this is just a vintage photo of him running in a race, no connection to his tech contributions."
+  },
+  {
+    "index": 392,
+    "file": "images/tbd_392_Mark_Zuckerberg__founder___CEO_of_Facebook_Meta.jpg",
+    "alt": "Mark Zuckerberg",
+    "significance_score": 7,
+    "reasoning": "Zuckerberg hydrofoil surfing while holding an American flag — the viral July 4th image that became one of the biggest tech-bro memes. Captures the absurdity and ambition of Silicon Valley culture. Major tech figure, iconic photo, though it's about personality not innovation."
+  },
+  {
+    "index": 393,
+    "file": "images/tbd_393_Howard_Hughes__engineer_aviator_business_titan.png",
+    "alt": "Howard Hughes",
+    "significance_score": 8,
+    "reasoning": "Hughes in a cockpit wearing aviation goggles and flight gear — a stunning B&W photo of one of the most extraordinary engineer-aviator-entrepreneurs in history. Set speed records, built the Spruce Goose, pioneered aerospace. The photo perfectly captures his daring spirit."
+  },
+  {
+    "index": 394,
+    "file": "images/tbd_394_Hackers__1995.jpg",
+    "alt": "Hackers (1995)",
+    "significance_score": 3,
+    "reasoning": "Promotional still from the 1995 movie 'Hackers' — a cult film that romanticized hacker culture. Fun nostalgia but it's a fictional movie cast photo, not a real tech moment or real innovators."
+  },
+  {
+    "index": 395,
+    "file": "images/tbd_395_Richard_Stallman__godfather_of_the_free_software_movement.jpg",
+    "alt": "Richard Stallman",
+    "significance_score": 6,
+    "reasoning": "Stallman in his famous 'Saint IGNUcius' persona — halo disk on head, embroidered robe, lecturing at a chalkboard. Founded the Free Software Foundation and GNU project, laying the groundwork for Linux and open source. The eccentric photo is iconic within hacker culture."
+  },
+  {
+    "index": 396,
+    "file": "images/tbd_396_Steve_Jobs_showing_off_the_Macintosh_to_Andy_Warhol__Keith_H.png",
+    "alt": "Jobs & Warhol",
+    "significance_score": 9,
+    "reasoning": "Steve Jobs demonstrating the Macintosh to Andy Warhol, Keith Haring, and Sean Lennon in 1984 — an extraordinary collision of technology, art, and culture. This B&W photo grid captures the exact moment personal computing met the art world. One of the most historically significant tech photos in existence."
+  },
+  {
+    "index": 397,
+    "file": "images/tbd_397_Alex_Karp__co_founder___CEO_of_Palantir.png",
+    "alt": "Alex Karp",
+    "significance_score": 4,
+    "reasoning": "Karp in a suit with his signature red bandana and wild curly hair. Co-founded Palantir, which is significant in defense/intelligence tech. But this is a standard corporate portrait — nothing historically momentous about the image itself."
+  },
+  {
+    "index": 398,
+    "file": "images/tbd_398_Size_Chad__Arbitrum.jpg",
+    "alt": "Size Chad",
+    "significance_score": 2,
+    "reasoning": "Stylish B&W profile shot — sunglasses, cigarette, white tank top. Aesthetically cool but 'Size Chad' is an obscure crypto-Twitter personality associated with Arbitrum. No broader tech significance whatsoever."
+  },
+  {
+    "index": 399,
+    "file": "images/tbd_399_Bill_Gates__co_founder_of_Microsoft.png",
+    "alt": "Bill Gates",
+    "significance_score": 8,
+    "reasoning": "Bill Gates' famous 1977 Albuquerque mugshot — young, bespectacled, grinning after a traffic violation. One of the most iconic images in tech history. The future richest man in the world and co-founder of Microsoft as a teenage troublemaker. Perfectly captures the rebellious early days of the PC revolution."
+  },
+  {
+    "index": 400,
+    "file": "images/tbd_400_Joe_Gebbia__co_founder_of_Airbnb__and_Isabelle_Boemeke.jpg",
+    "alt": "Joe Gebbia & Isabelle Boemeke",
+    "significance_score": 3,
+    "reasoning": "Airbnb co-founder Joe Gebbia and nuclear energy advocate Isabelle Boemeke at the Met Gala in elaborate outfits. A tech-meets-fashion moment, but Gebbia is a secondary tech figure and this is a social event photo, not a tech milestone."
+  },
+  {
+    "index": 401,
+    "file": "images/tbd_401_Elon_Musk__SpaceX___Tesla___Neuralink___Paypal.jpg",
+    "alt": "Elon Musk",
+    "significance_score": 6,
+    "reasoning": "Young Elon Musk in a goth/punk phase — long hair, leather jacket, standing next to a 'Liberty' poster. A fascinating before-and-after for arguably the most prominent tech figure alive. Shows his dramatic personal transformation, though the photo isn't about any tech achievement."
+  },
+  {
+    "index": 402,
+    "file": "images/tbd_402_Ben_Horowitz__co_founder_and_GP_of_a16z__and_his_wife_Felici.png",
+    "alt": "Ben Horowitz & Felicia",
+    "significance_score": 3,
+    "reasoning": "Ben Horowitz (a16z co-founder) and wife Felicia walking casually in streetwear. He's influential in VC but this is a generic candid paparazzi-style photo with no tech context or historical weight."
+  },
+  {
+    "index": 403,
+    "file": "images/tbd_403_The_Wright_Brothers__inventors_of_the_first_motor_operated_a.png",
+    "alt": "The Wright Brothers",
+    "significance_score": 8,
+    "reasoning": "Orville and Wilbur Wright striding together in bowler hats and suits — a powerful B&W image of the men who achieved powered flight. Arguably the most consequential engineering feat of the 20th century. The photo exudes quiet confidence and determination."
+  },
+  {
+    "index": 404,
+    "file": "images/tbd_404_John_Romero_and_John_Carmack__creators_of_DOOM.png",
+    "alt": "Romero & Carmack",
+    "significance_score": 7,
+    "reasoning": "John Romero and John Carmack posing back-to-back with fantasy swords in a purple-lit promo shot for id Software. These two revolutionized gaming — DOOM, Quake, and the FPS genre. Carmack's rendering engine work is some of the most brilliant systems programming ever. Iconic 90s gaming energy."
+  },
+  {
+    "index": 405,
+    "file": "images/tbd_405_Craig_Federighi__senior_vice_president_of_software_engineeri.jpg",
+    "alt": "Craig Federighi",
+    "significance_score": 4,
+    "reasoning": "Apple's SVP of Software Engineering in a Swift-branded tracksuit holding a basketball at Apple Park. Fun and humanizing for a senior Apple exec, but Federighi is not a top-tier historical tech figure, and this is a lighthearted PR photo."
+  },
+  {
+    "index": 406,
+    "file": "images/tbd_406_Sean_Parker__founder_of_Napster__first_president_of_Facebook.jpg",
+    "alt": "Sean Parker",
+    "significance_score": 5,
+    "reasoning": "Sean Parker in a red leather jacket, curly blond hair, and choker necklace — peak early-2000s style. Founded Napster (which disrupted the entire music industry) and was Facebook's first president. Important tech figure, and the photo captures his wild era well."
+  },
+  {
+    "index": 407,
+    "file": "images/tbd_407_Pavel_Durov__founder_of_Telegram_and_VK.jpg",
+    "alt": "Pavel Durov",
+    "significance_score": 6,
+    "reasoning": "Pavel Durov sitting barefoot on desert sand dunes, all in black, gazing into the distance. Founded VK (Russia's Facebook) and Telegram. A tech freedom fighter who fled Russia rather than hand over user data. The photo is visually striking and captures his enigmatic, principled persona."
+  },
+  {
+    "index": 408,
+    "file": "images/tbd_408_Steve_Wozniak__co_founder_of_Apple__and_David_Lee_Roth__lead.jpg",
+    "alt": "Wozniak & David Lee Roth",
+    "significance_score": 5,
+    "reasoning": "Steve Wozniak backstage with David Lee Roth of Van Halen — a fun tech-meets-rock crossover. Woz co-founded Apple and built the Apple I/II, but this photo is a casual hangout moment, not a tech milestone. Entertaining cultural artifact."
+  },
+  {
+    "index": 409,
+    "file": "images/tbd_409_John_McAfee__founder_of_McAfee_Antivirus.jpg",
+    "alt": "John McAfee",
+    "significance_score": 4,
+    "reasoning": "McAfee wearing a samurai helmet while holding a shotgun next to a muscle car. Peak McAfee chaos — entertaining and absurd. But like the other McAfee photo, this is about his wild lifestyle, not tech innovation. Duplicate subject in this batch lowers value further."
+  }
+]
