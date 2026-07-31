@@ -1,0 +1,156 @@
+[
+  {
+    "index": 344,
+    "file": "images/tbd_344_Steve_Jobs_and_Steve_Wozniak__co_founders_of_Apple.png",
+    "alt": "Jobs & Wozniak",
+    "significance_score": 5,
+    "reasoning": "Apple co-founders in their youth at a wedding in white suits. Historically important duo but this is a casual personal moment — not capturing a pivotal tech milestone or product launch."
+  },
+  {
+    "index": 345,
+    "file": "images/tbd_345_Vitalik_Buterin__co_creator_of_Ethereum.png",
+    "alt": "Vitalik Buterin",
+    "significance_score": 3,
+    "reasoning": "Vitalik wearing a custom 'VITALIK' sombrero. Fun candid personality shot of the Ethereum co-creator but depicts no historical moment or technological significance."
+  },
+  {
+    "index": 346,
+    "file": "images/tbd_346_Adam_Neumann__Co_founder_of_WeWork_and_Flow__with_Narendra_M.jpg",
+    "alt": "Adam Neumann with Modi",
+    "significance_score": 3,
+    "reasoning": "WeWork co-founder meeting India's PM Modi. Mildly interesting cross-cultural tech diplomacy, but Neumann's legacy is a cautionary tale of overvaluation, not transformational impact."
+  },
+  {
+    "index": 347,
+    "file": "images/tbd_347_Steve_Wozniak__co_founder_of_Apple.png",
+    "alt": "Steve Wozniak",
+    "significance_score": 3,
+    "reasoning": "Wozniak on a couch surrounded by white fluffy dogs. Wholesome personal photo of an important figure, but zero tech relevance. Apple I/II contributions are historic — this photo is not."
+  },
+  {
+    "index": 348,
+    "file": "images/tbd_348_Vitalik_Buterin__co_creator_of_Ethereum.jpg",
+    "alt": "Vitalik Buterin",
+    "significance_score": 2,
+    "reasoning": "Generic casual outdoor photo of Vitalik with someone at a restaurant patio. Unremarkable composition, no historical context. One of several Vitalik photos in the gallery."
+  },
+  {
+    "index": 349,
+    "file": "images/tbd_349_Elon_Musk__SpaceX___Tesla___2003.jpg",
+    "alt": "Elon Musk SpaceX 2003",
+    "significance_score": 8,
+    "reasoning": "2003 Florida Today newspaper article about SpaceX's founding — Musk presenting the Falcon rocket to the National Space Club. Primary historical document from before anyone believed in commercial spaceflight. The headline 'New rocket may save money' is almost comically understated given what followed."
+  },
+  {
+    "index": 350,
+    "file": "images/tbd_350_Vitalik_Buterin__co_creator_of_Ethereum__and_Roon___tszzl.png",
+    "alt": "Vitalik & Roon",
+    "significance_score": 1,
+    "reasoning": "Distant, blurry candid of two people walking in a park, barely identifiable. Poorest quality image in the batch — no composition, no context, no significance."
+  },
+  {
+    "index": 351,
+    "file": "images/tbd_351_Steve_Jobs__co_founder_of_Apple.png",
+    "alt": "Steve Jobs meditating",
+    "significance_score": 8,
+    "reasoning": "Famous Diana Walker photo of Jobs sitting cross-legged on the floor of his nearly empty home, illuminated by a single lamp. Perfectly encapsulates the minimalist philosophy that defined Apple's design language. One of the most iconic Jobs photographs ever taken."
+  },
+  {
+    "index": 352,
+    "file": "images/tbd_352_Palmer_Luckey__founder_of_Oculus_VR_and_co_founder_of_Anduri.jpg",
+    "alt": "Palmer Luckey with Zelenskyy",
+    "significance_score": 7,
+    "reasoning": "Anduril founder with Ukrainian President Zelenskyy, thumbs up in a government building with the Ukrainian trident visible. Captures the intersection of Silicon Valley defense tech and modern geopolitics — Anduril's drone systems became strategically significant in the Ukraine conflict."
+  },
+  {
+    "index": 353,
+    "file": "images/tbd_353_John_McAfee__founder_of_McAfee_Antivirus.jpg",
+    "alt": "John McAfee on boat",
+    "significance_score": 4,
+    "reasoning": "McAfee on a boat at sea holding a rifle during his fugitive era. Visually dramatic and captures his notorious later persona, but represents his chaotic post-antivirus life rather than any cybersecurity contribution."
+  },
+  {
+    "index": 354,
+    "file": "images/tbd_354_Marc_Andreessen__co_founder_of_a16z_and_Mosaic__the_world_s.jpg",
+    "alt": "Marc Andreessen",
+    "significance_score": 5,
+    "reasoning": "Moody studio portrait of Andreessen. He co-created Mosaic and Netscape (launched the web era), co-founded a16z, and wrote 'Why Software Is Eating the World.' Extremely significant person — but this generic portrait captures none of those moments."
+  },
+  {
+    "index": 355,
+    "file": "images/tbd_355_Adam_Neumann__Co_founder_of_WeWork_and_Flow__and_his_wife_Re.jpg",
+    "alt": "Neumann & Rebekah",
+    "significance_score": 2,
+    "reasoning": "B&W edgy photo of Adam and Rebekah Neumann in leather jacket and white top. Style over substance. WeWork's implosion is a cautionary tale, not a triumph, and this photo has no historical context."
+  },
+  {
+    "index": 356,
+    "file": "images/tbd_356_Peiter_Zatko_aka__Mudge___hacker___former_head_of_security_f.jpg",
+    "alt": "Mudge with Clinton",
+    "significance_score": 7,
+    "reasoning": "Legendary L0pht hacker Mudge posing with President Clinton at what appears to be the White House. Mudge's 1998 congressional testimony warning about internet vulnerability was prophetic. This photo captures the moment hacker culture met the highest political office — a milestone in cybersecurity history."
+  },
+  {
+    "index": 357,
+    "file": "images/tbd_357_Alex_Karp__co_founder_of_Palantir.jpg",
+    "alt": "Alex Karp",
+    "significance_score": 3,
+    "reasoning": "Palantir CEO at Sun Valley in a colorful athletic top with coffee. While Palantir is significant in defense/intelligence tech, this is a generic conference walking shot with no historical weight."
+  },
+  {
+    "index": 358,
+    "file": "images/tbd_358_Steve_Jobs__co_founder_of_Apple.jpg",
+    "alt": "Steve Jobs jumping on stage",
+    "significance_score": 7,
+    "reasoning": "Jobs captured mid-jump on a dark stage in his iconic black turtleneck and jeans. An electrifying image that embodies the showmanship and energy of Apple keynotes that changed product launches forever. Visually stunning and culturally iconic."
+  },
+  {
+    "index": 359,
+    "file": "images/tbd_359_Margaret_Hamilton__software_developer_for_the_Apollo_space_p.png",
+    "alt": "Margaret Hamilton in Apollo module",
+    "significance_score": 9,
+    "reasoning": "Margaret Hamilton inside the Apollo spacecraft command module, smiling while reaching the instrument panel. She led the team that wrote Apollo's onboard flight software — her error-handling code saved the Apollo 11 moon landing. She coined the term 'software engineering.' This is a primary historical document of one of computing's most transformational contributions to humanity."
+  },
+  {
+    "index": 360,
+    "file": "images/tbd_360_Mark_Zuckerberg__Facebook_Meta.jpg",
+    "alt": "Zuckerberg Senate hearing",
+    "significance_score": 8,
+    "reasoning": "Zuckerberg from behind at the 2018 Senate hearing, facing a massive wall of press photographers. One of the defining images of the tech accountability era. The composition — one man alone against a sea of cameras — perfectly captures the power dynamics when Big Tech met government oversight."
+  },
+  {
+    "index": 361,
+    "file": "images/tbd_361_Ben_Horowitz__co_founder_and_GP_of_a16z__and_his_wife_Felici.jpg",
+    "alt": "Ben & Felicia Horowitz",
+    "significance_score": 2,
+    "reasoning": "Ben Horowitz and wife Felicia walking at Sun Valley conference. Felicia's striking pink/gold suit is eye-catching but this is a routine conference paparazzi shot of a VC — not historically significant."
+  },
+  {
+    "index": 362,
+    "file": "images/tbd_362_Adam_Neumann__co_founder_of_WeWork_and_Flow.jpg",
+    "alt": "Adam Neumann barefoot",
+    "significance_score": 3,
+    "reasoning": "Neumann walking barefoot on a NYC sidewalk while talking on the phone outside Pete's Tavern. Amusing character study capturing his eccentric persona, but WeWork's significance is as a cautionary tale, limiting the historical weight."
+  },
+  {
+    "index": 363,
+    "file": "images/tbd_363_Bill_Gates__Microsoft__and_Warren_Buffett.jpg",
+    "alt": "Gates & Buffett in costume",
+    "significance_score": 5,
+    "reasoning": "Bill Gates in a king costume and Warren Buffett in a wizard costume at a costume party. Two of the most influential people in the world in a playful, humanizing moment. Their friendship itself is iconic, and Gates transformed computing — but this is a costume party photo, not a tech milestone."
+  },
+  {
+    "index": 364,
+    "file": "images/tbd_364_Kanye_West__Elon_Musk__Travis_Scott__and_Quavo.png",
+    "alt": "Kanye, Musk, Travis Scott, Quavo",
+    "significance_score": 4,
+    "reasoning": "Tech-meets-hip-hop crossover group photo. Visually fun with Musk surrounded by Kanye, Travis Scott, and Quavo. Cultural crossover moment but more celebrity than tech significance."
+  },
+  {
+    "index": 365,
+    "file": "images/tbd_365_John_McAfee__founder_of_McAfee_Antivirus.jpg",
+    "alt": "John McAfee tropical",
+    "significance_score": 3,
+    "reasoning": "McAfee shirtless in a tropical setting holding a shotgun with tattoos and sunglasses. Vivid character portrait of tech's wildest figure, but represents his descent into notoriety rather than his actual contribution to cybersecurity."
+  }
+]
