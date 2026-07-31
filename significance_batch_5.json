@@ -1,0 +1,163 @@
+[
+  {
+    "index": 92,
+    "file": "images/092_960px-Commodore_Grace_M._Hopper_2C_USN__28covered_29.jpg",
+    "alt": "Grace Hopper",
+    "significance_score": 7,
+    "reasoning": "Pioneer of the compiler and COBOL, coined 'debugging.' Foundational figure in computer science who proved software could be abstracted from hardware. Standard military portrait rather than a moment-capturing image."
+  },
+  {
+    "index": 93,
+    "file": "images/093_960px-Margaret_Hamilton_-_restoration.jpg",
+    "alt": "Margaret Hamilton",
+    "significance_score": 8,
+    "reasoning": "Led the Apollo 11 onboard flight software team, her error-handling code literally saved the moon landing. Coined the term 'software engineering' as a discipline. One of the most consequential software engineers in history."
+  },
+  {
+    "index": 94,
+    "file": "images/094_ClaudeShannon_MFO3807.jpg",
+    "alt": "Claude Shannon",
+    "significance_score": 9,
+    "reasoning": "Father of information theory. His 1948 paper 'A Mathematical Theory of Communication' is the mathematical bedrock of the entire digital age — without Shannon, no internet, no digital communications, no data compression. Transformational."
+  },
+  {
+    "index": 95,
+    "file": "images/095_Ken_Thompson_and_Dennis_Ritchie--1973.jpg",
+    "alt": "Thompson and Ritchie",
+    "significance_score": 9,
+    "reasoning": "Created Unix and the C programming language — the twin foundations of virtually all modern computing. Linux, macOS, Android, iOS all descend from their work. C remains one of the most influential programming languages ever created."
+  },
+  {
+    "index": 96,
+    "file": "images/096_sddefault.jpg",
+    "alt": "Ballmer Developers",
+    "significance_score": 3,
+    "reasoning": "Steve Ballmer's sweaty 'Developers! Developers! Developers!' rant. An iconic meme and entertaining corporate theater, but zero technological substance. Reveals Microsoft's platform strategy ethos but is culturally trivial."
+  },
+  {
+    "index": 97,
+    "file": "images/097_hqdefault.jpg",
+    "alt": "Gates jumping chair",
+    "significance_score": 2,
+    "reasoning": "Bill Gates jumping over an office chair — a fun personality quirk from an interview. Completely trivial. Gates himself is transformational; this image captures nothing of that."
+  },
+  {
+    "index": 98,
+    "file": "images/098_Screen-shot-2012-06-18-at-10.32.45-AM.png",
+    "alt": "Torvalds middle finger",
+    "significance_score": 4,
+    "reasoning": "Linus Torvalds giving the middle finger to NVIDIA during a talk. Culturally notable in the open-source community as a symbol of friction between open-source and proprietary vendors, but it's a provocative gesture, not a technological milestone."
+  },
+  {
+    "index": 99,
+    "file": "images/099_w_800.jpg",
+    "alt": "Musk dancing",
+    "significance_score": 2,
+    "reasoning": "Elon Musk dancing awkwardly on stage at a Tesla event. A personality moment with no technological or historical significance. Pure entertainment value."
+  },
+  {
+    "index": 100,
+    "file": "images/100_1280px-Steve_Jobs_and_Bill_Gates__28522695099_29.jpg",
+    "alt": "Jobs and Gates",
+    "significance_score": 7,
+    "reasoning": "Steve Jobs and Bill Gates laughing together at the D5 conference (2007). A rare, warm joint appearance of the two most consequential figures of the personal computing revolution. Iconic image capturing the rivalry-turned-mutual-respect."
+  },
+  {
+    "index": 101,
+    "file": "images/101_sm.em.jb.jpg",
+    "alt": "Musk and Bezos",
+    "significance_score": 3,
+    "reasoning": "Casual dining photo of Elon Musk, Jeff Bezos, and a third person. Interesting convergence of tech billionaires but a candid social snapshot with no particular historical weight."
+  },
+  {
+    "index": 102,
+    "file": "images/102_1280px-Zuckerberg_meets_Obama.jpg",
+    "alt": "Tech leaders Obama dinner",
+    "significance_score": 5,
+    "reasoning": "President Obama meeting Mark Zuckerberg at a tech industry dinner. Represents the growing political influence and lobbying power of Silicon Valley during the Obama era, but one of many such meetings."
+  },
+  {
+    "index": 103,
+    "file": "images/103_2025-09-04T233827Z_133888725_RC2BLGAKCYMO_RTRMADP_3_USA-TRUM.jpg",
+    "alt": "Trump tech CEO dinner",
+    "significance_score": 5,
+    "reasoning": "Trump at a White House dinner with tech CEOs including Zuckerberg and Bill Gates. Documents tech-political power dynamics across administrations, but not a singular transformational moment."
+  },
+  {
+    "index": 104,
+    "file": "images/104_Screen-Shot-2017-06-22-at-1.15.44-PM.png",
+    "alt": "Jobs iPhone 2007",
+    "significance_score": 10,
+    "reasoning": "Steve Jobs unveiling the iPhone at Macworld 2007. Arguably the single most transformational consumer technology product launch in history. Redefined mobile computing, killed the feature phone, created the app economy, and fundamentally altered how billions of humans communicate, work, and live."
+  },
+  {
+    "index": 105,
+    "file": "images/105_JOBS-STEVE-ABCD-FILES.jpg",
+    "alt": "Jobs Macintosh 1984",
+    "significance_score": 9,
+    "reasoning": "Young Steve Jobs presenting the original Macintosh (1984). Brought the graphical user interface to the mainstream consumer market, fundamentally changing how humans interact with computers. The 1984 launch is one of the most important product introductions in tech history."
+  },
+  {
+    "index": 106,
+    "file": "images/106_computex-keynote-jensen-gb200-grace-blackwell-superchip_2f91.jpg",
+    "alt": "Jensen GB200",
+    "significance_score": 8,
+    "reasoning": "Jensen Huang holding the NVIDIA Blackwell GB200 superchip at Computex. NVIDIA's GPU dominance is the hardware backbone powering the entire AI revolution. The Blackwell architecture (208B transistors, 5th-gen Transformer Engine) represents the cutting edge of AI compute."
+  },
+  {
+    "index": 107,
+    "file": "images/107_960px-Palmer_Luckey_wearing_Oculus_Rift_DK1_at_SVVR_2014.jpg",
+    "alt": "Palmer Luckey Oculus",
+    "significance_score": 5,
+    "reasoning": "Palmer Luckey wearing the Oculus Rift DK1 at SVVR 2014. Kickstarted the modern VR revival and led to Meta's $2B acquisition, but VR has not yet achieved the mass-market transformational impact that was predicted. Still more promise than delivery."
+  },
+  {
+    "index": 108,
+    "file": "images/108_0h8e7202-e1468940208370.jpg",
+    "alt": "Tesla Roadster 2006",
+    "significance_score": 7,
+    "reasoning": "The original Tesla Roadster — the car that proved electric vehicles could be desirable, high-performance machines. This single product catalyzed the entire modern EV industry and forced legacy automakers to take electrification seriously."
+  },
+  {
+    "index": 109,
+    "file": "images/109_250px-Morris_Chang_1951_MIT_yearbook_portrait.jpg",
+    "alt": "Morris Chang MIT",
+    "significance_score": 6,
+    "reasoning": "Morris Chang's MIT yearbook portrait (1951). He would go on to found TSMC, creating the foundry model that enabled the fabless semiconductor revolution. TSMC now manufactures chips for Apple, NVIDIA, AMD, and most of the industry. Docked because this yearbook photo predates all achievements."
+  },
+  {
+    "index": 110,
+    "file": "images/110_Masayoshi_Son__28P066533-522034_2C_cropped_29.jpg",
+    "alt": "Masayoshi Son",
+    "significance_score": 4,
+    "reasoning": "Headshot of Masayoshi Son, SoftBank founder. Made legendary early bets (Alibaba, Yahoo Japan) but the Vision Fund era produced spectacular failures (WeWork). Influential as a tech investor but a mixed legacy, and this is a generic portrait."
+  },
+  {
+    "index": 111,
+    "file": "images/111_1280px-Niklas_Zennstrom_TC_2016.jpg",
+    "alt": "Niklas Zennstrom",
+    "significance_score": 4,
+    "reasoning": "Niklas Zennstrom at TechCrunch Disrupt. Co-founded Skype (democratized internet calling) and Kazaa (pioneered P2P file sharing). Important contributions but Skype has been largely superseded by Zoom, Teams, etc. Not top-tier significance."
+  },
+  {
+    "index": 112,
+    "file": "images/112_Elizabeth_Holmes_2014_cropped.jpg",
+    "alt": "Elizabeth Holmes",
+    "significance_score": 3,
+    "reasoning": "Elizabeth Holmes portrait (2014), before the Theranos fraud was exposed. Her technology never worked — zero actual technological contribution. Significant only as Silicon Valley's most prominent cautionary tale about hype, fraud, and failed due diligence."
+  },
+  {
+    "index": 113,
+    "file": "images/113_Sam_Bankman-Fried__28cropped_29.png",
+    "alt": "Sam Bankman-Fried",
+    "significance_score": 2,
+    "reasoning": "Sam Bankman-Fried portrait. FTX founder convicted of massive fraud. No technological contribution — purely a financial crime story in the niche crypto space. Less historically significant than Holmes as a cautionary figure."
+  },
+  {
+    "index": 114,
+    "file": "images/114_maxresdefault.jpg",
+    "alt": "Zuckerberg Senate hearing",
+    "significance_score": 7,
+    "reasoning": "Mark Zuckerberg testifying before the Senate (2018) after the Cambridge Analytica scandal. A watershed moment for tech accountability — when the industry's unchecked power over democracy and privacy was publicly confronted. Catalyzed the global tech regulation movement."
+  }
+]
