@@ -1,0 +1,163 @@
+[
+  {
+    "index": 138,
+    "file": "images/138_960px-Full_Stack_starship.jpg",
+    "alt": "Starship",
+    "significance": 6,
+    "rationale": "Full-stack Starship on pad next to Mechazilla tower under blue sky. Impressive engineering photo and symbol of techno-optimism, but static composition and tangential to computing/AI history."
+  },
+  {
+    "index": 139,
+    "file": "images/139_1280px-SpaceX_Starship_ignition_during_IFT-5.jpg",
+    "alt": "Starship IFT-5",
+    "significance": 7,
+    "rationale": "Dramatic launch photo of Starship during IFT-5 with massive exhaust plume. IFT-5 was the first successful booster catch—a genuine milestone. Visually spectacular and historically significant for space tech."
+  },
+  {
+    "index": 140,
+    "file": "images/140_UCDGJGHJYZCDTMCS2XC7CIO6M4.jpg",
+    "alt": "FPV Drone",
+    "significance": 3,
+    "rationale": "US Marines operating small FPV drones in a grassy field. Generic military photo—not iconic, not a specific milestone moment. Military drone usage is also an ambiguous fit for a techno-optimism gallery."
+  },
+  {
+    "index": 141,
+    "file": "images/141_Masayoshi_Son___SoftBank_founder__from_a_small_town_in_south.jpg",
+    "alt": "Masayoshi Son",
+    "significance": 4,
+    "rationale": "Portrait of Masayoshi Son smiling in dark jacket. Major tech investor (SoftBank Vision Fund) but fundamentally a financier, not a builder or inventor. AI-generated portrait lacks documentary weight."
+  },
+  {
+    "index": 142,
+    "file": "images/142_Daniel_Ek___Spotify_founder_addressing_his_team__built_a_glo.jpg",
+    "alt": "Daniel Ek",
+    "significance": 3,
+    "rationale": "Daniel Ek speaking at Spotify HQ (green wall with Spotify logo). Spotify disrupted music distribution but is not foundational to computing or AI. Standard all-hands photo."
+  },
+  {
+    "index": 143,
+    "file": "images/143_Jan_Koum___WhatsApp_co-founder__from_Ukrainian_immigrant_to.jpg",
+    "alt": "Jan Koum",
+    "significance": 4,
+    "rationale": "AI-generated portrait of Jan Koum. Ukrainian immigrant to billionaire is a compelling story, and WhatsApp connected billions. But not a foundational computing figure, and AI-generated image lacks authenticity."
+  },
+  {
+    "index": 144,
+    "file": "images/144_AMD_CEO_Lisa_Su_presents_new_processors__GPUs__and_AI_accele.jpeg",
+    "alt": "Lisa Su CES",
+    "significance": 6,
+    "rationale": "Lisa Su presenting at CES. AMD's GPUs and CPUs are critical AI training infrastructure and she revived AMD from near-bankruptcy. Important semiconductor figure, though the photo itself is a standard keynote shot."
+  },
+  {
+    "index": 145,
+    "file": "images/145_Amazon_Echo_smart_speaker_at_its_November_2014_unveiling___t.png",
+    "alt": "Amazon Echo 2014",
+    "significance": 6,
+    "rationale": "Amazon Echo at its 2014 unveiling—the product that brought voice AI assistants into mainstream consumer homes. Historically significant as the first mass-market AI product, though the image is a simple product shot."
+  },
+  {
+    "index": 146,
+    "file": "images/146_Google_CEO_Larry_Page_wearing_Project_Glass_at_Zeitgeist_201.jpg",
+    "alt": "Larry Page Google Glass",
+    "significance": 5,
+    "rationale": "Larry Page wearing Google Glass at a Google event. Google co-founder is significant, but Google Glass was ultimately a failed product. Represents a vision of AR that didn't materialize in that form."
+  },
+  {
+    "index": 147,
+    "file": "images/147_Mark_Zuckerberg_walks_past_VR_headset-wearing_audience_at_Sa.jpg",
+    "alt": "Zuck VR audience",
+    "significance": 8,
+    "rationale": "Zuckerberg at Samsung's MWC 2016 event with VR headset-wearing audience. One of the most iconic tech photos of the 2010s—captures both the promise and dystopian undertone of VR/tech immersion. Widely reproduced and discussed."
+  },
+  {
+    "index": 148,
+    "file": "images/148_Morris_Chang__TSMC_founder__honored_as_Stanford_Engineering.jpg",
+    "alt": "Morris Chang Stanford",
+    "significance": 7,
+    "rationale": "Morris Chang at Stanford. TSMC founder is one of the most consequential figures in tech—the company fabricates virtually all advanced chips powering AI. Modest event photo but the subject is enormously important."
+  },
+  {
+    "index": 149,
+    "file": "images/149_Andy_Jassy_delivers_the_AWS_re_Invent_2019_keynote__Las_Vega.jpg",
+    "alt": "Andy Jassy AWS",
+    "significance": 5,
+    "rationale": "Andy Jassy on massive AWS re:Invent 2019 stage. AWS pioneered cloud computing which enabled the modern AI/ML ecosystem. Good composition showing scale, but Jassy himself is not an iconic figure."
+  },
+  {
+    "index": 150,
+    "file": "images/150_Grace_Hopper_at_the_UNIVAC_I_console___the_first_commercial.jpg",
+    "alt": "Grace Hopper UNIVAC",
+    "significance": 9,
+    "rationale": "Grace Hopper at the UNIVAC I console with colleagues. Authentic historical photo of a computing legend—she invented the first compiler and coined 'debugging.' UNIVAC was the first commercial computer. Foundational."
+  },
+  {
+    "index": 151,
+    "file": "images/151_John_von_Neumann__Los_Alamos_ID_photo___architect_of_the_sto.gif",
+    "alt": "von Neumann",
+    "significance": 9,
+    "rationale": "John von Neumann's Los Alamos ID photo. Architect of the stored-program computer (von Neumann architecture), game theory pioneer, and polymath. The von Neumann architecture IS the fundamental design of virtually every computer."
+  },
+  {
+    "index": 152,
+    "file": "images/152_ENIAC_1946.jpg",
+    "alt": "ENIAC 1946",
+    "significance": 9,
+    "rationale": "ENIAC room-filling computer with operator, 1946. The first general-purpose electronic digital computer. Classic black-and-white photo showing the massive scale of early computing. Absolutely foundational historical image."
+  },
+  {
+    "index": 153,
+    "file": "images/153_Vannevar_Bush___visionary_who_conceived_the_Memex_in_1945__i.jpg",
+    "alt": "Vannevar Bush",
+    "significance": 8,
+    "rationale": "Vannevar Bush at his desk. His 1945 essay 'As We May Think' conceived the Memex—essentially predicting hypertext, the web, and modern information retrieval. One of the most prescient visionaries in computing history."
+  },
+  {
+    "index": 154,
+    "file": "images/154_Xerox_Alto_1973.jpg",
+    "alt": "Xerox Alto",
+    "significance": 9,
+    "rationale": "Xerox Alto museum exhibit showing monitor, keyboard, and revolutionary mouse. The first computer with a GUI (1973). Directly inspired the Macintosh and every modern desktop interface. One of the most influential machines ever built."
+  },
+  {
+    "index": 155,
+    "file": "images/155_Transistor_Inventors_1948.jpg",
+    "alt": "Transistor Inventors",
+    "significance": 10,
+    "rationale": "Bardeen, Brattain, and Shockley at Bell Labs with the first transistor (1948). The transistor is arguably the most important invention of the 20th century—it enabled ALL of modern electronics and computing. The single most foundational image in tech history."
+  },
+  {
+    "index": 156,
+    "file": "images/156_Ilya_Sutskever_TAU.jpg",
+    "alt": "Ilya Sutskever",
+    "significance": 6,
+    "rationale": "Ilya Sutskever at TAU panel. Co-founder of OpenAI, co-inventor of AlexNet, key figure in the deep learning revolution. Very important person but the photo is extremely small (192x287) and low quality."
+  },
+  {
+    "index": 157,
+    "file": "images/157_Andrej_Karpathy.png",
+    "alt": "Karpathy",
+    "significance": 5,
+    "rationale": "Andrej Karpathy giving a lecture in pink shirt. Founding OpenAI member, former Tesla AI director, influential AI educator. Important but more of an engineer/educator than a foundational researcher. Casual talk photo."
+  },
+  {
+    "index": 158,
+    "file": "images/158_Fei-Fei_Li_at_AI_for_Good_2017___ImageNet_creator_and_Stanfo.jpg",
+    "alt": "Fei-Fei Li",
+    "significance": 7,
+    "rationale": "Fei-Fei Li speaking at ITU AI for Good 2017 podium. Creator of ImageNet, which was the catalyst for the deep learning revolution (2012 AlexNet moment). Stanford HAI co-director. Major AI figure with clear historical impact."
+  },
+  {
+    "index": 159,
+    "file": "images/159_Elizabeth_Holmes.jpg",
+    "alt": "Holmes",
+    "significance": 3,
+    "rationale": "Elizabeth Holmes in her trademark black turtleneck. Theranos founder convicted of massive healthcare fraud. A cautionary tale, not a techno-optimist success story. Inclusion as a 'what not to do' example has some value."
+  },
+  {
+    "index": 160,
+    "file": "images/160_SBF.png",
+    "alt": "SBF",
+    "significance": 2,
+    "rationale": "Sam Bankman-Fried casual photo. FTX founder convicted of fraud and embezzlement. Another cautionary tale with even less relevance to tech optimism than Holmes—crypto collapse rather than genuine innovation."
+  }
+]
