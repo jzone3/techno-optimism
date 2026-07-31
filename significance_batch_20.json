@@ -1,0 +1,178 @@
+[
+  {
+    "index": 432,
+    "requested_image": "images/svmg_115_Jason_Yeager_getting_his_eyes_scanned_by_the_World_orb.jpg",
+    "actual_image": "images/svmg_121_SpaceX_Starship___And_I_think_my_spaceship_knows_w.jpg",
+    "significance": 5,
+    "visual_summary": "Distant Starship launch shot angled across a blue sky with a pink exhaust trail.",
+    "notes": "Real launch subject, but this frame is too distant to feel iconic."
+  },
+  {
+    "index": 433,
+    "requested_image": "images/svmg_106_SpaceX_Starship_launches_from_Starbase__Texas.jpg",
+    "actual_image": "images/svmg_117_First_Starship_launch_after_Trump_s_presidential_a.jpg",
+    "significance": 6,
+    "visual_summary": "Starship climbing through a deep-blue sky with a long bright exhaust plume.",
+    "notes": "Meaningful subject matter and a cleaner composition than most launch photos here, but still not an era-defining image."
+  },
+  {
+    "index": 434,
+    "requested_image": "images/svmg_107_NEO_Gamma_humanoid_robot.jpg",
+    "actual_image": "images/svmg_130_NEO_Gamma_reveal_shoot.jpg",
+    "significance": 4,
+    "visual_summary": "Workshop-like office scene with two staged humanoid robot bodies under photo lights.",
+    "notes": "Shows actual humanoid-robot work, though it looks more like process documentation than a landmark moment."
+  },
+  {
+    "index": 435,
+    "requested_image": "images/svmg_108_NEO_Gamma_humanoid_robot.jpg",
+    "actual_image": "images/svmg_128_The_first_phone_ad_in_history_to_cast_a_real_human.jpg",
+    "significance": 4,
+    "visual_summary": "Humanoid robot and human performer posing on set while crew watches.",
+    "notes": "Captures the humanoid-robot zeitgeist, but it is still basically a staged production still."
+  },
+  {
+    "index": 436,
+    "requested_image": "images/svmg_109_NEO_Gamma_humanoid_robot.jpg",
+    "actual_image": "images/svmg_129_Do_NEO_Gamma_s_dream_of_electric_sheep.jpg",
+    "significance": 3,
+    "visual_summary": "Another NEO Gamma production image focused on robot forms in a workspace.",
+    "notes": "Derivative of the same NEO Gamma shoot, so it carries even less standalone weight."
+  },
+  {
+    "index": 437,
+    "requested_image": "images/svmg_110_Anduril_campus.jpg",
+    "actual_image": "images/svmg_138_Anduril_campus.jpg",
+    "significance": 2,
+    "visual_summary": "Clean exterior view of an Anduril building with branded facade.",
+    "notes": "Corporate campus architecture is rarely historically significant by itself."
+  },
+  {
+    "index": 438,
+    "requested_image": "images/svmg_111_Brian_Schimpf__Anduril_CEO.jpg",
+    "actual_image": "images/svmg_143_Brian_Schimpf___CEO_of_Anduril_Industries.jpg",
+    "significance": 2,
+    "visual_summary": "Brian Schimpf standing in a dark Anduril boardroom.",
+    "notes": "Recognizable executive, generic boardroom portrait."
+  },
+  {
+    "index": 439,
+    "requested_image": "images/svmg_112_Zach_Dell_and_Lauren.jpg",
+    "actual_image": "images/svmg_114_The_redesigned_World_orb.jpg",
+    "significance": 3,
+    "visual_summary": "Minimal product-style image of the redesigned World orb.",
+    "notes": "Notable object, but still mostly product theater."
+  },
+  {
+    "index": 440,
+    "requested_image": "images/svmg_116_Ryan_Petersen__Flexport_CEO.jpg",
+    "actual_image": "images/svmg_115_Jason_Yeager_getting_his_eyes_scanned_by_the_World.jpg",
+    "significance": 4,
+    "visual_summary": "Person having an iris scan performed with the World orb.",
+    "notes": "The biometric-scan moment is culturally relevant, though this specific frame is not especially memorable."
+  },
+  {
+    "index": 441,
+    "requested_image": "images/svmg_117_Adam_Goldstein__Hipmunk_co_founder.jpg",
+    "actual_image": "images/svmg_149_Zach_Dell___CEO_of_Base_Power_Company.jpg",
+    "significance": 2,
+    "visual_summary": "Zach Dell standing in front of a Base Power Company logo wall.",
+    "notes": "Plain executive portrait with limited broader significance."
+  },
+  {
+    "index": 442,
+    "requested_image": "images/svmg_118_Haven_1_interior.jpg",
+    "actual_image": "images/svmg_158_Ryan_Petersen__CEO_of_Flexport.jpg",
+    "significance": 2,
+    "visual_summary": "Ryan Petersen standing beside a Flexport sign and penguin statue.",
+    "notes": "Another competent but replaceable CEO portrait."
+  },
+  {
+    "index": 443,
+    "requested_image": "images/svmg_119_California_Forever_downtown_rendering.jpg",
+    "actual_image": "images/svmg_166_Adam_Goldstein__CEO_of_Archer_Aviation.jpg",
+    "significance": 2,
+    "visual_summary": "Adam Goldstein portrait at an Archer Aviation event.",
+    "notes": "Event portrait, not a consequential historical document."
+  },
+  {
+    "index": 444,
+    "requested_image": "images/svmg_120_Jan_Sramek__California_Forever_CEO.jpg",
+    "actual_image": "images/svmg_170_Jan_Sramek__Founder_and_CEO_of_California_Forever.jpg",
+    "significance": 2,
+    "visual_summary": "Jan Sramek posed in an upscale interior with decorative lighting.",
+    "notes": "Looks polished, but reads like PR rather than history."
+  },
+  {
+    "index": 445,
+    "requested_image": "images/svmg_121_Transamerica_Pyramid_party.jpg",
+    "actual_image": "images/svmg_187_Max_Haot__CEO_of_Vast.jpg",
+    "significance": 2,
+    "visual_summary": "Straightforward portrait of Max Haot in a neutral indoor setting.",
+    "notes": "Generic portrait with little documentary value."
+  },
+  {
+    "index": 446,
+    "requested_image": "images/svmg_122_Make_Sunsets_cloud_balloon.jpg",
+    "actual_image": "images/svmg_179_Max_Hodak__CEO_of_Science_Corp.jpg",
+    "significance": 1,
+    "visual_summary": "Straightforward close portrait of Max Hodak in a neutral indoor setting.",
+    "notes": "Generic portrait with even less contextual story."
+  },
+  {
+    "index": 447,
+    "requested_image": "images/svmg_123_The_Clone_team.jpg",
+    "actual_image": "images/svmg_191_Inside_Haven_1__the_world_s_first_commercial_space.jpg",
+    "significance": 1,
+    "visual_summary": "Interior visualization of the Haven-1 commercial space-station module.",
+    "notes": "Interesting concept, but it is a render rather than a real moment."
+  },
+  {
+    "index": 448,
+    "requested_image": "images/svmg_113_Max_Haot__CEO_of_LiveU_and_LivePeer.jpg",
+    "actual_image": "images/svmg_172_The_future_downtown_of_California_Forever.jpg",
+    "significance": 1,
+    "visual_summary": "Architectural render of the planned downtown for California Forever.",
+    "notes": "Ambitious urban vision, but still just a render."
+  },
+  {
+    "index": 449,
+    "requested_image": "images/svmg_124_Max_Hodak__co_founder_of_Neuralink_and_CEO_of_Science_Cor.jpg",
+    "actual_image": "images/svmg_108_The_Transamerica_Pyramid_reopening_after_party_on.jpg",
+    "significance": 4,
+    "visual_summary": "Fireworks over the San Francisco skyline with the Transamerica Pyramid illuminated.",
+    "notes": "Strong visual drama, though it is more celebration atmosphere than tech-history substance."
+  },
+  {
+    "index": 450,
+    "requested_image": "images/svmg_125_Palmer_Luckey__Anduril_founder.jpg",
+    "actual_image": "images/svmg_110_Make_Sunsets_team_filling_a_balloon_with_an_artifi.jpg",
+    "significance": 5,
+    "visual_summary": "Make Sunsets team inflating a large balloon outdoors.",
+    "notes": "Geoengineering makes this more consequential than the average team photo, but it is still a process shot."
+  },
+  {
+    "index": 451,
+    "requested_image": "images/svmg_126_Anduril_soldier_with_drone.jpg",
+    "actual_image": "images/svmg_123_The_Clone_team.jpg",
+    "significance": 2,
+    "visual_summary": "Four-person group shot of the Clone team in a warmly lit modern space.",
+    "notes": "Basic team portrait; informative, not important."
+  },
+  {
+    "index": 452,
+    "requested_image": "images/svmg_127_Brian_Chesky__Airbnb_co_founder.jpg",
+    "actual_image": "images/svmg_104_Lil_B_the_Based_God_and_Eric_Jang__head_of_AI_at_1.jpg",
+    "significance": 4,
+    "visual_summary": "Behind-the-scenes 1X production shot with a humanoid robot, performers, and crew.",
+    "notes": "Decent evidence of the humanoid-robot moment, but more novelty than landmark."
+  },
+  {
+    "index": 453,
+    "requested_image": "images/svmg_128_David_Sacks_and_family.jpg",
+    "actual_image": "images/svmg_164_Air_taxi___Archer_Aviation.jpg",
+    "significance": 3,
+    "visual_summary": "Minimal shot of the Archer Aviation air taxi in flight.",
+    "notes": "Interesting category, weak image; the craft is too small and context too thin to feel important."
+  }
+]
