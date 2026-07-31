@@ -1,0 +1,163 @@
+[
+  {
+    "index": 299,
+    "file": "images/tbd_299_Sam_Altman__co_founder_of_OpenAI_and_former_president_of_Y_C.png",
+    "alt": "Sam Altman",
+    "significance_score": 3,
+    "reasoning": "Generic outdoor portrait of Sam Altman kneeling in a grassy field in a pink t-shirt. Altman is hugely consequential as OpenAI's leader, but this image captures zero technological or historical substance — just a casual lifestyle photo."
+  },
+  {
+    "index": 300,
+    "file": "images/tbd_300_Frank_Herbert__sci_fi_author_of_Dune__on_the_set_of_David_Ly.jpg",
+    "alt": "Frank Herbert",
+    "significance_score": 6,
+    "reasoning": "Frank Herbert on the set of David Lynch's Dune adaptation. The intersection of one of sci-fi's most prophetic authors with a major cinematic interpretation gives this real cultural weight. Herbert's ecological and AI themes in Dune remain strikingly relevant."
+  },
+  {
+    "index": 301,
+    "file": "images/tbd_301_Ralph_Mosher__engineer_and_designer_of_the_Hardiman_exoskele.png",
+    "alt": "Ralph Mosher",
+    "significance_score": 7,
+    "reasoning": "Ralph Mosher wearing the Hardiman exoskeleton prototype in a dramatic B&W photo. One of the earliest powered exoskeletons ever built (GE, 1960s). A genuinely important engineering artifact that presaged modern robotics and augmented strength systems."
+  },
+  {
+    "index": 302,
+    "file": "images/tbd_302_Claude_Shannon__mathematician__electrical_engineer__and_cryp.png",
+    "alt": "Claude Shannon",
+    "significance_score": 7,
+    "reasoning": "Elegant B&W portrait of Claude Shannon in a formal room. The father of information theory whose 1948 paper is the mathematical bedrock of the entire digital age. The image is a refined portrait rather than an action shot, but Shannon's importance is so foundational it elevates any photo of him."
+  },
+  {
+    "index": 303,
+    "file": "images/tbd_303_Ray_Kurzweil__engineer_and_futurist__and_Stevie_Wonder_playi.png",
+    "alt": "Kurzweil & Stevie Wonder",
+    "significance_score": 7,
+    "reasoning": "Ray Kurzweil standing behind Stevie Wonder playing a Kurzweil synthesizer. A perfect techno-optimist image: an inventor watching a blind musical genius use his technology to create art. The Kurzweil Reading Machine and synthesizers were transformative assistive and creative technologies."
+  },
+  {
+    "index": 304,
+    "file": "images/tbd_304_Aaron_Swartz__software_developer_and_internet_activist.jpg",
+    "alt": "Aaron Swartz",
+    "significance_score": 6,
+    "reasoning": "Aaron Swartz seated among towering bookshelves, a fitting visual metaphor for his life's work — co-creating RSS at 14, co-founding Reddit, and fighting for open access to knowledge. A tragic and significant figure in internet freedom. The portrait is beautifully composed."
+  },
+  {
+    "index": 305,
+    "file": "images/tbd_305_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+    "alt": "Stephen Watt",
+    "significance_score": 2,
+    "reasoning": "Stephen Watt in a 'Stop Snitchin' t-shirt, selfie-style photo on a couch. Duplicate subject (also at index 292). A convicted hacker whose story is colorful but technologically inconsequential. No meaningful moment captured."
+  },
+  {
+    "index": 306,
+    "file": "images/tbd_306_Steve_Wozniak__co_founder_of_Apple.png",
+    "alt": "Steve Wozniak",
+    "significance_score": 3,
+    "reasoning": "B&W photo of young Woz playing guitar with a woman. Wozniak is a foundational figure in personal computing, but this is a personal lifestyle photo that captures nothing of his engineering brilliance. No Apple, no circuits, no technology."
+  },
+  {
+    "index": 307,
+    "file": "images/tbd_307_Sergey_Brin_and_Larry_Page__founders_of_Google.jpg",
+    "alt": "Brin & Page",
+    "significance_score": 1,
+    "reasoning": "Image displays a 'Media not displayed — removed in response to a report from the copyright holder' notice. A broken/taken-down image has zero gallery value. Should be removed entirely."
+  },
+  {
+    "index": 308,
+    "file": "images/tbd_308_Sam_Altman__co_founder_of_OpenAI_and_former_president_of_Y_C.jpg",
+    "alt": "Sam Altman",
+    "significance_score": 2,
+    "reasoning": "Paparazzi-style candid of Sam Altman walking at Sun Valley conference with sunglasses and badge. Second Altman image in this batch with even less substance than the first. Generic conference walk photo."
+  },
+  {
+    "index": 309,
+    "file": "images/tbd_309_Masayuki_Uemura__engineer_and_lead_architect_of_the_Nintendo.png",
+    "alt": "Masayuki Uemura",
+    "significance_score": 7,
+    "reasoning": "Archival B&W photo of Masayuki Uemura at his workstation with early Nintendo hardware — CRT monitor, keyboard, development equipment. Lead architect of the NES and SNES, consoles that defined modern gaming for billions. Rare archival image showing the creator at work."
+  },
+  {
+    "index": 310,
+    "file": "images/tbd_310_John_McAfee__founder_of_McAfee_Antivirus___yearbook_photo_ci.png",
+    "alt": "John McAfee",
+    "significance_score": 3,
+    "reasoning": "Young John McAfee's yearbook photo. An interesting historical contrast with his later wild persona, but it's just a generic yearbook headshot. McAfee Antivirus was significant; this image is not."
+  },
+  {
+    "index": 311,
+    "file": "images/tbd_311_Emery_Wells__founder_of.jpg",
+    "alt": "Emery Wells",
+    "significance_score": 4,
+    "reasoning": "Emery Wells in a tuxedo on arctic rocks with a helicopter and icebergs. Visually striking and cinematic, but Wells (Frame.io founder) is a relatively minor tech figure. The image is pure lifestyle flex rather than a tech moment."
+  },
+  {
+    "index": 312,
+    "file": "images/tbd_312_Robert_Moog__inventor_of_the_Moog_Synthesizer__the_first_wid.jpg",
+    "alt": "Robert Moog",
+    "significance_score": 8,
+    "reasoning": "Iconic B&W portrait of Robert Moog surrounded by his modular synthesizer — patch cables, panels, and keyboard. The Moog Synthesizer was the first widely used electronic musical instrument and fundamentally transformed music production. This is THE definitive image of the man with his invention."
+  },
+  {
+    "index": 313,
+    "file": "images/tbd_313_Jeff_Bezos__founder_of_Amazon_and_Blue_Origin.jpg",
+    "alt": "Jeff Bezos",
+    "significance_score": 2,
+    "reasoning": "Bezos stepping out of a car in a cowboy hat and shearling jacket in the snow, surrounded by security. A celebrity paparazzi shot with zero technological content. Bezos is one of the most consequential tech founders alive; this image shows none of that."
+  },
+  {
+    "index": 314,
+    "file": "images/tbd_314_Cyan_Banister__engineer_turned_legendary_angel_investor___in.jpg",
+    "alt": "Cyan Banister",
+    "significance_score": 3,
+    "reasoning": "Cyan Banister in a green satin dress between turntables/DJ gear, shot from above. A stylized portrait of a notable angel investor (early SpaceX, Uber), but the image captures nothing of her investing acumen or engineering background. Second Banister image in nearby indices."
+  },
+  {
+    "index": 315,
+    "file": "images/tbd_315_Sergey_Brin__co_founder_of_Google.jpg",
+    "alt": "Sergey Brin",
+    "significance_score": 3,
+    "reasoning": "Sergey Brin doing acro-yoga at a tech conference, standing on someone's feet with arms outstretched. Fun and unexpected for a Google co-founder, but pure personality entertainment with no technological significance."
+  },
+  {
+    "index": 316,
+    "file": "images/tbd_316_Sam_Bankman_Fried__founder_of_FTX__on_a_flight_to_the_USA_fr.jpg",
+    "alt": "SBF extradition flight",
+    "significance_score": 6,
+    "reasoning": "Sam Bankman-Fried on his flight to the US for extradition after FTX's collapse, wearing a beanie in economy class next to a suited man. A candid that captures a pivotal moment in crypto history — the dramatic fall of a $32B empire. The contrast between his slovenly appearance and the gravity of the moment is compelling."
+  },
+  {
+    "index": 317,
+    "file": "images/tbd_317_Hal_Finney__cryptographer_and_recipient_of_the_first_Bitcoin.jpg",
+    "alt": "Hal Finney",
+    "significance_score": 6,
+    "reasoning": "Warm vintage portrait of young Hal Finney with a woman. He received the first-ever Bitcoin transaction from Satoshi Nakamoto and was a key early PGP developer. A significant figure in cryptography and cryptocurrency history, though this is a personal photo rather than a tech moment."
+  },
+  {
+    "index": 318,
+    "file": "images/tbd_318_Stephen_Watt__7_foot_tall_convicted_hacker_and_former_Morgan.jpg",
+    "alt": "Stephen Watt",
+    "significance_score": 2,
+    "reasoning": "Yet another Stephen Watt photo — in a red tank top with a small animal on his shoulder. Third appearance of this subject in the gallery. Diminishing returns on a figure of limited tech significance."
+  },
+  {
+    "index": 319,
+    "file": "images/tbd_319_Elon_Musk_welcoming_Rahul_Ligma_and_Daniel_Johnson__former_T.png",
+    "alt": "Musk & Ligma",
+    "significance_score": 5,
+    "reasoning": "Elon Musk posing with Rahul Ligma and Daniel Johnson in front of the Twitter bird logo at HQ during the acquisition chaos. A viral cultural moment — the pranksters pretended to be fired employees carrying boxes. Captures the absurdist energy of the Twitter takeover, though it's more meme than milestone."
+  },
+  {
+    "index": 320,
+    "file": "images/tbd_320_Palmer_Luckey__founder_of_Oculus___co_founder_of_Anduril__an.jpg",
+    "alt": "Palmer Luckey cosplay",
+    "significance_score": 4,
+    "reasoning": "Palmer Luckey in full Metal Gear Solid cosplay at a convention. A billionaire defense-tech CEO in revealing tactical cosplay is genuinely unexpected and captures his gamer-nerd authenticity. Fun but not technologically meaningful."
+  },
+  {
+    "index": 321,
+    "file": "images/tbd_321_William_Gibson__prophetic_scifi_author_of_Neuromancer___The.jpg",
+    "alt": "William Gibson",
+    "significance_score": 4,
+    "reasoning": "Young William Gibson in a 1970s B&W photo with a woman, flared pants and knit cardigan. Gibson coined 'cyberspace' and wrote Neuromancer, arguably the most influential sci-fi novel for tech culture. But this casual personal photo reveals nothing of that vision — it's just a young couple in the '70s."
+  }
+]
